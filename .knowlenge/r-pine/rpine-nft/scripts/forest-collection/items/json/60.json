@@ -1,0 +1,67 @@
+{
+    "name": "Forest Creature #61",
+    "description": "Each NFT from the 'RPine World of Future' collection is your key to the RPine DEX aggregator ecosystem, offering maximum cashback, referral rewards, and exclusive services. Owning this NFT unlocks unique opportunities within the innovative world of RPine.",
+    "image": "https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/img/60.png",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Purple with glowing floral elements"
+        },
+        {
+            "trait_type": "Skin tone",
+            "value": "Pale blue with bioluminescent tattoos"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Futuristic tech suit with visible wiring"
+        },
+        {
+            "trait_type": "Headpiece",
+            "value": "Floral crown made of glowing vines"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bright blue, glowing softly"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Natural ambient light with glowing flora"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Calm and serene"
+        },
+        {
+            "trait_type": "Neck Implant",
+            "value": "Cybernetic connectors"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Soft, vibrant futuristic jungle"
+        },
+        {
+            "trait_type": "Pet",
+            "value": "None"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "Small tech gadgets on the back"
+        },
+        {
+            "trait_type": "Jewelry",
+            "value": "None"
+        },
+        {
+            "trait_type": "Material",
+            "value": "Smooth metallic textures with natural elements"
+        },
+        {
+            "trait_type": "Tech Integration",
+            "value": "Light and energy flowing through the body"
+        }
+    ]
+}

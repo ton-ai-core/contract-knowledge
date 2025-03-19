@@ -1,0 +1,75 @@
+{
+    "name": "Forest Creature #285",
+    "description": "Each NFT from the 'RPine World of Future' collection is your key to the RPine DEX aggregator ecosystem, offering maximum cashback, referral rewards, and exclusive services. Owning this NFT unlocks unique opportunities within the innovative world of RPine.",
+    "image": "https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/img/284.png",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "Plant cover",
+            "value": "Flowers, vines, feathers"
+        },
+        {
+            "trait_type": "Hair color",
+            "value": "Green, with flower embellishments"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Soft, glowing sunlight through trees"
+        },
+        {
+            "trait_type": "Hairstyle/Cut",
+            "value": "Nature-inspired, with vines and flowers"
+        },
+        {
+            "trait_type": "Implants/Accessories",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Glowing blue"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Lush forest with vibrant flowers"
+        },
+        {
+            "trait_type": "Facial expression",
+            "value": "Serene, confident"
+        },
+        {
+            "trait_type": "Jewelry",
+            "value": "None"
+        },
+        {
+            "trait_type": "Add-ons",
+            "value": "None"
+        },
+        {
+            "trait_type": "Pet",
+            "value": "None"
+        },
+        {
+            "trait_type": "Facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "Skin texture/Tone",
+            "value": "Smooth, glowing with natural patterns"
+        },
+        {
+            "trait_type": "Ear design",
+            "value": "Elven, with intricate designs"
+        },
+        {
+            "trait_type": "Eye shape",
+            "value": "Large, almond-shaped"
+        },
+        {
+            "trait_type": "Environmental elements",
+            "value": "Glowing flowers, vibrant forest atmosphere"
+        }
+    ]
+}

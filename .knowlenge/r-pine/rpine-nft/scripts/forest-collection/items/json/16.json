@@ -1,0 +1,79 @@
+{
+    "name": "Forest Creature #17",
+    "description": "Each NFT from the 'RPine World of Future' collection is your key to the RPine DEX aggregator ecosystem, offering maximum cashback, referral rewards, and exclusive services. Owning this NFT unlocks unique opportunities within the innovative world of RPine.",
+    "image": "https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/img/16.png",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "Plant cover",
+            "value": "Moderate"
+        },
+        {
+            "trait_type": "Hair color",
+            "value": "Silver"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Soft, glowing with aquatic highlights"
+        },
+        {
+            "trait_type": "Hairstyle/Cut",
+            "value": "Long, straight with decorative elements"
+        },
+        {
+            "trait_type": "Implants/Accessories",
+            "value": "Cybernetic implants, glowing accents, head jewelry"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Green, glowing"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Underwater with tropical fish and plants"
+        },
+        {
+            "trait_type": "Facial expression",
+            "value": "Serene"
+        },
+        {
+            "trait_type": "Jewelry",
+            "value": "Headpiece, neckpiece"
+        },
+        {
+            "trait_type": "Add-ons",
+            "value": "Glowing body accents, bubbles"
+        },
+        {
+            "trait_type": "Pet",
+            "value": "None"
+        },
+        {
+            "trait_type": "Facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Soft, aquatic glow with sparkling effects"
+        },
+        {
+            "trait_type": "Skin texture/Tone",
+            "value": "Smooth, ethereal"
+        },
+        {
+            "trait_type": "Ear design",
+            "value": "Elfin"
+        },
+        {
+            "trait_type": "Eye shape",
+            "value": "Almond, intense"
+        },
+        {
+            "trait_type": "Environmental elements",
+            "value": "Underwater flora, bubbles, and tropical fish"
+        }
+    ]
+}

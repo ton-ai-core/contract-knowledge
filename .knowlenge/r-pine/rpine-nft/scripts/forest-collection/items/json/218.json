@@ -1,0 +1,79 @@
+{
+    "name": "Forest Creature #219",
+    "description": "Each NFT from the 'RPine World of Future' collection is your key to the RPine DEX aggregator ecosystem, offering maximum cashback, referral rewards, and exclusive services. Owning this NFT unlocks unique opportunities within the innovative world of RPine.",
+    "image": "https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/img/218.png",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "Plant cover",
+            "value": "No visible plant cover"
+        },
+        {
+            "trait_type": "Hair color",
+            "value": "Dark brown with curls"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Soft, natural lighting with glowing accents"
+        },
+        {
+            "trait_type": "Hairstyle/Cut",
+            "value": "Short, curly hairstyle"
+        },
+        {
+            "trait_type": "Implants/Accessories",
+            "value": "Cybernetic ear implants with glowing green and orange accents"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bright green with a glowing effect"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Futuristic cityscape with trees and skyscrapers"
+        },
+        {
+            "trait_type": "Facial expression",
+            "value": "Neutral, focused"
+        },
+        {
+            "trait_type": "Jewelry",
+            "value": "None"
+        },
+        {
+            "trait_type": "Add-ons",
+            "value": "Glowing cybernetic elements integrated into the body"
+        },
+        {
+            "trait_type": "Pet",
+            "value": "None"
+        },
+        {
+            "trait_type": "Facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Bright, with a futuristic glow and soft shadows"
+        },
+        {
+            "trait_type": "Skin texture/Tone",
+            "value": "Smooth skin with a subtle natural glow"
+        },
+        {
+            "trait_type": "Ear design",
+            "value": "Cybernetic, with glowing elements"
+        },
+        {
+            "trait_type": "Eye shape",
+            "value": "Large, almond-shaped with glowing pupils"
+        },
+        {
+            "trait_type": "Environmental elements",
+            "value": "Futuristic city with integrated greenery and glowing technology"
+        }
+    ]
+}

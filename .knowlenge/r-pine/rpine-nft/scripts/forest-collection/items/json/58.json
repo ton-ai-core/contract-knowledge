@@ -1,0 +1,79 @@
+{
+    "name": "Forest Creature #59",
+    "description": "Each NFT from the 'RPine World of Future' collection is your key to the RPine DEX aggregator ecosystem, offering maximum cashback, referral rewards, and exclusive services. Owning this NFT unlocks unique opportunities within the innovative world of RPine.",
+    "image": "https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/img/58.png",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "Plant cover",
+            "value": "Glowing vines and small flowers"
+        },
+        {
+            "trait_type": "Hair color",
+            "value": "Silver with hints of blue"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Soft, glowing lights from the plants"
+        },
+        {
+            "trait_type": "Hairstyle/Cut",
+            "value": "Curled and messy, with integrated plant life"
+        },
+        {
+            "trait_type": "Implants/Accessories",
+            "value": "Glowing dots and glowing wires"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bright blue with a glowing effect"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Lush forest with soft bokeh lighting"
+        },
+        {
+            "trait_type": "Facial expression",
+            "value": "Calm, serene"
+        },
+        {
+            "trait_type": "Jewelry",
+            "value": "None"
+        },
+        {
+            "trait_type": "Add-ons",
+            "value": "Glowing blue leaves and flowers on the body"
+        },
+        {
+            "trait_type": "Pet",
+            "value": "None"
+        },
+        {
+            "trait_type": "Facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Soft, natural glow"
+        },
+        {
+            "trait_type": "Skin texture/Tone",
+            "value": "Smooth with glowing vines and a bluish tone"
+        },
+        {
+            "trait_type": "Ear design",
+            "value": "Pointed elfin ears with vines"
+        },
+        {
+            "trait_type": "Eye shape",
+            "value": "Large, almond-shaped with glowing pupils"
+        },
+        {
+            "trait_type": "Environmental elements",
+            "value": "Lush foliage and flowers"
+        }
+    ]
+}

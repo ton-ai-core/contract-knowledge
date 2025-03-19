@@ -1,0 +1,79 @@
+{
+    "name": "Forest Creature #228",
+    "description": "Each NFT from the 'RPine World of Future' collection is your key to the RPine DEX aggregator ecosystem, offering maximum cashback, referral rewards, and exclusive services. Owning this NFT unlocks unique opportunities within the innovative world of RPine.",
+    "image": "https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/img/227.png",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Male"
+        },
+        {
+            "trait_type": "Plant cover",
+            "value": "None"
+        },
+        {
+            "trait_type": "Hair color",
+            "value": "None"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Soft, natural with bright highlights"
+        },
+        {
+            "trait_type": "Hairstyle/Cut",
+            "value": "None"
+        },
+        {
+            "trait_type": "Implants/Accessories",
+            "value": "Geometric facial patterns and earring"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Yellow-green"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Snowy mountain landscape"
+        },
+        {
+            "trait_type": "Facial expression",
+            "value": "Calm, serene"
+        },
+        {
+            "trait_type": "Jewelry",
+            "value": "Long beaded earring"
+        },
+        {
+            "trait_type": "Add-ons",
+            "value": "Facial patterns, geometric designs"
+        },
+        {
+            "trait_type": "Pet",
+            "value": "None"
+        },
+        {
+            "trait_type": "Facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Bright, natural"
+        },
+        {
+            "trait_type": "Skin texture/Tone",
+            "value": "Smooth, turquoise with patterns"
+        },
+        {
+            "trait_type": "Ear design",
+            "value": "Pointed"
+        },
+        {
+            "trait_type": "Eye shape",
+            "value": "Almond-shaped"
+        },
+        {
+            "trait_type": "Environmental elements",
+            "value": "Snow-capped mountains, misty atmosphere"
+        }
+    ]
+}

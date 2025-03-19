@@ -1,0 +1,51 @@
+{
+    "name": "Forest Creature #80",
+    "description": "Each NFT from the 'RPine World of Future' collection is your key to the RPine DEX aggregator ecosystem, offering maximum cashback, referral rewards, and exclusive services. Owning this NFT unlocks unique opportunities within the innovative world of RPine.",
+    "image": "https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/img/79.png",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Braided with metallic accents"
+        },
+        {
+            "trait_type": "Skin tone",
+            "value": "Pale with glowing accents"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "High-tech warrior armor with sleek mask"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Glowing purple"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Stoic and fierce"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "Intricate metal and tech adornments"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Moonlit desert with distant cacti"
+        },
+        {
+            "trait_type": "Technology",
+            "value": "Bioluminescent light and intricate machinery"
+        },
+        {
+            "trait_type": "Material",
+            "value": "Metal, fabric, and glowing tech elements"
+        },
+        {
+            "trait_type": "Environment",
+            "value": "Desert landscape under the moon"
+        }
+    ]
+}

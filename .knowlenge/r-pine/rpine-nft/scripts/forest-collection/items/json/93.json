@@ -1,0 +1,47 @@
+{
+    "name": "Forest Creature #94",
+    "description": "Each NFT from the 'RPine World of Future' collection is your key to the RPine DEX aggregator ecosystem, offering maximum cashback, referral rewards, and exclusive services. Owning this NFT unlocks unique opportunities within the innovative world of RPine.",
+    "image": "https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/img/93.png",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Neutral"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Crowned with autumn leaves"
+        },
+        {
+            "trait_type": "Skin tone",
+            "value": "Cracked, bark-like texture"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Glowing purple, electric circuitry"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Serene, almost otherworldly"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Moss and vine-like cables"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Autumn forest with soft glowing light"
+        },
+        {
+            "trait_type": "Technology",
+            "value": "Glowing circuits and electric aura"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "Leaf crown"
+        },
+        {
+            "trait_type": "Environment",
+            "value": "Futuristic fusion of nature and digital elements"
+        }
+    ]
+}

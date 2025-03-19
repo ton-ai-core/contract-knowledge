@@ -1,0 +1,79 @@
+{
+    "name": "Forest Creature #168",
+    "description": "Each NFT from the 'RPine World of Future' collection is your key to the RPine DEX aggregator ecosystem, offering maximum cashback, referral rewards, and exclusive services. Owning this NFT unlocks unique opportunities within the innovative world of RPine.",
+    "image": "https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/img/167.png",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "Plant cover",
+            "value": "Yes (Autumn leaves and vines in hair)"
+        },
+        {
+            "trait_type": "Hair color",
+            "value": "White, with subtle hints of pale pink"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Warm, golden-hour sunlight with soft glow effects"
+        },
+        {
+            "trait_type": "Hairstyle/Cut",
+            "value": "Long, flowing with delicate braids and leaves woven in"
+        },
+        {
+            "trait_type": "Implants/Accessories",
+            "value": "Small glowing elements in the face and hair"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pale green, glowing"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Autumn forest with tall, dry grass and warm light"
+        },
+        {
+            "trait_type": "Facial expression",
+            "value": "Gentle, slightly wistful"
+        },
+        {
+            "trait_type": "Jewelry",
+            "value": "Subtle metallic accents and chain around neck"
+        },
+        {
+            "trait_type": "Add-ons",
+            "value": "Vines and leaves draped around the shoulders and neck"
+        },
+        {
+            "trait_type": "Pet",
+            "value": "None"
+        },
+        {
+            "trait_type": "Facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Soft golden light accentuating the features"
+        },
+        {
+            "trait_type": "Skin texture/Tone",
+            "value": "Fair, with freckles on the cheeks"
+        },
+        {
+            "trait_type": "Ear design",
+            "value": "Pointed, elven ears"
+        },
+        {
+            "trait_type": "Eye shape",
+            "value": "Large, almond-shaped with a soft glow"
+        },
+        {
+            "trait_type": "Environmental elements",
+            "value": "Autumn leaves, dry grass, and warm sunlight"
+        }
+    ]
+}

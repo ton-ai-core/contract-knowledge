@@ -1,0 +1,75 @@
+{
+    "name": "Forest Creature #296",
+    "description": "Each NFT from the 'RPine World of Future' collection is your key to the RPine DEX aggregator ecosystem, offering maximum cashback, referral rewards, and exclusive services. Owning this NFT unlocks unique opportunities within the innovative world of RPine.",
+    "image": "https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/img/295.png",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "Plant cover",
+            "value": "Vines and small leaves"
+        },
+        {
+            "trait_type": "Hair color",
+            "value": "None, shaved head with cybernetic design"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Soft natural light with a warm tone"
+        },
+        {
+            "trait_type": "Hairstyle/Cut",
+            "value": "Shaved head with intricate cybernetic pattern"
+        },
+        {
+            "trait_type": "Implants/Accessories",
+            "value": "Cybernetic head design with metallic threads"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Futuristic, serene cityscape with temples"
+        },
+        {
+            "trait_type": "Facial expression",
+            "value": "Serene, calm"
+        },
+        {
+            "trait_type": "Jewelry",
+            "value": "None"
+        },
+        {
+            "trait_type": "Add-ons",
+            "value": "None"
+        },
+        {
+            "trait_type": "Pet",
+            "value": "None"
+        },
+        {
+            "trait_type": "Facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "Skin texture/Tone",
+            "value": "Smooth, with natural and metallic elements"
+        },
+        {
+            "trait_type": "Ear design",
+            "value": "Elven, pointed"
+        },
+        {
+            "trait_type": "Eye shape",
+            "value": "Almond-shaped"
+        },
+        {
+            "trait_type": "Environmental elements",
+            "value": "Cityscape with trees, temples, and soft light"
+        }
+    ]
+}

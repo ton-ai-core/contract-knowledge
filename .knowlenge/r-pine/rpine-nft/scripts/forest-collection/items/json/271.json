@@ -1,0 +1,75 @@
+{
+    "name": "Forest Creature #272",
+    "description": "Each NFT from the 'RPine World of Future' collection is your key to the RPine DEX aggregator ecosystem, offering maximum cashback, referral rewards, and exclusive services. Owning this NFT unlocks unique opportunities within the innovative world of RPine.",
+    "image": "https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/img/271.png",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "Plant cover",
+            "value": "Vines, flowers, glowing elements"
+        },
+        {
+            "trait_type": "Hair color",
+            "value": "Purple with glowing accents"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Soft, ethereal glow"
+        },
+        {
+            "trait_type": "Hairstyle/Cut",
+            "value": "Braided, with glowing flowers"
+        },
+        {
+            "trait_type": "Implants/Accessories",
+            "value": "Ear accessories, nose ring"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Glowing purple"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Mystical forest with soft ambient light"
+        },
+        {
+            "trait_type": "Facial expression",
+            "value": "Calm, contemplative"
+        },
+        {
+            "trait_type": "Jewelry",
+            "value": "Nose ring, earrings"
+        },
+        {
+            "trait_type": "Add-ons",
+            "value": "None"
+        },
+        {
+            "trait_type": "Pet",
+            "value": "None"
+        },
+        {
+            "trait_type": "Facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "Skin texture/Tone",
+            "value": "Smooth, stone-like with glowing patterns"
+        },
+        {
+            "trait_type": "Ear design",
+            "value": "Elven, with decorative jewelry"
+        },
+        {
+            "trait_type": "Eye shape",
+            "value": "Large, expressive with glowing pupils"
+        },
+        {
+            "trait_type": "Environmental elements",
+            "value": "Glowing plants, ethereal forest atmosphere"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "name": "Forest Creature #165",
+    "description": "Each NFT from the 'RPine World of Future' collection is your key to the RPine DEX aggregator ecosystem, offering maximum cashback, referral rewards, and exclusive services. Owning this NFT unlocks unique opportunities within the innovative world of RPine.",
+    "image": "https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/img/164.png",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "Plant cover",
+            "value": "Yes (Moss and vines integrated into the outfit)"
+        },
+        {
+            "trait_type": "Hair color",
+            "value": "Brown with highlights"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Bright and glowing, with accentuating light on the face"
+        },
+        {
+            "trait_type": "Hairstyle/Cut",
+            "value": "Short, with a futuristic, metallic finish"
+        },
+        {
+            "trait_type": "Implants/Accessories",
+            "value": "Glowing implants and small robotic elements"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Glowing, bright blue"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Lush forest with warm, soft lighting"
+        },
+        {
+            "trait_type": "Facial expression",
+            "value": "Serene, slightly intense"
+        },
+        {
+            "trait_type": "Jewelry",
+            "value": "None"
+        },
+        {
+            "trait_type": "Add-ons",
+            "value": "Metallic armor plating with integrated foliage"
+        },
+        {
+            "trait_type": "Pet",
+            "value": "None"
+        },
+        {
+            "trait_type": "Facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "High contrast, glowing highlights"
+        },
+        {
+            "trait_type": "Skin texture/Tone",
+            "value": "Smooth, tan skin with metallic patterns"
+        },
+        {
+            "trait_type": "Ear design",
+            "value": "Standard, no specific design"
+        },
+        {
+            "trait_type": "Eye shape",
+            "value": "Large, almond-shaped with a glowing effect"
+        },
+        {
+            "trait_type": "Environmental elements",
+            "value": "Forest setting with ambient light and natural textures"
+        }
+    ]
+}

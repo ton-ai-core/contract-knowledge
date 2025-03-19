@@ -1,0 +1,75 @@
+{
+    "name": "Forest Creature #286",
+    "description": "Each NFT from the 'RPine World of Future' collection is your key to the RPine DEX aggregator ecosystem, offering maximum cashback, referral rewards, and exclusive services. Owning this NFT unlocks unique opportunities within the innovative world of RPine.",
+    "image": "https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/img/285.png",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "Plant cover",
+            "value": "Leaves, moss, and glowing elements"
+        },
+        {
+            "trait_type": "Hair color",
+            "value": "Brown with glowing accents"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Soft futuristic light"
+        },
+        {
+            "trait_type": "Hairstyle/Cut",
+            "value": "Short with leafy crown"
+        },
+        {
+            "trait_type": "Implants/Accessories",
+            "value": "Cybernetic ear implants and headset"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bright blue"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Futuristic urban setting with nature elements"
+        },
+        {
+            "trait_type": "Facial expression",
+            "value": "Neutral, focused"
+        },
+        {
+            "trait_type": "Jewelry",
+            "value": "None"
+        },
+        {
+            "trait_type": "Add-ons",
+            "value": "None"
+        },
+        {
+            "trait_type": "Pet",
+            "value": "None"
+        },
+        {
+            "trait_type": "Facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "Skin texture/Tone",
+            "value": "Smooth with glowing, pixelated patterns"
+        },
+        {
+            "trait_type": "Ear design",
+            "value": "Cybernetic"
+        },
+        {
+            "trait_type": "Eye shape",
+            "value": "Large, round"
+        },
+        {
+            "trait_type": "Environmental elements",
+            "value": "Glowing plants, futuristic city"
+        }
+    ]
+}

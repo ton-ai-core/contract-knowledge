@@ -1,0 +1,51 @@
+{
+    "name": "Forest Creature #87",
+    "description": "Each NFT from the 'RPine World of Future' collection is your key to the RPine DEX aggregator ecosystem, offering maximum cashback, referral rewards, and exclusive services. Owning this NFT unlocks unique opportunities within the innovative world of RPine.",
+    "image": "https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/img/86.png",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Long, braided with glowing accents"
+        },
+        {
+            "trait_type": "Skin tone",
+            "value": "Pale green with a shimmering, digital overlay"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Futuristic armor adorned with natural elements"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Vivid green with ethereal, glowing details"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Serene and contemplative"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "Glowing digital jewelry with intricate designs"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Lush, green, mossy forest with a digital touch"
+        },
+        {
+            "trait_type": "Technology",
+            "value": "Integrated bioluminescence and digital patterns"
+        },
+        {
+            "trait_type": "Material",
+            "value": "Combination of organic moss, leaves, and metallic components"
+        },
+        {
+            "trait_type": "Environment",
+            "value": "A harmonious blend of nature and technology"
+        }
+    ]
+}

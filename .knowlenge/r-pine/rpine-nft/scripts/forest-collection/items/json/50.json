@@ -1,0 +1,79 @@
+{
+    "name": "Forest Creature #51",
+    "description": "Each NFT from the 'RPine World of Future' collection is your key to the RPine DEX aggregator ecosystem, offering maximum cashback, referral rewards, and exclusive services. Owning this NFT unlocks unique opportunities within the innovative world of RPine.",
+    "image": "https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/img/50.png",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Non-binary"
+        },
+        {
+            "trait_type": "Plant cover",
+            "value": "Extensive"
+        },
+        {
+            "trait_type": "Hair color",
+            "value": "Green with glowing accents"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Soft, natural with a mystical glow"
+        },
+        {
+            "trait_type": "Hairstyle/Cut",
+            "value": "Organic, made of vines and leaves"
+        },
+        {
+            "trait_type": "Implants/Accessories",
+            "value": "Glowing veins and circuit-like patterns"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Purple, glowing"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Lush forest with mystical lighting"
+        },
+        {
+            "trait_type": "Facial expression",
+            "value": "Stoic and contemplative"
+        },
+        {
+            "trait_type": "Jewelry",
+            "value": "None"
+        },
+        {
+            "trait_type": "Add-ons",
+            "value": "Glowing moss and plant-based textures"
+        },
+        {
+            "trait_type": "Pet",
+            "value": "None"
+        },
+        {
+            "trait_type": "Facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Soft with glowing highlights"
+        },
+        {
+            "trait_type": "Skin texture/Tone",
+            "value": "Wood-like texture with glowing plant veins"
+        },
+        {
+            "trait_type": "Ear design",
+            "value": "None, plant-based ears"
+        },
+        {
+            "trait_type": "Eye shape",
+            "value": "Large, round with glowing pupils"
+        },
+        {
+            "trait_type": "Environmental elements",
+            "value": "Vines, leaves, glowing particles"
+        }
+    ]
+}

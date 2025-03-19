@@ -1,0 +1,79 @@
+{
+    "name": "Forest Creature #209",
+    "description": "Each NFT from the 'RPine World of Future' collection is your key to the RPine DEX aggregator ecosystem, offering maximum cashback, referral rewards, and exclusive services. Owning this NFT unlocks unique opportunities within the innovative world of RPine.",
+    "image": "https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/img/208.png",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "Plant cover",
+            "value": "Yes (Small plant integration around the neck and head)"
+        },
+        {
+            "trait_type": "Hair color",
+            "value": "Light brown"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Soft ambient lighting with glowing plant accents"
+        },
+        {
+            "trait_type": "Hairstyle/Cut",
+            "value": "Short, with natural plant elements woven in"
+        },
+        {
+            "trait_type": "Implants/Accessories",
+            "value": "Cybernetic implants with glowing green accents"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Grayish with soft glowing highlights"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Autumn forest with vibrant foliage and soft light"
+        },
+        {
+            "trait_type": "Facial expression",
+            "value": "Calm, serene"
+        },
+        {
+            "trait_type": "Jewelry",
+            "value": "None"
+        },
+        {
+            "trait_type": "Add-ons",
+            "value": "Glowing plant life and moss accents integrated into the body"
+        },
+        {
+            "trait_type": "Pet",
+            "value": "None"
+        },
+        {
+            "trait_type": "Facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Soft sunlight filtering through the trees, with glowing accents"
+        },
+        {
+            "trait_type": "Skin texture/Tone",
+            "value": "Light skin with subtle moss-like patterns"
+        },
+        {
+            "trait_type": "Ear design",
+            "value": "Pointed, elven-style ears"
+        },
+        {
+            "trait_type": "Eye shape",
+            "value": "Large, almond-shaped eyes"
+        },
+        {
+            "trait_type": "Environmental elements",
+            "value": "Autumn forest with soft diffused light and glowing plant accents"
+        }
+    ]
+}

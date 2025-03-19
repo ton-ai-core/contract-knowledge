@@ -1,0 +1,67 @@
+{
+    "name": "Forest Creature #63",
+    "description": "Each NFT from the 'RPine World of Future' collection is your key to the RPine DEX aggregator ecosystem, offering maximum cashback, referral rewards, and exclusive services. Owning this NFT unlocks unique opportunities within the innovative world of RPine.",
+    "image": "https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/img/62.png",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Silver with braided style and floral accents"
+        },
+        {
+            "trait_type": "Skin tone",
+            "value": "Fair with glowing freckles"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Nature-themed armor with moss and vine elements"
+        },
+        {
+            "trait_type": "Headpiece",
+            "value": "Floral crown with glowing plants"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bright green with glowing elements"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Soft golden glow emanating from plants"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Serene, with a calm demeanor"
+        },
+        {
+            "trait_type": "Neck Implant",
+            "value": "Cybernetic implant with glowing circuitry"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Lush, green forest with soft bokeh light"
+        },
+        {
+            "trait_type": "Pet",
+            "value": "None"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "Glow-infused tech bracelet"
+        },
+        {
+            "trait_type": "Jewelry",
+            "value": "Minimal, nature-inspired"
+        },
+        {
+            "trait_type": "Material",
+            "value": "Metallic and organic fusion"
+        },
+        {
+            "trait_type": "Tech Integration",
+            "value": "Integrated glowing vines and bio-circuitry"
+        }
+    ]
+}

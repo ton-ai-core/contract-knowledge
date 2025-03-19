@@ -1,0 +1,79 @@
+{
+    "name": "Forest Creature #53",
+    "description": "Each NFT from the 'RPine World of Future' collection is your key to the RPine DEX aggregator ecosystem, offering maximum cashback, referral rewards, and exclusive services. Owning this NFT unlocks unique opportunities within the innovative world of RPine.",
+    "image": "https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/img/52.png",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Male"
+        },
+        {
+            "trait_type": "Plant cover",
+            "value": "Heavy"
+        },
+        {
+            "trait_type": "Hair color",
+            "value": "Green with circuit accents"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Bright, glowing highlights"
+        },
+        {
+            "trait_type": "Hairstyle/Cut",
+            "value": "Bald with plant growth and implants"
+        },
+        {
+            "trait_type": "Implants/Accessories",
+            "value": "Cybernetic implants with glowing features"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Glowing light green"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Futuristic jungle with vibrant plants"
+        },
+        {
+            "trait_type": "Facial expression",
+            "value": "Calm and confident"
+        },
+        {
+            "trait_type": "Jewelry",
+            "value": "None"
+        },
+        {
+            "trait_type": "Add-ons",
+            "value": "Glowing vines and plant integration"
+        },
+        {
+            "trait_type": "Pet",
+            "value": "None"
+        },
+        {
+            "trait_type": "Facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Bright with glowing accents"
+        },
+        {
+            "trait_type": "Skin texture/Tone",
+            "value": "Metallic, with organic textures"
+        },
+        {
+            "trait_type": "Ear design",
+            "value": "Elfin with tech enhancements"
+        },
+        {
+            "trait_type": "Eye shape",
+            "value": "Almond-shaped, glowing"
+        },
+        {
+            "trait_type": "Environmental elements",
+            "value": "Glowing plants, vibrant greenery"
+        }
+    ]
+}

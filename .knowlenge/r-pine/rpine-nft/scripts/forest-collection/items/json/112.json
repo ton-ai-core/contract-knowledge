@@ -1,0 +1,79 @@
+{
+    "name": "Forest Creature #113",
+    "description": "Each NFT from the 'RPine World of Future' collection is your key to the RPine DEX aggregator ecosystem, offering maximum cashback, referral rewards, and exclusive services. Owning this NFT unlocks unique opportunities within the innovative world of RPine.",
+    "image": "https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/img/112.png",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "Plant cover",
+            "value": "Purple flowers, moss"
+        },
+        {
+            "trait_type": "Hair color",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Soft, ambient glow"
+        },
+        {
+            "trait_type": "Hairstyle/Cut",
+            "value": "Loose, braided"
+        },
+        {
+            "trait_type": "Implants/Accessories",
+            "value": "Necklaces, glowing wires"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Glowing blue"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Magical forest with glowing plants"
+        },
+        {
+            "trait_type": "Facial expression",
+            "value": "Serene"
+        },
+        {
+            "trait_type": "Jewelry",
+            "value": "Floral crown, multiple necklaces"
+        },
+        {
+            "trait_type": "Add-ons",
+            "value": "Glowing vines"
+        },
+        {
+            "trait_type": "Pet",
+            "value": "None"
+        },
+        {
+            "trait_type": "Facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Soft, with magical accents"
+        },
+        {
+            "trait_type": "Skin texture/Tone",
+            "value": "Smooth, light skin with glowing accents"
+        },
+        {
+            "trait_type": "Ear design",
+            "value": "Elven"
+        },
+        {
+            "trait_type": "Eye shape",
+            "value": "Wide and mystical"
+        },
+        {
+            "trait_type": "Environmental elements",
+            "value": "Glowing plants, mist"
+        }
+    ]
+}

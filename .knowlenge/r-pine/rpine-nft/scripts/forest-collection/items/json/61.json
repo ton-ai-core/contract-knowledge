@@ -1,0 +1,67 @@
+{
+    "name": "Forest Creature #62",
+    "description": "Each NFT from the 'RPine World of Future' collection is your key to the RPine DEX aggregator ecosystem, offering maximum cashback, referral rewards, and exclusive services. Owning this NFT unlocks unique opportunities within the innovative world of RPine.",
+    "image": "https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/img/61.png",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Purple, wavy with floral accents"
+        },
+        {
+            "trait_type": "Skin tone",
+            "value": "Fair with glowing, bioluminescent freckles"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Nature-infused armor with metallic and organic elements"
+        },
+        {
+            "trait_type": "Headpiece",
+            "value": "Flower crown with glowing elements"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bright blue with glowing patterns"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Soft, magical light with floral glow"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Calm and serene"
+        },
+        {
+            "trait_type": "Neck Implant",
+            "value": "Cybernetic neck implant"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Lush, glowing forest with magical ambiance"
+        },
+        {
+            "trait_type": "Pet",
+            "value": "None"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "Necklaces and metal trinkets"
+        },
+        {
+            "trait_type": "Jewelry",
+            "value": "None"
+        },
+        {
+            "trait_type": "Material",
+            "value": "Shiny metallic and organic material fusion"
+        },
+        {
+            "trait_type": "Tech Integration",
+            "value": "Integrated glowing vines and light technology"
+        }
+    ]
+}

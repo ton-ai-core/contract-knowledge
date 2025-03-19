@@ -1,0 +1,79 @@
+{
+    "name": "Forest Creature #44",
+    "description": "Each NFT from the 'RPine World of Future' collection is your key to the RPine DEX aggregator ecosystem, offering maximum cashback, referral rewards, and exclusive services. Owning this NFT unlocks unique opportunities within the innovative world of RPine.",
+    "image": "https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/img/43.png",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "Plant cover",
+            "value": "Light"
+        },
+        {
+            "trait_type": "Hair color",
+            "value": "Light gray"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Soft, natural with diffuse light"
+        },
+        {
+            "trait_type": "Hairstyle/Cut",
+            "value": "Short, sleek"
+        },
+        {
+            "trait_type": "Implants/Accessories",
+            "value": "Cybernetic helmet with green accents"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Large, light brown"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Mountainous forest with houses in the distance"
+        },
+        {
+            "trait_type": "Facial expression",
+            "value": "Calm and serene"
+        },
+        {
+            "trait_type": "Jewelry",
+            "value": "None"
+        },
+        {
+            "trait_type": "Add-ons",
+            "value": "Cybernetic armor with glowing circuits"
+        },
+        {
+            "trait_type": "Pet",
+            "value": "None"
+        },
+        {
+            "trait_type": "Facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Soft with natural highlights"
+        },
+        {
+            "trait_type": "Skin texture/Tone",
+            "value": "Smooth, pale with subtle freckles"
+        },
+        {
+            "trait_type": "Ear design",
+            "value": "Elfin"
+        },
+        {
+            "trait_type": "Eye shape",
+            "value": "Almond-shaped"
+        },
+        {
+            "trait_type": "Environmental elements",
+            "value": "Forest, trees, distant houses"
+        }
+    ]
+}

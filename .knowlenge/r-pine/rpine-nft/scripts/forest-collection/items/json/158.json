@@ -1,0 +1,79 @@
+{
+    "name": "Forest Creature #159",
+    "description": "Each NFT from the 'RPine World of Future' collection is your key to the RPine DEX aggregator ecosystem, offering maximum cashback, referral rewards, and exclusive services. Owning this NFT unlocks unique opportunities within the innovative world of RPine.",
+    "image": "https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/img/158.png",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "Plant cover",
+            "value": "Glowing purple flowers and vines growing on the body"
+        },
+        {
+            "trait_type": "Hair color",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Dim, glowing bioluminescence from plants"
+        },
+        {
+            "trait_type": "Hairstyle/Cut",
+            "value": "Short, spiky purple hair with glowing floral elements"
+        },
+        {
+            "trait_type": "Implants/Accessories",
+            "value": "Cybernetic wires and plant-based organic circuitry"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bright, luminous"
+        },
+        {
+            "trait_type": "Background",
+            "value": "A lush, ethereal forest with glowing plants"
+        },
+        {
+            "trait_type": "Facial expression",
+            "value": "Calm and serene"
+        },
+        {
+            "trait_type": "Jewelry",
+            "value": "None"
+        },
+        {
+            "trait_type": "Add-ons",
+            "value": "Glowing vines and small organic tech elements embedded in the skin"
+        },
+        {
+            "trait_type": "Pet",
+            "value": "None"
+        },
+        {
+            "trait_type": "Facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Soft, glowing light with a mystical vibe"
+        },
+        {
+            "trait_type": "Skin texture/Tone",
+            "value": "Smooth with faint blue and purple hues, glowing accents"
+        },
+        {
+            "trait_type": "Ear design",
+            "value": "Pointed ears with small tech attachments"
+        },
+        {
+            "trait_type": "Eye shape",
+            "value": "Large, round eyes with a soft glow"
+        },
+        {
+            "trait_type": "Environmental elements",
+            "value": "Bioluminescent flora and mystical forest ambiance"
+        }
+    ]
+}

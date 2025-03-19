@@ -1,0 +1,79 @@
+{
+    "name": "Forest Creature #148",
+    "description": "Each NFT from the 'RPine World of Future' collection is your key to the RPine DEX aggregator ecosystem, offering maximum cashback, referral rewards, and exclusive services. Owning this NFT unlocks unique opportunities within the innovative world of RPine.",
+    "image": "https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/img/147.png",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "Plant cover",
+            "value": "Small plants and glowing moss on head and shoulders"
+        },
+        {
+            "trait_type": "Hair color",
+            "value": "Dark brown with some highlights"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Soft ambient light with glowing highlights"
+        },
+        {
+            "trait_type": "Hairstyle/Cut",
+            "value": "Short, natural with light curls"
+        },
+        {
+            "trait_type": "Implants/Accessories",
+            "value": "Necklace with glowing technological elements"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Large, natural with a soft glow"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Lush, vibrant forest with soft rays of light"
+        },
+        {
+            "trait_type": "Facial expression",
+            "value": "Calm, gentle"
+        },
+        {
+            "trait_type": "Jewelry",
+            "value": "Glowing necklace with bio-tech design"
+        },
+        {
+            "trait_type": "Add-ons",
+            "value": "Tech elements integrated into clothing and skin"
+        },
+        {
+            "trait_type": "Pet",
+            "value": "None"
+        },
+        {
+            "trait_type": "Facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Soft natural lighting with glowing accents"
+        },
+        {
+            "trait_type": "Skin texture/Tone",
+            "value": "Smooth with a healthy glow and a natural look"
+        },
+        {
+            "trait_type": "Ear design",
+            "value": "Small, pointed ears typical of fantasy characters"
+        },
+        {
+            "trait_type": "Eye shape",
+            "value": "Large, round eyes"
+        },
+        {
+            "trait_type": "Environmental elements",
+            "value": "Forest plants and glowing light elements"
+        }
+    ]
+}

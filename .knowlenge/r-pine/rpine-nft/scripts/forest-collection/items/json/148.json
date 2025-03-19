@@ -1,0 +1,79 @@
+{
+    "name": "Forest Creature #149",
+    "description": "Each NFT from the 'RPine World of Future' collection is your key to the RPine DEX aggregator ecosystem, offering maximum cashback, referral rewards, and exclusive services. Owning this NFT unlocks unique opportunities within the innovative world of RPine.",
+    "image": "https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/img/148.png",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Male"
+        },
+        {
+            "trait_type": "Plant cover",
+            "value": "Glow moss on shoulders and face, subtle natural vines"
+        },
+        {
+            "trait_type": "Hair color",
+            "value": "Dark with a slightly metallic sheen"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Natural, soft backlighting with dramatic highlights"
+        },
+        {
+            "trait_type": "Hairstyle/Cut",
+            "value": "Short, slightly spiked"
+        },
+        {
+            "trait_type": "Implants/Accessories",
+            "value": "Intricate colored mesh-like body implants"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Golden, intense, with a slightly glowing effect"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Rocky, high-altitude landscape with a misty ambiance"
+        },
+        {
+            "trait_type": "Facial expression",
+            "value": "Serene, contemplative"
+        },
+        {
+            "trait_type": "Jewelry",
+            "value": "None"
+        },
+        {
+            "trait_type": "Add-ons",
+            "value": "Geometric mesh body covering"
+        },
+        {
+            "trait_type": "Pet",
+            "value": "None"
+        },
+        {
+            "trait_type": "Facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Soft backlighting"
+        },
+        {
+            "trait_type": "Skin texture/Tone",
+            "value": "Smooth with textured, glowing accents"
+        },
+        {
+            "trait_type": "Ear design",
+            "value": "Pointed ears typical of fantasy creatures"
+        },
+        {
+            "trait_type": "Eye shape",
+            "value": "Almond-shaped, slightly narrowed"
+        },
+        {
+            "trait_type": "Environmental elements",
+            "value": "Dramatic mountain terrain with glowing plant life"
+        }
+    ]
+}

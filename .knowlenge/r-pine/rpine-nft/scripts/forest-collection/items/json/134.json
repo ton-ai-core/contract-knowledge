@@ -1,0 +1,79 @@
+{
+    "name": "Forest Creature #135",
+    "description": "Each NFT from the 'RPine World of Future' collection is your key to the RPine DEX aggregator ecosystem, offering maximum cashback, referral rewards, and exclusive services. Owning this NFT unlocks unique opportunities within the innovative world of RPine.",
+    "image": "https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/img/134.png",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "Plant cover",
+            "value": "None"
+        },
+        {
+            "trait_type": "Hair color",
+            "value": "Brown with highlights"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Bright, sunlit with a warm glow"
+        },
+        {
+            "trait_type": "Hairstyle/Cut",
+            "value": "Loose hair with subtle braids"
+        },
+        {
+            "trait_type": "Implants/Accessories",
+            "value": "Futuristic, illuminated accessories"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Large, expressive, dark eyes"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Bright forest with natural sunlight"
+        },
+        {
+            "trait_type": "Facial expression",
+            "value": "Smiling, happy"
+        },
+        {
+            "trait_type": "Jewelry",
+            "value": "None"
+        },
+        {
+            "trait_type": "Add-ons",
+            "value": "Glowing futuristic neck and body suit"
+        },
+        {
+            "trait_type": "Pet",
+            "value": "None"
+        },
+        {
+            "trait_type": "Facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Bright, natural light with subtle reflections"
+        },
+        {
+            "trait_type": "Skin texture/Tone",
+            "value": "Smooth with freckles"
+        },
+        {
+            "trait_type": "Ear design",
+            "value": "Pointed ears"
+        },
+        {
+            "trait_type": "Eye shape",
+            "value": "Large, rounded"
+        },
+        {
+            "trait_type": "Environmental elements",
+            "value": "Sunlight filtered through trees"
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "name": "Forest Creature #74",
+    "description": "Each NFT from the 'RPine World of Future' collection is your key to the RPine DEX aggregator ecosystem, offering maximum cashback, referral rewards, and exclusive services. Owning this NFT unlocks unique opportunities within the innovative world of RPine.",
+    "image": "https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/urban-collection/items/img/73.png",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Black with sleek styling"
+        },
+        {
+            "trait_type": "Skin tone",
+            "value": "Fair"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Modern white attire"
+        },
+        {
+            "trait_type": "Neck Implant",
+            "value": "Glowing, high-tech collar"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Sharp, focused"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Confident and determined"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "Minimalistic earrings"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Futuristic city skyline with forest"
+        },
+        {
+            "trait_type": "Technology",
+            "value": "Glowing neon cybernetic enhancements"
+        },
+        {
+            "trait_type": "Material",
+            "value": "Sleek, advanced technology"
+        },
+        {
+            "trait_type": "Environment",
+            "value": "Futuristic urban mixed with nature"
+        }
+    ]
+}

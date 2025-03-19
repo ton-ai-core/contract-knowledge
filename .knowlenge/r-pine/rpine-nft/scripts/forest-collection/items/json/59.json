@@ -1,0 +1,67 @@
+{
+    "name": "Forest Creature #60",
+    "description": "Each NFT from the 'RPine World of Future' collection is your key to the RPine DEX aggregator ecosystem, offering maximum cashback, referral rewards, and exclusive services. Owning this NFT unlocks unique opportunities within the innovative world of RPine.",
+    "image": "https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/img/59.png",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Short, futuristic with metallic highlights"
+        },
+        {
+            "trait_type": "Skin tone",
+            "value": "Light with metallic details"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Yellow tech suit with purple accents"
+        },
+        {
+            "trait_type": "Headpiece",
+            "value": "Cybernetic implants with glowing lights"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Large, expressive green eyes"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Soft ambient lighting with glowing accents"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Calm, serene"
+        },
+        {
+            "trait_type": "Neck Implant",
+            "value": "Glowing cybernetic connectors"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Soft, blurred natural forest setting"
+        },
+        {
+            "trait_type": "Pet",
+            "value": "None"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "Electronic gadgetry on the back of the head"
+        },
+        {
+            "trait_type": "Jewelry",
+            "value": "None"
+        },
+        {
+            "trait_type": "Material",
+            "value": "Mix of organic and metallic textures"
+        },
+        {
+            "trait_type": "Tech Integration",
+            "value": "Light and energy trails running through the body"
+        }
+    ]
+}

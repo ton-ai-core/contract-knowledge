@@ -1,0 +1,79 @@
+{
+    "name": "Forest Creature #13",
+    "description": "Each NFT from the 'RPine World of Future' collection is your key to the RPine DEX aggregator ecosystem, offering maximum cashback, referral rewards, and exclusive services. Owning this NFT unlocks unique opportunities within the innovative world of RPine.",
+    "image": "https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/img/12.png",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "Plant cover",
+            "value": "Light"
+        },
+        {
+            "trait_type": "Hair color",
+            "value": "Pink with green highlights"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Soft, with glowing elements"
+        },
+        {
+            "trait_type": "Hairstyle/Cut",
+            "value": "Short, wavy"
+        },
+        {
+            "trait_type": "Implants/Accessories",
+            "value": "Cybernetic implants, glowing lights, headset"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Green, glowing"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Forest with glowing lights"
+        },
+        {
+            "trait_type": "Facial expression",
+            "value": "Content"
+        },
+        {
+            "trait_type": "Jewelry",
+            "value": "None"
+        },
+        {
+            "trait_type": "Add-ons",
+            "value": "Glow elements, cybernetic attachments"
+        },
+        {
+            "trait_type": "Pet",
+            "value": "None"
+        },
+        {
+            "trait_type": "Facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Soft, ethereal glow with highlights"
+        },
+        {
+            "trait_type": "Skin texture/Tone",
+            "value": "Smooth with glowing accents"
+        },
+        {
+            "trait_type": "Ear design",
+            "value": "Elfin"
+        },
+        {
+            "trait_type": "Eye shape",
+            "value": "Almond, mystical"
+        },
+        {
+            "trait_type": "Environmental elements",
+            "value": "Leaves, glowing accents"
+        }
+    ]
+}

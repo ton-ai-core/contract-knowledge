@@ -1,0 +1,67 @@
+{
+    "name": "Forest Creature #65",
+    "description": "Each NFT from the 'RPine World of Future' collection is your key to the RPine DEX aggregator ecosystem, offering maximum cashback, referral rewards, and exclusive services. Owning this NFT unlocks unique opportunities within the innovative world of RPine.",
+    "image": "https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/img/64.png",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Natural with floral crown"
+        },
+        {
+            "trait_type": "Skin tone",
+            "value": "Glowing with floral patterns"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Floral-patterned nature armor with leaves and flowers"
+        },
+        {
+            "trait_type": "Headpiece",
+            "value": "Floral crown with moss and leaves"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bright green glowing with energy"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Soft forest light with ethereal glow"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Serene and peaceful"
+        },
+        {
+            "trait_type": "Neck Implant",
+            "value": "Bio-circuitry glowing softly"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Lush green forest with vibrant flora"
+        },
+        {
+            "trait_type": "Pet",
+            "value": "None"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "None"
+        },
+        {
+            "trait_type": "Jewelry",
+            "value": "Minimal, organic style"
+        },
+        {
+            "trait_type": "Material",
+            "value": "Natural armor with high-tech elements"
+        },
+        {
+            "trait_type": "Tech Integration",
+            "value": "Floral and bio-integrated energy systems"
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "name": "Forest Creature #268",
+    "description": "Each NFT from the 'RPine World of Future' collection is your key to the RPine DEX aggregator ecosystem, offering maximum cashback, referral rewards, and exclusive services. Owning this NFT unlocks unique opportunities within the innovative world of RPine.",
+    "image": "https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/img/267.png",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "Plant cover",
+            "value": "Small plants on the head"
+        },
+        {
+            "trait_type": "Hair color",
+            "value": "Dark brown"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Natural, soft"
+        },
+        {
+            "trait_type": "Hairstyle/Cut",
+            "value": "Short, natural with cybernetic elements"
+        },
+        {
+            "trait_type": "Implants/Accessories",
+            "value": "Cybernetic headset with glowing accents"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Futuristic forest with natural elements"
+        },
+        {
+            "trait_type": "Facial expression",
+            "value": "Serene, focused"
+        },
+        {
+            "trait_type": "Jewelry",
+            "value": "None"
+        },
+        {
+            "trait_type": "Add-ons",
+            "value": "Glowing body circuits"
+        },
+        {
+            "trait_type": "Pet",
+            "value": "None"
+        },
+        {
+            "trait_type": "Facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "Skin texture/Tone",
+            "value": "Smooth, slightly freckled"
+        },
+        {
+            "trait_type": "Ear design",
+            "value": "Normal"
+        },
+        {
+            "trait_type": "Eye shape",
+            "value": "Large, almond-shaped"
+        },
+        {
+            "trait_type": "Environmental elements",
+            "value": "Futuristic nature with a blend of technology"
+        }
+    ]
+}

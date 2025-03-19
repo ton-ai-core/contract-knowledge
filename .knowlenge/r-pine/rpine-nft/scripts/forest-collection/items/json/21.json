@@ -1,0 +1,79 @@
+{
+    "name": "Forest Creature #22",
+    "description": "Each NFT from the 'RPine World of Future' collection is your key to the RPine DEX aggregator ecosystem, offering maximum cashback, referral rewards, and exclusive services. Owning this NFT unlocks unique opportunities within the innovative world of RPine.",
+    "image": "https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/img/21.png",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Male"
+        },
+        {
+            "trait_type": "Plant cover",
+            "value": "Light"
+        },
+        {
+            "trait_type": "Hair color",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Bright, with soft highlights"
+        },
+        {
+            "trait_type": "Hairstyle/Cut",
+            "value": "Natural, unstyled"
+        },
+        {
+            "trait_type": "Implants/Accessories",
+            "value": "Cybernetic armor, backpack"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Dark, focused"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Forest with flowers and sunlight"
+        },
+        {
+            "trait_type": "Facial expression",
+            "value": "Curious"
+        },
+        {
+            "trait_type": "Jewelry",
+            "value": "None"
+        },
+        {
+            "trait_type": "Add-ons",
+            "value": "Glow elements on armor"
+        },
+        {
+            "trait_type": "Pet",
+            "value": "None"
+        },
+        {
+            "trait_type": "Facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Natural sunlight"
+        },
+        {
+            "trait_type": "Skin texture/Tone",
+            "value": "Furry, natural"
+        },
+        {
+            "trait_type": "Ear design",
+            "value": "Mouse-like"
+        },
+        {
+            "trait_type": "Eye shape",
+            "value": "Round, focused"
+        },
+        {
+            "trait_type": "Environmental elements",
+            "value": "Flowers, grass, natural light"
+        }
+    ]
+}

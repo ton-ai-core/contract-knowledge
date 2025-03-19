@@ -1,0 +1,79 @@
+{
+    "name": "Forest Creature #154",
+    "description": "Each NFT from the 'RPine World of Future' collection is your key to the RPine DEX aggregator ecosystem, offering maximum cashback, referral rewards, and exclusive services. Owning this NFT unlocks unique opportunities within the innovative world of RPine.",
+    "image": "https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/img/153.png",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "Plant cover",
+            "value": "Subtle nature-inspired details on the neck and shoulder"
+        },
+        {
+            "trait_type": "Hair color",
+            "value": "Dark brown"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Soft lighting with futuristic reflections"
+        },
+        {
+            "trait_type": "Hairstyle/Cut",
+            "value": "Short, sleek bob"
+        },
+        {
+            "trait_type": "Implants/Accessories",
+            "value": "Glowing, high-tech collar with neon accents"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Natural eyes with a soft gaze"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Futuristic cityscape with lush greenery"
+        },
+        {
+            "trait_type": "Facial expression",
+            "value": "Calm, serene"
+        },
+        {
+            "trait_type": "Jewelry",
+            "value": "None"
+        },
+        {
+            "trait_type": "Add-ons",
+            "value": "None"
+        },
+        {
+            "trait_type": "Pet",
+            "value": "None"
+        },
+        {
+            "trait_type": "Facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Soft ambient light with futuristic highlights"
+        },
+        {
+            "trait_type": "Skin texture/Tone",
+            "value": "Smooth, light skin with a hint of natural glow"
+        },
+        {
+            "trait_type": "Ear design",
+            "value": "Standard human ears"
+        },
+        {
+            "trait_type": "Eye shape",
+            "value": "Almond-shaped, soft gaze"
+        },
+        {
+            "trait_type": "Environmental elements",
+            "value": "Futuristic, lush forest city backdrop"
+        }
+    ]
+}

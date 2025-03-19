@@ -1,0 +1,67 @@
+{
+    "name": "Forest Creature #67",
+    "description": "Each NFT from the 'RPine World of Future' collection is your key to the RPine DEX aggregator ecosystem, offering maximum cashback, referral rewards, and exclusive services. Owning this NFT unlocks unique opportunities within the innovative world of RPine.",
+    "image": "https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/img/66.png",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Male"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Silver with glowing plant tendrils"
+        },
+        {
+            "trait_type": "Skin tone",
+            "value": "Gray with glowing green and blue bioluminescent accents"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Nature-inspired, with vine and leaf patterns and glowing tech elements"
+        },
+        {
+            "trait_type": "Headpiece",
+            "value": "Lush greenery woven into the hair"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Green with a glowing, otherworldly aura"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Soft glowing forest light, with cybernetic highlights"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Serene and thoughtful"
+        },
+        {
+            "trait_type": "Neck Implant",
+            "value": "Integrated cybernetic elements with plant-inspired designs"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Lush, vibrant forest with soft glowing light"
+        },
+        {
+            "trait_type": "Pet",
+            "value": "None"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "Minimalistic with a focus on nature-tech fusion"
+        },
+        {
+            "trait_type": "Jewelry",
+            "value": "Subtle, nature-inspired accents"
+        },
+        {
+            "trait_type": "Material",
+            "value": "Combination of organic textures and advanced technology"
+        },
+        {
+            "trait_type": "Tech Integration",
+            "value": "Cybernetic circuits and bioluminescence intertwined with natural elements"
+        }
+    ]
+}

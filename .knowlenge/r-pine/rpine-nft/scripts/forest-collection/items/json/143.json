@@ -1,0 +1,79 @@
+{
+    "name": "Forest Creature #144",
+    "description": "Each NFT from the 'RPine World of Future' collection is your key to the RPine DEX aggregator ecosystem, offering maximum cashback, referral rewards, and exclusive services. Owning this NFT unlocks unique opportunities within the innovative world of RPine.",
+    "image": "https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/img/143.png",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Male"
+        },
+        {
+            "trait_type": "Plant cover",
+            "value": "Moss and ferns covering the head"
+        },
+        {
+            "trait_type": "Hair color",
+            "value": "Orange with moss-like accents"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Bright and vibrant, warm sunlight"
+        },
+        {
+            "trait_type": "Hairstyle/Cut",
+            "value": "Spiky, resembling natural moss growth"
+        },
+        {
+            "trait_type": "Implants/Accessories",
+            "value": "Glowing neural implants on the face"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bright yellow, glowing"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Dense forest with green foliage"
+        },
+        {
+            "trait_type": "Facial expression",
+            "value": "Serious, focused"
+        },
+        {
+            "trait_type": "Jewelry",
+            "value": "None"
+        },
+        {
+            "trait_type": "Add-ons",
+            "value": "Technological implants integrated with nature"
+        },
+        {
+            "trait_type": "Pet",
+            "value": "None"
+        },
+        {
+            "trait_type": "Facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Soft, glowing light"
+        },
+        {
+            "trait_type": "Skin texture/Tone",
+            "value": "Freckled, textured with moss"
+        },
+        {
+            "trait_type": "Ear design",
+            "value": "Standard human ears"
+        },
+        {
+            "trait_type": "Eye shape",
+            "value": "Large and round, glowing"
+        },
+        {
+            "trait_type": "Environmental elements",
+            "value": "Leaves, moss, branches, and glowing light"
+        }
+    ]
+}

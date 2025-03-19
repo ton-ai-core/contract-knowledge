@@ -1,0 +1,79 @@
+{
+    "name": "Forest Creature #218",
+    "description": "Each NFT from the 'RPine World of Future' collection is your key to the RPine DEX aggregator ecosystem, offering maximum cashback, referral rewards, and exclusive services. Owning this NFT unlocks unique opportunities within the innovative world of RPine.",
+    "image": "https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/img/217.png",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Male"
+        },
+        {
+            "trait_type": "Plant cover",
+            "value": "No visible plant cover"
+        },
+        {
+            "trait_type": "Hair color",
+            "value": "Black with natural curls"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Dramatic lighting with a soft glow around the head and background"
+        },
+        {
+            "trait_type": "Hairstyle/Cut",
+            "value": "Curly, short hairstyle with a glowing crown"
+        },
+        {
+            "trait_type": "Implants/Accessories",
+            "value": "Glowing cybernetic crown and necklace"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bright blue with glowing pupils"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Desert landscape with cactus plants and a distant moon"
+        },
+        {
+            "trait_type": "Facial expression",
+            "value": "Serene, calm"
+        },
+        {
+            "trait_type": "Jewelry",
+            "value": "Glowing, intricate necklace"
+        },
+        {
+            "trait_type": "Add-ons",
+            "value": "Cybernetic enhancements with glowing features"
+        },
+        {
+            "trait_type": "Pet",
+            "value": "None"
+        },
+        {
+            "trait_type": "Facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Soft, ambient glow highlighting the figure"
+        },
+        {
+            "trait_type": "Skin texture/Tone",
+            "value": "Smooth skin with a slight glow"
+        },
+        {
+            "trait_type": "Ear design",
+            "value": "No visible ears, sleek cybernetic headgear"
+        },
+        {
+            "trait_type": "Eye shape",
+            "value": "Large, almond-shaped with glowing accents"
+        },
+        {
+            "trait_type": "Environmental elements",
+            "value": "Desert environment with cactus and soft lighting"
+        }
+    ]
+}

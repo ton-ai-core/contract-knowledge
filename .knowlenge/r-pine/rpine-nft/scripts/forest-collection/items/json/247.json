@@ -1,0 +1,79 @@
+{
+    "name": "Forest Creature #248",
+    "description": "Each NFT from the 'RPine World of Future' collection is your key to the RPine DEX aggregator ecosystem, offering maximum cashback, referral rewards, and exclusive services. Owning this NFT unlocks unique opportunities within the innovative world of RPine.",
+    "image": "https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/img/247.png",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "Plant cover",
+            "value": "Leaves, moss"
+        },
+        {
+            "trait_type": "Hair color",
+            "value": "Light blonde"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Soft, glowing with highlights"
+        },
+        {
+            "trait_type": "Hairstyle/Cut",
+            "value": "Short, tousled"
+        },
+        {
+            "trait_type": "Implants/Accessories",
+            "value": "Glowing vines and bio-circuitry"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bright blue with glowing accents"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Lush green forest with soft lighting"
+        },
+        {
+            "trait_type": "Facial expression",
+            "value": "Calm, serene"
+        },
+        {
+            "trait_type": "Jewelry",
+            "value": "None"
+        },
+        {
+            "trait_type": "Add-ons",
+            "value": "Glowing patterns on the face and skin"
+        },
+        {
+            "trait_type": "Pet",
+            "value": "None"
+        },
+        {
+            "trait_type": "Facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Soft and ethereal"
+        },
+        {
+            "trait_type": "Skin texture/Tone",
+            "value": "Green with glowing yellow accents"
+        },
+        {
+            "trait_type": "Ear design",
+            "value": "Pointed"
+        },
+        {
+            "trait_type": "Eye shape",
+            "value": "Almond-shaped"
+        },
+        {
+            "trait_type": "Environmental elements",
+            "value": "Forest with glowing light effects"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "name": "Forest Creature #71",
+    "description": "Each NFT from the 'RPine World of Future' collection is your key to the RPine DEX aggregator ecosystem, offering maximum cashback, referral rewards, and exclusive services. Owning this NFT unlocks unique opportunities within the innovative world of RPine.",
+    "image": "https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/img/70.png",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Male"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Curly"
+        },
+        {
+            "trait_type": "Skin tone",
+            "value": "Tan"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Desert-inspired robe with cybernetic elements"
+        },
+        {
+            "trait_type": "Headpiece",
+            "value": "Glowing futuristic headgear"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Glowing blue"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Golden desert sunset"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Serene and determined"
+        },
+        {
+            "trait_type": "Neck Implant",
+            "value": "Cybernetic neck implants with glowing elements"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Desert landscape with cactus and sunset"
+        },
+        {
+            "trait_type": "Pet",
+            "value": "None"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "Cybernetic armor and accessories"
+        },
+        {
+            "trait_type": "Jewelry",
+            "value": "Minimalistic, tech-inspired designs"
+        },
+        {
+            "trait_type": "Material",
+            "value": "Combination of natural and cybernetic components"
+        },
+        {
+            "trait_type": "Tech Integration",
+            "value": "Glowing circuits and high-tech accessories"
+        }
+    ]
+}

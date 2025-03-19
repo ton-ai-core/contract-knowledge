@@ -1,0 +1,79 @@
+{
+    "name": "Forest Creature #143",
+    "description": "Each NFT from the 'RPine World of Future' collection is your key to the RPine DEX aggregator ecosystem, offering maximum cashback, referral rewards, and exclusive services. Owning this NFT unlocks unique opportunities within the innovative world of RPine.",
+    "image": "https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/img/142.png",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "Plant cover",
+            "value": "Vines and flowers on the face and neck"
+        },
+        {
+            "trait_type": "Hair color",
+            "value": "Blonde"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Soft sunlight filtering through trees"
+        },
+        {
+            "trait_type": "Hairstyle/Cut",
+            "value": "Loose and natural"
+        },
+        {
+            "trait_type": "Implants/Accessories",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Green, gentle"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Forest, softly blurred"
+        },
+        {
+            "trait_type": "Facial expression",
+            "value": "Gentle smile"
+        },
+        {
+            "trait_type": "Jewelry",
+            "value": "None"
+        },
+        {
+            "trait_type": "Add-ons",
+            "value": "Plants growing from the skin, glowing accents"
+        },
+        {
+            "trait_type": "Pet",
+            "value": "None"
+        },
+        {
+            "trait_type": "Facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Natural, warm light"
+        },
+        {
+            "trait_type": "Skin texture/Tone",
+            "value": "Smooth with plant-like patterns"
+        },
+        {
+            "trait_type": "Ear design",
+            "value": "Standard human ears"
+        },
+        {
+            "trait_type": "Eye shape",
+            "value": "Large, almond-shaped"
+        },
+        {
+            "trait_type": "Environmental elements",
+            "value": "Dense forest, light filtering through leaves"
+        }
+    ]
+}

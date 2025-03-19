@@ -1,0 +1,136 @@
+#pragma version =0.4.4;
+#include "imports/stdlib.fc";
+#include "imports/constants.fc";
+
+global int storage::price;
+global int storage::ref_back;
+global slice storage::collection_address;
+global slice storage::admin_address;
+
+() load_data() impure inline {
+    slice ds = get_data().begin_parse();
+    storage::price = ds~load_coins();
+    storage::ref_back = ds~load_coins();
+    storage::collection_address = ds~load_msg_addr();
+    storage::admin_address = ds~load_msg_addr();
+    ds.end_parse();
+}
+
+() save_data() impure inline {
+    set_data(
+        begin_cell()
+            .store_coins(storage::price)
+            .store_coins(storage::ref_back)
+            .store_slice(storage::collection_address)
+            .store_slice(storage::admin_address)
+        .end_cell()
+    );
+}
+
+() recv_internal(int my_balance, int msg_value, cell in_msg_full, slice in_msg_body) impure {
+    slice cs = in_msg_full.begin_parse();
+    int flags = cs~load_uint(4);
+    
+    if (flags & 1) {
+        return ();
+    }
+
+    if (in_msg_body.slice_bits() < 96) {
+        return ();
+    }
+
+    slice sender = cs~load_msg_addr();
+
+    load_data();
+
+    (int op, int query_id) = (in_msg_body~load_op(), in_msg_body~load_query_id());
+
+    if (op == op::buy) {
+        throw_unless(error::not_enough_tons, msg_value >= storage::price);
+        var msg = begin_cell()
+                .store_msg_flag(msg_flag::bounceable)
+                .store_slice(storage::collection_address)
+                .store_coins(50000000)
+                .store_msgbody_prefix_ref(
+                    begin_cell()
+                        .store_op(7) ;; deploy nft
+                        .store_query_id(query_id)
+                        .store_slice(sender)
+                    .end_cell()
+                );
+        
+        if (in_msg_body.slice_bits() == 267) {
+            slice ref_address = in_msg_body~load_msg_addr();
+            var ref_msg = begin_cell()
+                .store_msg_flag(msg_flag::bounceable)
+                .store_slice(ref_address)
+                .store_coins(storage::ref_back)
+                .store_prefix_only_body();
+            
+            send_raw_message(ref_msg.end_cell(), PAY_FEES_SEPARATELY);
+        }
+        send_raw_message(msg.end_cell(), PAY_FEES_SEPARATELY);
+        return ();
+    }
+
+    if (op == op::withdraw_tons) {
+        throw_unless(error::unauthorized_withdrawal_request, equal_slices(sender, storage::admin_address));
+        raw_reserve(min_balance, 0);
+        slice dest = in_msg_body~load_msg_addr();
+        in_msg_body.end_parse();
+        var msg = begin_cell()
+                .store_msg_flag(msg_flag::non_bounceable)
+                .store_slice(dest)
+                .store_coins(0)
+                .store_msgbody_prefix_slice()
+                .store_op(op::excesses)
+                .store_query_id(query_id);
+        return send_raw_message(msg.end_cell(), CARRY_REMAINING_BALANCE | IGNORE_ERRORS);
+    }
+
+    if (op == op::withdraw_jettons) {
+        throw_unless(error::unauthorized_withdrawal_request, equal_slices(sender, storage::admin_address));
+        slice child_wallet = in_msg_body~load_msg_addr();
+        int amount = in_msg_body~load_coins();
+        slice dest = in_msg_body~load_msg_addr();
+        cell custom_payload = in_msg_body~load_maybe_ref();
+        in_msg_body.end_parse();
+        var msg = begin_cell()
+                .store_msg_flag(msg_flag::bounceable)
+                .store_slice(child_wallet)
+                .store_coins(0)
+                .store_msgbody_prefix_ref(
+                    begin_cell()
+                        .store_op(op::transfer_jetton)
+                        .store_query_id(query_id)
+                        .store_coins(amount)
+                        .store_slice(dest)
+                        .store_slice(storage::admin_address)
+                        .store_maybe_ref(custom_payload)
+                        .store_coins(0)
+                        .store_int(false, 1)
+                    .end_cell()
+                );
+        return send_raw_message(msg.end_cell(), CARRY_REMAINING_GAS);
+    }
+
+    if (op == op::set_price) {
+        throw_unless(error::unauthorized_amend_request, equal_slices(sender, storage::admin_address));
+        storage::price = in_msg_body~load_coins();
+        save_data();
+        return ();
+    }
+
+    if (op == op::set_ref_back) {
+        throw_unless(error::unauthorized_amend_request, equal_slices(sender, storage::admin_address));
+        storage::ref_back = in_msg_body~load_coins();
+        save_data();
+        return ();
+    }
+    throw(error::unknown_op);
+}
+
+(int, int, slice, slice) get_storage_data() method_id {
+    load_data();
+    return (storage::price, storage::ref_back, storage::collection_address, storage::admin_address);
+}

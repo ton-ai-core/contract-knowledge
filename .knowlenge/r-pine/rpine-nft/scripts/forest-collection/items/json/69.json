@@ -1,0 +1,67 @@
+{
+    "name": "Forest Creature #70",
+    "description": "Each NFT from the 'RPine World of Future' collection is your key to the RPine DEX aggregator ecosystem, offering maximum cashback, referral rewards, and exclusive services. Owning this NFT unlocks unique opportunities within the innovative world of RPine.",
+    "image": "https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/img/69.png",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Moss-covered with glowing elements"
+        },
+        {
+            "trait_type": "Skin tone",
+            "value": "Dark with glowing bioluminescent circuitry"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Futuristic armor with moss and plant growth"
+        },
+        {
+            "trait_type": "Headpiece",
+            "value": "Moss and organic material integrated with tech"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Glowing orange"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Soft, glowing elements against a natural backdrop"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Calm, serene, and connected to nature"
+        },
+        {
+            "trait_type": "Neck Implant",
+            "value": "Cybernetic with glowing bioluminescent designs"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Lush, vibrant greenery with natural light"
+        },
+        {
+            "trait_type": "Pet",
+            "value": "None"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "Minimalistic, blending nature and advanced technology"
+        },
+        {
+            "trait_type": "Jewelry",
+            "value": "Subtle, nature-inspired pieces"
+        },
+        {
+            "trait_type": "Material",
+            "value": "Combination of organic, plant-based elements and high-tech components"
+        },
+        {
+            "trait_type": "Tech Integration",
+            "value": "Bioluminescent circuits and plant life intertwined with cybernetic features"
+        }
+    ]
+}

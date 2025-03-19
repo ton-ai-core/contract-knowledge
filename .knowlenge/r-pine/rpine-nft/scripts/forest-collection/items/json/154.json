@@ -1,0 +1,79 @@
+{
+    "name": "Forest Creature #155",
+    "description": "Each NFT from the 'RPine World of Future' collection is your key to the RPine DEX aggregator ecosystem, offering maximum cashback, referral rewards, and exclusive services. Owning this NFT unlocks unique opportunities within the innovative world of RPine.",
+    "image": "https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/img/154.png",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "Plant cover",
+            "value": "Leaves and small flowers on the head and shoulders"
+        },
+        {
+            "trait_type": "Hair color",
+            "value": "Dark brown"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Soft, warm sunlight from behind, creating a glowing effect"
+        },
+        {
+            "trait_type": "Hairstyle/Cut",
+            "value": "Short, slightly tousled with a natural look"
+        },
+        {
+            "trait_type": "Implants/Accessories",
+            "value": "Neon-like glowing circuits intertwining with nature"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Glowing green"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Lush green forest with bright flowers"
+        },
+        {
+            "trait_type": "Facial expression",
+            "value": "Neutral with a touch of contemplation"
+        },
+        {
+            "trait_type": "Jewelry",
+            "value": "None"
+        },
+        {
+            "trait_type": "Add-ons",
+            "value": "Small plants growing along the body"
+        },
+        {
+            "trait_type": "Pet",
+            "value": "None"
+        },
+        {
+            "trait_type": "Facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Glowing from nature, creating a mystical atmosphere"
+        },
+        {
+            "trait_type": "Skin texture/Tone",
+            "value": "Smooth skin with glowing markings"
+        },
+        {
+            "trait_type": "Ear design",
+            "value": "Pointed elf-like ears"
+        },
+        {
+            "trait_type": "Eye shape",
+            "value": "Almond-shaped with bright glowing centers"
+        },
+        {
+            "trait_type": "Environmental elements",
+            "value": "Lush plants and flowers surrounding the character"
+        }
+    ]
+}

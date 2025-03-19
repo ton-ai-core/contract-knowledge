@@ -1,0 +1,79 @@
+{
+    "name": "Forest Creature #180",
+    "description": "Each NFT from the 'RPine World of Future' collection is your key to the RPine DEX aggregator ecosystem, offering maximum cashback, referral rewards, and exclusive services. Owning this NFT unlocks unique opportunities within the innovative world of RPine.",
+    "image": "https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/img/179.png",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Male"
+        },
+        {
+            "trait_type": "Plant cover",
+            "value": "None"
+        },
+        {
+            "trait_type": "Hair color",
+            "value": "Dark brown, curly"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Soft, dramatic lighting with a glowing halo effect"
+        },
+        {
+            "trait_type": "Hairstyle/Cut",
+            "value": "Curly and tousled"
+        },
+        {
+            "trait_type": "Implants/Accessories",
+            "value": "Futuristic crown with glowing elements, metallic accents"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bright blue with a glowing effect"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Desert with cacti and a cloudy sky"
+        },
+        {
+            "trait_type": "Facial expression",
+            "value": "Determined, serious"
+        },
+        {
+            "trait_type": "Jewelry",
+            "value": "Heavy metallic necklace"
+        },
+        {
+            "trait_type": "Add-ons",
+            "value": "Futuristic armor and metallic accessories"
+        },
+        {
+            "trait_type": "Pet",
+            "value": "None"
+        },
+        {
+            "trait_type": "Facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Strong side lighting with soft glow accents"
+        },
+        {
+            "trait_type": "Skin texture/Tone",
+            "value": "Light skin with some freckles"
+        },
+        {
+            "trait_type": "Ear design",
+            "value": "Standard, no specific design"
+        },
+        {
+            "trait_type": "Eye shape",
+            "value": "Almond-shaped with glowing pupils"
+        },
+        {
+            "trait_type": "Environmental elements",
+            "value": "Desert, cacti, and dramatic sky"
+        }
+    ]
+}

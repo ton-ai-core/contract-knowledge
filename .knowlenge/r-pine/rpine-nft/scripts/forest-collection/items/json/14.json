@@ -1,0 +1,79 @@
+{
+    "name": "Forest Creature #15",
+    "description": "Each NFT from the 'RPine World of Future' collection is your key to the RPine DEX aggregator ecosystem, offering maximum cashback, referral rewards, and exclusive services. Owning this NFT unlocks unique opportunities within the innovative world of RPine.",
+    "image": "https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/img/14.png",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "Plant cover",
+            "value": "Heavy"
+        },
+        {
+            "trait_type": "Hair color",
+            "value": "Blue with green accents"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Soft, natural with glowing highlights"
+        },
+        {
+            "trait_type": "Hairstyle/Cut",
+            "value": "Braided, with leaves and glowing accents"
+        },
+        {
+            "trait_type": "Implants/Accessories",
+            "value": "Cybernetic implants, glowing elements"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Brown, glowing"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Forest with soft sunlight"
+        },
+        {
+            "trait_type": "Facial expression",
+            "value": "Calm, serene"
+        },
+        {
+            "trait_type": "Jewelry",
+            "value": "None"
+        },
+        {
+            "trait_type": "Add-ons",
+            "value": "Leaves, flowers, glowing accents"
+        },
+        {
+            "trait_type": "Pet",
+            "value": "None"
+        },
+        {
+            "trait_type": "Facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Soft, ethereal with glowing elements"
+        },
+        {
+            "trait_type": "Skin texture/Tone",
+            "value": "Smooth with cybernetic features"
+        },
+        {
+            "trait_type": "Ear design",
+            "value": "Elfin"
+        },
+        {
+            "trait_type": "Eye shape",
+            "value": "Almond"
+        },
+        {
+            "trait_type": "Environmental elements",
+            "value": "Leaves, glowing flowers"
+        }
+    ]
+}

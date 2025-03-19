@@ -1,0 +1,21 @@
+tuple digitize_number(int value) 
+    asm "NIL WHILE:<{ OVER }>DO<{ SWAP TEN DIVMOD s1 s2 XCHG TPUSH }> NIP";
+
+builder store_number(builder msg, tuple t)
+    asm "WHILE:<{ DUP TLEN }>DO<{ TPOP 48 ADDCONST ROT 8 STU SWAP }> DROP";
+
+builder store_signed(builder msg, int v) inline_ref {
+    if (v < 0) {
+        return msg.store_uint(45, 8).store_number(digitize_number(- v));
+    } elseif (v == 0) {
+        return msg.store_uint(48, 8);
+    } else {
+        return msg.store_number(digitize_number(v));
+  }
+}
+
+slice number_to_slice(int number) inline {
+    builder msg = begin_cell();
+    cell msg = store_signed(msg, number).end_cell(); 
+    return msg.begin_parse();
+}

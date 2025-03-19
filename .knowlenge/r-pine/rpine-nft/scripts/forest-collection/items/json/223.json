@@ -1,0 +1,79 @@
+{
+    "name": "Forest Creature #224",
+    "description": "Each NFT from the 'RPine World of Future' collection is your key to the RPine DEX aggregator ecosystem, offering maximum cashback, referral rewards, and exclusive services. Owning this NFT unlocks unique opportunities within the innovative world of RPine.",
+    "image": "https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/img/223.png",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "Plant cover",
+            "value": "None"
+        },
+        {
+            "trait_type": "Hair color",
+            "value": "None"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Soft, natural"
+        },
+        {
+            "trait_type": "Hairstyle/Cut",
+            "value": "Bald"
+        },
+        {
+            "trait_type": "Implants/Accessories",
+            "value": "Neck and head implants with glowing green elements"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Large, dark"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Futuristic city with greenery"
+        },
+        {
+            "trait_type": "Facial expression",
+            "value": "Neutral, calm"
+        },
+        {
+            "trait_type": "Jewelry",
+            "value": "None"
+        },
+        {
+            "trait_type": "Add-ons",
+            "value": "None"
+        },
+        {
+            "trait_type": "Pet",
+            "value": "None"
+        },
+        {
+            "trait_type": "Facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Soft, ambient"
+        },
+        {
+            "trait_type": "Skin texture/Tone",
+            "value": "Light, smooth"
+        },
+        {
+            "trait_type": "Ear design",
+            "value": "Pointed"
+        },
+        {
+            "trait_type": "Eye shape",
+            "value": "Large, round"
+        },
+        {
+            "trait_type": "Environmental elements",
+            "value": "Greenery, futuristic structures"
+        }
+    ]
+}

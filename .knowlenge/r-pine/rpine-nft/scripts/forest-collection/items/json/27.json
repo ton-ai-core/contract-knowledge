@@ -1,0 +1,79 @@
+{
+    "name": "Forest Creature #28",
+    "description": "Each NFT from the 'RPine World of Future' collection is your key to the RPine DEX aggregator ecosystem, offering maximum cashback, referral rewards, and exclusive services. Owning this NFT unlocks unique opportunities within the innovative world of RPine.",
+    "image": "https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/img/27.png",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Male"
+        },
+        {
+            "trait_type": "Plant cover",
+            "value": "Heavy"
+        },
+        {
+            "trait_type": "Hair color",
+            "value": "None"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Soft, with glowing accents"
+        },
+        {
+            "trait_type": "Hairstyle/Cut",
+            "value": "None"
+        },
+        {
+            "trait_type": "Implants/Accessories",
+            "value": "Cybernetic armor, glowing patterns, staff"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bright, glowing"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Forest with mist and glowing accents"
+        },
+        {
+            "trait_type": "Facial expression",
+            "value": "Serious"
+        },
+        {
+            "trait_type": "Jewelry",
+            "value": "None"
+        },
+        {
+            "trait_type": "Add-ons",
+            "value": "Glowing elements, plants"
+        },
+        {
+            "trait_type": "Pet",
+            "value": "None"
+        },
+        {
+            "trait_type": "Facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Soft, mystical glow"
+        },
+        {
+            "trait_type": "Skin texture/Tone",
+            "value": "Smooth, with organic elements"
+        },
+        {
+            "trait_type": "Ear design",
+            "value": "Reptilian"
+        },
+        {
+            "trait_type": "Eye shape",
+            "value": "Large, reptilian"
+        },
+        {
+            "trait_type": "Environmental elements",
+            "value": "Mushrooms, glowing plants"
+        }
+    ]
+}

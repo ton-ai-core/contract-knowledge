@@ -1,0 +1,67 @@
+{
+    "name": "Forest Creature #64",
+    "description": "Each NFT from the 'RPine World of Future' collection is your key to the RPine DEX aggregator ecosystem, offering maximum cashback, referral rewards, and exclusive services. Owning this NFT unlocks unique opportunities within the innovative world of RPine.",
+    "image": "https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/img/63.png",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Natural green with flowers and moss"
+        },
+        {
+            "trait_type": "Skin tone",
+            "value": "Olive with glowing freckles"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Nature-infused armor with moss and tech elements"
+        },
+        {
+            "trait_type": "Headpiece",
+            "value": "Flower crown with cybernetic enhancements"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bright green with glowing cybernetic implants"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Soft sunlight filtering through a forest"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Calm and thoughtful"
+        },
+        {
+            "trait_type": "Neck Implant",
+            "value": "Cybernetic with glowing moss"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Lush green forest with gentle sunlight"
+        },
+        {
+            "trait_type": "Pet",
+            "value": "None"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "None"
+        },
+        {
+            "trait_type": "Jewelry",
+            "value": "Minimal, natural style"
+        },
+        {
+            "trait_type": "Material",
+            "value": "Blended organic and metallic fusion"
+        },
+        {
+            "trait_type": "Tech Integration",
+            "value": "Integrated bio-circuitry with moss and flowers"
+        }
+    ]
+}

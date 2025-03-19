@@ -1,0 +1,51 @@
+{
+    "name": "Forest Creature #75",
+    "description": "Each NFT from the 'RPine World of Future' collection is your key to the RPine DEX aggregator ecosystem, offering maximum cashback, referral rewards, and exclusive services. Owning this NFT unlocks unique opportunities within the innovative world of RPine.",
+    "image": "https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/img/74.png",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Male"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "White, short, styled"
+        },
+        {
+            "trait_type": "Skin tone",
+            "value": "Light with glowing accents"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Bare with glowing vine tattoos"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Glowing white"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Serene and introspective"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "Vines and leaves wrapped around body"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Forest with ambient glowing lights"
+        },
+        {
+            "trait_type": "Technology",
+            "value": "Subtle energy flow from glowing tattoos"
+        },
+        {
+            "trait_type": "Material",
+            "value": "Organic and magical"
+        },
+        {
+            "trait_type": "Environment",
+            "value": "Mystical forest with natural light"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "name": "Forest Creature #232",
+    "description": "Each NFT from the 'RPine World of Future' collection is your key to the RPine DEX aggregator ecosystem, offering maximum cashback, referral rewards, and exclusive services. Owning this NFT unlocks unique opportunities within the innovative world of RPine.",
+    "image": "https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/img/231.png",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "Plant cover",
+            "value": "Leaves, vines, moss"
+        },
+        {
+            "trait_type": "Hair color",
+            "value": "Dark brown"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Soft, glowing"
+        },
+        {
+            "trait_type": "Hairstyle/Cut",
+            "value": "Curly, adorned with moss and vines"
+        },
+        {
+            "trait_type": "Implants/Accessories",
+            "value": "Glowing vines and plants"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Glowing yellow"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Forest with soft lighting"
+        },
+        {
+            "trait_type": "Facial expression",
+            "value": "Calm, serene"
+        },
+        {
+            "trait_type": "Jewelry",
+            "value": "None"
+        },
+        {
+            "trait_type": "Add-ons",
+            "value": "Glowing patterns on the skin"
+        },
+        {
+            "trait_type": "Pet",
+            "value": "None"
+        },
+        {
+            "trait_type": "Facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Soft and ambient"
+        },
+        {
+            "trait_type": "Skin texture/Tone",
+            "value": "Green with glowing accents"
+        },
+        {
+            "trait_type": "Ear design",
+            "value": "Pointed"
+        },
+        {
+            "trait_type": "Eye shape",
+            "value": "Large, almond-shaped"
+        },
+        {
+            "trait_type": "Environmental elements",
+            "value": "Forest with glowing foliage"
+        }
+    ]
+}
