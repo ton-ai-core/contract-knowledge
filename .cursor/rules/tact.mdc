@@ -1,0 +1,96 @@
+---
+description: Instructions for creating and structuring new Tact smart contract files (*.tact) for TON blockchain using Blueprint.
+globs: *.tact
+alwaysApply: true
+---
+## ✅ **Tact Smart Contracts for TON Blockchain (with Blueprint)**
+
+**Tact** — a strongly-typed, secure, and blockchain-optimized programming language for creating smart contracts on TON (The Open Network).
+
+**Blueprint** — a toolkit for simplifying contract compilation, testing, and deployment workflows for Tact contracts.
+
+---
+
+## ⚡️ **Development Workflow**
+
+- 📌 **Write contracts** inside the `contract/` directory.\
+  Use allowed keywords and structures:
+
+  ```plaintext
+  fun, let, return, receive, native, primitive, null,
+  if, else, while, repeat, do, until, try, catch,
+  foreach, as, map, message, mutates, extends, external, import,
+  with, trait, initOf, override, abstract, virtual,
+  inline, const, extend, public, true, false
+  ```
+
+- 📌 **Compile contracts and generate wrappers**:
+
+  ```bash
+  npm run build
+  ```
+
+  Wrappers → `build/TactBlueprintTemplate/tact_TactBlueprintTemplate.ts`
+
+- 📌 **Testing** (contract logic, exceptions, opcodes):
+
+  ```bash
+  npm test
+  ```
+
+- 📌 **Scripts and Deployment** (from `scripts/` folder):
+
+  ```bash
+  npm start
+  ```
+
+---
+
+## 🚧 **Built-in Global Functions in Tact**
+
+```plaintext
+context(), send(), nativeSendMessage(), parseStdAddress(), parseVarAddress(), cell(), slice(), rawSlice(), ascii(), crc32(), getConfigParam(), checkSignature(), nativeThrow(), nativeReserve(), emptyCell(), emptySlice(), beginCell(), beginString(), beginComment(), beginTailString()
+```
+
+---
+
+## 📌 **Best Practices for Tact Contracts**
+
+- **Avoid using ********`init()`******** unnecessarily**\
+  *(store data in contract parameters)*
+
+- **Prefer ********`BasechainAddress`******** over \*\*\*\*****`Address`**\
+  *(efficient for temporary addresses)*
+
+- **Avoid ********`Deployable`******** if gas costs are critical**
+
+- **Consider testing functions with the ********`inline`******** annotation**\
+  *(optimizes gas but increases code size)*
+
+- **Always audit and optimize gas-expensive functions**\
+  *(consult Tact documentation)*
+
+- **Use ********`asm`******** functions for critical gas savings**
+
+- **Never process strings on the blockchain**\
+  *(high gas consumption)*
+
+- **Prefer arithmetic over conditionals**, e.g.:
+
+  ```tact
+  let value = 1 + sign(msg.forwardTonAmount);
+  ```
+
+- **Choose binary handlers over text handlers**
+
+- **Move stateless methods outside the contract** *(into standalone modules)*
+
+- Use `sender()` instead of `context().sender`
+
+- Use `throwUnless()` instead of `require()`
+
+- For sending messages:
+
+  - Use `deploy()` → for deploying new contracts
+  - Use `message()` → for regular messages
+  - Avoid `self.forward`, `self.reply`, `self.notify` *(costly in gas)*
