@@ -1,0 +1,87 @@
+---
+description: Instructions for creating and structuring new Tolk smart contracts (.tolk). Includes development workflow, keywords, built-in methods, and best practices for efficient and optimized Tolk contract development on TON blockchain.
+globs: *.tolk, *.tolktxt
+alwaysApply: true
+---
+## ✅ **Tolk Smart Contracts for TON Blockchain (with Blueprint)**
+
+**Tolk** — a secure, high-level, blockchain-optimized programming language designed for creating efficient smart contracts on TON (The Open Network).
+
+**Blueprint** — a toolkit simplifying contract compilation, testing, and deployment workflows for Tolk contracts.
+
+---
+
+## ⚡️ **Development Workflow**
+
+- 📌 **Write contracts** inside the `contracts/` directory.\
+  Use allowed keywords and structures:
+
+```plaintext
+tolk, import, global, const, fun, get, mutate, asm, builtin, var, val, return, repeat, if, else, do, while, break, continue, throw, throwUnless, throwIf, assert, try, catch, true, false, null, void, self, redef
+```
+
+- 📌 **Compile contracts**:
+
+```bash
+npx blueprint build
+```
+
+Compiled output → generated in the `build/` directory.
+
+- 📌 **TypeScript wrappers generation** *(automatically generated contract interaction classes)*:
+
+Wrappers → automatically created in the `wrappers/` directory.
+
+- 📌 **Testing** *(logic, exceptions, opcodes)*:
+
+```bash
+npx blueprint test
+```
+
+- 📌 **Scripts and Deployment** *(located in ****`scripts/`**** folder)*:
+
+```bash
+npx blueprint run
+```
+
+---
+
+## 🚧 **Important Built-in Methods and Functions in Tolk**
+
+```plaintext
+getContractData(), setContractData(), beginCell(), endCell(), beginParse(), assertEndOfSlice(), loadUint(), storeUint(), throw(), throwUnless(), throwIf(), onInternalMessage(), isMessageBounced(), loadMessageFlags(), loadMessageOp(), loadMessageQueryId()
+```
+
+---
+
+## 📌 **Best Practices for Tolk Contracts**
+
+- **Minimize global state variables**\
+  *(store only essential contract data)*
+
+- **Use concise and clearly separated functions**\
+  *(favor small, modular methods and inline helpers)*
+
+- **Always audit and optimize functions involving cell parsing and message handling**\
+  *(consult Tolk documentation for opcode efficiency)*
+
+- **Use ********`asm`******** functions for critical gas savings**
+
+- **Never handle strings directly on-chain**\
+  *(prefer binary data representations)*
+
+- **Favor arithmetic logic over conditionals where possible**\
+  *(to reduce gas consumption)*, e.g.:
+
+```tolk
+val result = 1 + sign(msg.forwardTonAmount);
+```
+
+- \*\*Explicitly handle errors using ****`throw()`****, ****`throwUnless()`****, or \*\***`throwIf()`**
+
+- **Carefully manage parsing with precise ********`beginParse()`******** / ********`assertEndOfSlice()`******** patterns**
+
+- **For message sending and interactions:**
+
+  - Explicitly construct cells using `beginCell()`
+  - Avoid unnecessary message forwarding *(optimize gas usage)*
