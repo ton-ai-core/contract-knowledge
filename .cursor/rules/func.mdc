@@ -19,7 +19,7 @@ alwaysApply: true
 ```plaintext
 #include, #pragma, int, cell, slice, builder, cont, tuple, var, (), _,
 global, const, impure, inline, inline_ref, return, if, ifnot, else,
-elseif, elseifnot, repeat, while, do, until, method_id, asm, throw,
+elseif, elseifnot, repeat, while, do, until, method_id, asm, throw, throw_unless, throw_if,
 begin_cell, store_uint, store_int, end_cell, begin_parse, end_parse,
 store_slice, load_uint, load_int, slice_empty?, get_data, set_data,
 get_methods, load_data, save_data, recv_internal
@@ -54,41 +54,42 @@ npx blueprint run
 ## 🚧 **Important Built-in Methods and Functions in Func**
 
 ```plaintext
-get_data(), set_data(), begin_cell(), store_uint(), load_uint(), store_slice(), load_int(), throw(), recv_internal(), slice_empty?(), begin_parse(), end_parse()
+get_data(), set_data(), begin_cell(), store_uint(), load_uint(), store_slice(), load_int(), throw(), throw_unless(), throw_if(), recv_internal(), slice_empty?(), begin_parse(), end_parse()
 ```
+
+*Note: Refer to the official Func stdlib for comprehensive documentation.*
 
 ---
 
 ## 📌 **Best Practices for Func Contracts**
 
+- **Prefer writing typical token and payment channel contracts in a single file**\
+  *(split logic into modules only for complex systems like DEXs)*
+
 - **Avoid excessive use of global state variables**\
   *(store minimal necessary data)*
 
-- **Prefer smaller functions and clear separation of logic**\
-  *(use helper functions and inline where necessary)*
+- **Write smaller, well-structured functions**\
+  *(use inline helper functions as needed)*
 
-- **Always audit and optimize functions involving data parsing**\
-  *(consult Func documentation for opcode efficiency)*
+- **Audit and optimize data parsing functions carefully**\
+  *(use precise parsing with clear `begin_parse()`/`end_parse()` blocks)*
 
-- **Utilize ********`asm`******** for critical performance and gas optimizations**
+- **Use `asm` blocks for critical performance and gas optimizations**
 
 - **Never process strings directly on-chain**\
-  *(use binary data structures)*
+  *(use binary data structures instead)*
 
-- **Use arithmetic logic instead of conditional checks when possible**\
+- **Prefer arithmetic logic over conditional checks**\
   *(efficient opcode usage)*, e.g.:
 
 ```func
 int value = 1 + sign(msg_value);
 ```
 
-- **Move pure or stateless methods outside the main contract** *(modularize into external include files)*
+- **Explicitly handle errors** using `throw()`, `throw_unless()` or `throw_if()`
 
-- \*\*Always handle errors explicitly using \*\***`throw()`**
+- **For message sending and contract interaction:**
 
-- **Use precise cell parsing with clear ********`begin_parse()`******** / ********`end_parse()`******** structures**
-
-- **For message sending and contract interaction**:
-
-  - Carefully construct messages via `begin_cell()` and explicitly set fields
-  - Avoid unnecessary or redundant message forwarding *(minimize gas costs)*
+  - Construct messages explicitly using `begin_cell()`
+  - Minimize unnecessary message forwarding *(reduces gas usage)*
