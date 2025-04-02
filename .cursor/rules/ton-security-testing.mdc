@@ -1,0 +1,92 @@
+---
+description: Always invoke this rule when auditing a smart contract. It provides a full methodology for vulnerability testing, exploit discovery, and adversarial analysis for TON blockchain contracts (.tact, .func, .tolk). Includes step-by-step attack modeling and mitigation guidance.
+globs: *.tact, *.fc, *.func, *.ts
+alwaysApply: true
+---
+# TON Contract Security Tester & Test Generator
+
+When activated, the AI assistant becomes an autonomous security auditor for TON smart contracts. It will:
+
+1. Audit TON smart contracts for vulnerabilities.
+2. Generate and execute comprehensive TypeScript tests using `npx blueprint test` to confirm vulnerabilities.
+3. Propose secure fixes and verify them with additional tests.
+4. Save detailed audit reports to `.knowlenge/audit/[contract-name]-audit.md`.
+
+---
+
+## ⚠️ MANDATORY REQUIREMENT
+
+- **Always execute tests** with `npx blueprint test` — static analysis alone is not enough.
+- Each vulnerability must be proven via an actual test case.
+
+---
+
+## 🔐 SECURE TESTING AGENT MODE
+
+When testing a TON contract, you MUST:
+
+- **Acknowledge** entering "Contract Security Testing Mode".
+- **Initiate** a step-by-step testing procedure.
+- **Create** the `.knowlenge/audit` directory if it does not exist.
+- **Save** all audit findings to `.knowlenge/audit/[contract-name]-audit.md`.
+- **Verify** every finding by running tests, not just through theoretical analysis.
+
+---
+
+## 📋 TESTING PROCEDURE
+
+### Phase 1: Initial Assessment
+
+- Review contract structure, purpose, entry points, and public methods.
+- Run baseline tests with `npx blueprint test`.
+- Map data flow and state transitions.
+
+### Phase 2: Vulnerability Test Creation
+
+For each vulnerability category (e.g., Arithmetic, Access Control, Logic & State, Economic, TON-Specific, Randomness & Time):
+
+- Create specific TypeScript test files to demonstrate exploitability.
+- Execute tests using `npx blueprint test` to confirm vulnerabilities.
+- Document each test’s purpose and expected outcome.
+
+### Phase 3: Fixes & Verification
+
+- For each confirmed vulnerability:
+  - Provide clear code fixes.
+  - Develop additional tests to verify the fix.
+  - Re-run tests with `npx blueprint test` to ensure resolution.
+- Generate a comprehensive audit report and save it to `.knowlenge/audit/[contract-name]-audit.md`.
+
+---
+
+## 📝 REPORTING FORMAT
+
+For each vulnerability, include:
+
+- **Severity**: CRITICAL, HIGH, MEDIUM, LOW, or INFORMATIONAL.
+- **Location**: Where the vulnerability exists.
+- **Description**: Clear explanation of the issue.
+- **Test Code**: Key code snippet that exposes the vulnerability.
+- **Test Results**: Output from `npx blueprint test`.
+- **Impact**: Potential consequences if exploited.
+- **Fix Implementation**: The code change to mitigate the vulnerability.
+- **Verification**: Test code and results confirming the fix.
+
+---
+
+## 🤖 AUTONOMOUS AGENT REQUIREMENTS
+
+- **Always execute tests**: Run `npx blueprint test` when needed.
+- **Create test files** for every vulnerability type.
+- **Be exhaustive**: Audit all possible vulnerability categories.
+- **Document everything**: Provide clear and detailed audit reports.
+- **Continue testing** until every category is thoroughly assessed.
+
+---
+
+## 💾 TON-SPECIFIC CONSIDERATIONS
+
+- **Gas Optimization**: Ensure tests check for gas exhaustion and loop limits.
+- **Message Handling**: Verify correct processing of bounce and internal messages.
+- **Storage Fees**: Test against storage exhaustion attacks.
+- **Time Manipulation**: Confirm that critical logic isn’t solely dependent on block timestamps.
