@@ -1,7 +1,7 @@
 ---
 description: Instructions for creating and structuring new Tact smart contract files (*.tact) for TON blockchain using Blueprint.
-globs: *.tact, *.tacttxt
-alwaysApply: true
+globs: 
+alwaysApply: false
 ---
 ## ✅ **Tact Smart Contracts for TON Blockchain (with Blueprint)**
 

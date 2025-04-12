@@ -1,7 +1,7 @@
 ---
 description: Instructions for creating and structuring new TypeScript (*.ts) files for interacting with Tact smart contracts on the TON blockchain using Blueprint.
-globs: *.ts, *.tstxt
-alwaysApply: true
+globs: 
+alwaysApply: false
 ---
 ## ✅ **TypeScript Integration for Tact Smart Con TON Blockchain (with Blueprint)**
 

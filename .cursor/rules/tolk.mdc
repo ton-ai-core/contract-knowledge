@@ -1,7 +1,7 @@
 ---
 description: Instructions for creating and structuring new Tolk smart contracts (.tolk). Includes development workflow, keywords, built-in methods, and best practices for efficient and optimized Tolk contract development on TON blockchain.
-globs: *.tolk, *.tolktxt
-alwaysApply: true
+globs: 
+alwaysApply: false
 ---
 ## ✅ **Tolk Smart Contracts for TON Blockchain (with Blueprint)**
 

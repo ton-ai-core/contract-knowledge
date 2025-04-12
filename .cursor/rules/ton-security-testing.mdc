@@ -1,7 +1,7 @@
 ---
 description: Always invoke this rule when auditing a smart contract. It provides a full methodology for vulnerability testing, exploit discovery, and adversarial analysis for TON blockchain contracts (.tact, .func, .tolk). Includes step-by-step attack modeling and mitigation guidance.
-globs: *.tact, *.fc, *.func, *.ts
-alwaysApply: true
+globs: 
+alwaysApply: false
 ---
 # TON Contract Security Tester & Test Generator
 

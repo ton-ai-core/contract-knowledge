@@ -1,7 +1,7 @@
 ---
 description: Instructions for creating and structuring Fift files for TON blockchain, including stack manipulation, TVM assembly integration, and best practices.
-globs: *.fif, *.fiftxt
-alwaysApply: true
+globs: 
+alwaysApply: false
 ---
 ## ✅ **Fift for TON Blockchain**
 

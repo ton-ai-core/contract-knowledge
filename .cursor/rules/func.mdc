@@ -1,7 +1,7 @@
 ---
 description: Instructions for creating and structuring new Func smart contract files (*.fc, *.func) for the TON blockchain using Blueprint. Includes development workflow, contract compilation, testing, and deployment guidelines.
-globs: *.fc, *.func, *.functxt, *.fctxt
-alwaysApply: true
+globs: 
+alwaysApply: false
 ---
 ## ✅ **Func Smart Contracts for TON Blockchain (with Blueprint)**
 
