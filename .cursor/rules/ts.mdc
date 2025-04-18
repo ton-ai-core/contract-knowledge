@@ -1,175 +1,73 @@
 ---
-description: Instructions for creating and structuring new TypeScript (*.ts) files for interacting with Tact smart contracts on the TON blockchain using Blueprint.
+description: Apply this rule for any **TypeScript** work that builds, tests, deploys, or interacts with smart contracts via **Blueprint** on the TON blockchain.
 globs: 
 alwaysApply: false
 ---
-## ✅ **TypeScript Integration for Tact Smart Con TON Blockchain (with Blueprint)**
+## ✅ Cursor Rule — TypeScript × Blueprint (TON)
+You are a TypeScript assistant in a project that uses **@ton‑ai‑core/blueprint** (supports Tact, Func, Tolk). Generate or refactor code with **no interactive prompts** and deliver complete, production‑ready solutions.
 
-TypeScript is used for building, testing, deploying, and interacting with smart contracts written in Tact for the TON blockchain.
+### 1. Workflow Checklist
+1. **Write / update contract** ⇒ `contract/` folder.
+2. **Compile & generate wrappers (Tact wrappers auto‑generated, never edit):
+   ```bash
+   npx blueprint build --all
+   ```
+3. **Security‑first testing phase** (unit, integration, fuzz — Jest + Sandbox)
+   ```bash
+   npx blueprint test && npx blueprint misti
+   ```
+   - Attempt exploits: re‑entrancy, overflows, access bypass, griefing.
+   - ✅ Proceed only when all tests pass & `misti` shows **0 critical issues**.
+   - **Recommended testing skeleton:**
+     ```ts
+     import { Blockchain } from '@ton/sandbox';
+     import { toNano } from '@ton/core';
+     import { <ContractName> } from '../wrappers/<ContractName>';
 
-This project leverages **Blueprint** to simplify the contract development workflow.
+     describe('<ContractName>', () => {
+       it('increments counter', async () => {
+         const bc = await Blockchain.create();
+         const contract = bc.openContract(await <ContractName>.fromInit());
+         const user = await bc.treasury('user');
 
----
+         await contract.send(
+           user.getSender(),
+           { value: toNano('0.05') },
+           { $$type: 'Add', amount: 1n }
+         );
 
-## ⚡️ **Development Workflow (TypeScript + Tact)**
+         expect(await contract.getCounter()).toBe(1n);
+       });
+     });
+     ```
+4. **Deploy or interact via scripts** in `scripts/`:
+   ```bash
+   npx blueprint run <ScriptName> --testnet --tonconnect [args]
+   ```
 
-1. **Contract Compilation** — generate `.boc` files and TypeScript wrappers:
-
-```bash
-npx blueprint build
-```
-
-Wrappers generated at:
-
-```
-build/TactBlueprintTemplate/tact_TactBlueprintTemplate.ts
-```
-
-2. **Script Execution** — deploy and interact with smart contracts:
-
-```bash
-npx blueprint run
-```
-
-3. **Contract Testing** — validate logic and debug:
-
-```bash
-npx blueprint test
-```
-
----
-
-## 📌 **Contract Interaction Script Example**
-
-This TypeScript example interacts with a deployed contract to increment a counter:
-
-```typescript
+### 2. Minimal Script Template
+```ts
 import { Address, toNano } from '@ton/core';
-import { TactBlueprintTemplate } from '../wrappers/TactBlueprintTemplate';
-import { NetworkProvider, sleep } from '@ton/blueprint';
+import { <ContractName> } from '../wrappers/<ContractName>';
+import { NetworkProvider } from '@ton-ai-core/blueprint';
 
-export async function run(provider: NetworkProvider, args: string[]) {
-    const ui = provider.ui();
-
-    const address = Address.parse(args.length > 0 ? args[0] : await ui.input('TactBlueprintTemplate address'));
-
-    if (!(await provider.isContractDeployed(address))) {
-        ui.write(`Error: Contract at address ${address} is not deployed!`);
-        return;
-    }
-
-    const tactBlueprintTemplate = provider.open(TactBlueprintTemplate.fromAddress(address));
-    const counterBefore = await tactBlueprintTemplate.getCounter();
-
-    await tactBlueprintTemplate.send(
-        provider.sender(),
-        { value: toNano('0.05') },
-        { $$type: 'Add', queryId: 0n, amount: 1n }
-    );
-
-    ui.write('Waiting for counter to increase...');
-
-    let counterAfter = await tactBlueprintTemplate.getCounter();
-    let attempt = 1;
-
-    while (counterAfter === counterBefore) {
-        ui.setActionPrompt(`Attempt ${attempt}`);
-        await sleep(2000);
-        counterAfter = await tactBlueprintTemplate.getCounter();
-        attempt++;
-    }
-
-    ui.clearActionPrompt();
-    ui.write('Counter increased successfully!');
+export async function run(p: NetworkProvider, [addr]: string[]) {
+  const ui = p.ui();
+  const address = Address.parse(addr);
+  const c = p.open(<ContractName>.fromAddress(address));
+  if (!(await p.isContractDeployed(address))) throw new Error('Not deployed');
+  // interaction logic
 }
 ```
 
----
+### 4. Best Practices Best Practices
+- Use **wrappers**; avoid raw Cell/Slice unless necessary.
+- Always wrap TON amounts with `toNano()`.
+- Check `provider.isContractDeployed()` before calls.
+- Poll state changes with `sleep()` in scripts.
+- Validate transactions in tests with `toHaveTransaction()`.
+- Exclude `build/` artifacts from VCS.
+- Follow ESLint/Prettier; avoid `any`, console logs, and mixed `then`/`await`.
 
-## 📌 **Contract Test Example**
+❗ **Never** leave placeholders (`// TODO`) in final output; deliver fully working code.
 
-This TypeScript example demonstrates testing deployment, counter increment, and sender validation:
-
-```typescript
-import { Blockchain, SandboxContract, TreasuryContract } from '@ton/sandbox';
-import { toNano } from '@ton/core';
-import { TactBlueprintTemplate } from '../wrappers/TactBlueprintTemplate';
-import '@ton/test-utils';
-
-describe('TactBlueprintTemplate', () => {
-    let blockchain: Blockchain;
-    let deployer: SandboxContract<TreasuryContract>;
-    let tactBlueprintTemplate: SandboxContract<TactBlueprintTemplate>;
-
-    beforeEach(async () => {
-        blockchain = await Blockchain.create();
-        tactBlueprintTemplate = blockchain.openContract(await TactBlueprintTemplate.fromInit(0n));
-        deployer = await blockchain.treasury('deployer');
-
-        const deployResult = await tactBlueprintTemplate.send(
-            deployer.getSender(),
-            { value: toNano('0.05') },
-            { $$type: 'Deploy', queryId: 0n }
-        );
-
-        expect(deployResult.transactions).toHaveTransaction({
-            from: deployer.address,
-            to: tactBlueprintTemplate.address,
-            deploy: true,
-            success: true,
-        });
-    });
-
-    it('should deploy', async () => {
-        // Already verified in beforeEach
-    });
-
-    it('should increase counter', async () => {
-        const increaseTimes = 3;
-        for (let i = 0; i < increaseTimes; i++) {
-            const increaser = await blockchain.treasury('increaser' + i);
-            const counterBefore = await tactBlueprintTemplate.getCounter();
-            const increaseBy = BigInt(Math.floor(Math.random() * 100));
-
-            const increaseResult = await tactBlueprintTemplate.send(
-                increaser.getSender(),
-                { value: toNano('0.05') },
-                { $$type: 'Add', queryId: 0n, amount: increaseBy }
-            );
-
-            expect(increaseResult.transactions).toHaveTransaction({
-                from: increaser.address,
-                to: tactBlueprintTemplate.address,
-                success: true,
-            });
-
-            const counterAfter = await tactBlueprintTemplate.getCounter();
-            expect(counterAfter).toBe(counterBefore + increaseBy);
-        }
-    });
-});
-```
-
----
-
-## 📂 **Recommended ****`.mdc`**** Best Practices** (Cursor Rules)
-
-For best automatic integration in Cursor when creating `.mdc` rules:
-
-- **Description:**
-
-```plaintext
-Instructions for creating and structuring new TypeScript (*.ts) files for interacting with Tact smart contracts on the TON blockchain using Blueprint.
-```
-
-- **Auto Attach:**
-
-```plaintext
-*.ts
-```
-
-- Reference related rules clearly using syntax like `@tact.mdc`.
-
-- Include explicit calls to `fetch_rules` when necessary to integrate with related rules.
-
-This ensures Cursor accurately recognizes and applies the rules automatically when creating or editing TypeScript files for Tact contracts.

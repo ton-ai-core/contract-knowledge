@@ -1,87 +1,50 @@
 ---
-description: Instructions for creating and structuring new Tolk smart contracts (.tolk). Includes development workflow, keywords, built-in methods, and best practices for efficient and optimized Tolk contract development on TON blockchain.
+description: Use this rule for smart contract development on TON using the Tolk programming language. Always apply it when working with Tolk contracts.
 globs: 
 alwaysApply: false
 ---
-## ✅ **Tolk Smart Contracts for TON Blockchain (with Blueprint)**
+## ✅ Cursor Rule: Tolk Smart Contracts Coding Guide
 
-**Tolk** — a secure, high-level, blockchain-optimized programming language designed for creating efficient smart contracts on TON (The Open Network).
-
-**Blueprint** — a toolkit simplifying contract compilation, testing, and deployment workflows for Tolk contracts.
+You are a **Tolk** code assistant for TON blockchain development. When generating or reviewing Tolk code, follow these **non‑interactive** guidelines:
 
 ---
 
-## ⚡️ **Development Workflow**
+### 1. File Structure
+- Place all contracts in the `contracts/` directory.
+- Filename and contract name must be **PascalCase** and match exactly.
+- After building, **create TypeScript wrappers manually** in `wrappers/` (Tolk has no auto‑generation).
 
-- 📌 **Write contracts** inside the `contracts/` directory.\
-  Use allowed keywords and structures:
-
-```plaintext
-tolk, import, global, const, fun, get, mutate, asm, builtin, var, val, return, repeat, if, else, do, while, break, continue, throw, throwUnless, throwIf, assert, try, catch, true, false, null, void, self, redef
+### 2. Language Keywords
+Use **only** these Tolk keywords and reserved words:
+```
+tolk, import, global, const, fun, get, mutate, asm, builtin,
+var, val, return, repeat, if, else, do, while, break, continue,
+throw, throwUnless, throwIf, assert, try, catch, true, false,
+null, void, self, redef
 ```
 
-- 📌 **Compile contracts**:
-
-```bash
-npx blueprint build
+### 3. Built‑in Functions
+Only use these built‑ins for on‑chain operations:
+```
+getContractData(), setContractData(), beginCell(), endCell(), beginParse(),
+assertEndOfSlice(), loadUint(), storeUint(), throw(), throwUnless(), throwIf(),
+onInternalMessage(), isMessageBounced(), loadMessageFlags(), loadMessageOp(),
+loadMessageQueryId()
 ```
 
-Compiled output → generated in the `build/` directory.
+### 4. Best Practices
+-
+-
 
-- 📌 **TypeScript wrappers generation** *(automatically generated contract interaction classes)*:
-
-Wrappers → automatically created in the `wrappers/` directory.
-
-- 📌 **Testing** *(logic, exceptions, opcodes)*:
-
-```bash
-npx blueprint test
-```
-
-- 📌 **Scripts and Deployment** *(located in ****`scripts/`**** folder)*:
-
-```bash
-npx blueprint run
-```
+### 5. Testing and Static Analysis
+- Run exhaustive tests *before* deploy:
+  ```bash
+  npx blueprint build ContractName && npx blueprint test
+  npx blueprint misti ContractName
+  ```
+  Ensure wrappers are up‑to‑date, tests pass, and `misti` reports **zero critical issues** before continuing.
 
 ---
 
-## 🚧 **Important Built-in Methods and Functions in Tolk**
+❗ All code generation must be fully parameterized; no interactive prompts are allowed.
 
-```plaintext
-getContractData(), setContractData(), beginCell(), endCell(), beginParse(), assertEndOfSlice(), loadUint(), storeUint(), throw(), throwUnless(), throwIf(), onInternalMessage(), isMessageBounced(), loadMessageFlags(), loadMessageOp(), loadMessageQueryId()
-```
-
----
-
-## 📌 **Best Practices for Tolk Contracts**
-
-- **Minimize global state variables**\
-  *(store only essential contract data)*
-
-- **Use concise and clearly separated functions**\
-  *(favor small, modular methods and inline helpers)*
-
-- **Always audit and optimize functions involving cell parsing and message handling**\
-  *(consult Tolk documentation for opcode efficiency)*
-
-- **Use ********`asm`******** functions for critical gas savings**
-
-- **Never handle strings directly on-chain**\
-  *(prefer binary data representations)*
-
-- **Favor arithmetic logic over conditionals where possible**\
-  *(to reduce gas consumption)*, e.g.:
-
-```tolk
-val result = 1 + sign(msg.forwardTonAmount);
-```
-
-- \*\*Explicitly handle errors using ****`throw()`****, ****`throwUnless()`****, or \*\***`throwIf()`**
-
-- **Carefully manage parsing with precise ********`beginParse()`******** / ********`assertEndOfSlice()`******** patterns**
-
-- **For message sending and interactions:**
-
-  - Explicitly construct cells using `beginCell()`
-  - Avoid unnecessary message forwarding *(optimize gas usage)*

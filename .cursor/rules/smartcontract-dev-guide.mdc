@@ -1,0 +1,52 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+# 🌐 Global Rule — TON Smart‑Contract Development
+
+You are a TON smart‑contract developer fluent in **TypeScript, Tact, Func, Fift, Tolk**.  
+Choose the language best suited to the task (hint: **Tact** is often easiest; wrappers are auto‑generated with `npx blueprint build <ContractName>`).
+
+## 🚀 Development Pipeline
+
+1. **Project Bootstrap**  
+   - Capture the full technical spec in `README.md`.  
+   - Initialize the project:  
+     ```bash
+     npm create ton-ai@latest MyProject -- --type tact-empty --contractName MyContract
+     ```
+
+2. **Contract Coding** (`contracts/`)  
+   - Write contract code.  
+   - Do **not** continue until:  
+     ```bash
+     npx blueprint build <ContractName>
+     ```  
+     finishes **without errors**.
+
+3. **Wrapper Generation** (`wrappers/`)  
+   - Tact wrappers are generated automatically by the build step.  
+   - For Func/Tolk, create or adjust wrappers manually.
+
+4. **Hacker‑Mode Testing** (`tests/`)  
+   - Write exhaustive tests; try to break the contract.  
+   - Run until **all** tests succeed:  
+     ```bash
+     npx blueprint test
+     ```
+
+5. **Static Analysis**  
+   - Detect extra vulnerabilities:  
+     ```bash
+     npx blueprint misti <ContractName>
+     ```
+
+6. **Scripts & Deployment** (`scripts/`)  
+   - Write interaction/deploy scripts (one deploy script scaffold is provided).  
+   - Execute via:  
+     ```bash
+     npx blueprint run <ScriptName> --testnet --tonconnect [args]
+     ```
+
+**Never advance to the next stage until the current one is 100 % clean. Smart‑contracts == money; any leak will be exploited.**

@@ -1,114 +1,69 @@
 ---
-description: Instructions for creating and structuring Fift files for TON blockchain, including stack manipulation, TVM assembly integration, and best practices.
+description: Use this rule for smart contract development on TON using the Fift(Assembler) programming language. Always apply it when working with Fift contracts.
 globs: 
 alwaysApply: false
 ---
-## ✅ **Fift for TON Blockchain**
+## ✅ Cursor Rule: Fift Smart Contracts Coding Guide
 
-**Fift** — a stack-based, high-level programming language used for local manipulation with cells and TVM primitives, primarily for converting TVM assembly into contract code bag-of-cells.
-
-**Primary uses:**
-- Converting TVM assembly into binary smart contract code
-- Defining TVM assembly opcodes and operations
-- Manipulating cells and other TON-specific data structures
-- Creating flexible deployment scripts
+You are a **Fift** assistant for TON blockchain development. When writing or reviewing Fift code, follow these **non‑interactive** guidelines:
 
 ---
 
-## ⚡️ **Core Language Concepts**
+### 1. File Structure
 
-- 📌 **Stack-based execution model**:
-  - Operations consume and produce values on a stack
-  - Execution flows from left to right (reverse Polish notation)
+- Place all Fift sources in the `contracts/` directory with `.fif` extension.
+- Filename must be **PascalCase** and match the contract name.
+- After editing, assemble to BOC with Blueprint (no wrappers for Fift).
 
-- 📌 **Basic syntax elements**:
-```plaintext
+### 2. Language Keywords & Syntax
+
+Use **only** these core keywords, directives, and stack notations:
+
+```
 "string literals", { blocks }, integers, ."printed text",
-: word-definition, :: active-word-definition, 
+: word-definition, :: active-word-definition,
 include, if, ifnot, cond, execute, times, while, until
 ```
 
-- 📌 **Word definition** (functions):
+Define words/functions:
+
 ```fift
-{ dup * } : square    // Defines 'square' to duplicate top value and multiply
-{ minmax drop } : min  // Defines 'min' to get minimum of two values
+{ dup * } : square   // duplicate and multiply
+{ minmax drop } : min  // min of two values
 ```
 
-- 📌 **Control structures**:
-```fift
-{ ."true" } { ."false" } cond  // Conditional execution based on stack flag
-{ ... } while                  // Loop while condition is true
-{ ... } until                  // Loop until condition is true
-{ ... } 5 times                // Execute block 5 times
+### 3. Core Built‑in Words & Ops
+
+Use these for cell and TVM operations:
+
 ```
+dup, drop, swap, rot, over, tuck, pick, roll,
+getContractData(), setContractData(), beginCell(), endCell(), beginParse(), endParse(),
+store_uint, load_uint, store_int, load_int, throw, throwUnless, throwIf,
+onInternalMessage(), isMessageBounced(), loadMessageFlags(), loadMessageOp(),
+loadMessageQueryId()
+```
+
+### 4. Best Practices
+
+- **Execute Fift only at compile‑time**—Fift runs locally to produce BOCs.
+- **Use ****`@Defop`**** / ****`@addop`** for opcode definitions (ensures correct dispatch).
+- **Comment stack effects**: use `(x y -- z)` notation for clarity.
+- **Modular word definitions**: split reusable blocks into named words.
+- **Validate BOC integrity** before deploy (use debug prints).
+- **Minimize stack depth**: keep stack operations predictable.
+- **Avoid mixing literal and symbol names**—use consistent naming.
+
+### 5. Build, Test & Analysis
+
+```bash
+npx blueprint build ContractName    # assemble Fift to BOC
+npx blueprint test                  # run Jest tests or custom scripts
+```
+
+Ensure **zero critical issues** before proceeding to deployment.
 
 ---
 
-## 🚧 **Stack Manipulation Words**
+❗ All code generation and assembly must be fully parameterized; no interactive prompts are allowed.
 
-```plaintext
-dup (duplicate top element), drop (remove top element), 
-swap (exchange top two elements), rot (rotate top three elements),
-over (copy second element to top), tuck (place top element at third position),
-pick (copy Nth element to top), roll (rotate N top elements)
-```
-
----
-
-## 📌 **TVM Assembly Integration**
-
-- 📌 **Creating assembly opcodes**:
-```fift
-x{00} @Defop NOP          // Define NOP opcode (0x00)
-x{A988} @Defop MULDIVMOD  // Define MULDIVMOD opcode (0xA988)
-```
-
-- 📌 **Assembling smart contracts**:
-```fift
-<{                         // Start of assembly code
-  SETCP0 DUP IFNOTRET     // Standard preamble
-  // ... contract logic ...
-  ACCEPT
-  // ... more logic ...
-}>c                        // End assembly, compile to cell
-```
-
-- 📌 **Including external files/BOCs**:
-```fift
-"path/to/file.boc" file>B B>boc ref,  // Include external BOC via reference
-"standard-lib.fif" include            // Include another Fift source file
-```
-
----
-
-## 📌 **Best Practices**
-
-- **Execute Fift code in compile-time context only**\
-  *(Fift is executed during contract compilation, not on-chain)*
-
-- **Use appropriate opcode definitions with `@Defop` and `@addop`**\
-  *(ensures proper bit/reference space checking and automatic jumps)*
-
-- **Comment complex stack manipulations**\
-  *(stack notation: `(x y -- z)` means 'consumes x,y and produces z')*
-
-- **Prefer modular definitions and reusable blocks**\
-  *(define custom words for repeated operations)*
-
-- **Validate BOC structures before inclusion**\
-  *(improper cell structures can lead to deployment failures)*
-
-- **For TVM assembly structures that need extra precision:**
-  ```fift
-  PROGRAM{
-    DECLPROC recv_internal
-    recv_internal PROC:<{
-      // Precise TVM code inside
-    }>
-  }END>c
-  ```
-
-- **Use dictionary operations for working with hashmaps**\
-  *(idict!, dict!, dict@, etc.)*
-
-- **Handle errors explicitly** using throw or throw-unless operations 
