@@ -1,73 +1,154 @@
 ---
-description: Apply this rule for any **TypeScript** work that builds, tests, deploys, or interacts with smart contracts via **Blueprint** on the TON blockchain.
-globs: 
+description: 
+globs: *.ts
 alwaysApply: false
 ---
-## ✅ Cursor Rule — TypeScript × Blueprint (TON)
-You are a TypeScript assistant in a project that uses **@ton‑ai‑core/blueprint** (supports Tact, Func, Tolk). Generate or refactor code with **no interactive prompts** and deliver complete, production‑ready solutions.
+## ✅ Cursor Rule — TypeScript × Blueprint × Sandbox (TON) v2
 
-### 1. Workflow Checklist
-1. **Write / update contract** ⇒ `contract/` folder.
-2. **Compile & generate wrappers (Tact wrappers auto‑generated, never edit):
-   ```bash
-   npx blueprint build --all
-   ```
-3. **Security‑first testing phase** (unit, integration, fuzz — Jest + Sandbox)
-   ```bash
-   npx blueprint test && npx blueprint misti
-   ```
-   - Attempt exploits: re‑entrancy, overflows, access bypass, griefing.
-   - ✅ Proceed only when all tests pass & `misti` shows **0 critical issues**.
-   - **Recommended testing skeleton:**
-     ```ts
-     import { Blockchain } from '@ton/sandbox';
-     import { toNano } from '@ton/core';
-     import { <ContractName> } from '../wrappers/<ContractName>';
+You are an **expert** TypeScript assistant specializing in TON smart contract testing and interaction using **@ton-ai-core/blueprint** and **@ton/sandbox**. Generate or refactor code with **no interactive prompts** and deliver complete, secure, and production-ready solutions, including robust test suites.
 
-     describe('<ContractName>', () => {
-       it('increments counter', async () => {
-         const bc = await Blockchain.create();
-         const contract = bc.openContract(await <ContractName>.fromInit());
-         const user = await bc.treasury('user');
+---
 
-         await contract.send(
-           user.getSender(),
-           { value: toNano('0.05') },
-           { $$type: 'Add', amount: 1n }
-         );
+### 1. Workflow Checklist (Strict Order)
+1.  **Write / Update Contract:** In `contracts/`, following Tact/Func/Tolk best practices. Ensure **one contract per file** with matching PascalCase names.
+2.  **Compile & Generate Wrappers:** **Crucial step!** Always run this after *any* contract change to update TypeScript wrappers. Never edit wrapper files directly.
+    ```bash
+    # Build ALL contracts to ensure wrappers are generated/updated
+    npx blueprint build --all 
+    ```
+3.  **Security-First Testing Phase (Jest + @ton/sandbox):** Write comprehensive tests in `tests/`.
+    *   **Goal:** Verify correctness, find vulnerabilities (access control, overflows, re-entrancy, griefing, gas limits), ensure TEP compliance.
+    *   **Run Tests & Analysis:**
+        ```bash
+        npx blueprint test 
+        # Run misti for all relevant contracts
+        npx blueprint misti <ContractName> 
+        npx blueprint misti <OtherContractName> 
+        ```
+    *   **Proceed only when all tests pass & `misti` reports 0 critical/high issues.**
+4.  **Deploy / Interact via Scripts:** Write interaction scripts in `scripts/`.
+    ```bash
+    # Example: Deploy to testnet using TonConnect
+    npx blueprint run <ScriptName> --testnet --tonconnect [args] 
+    ```
 
-         expect(await contract.getCounter()).toBe(1n);
-       });
-     });
-     ```
-4. **Deploy or interact via scripts** in `scripts/`:
-   ```bash
-   npx blueprint run <ScriptName> --testnet --tonconnect [args]
-   ```
+### 2. @ton/sandbox Usage & Patterns for Testing
+-   **Initialization:** Start tests by creating a blockchain instance:
+    ```typescript
+    import { Blockchain, SandboxContract, TreasuryContract } from '@ton/sandbox';
+    import { Cell, SendMode, toNano } from '@ton/core';
+    import { <ContractName> } from '../wrappers/<ContractName>'; // Import generated wrapper
+    import '@ton/test-utils'; // For .toHaveTransaction() matcher
 
-### 2. Minimal Script Template
-```ts
-import { Address, toNano } from '@ton/core';
-import { <ContractName> } from '../wrappers/<ContractName>';
-import { NetworkProvider } from '@ton-ai-core/blueprint';
+    let blockchain: Blockchain;
+    let deployer: SandboxContract<TreasuryContract>;
+    let contract: SandboxContract<<ContractName>>;
 
-export async function run(p: NetworkProvider, [addr]: string[]) {
-  const ui = p.ui();
-  const address = Address.parse(addr);
-  const c = p.open(<ContractName>.fromAddress(address));
-  if (!(await p.isContractDeployed(address))) throw new Error('Not deployed');
-  // interaction logic
+    beforeEach(async () => {
+        blockchain = await Blockchain.create();
+        deployer = await blockchain.treasury('deployer'); // Create a test wallet
+        // Deploy the contract using the wrapper's fromInit()
+        contract = blockchain.openContract(await <ContractName>.fromInit(/* init args */));
+        const deployResult = await contract.sendDeploy(deployer.getSender(), toNano('0.05')); // Or send an init message if no sendDeploy
+        expect(deployResult.transactions).toHaveTransaction({
+            from: deployer.address,
+            to: contract.address,
+            deploy: true,
+            success: true,
+        });
+    });
+    ```
+-   **Interacting with Contracts:**
+    *   `blockchain.openContract()`: Opens a contract wrapper, returning a `SandboxContract<T>`.
+    *   `blockchain.treasury('seed')`: Creates a pre-funded test wallet (`TreasuryContract`). Use different seeds for different actors.
+    *   `wallet.getSender()`: Gets a `Sender` object for sending messages from a treasury.
+    *   `contract.send(...)`: Methods starting with `send` on `SandboxContract` are proxied. They accept original arguments (minus the provider) and return `Promise<SendMessageResult>`.
+    *   `contract.get...()`: Methods starting with `get` are proxied. They accept original arguments (minus the provider) and return the original `Promise<ReturnType>`.
+-   **Analyzing Results (`SendMessageResult`):**
+    *   `result.transactions`: An array of `BlockchainTransaction` objects executed. **Crucial for verification.**
+    *   Use `expect(result.transactions).toHaveTransaction({ ... })` matcher from `@ton/test-utils`.
+    *   **Check specific transaction details:** `from`, `to`, `op` (opcode), `value`, `body`, `success`, `exitCode` (compute phase), `actionResultCode`, `aborted`, `deploy`, `destroyed`, `outMessagesCount`.
+    *   **Debug Fees:** Use `printTransactionFees(result.transactions)` from `@ton/sandbox`.
+-   **State Synchronization & Asynchronicity:**
+    *   **Warning:** Internal messages (contract A calls contract B) are processed **asynchronously** within the sandbox queue. State updates are **not immediate** after a `send` call returns.
+    *   **Verification:** *Do not* check state immediately after a `send` call that triggers internal messages or complex state changes.
+    *   **Strategies:**
+        1.  **Check Transaction Effects:** Use `toHaveTransaction` to verify that the *expected internal messages were sent* or that *specific actions occurred*. This is often sufficient.
+        2.  **(Advanced) Force State:** For complex setups or ensuring activation, explicitly set the expected state *before* checks using `blockchain.setShardAccount(address, createShardAccount({...}))`. Use `createShardAccount` from `@ton/sandbox`. Load `code`/`data` using `await compile('<ContractName>')` from `@ton-ai-core/blueprint` or load from build artifacts (`.pkg` file parsed as JSON, code is base64 in `code` field).
+        3.  **(Less Reliable) Wait:** Small delays (`await sleep(10)`) or dummy transactions (`await blockchain.sendMessage(internal({...}))`) *might* work sometimes but are flaky. Prefer explicit checks.
+-   **Direct State Manipulation:** Use `blockchain.setShardAccount(...)` to set up specific initial states for contracts without running deployment transactions.
+-   **Time:** Manipulate block time with `blockchain.now = <unix_timestamp>`.
+-   **Verbosity:** Control log output with `blockchain.verbosity = { ... }` or `contract.setVerbosity(...)`.
+
+### 3. Minimal Script Template (`scripts/`)
+```typescript
+import { Address, toNano, Cell, beginCell } from '@ton/core';
+import { <ContractName> } from '../wrappers/<ContractName>'; // Correct wrapper import
+import { NetworkProvider, sleep } from '@ton-ai-core/blueprint'; // Correct blueprint import
+
+export async function run(provider: NetworkProvider, args: string[]) {
+    const ui = provider.ui();
+    const contractAddress = Address.parse(args[0] ?? (await ui.input('Enter contract address: '))); // Example: get address from arg or input
+
+    if (!(await provider.isContractDeployed(contractAddress))) {
+        ui.write(`Error: Contract at address ${contractAddress} is not deployed!`);
+        return;
+    }
+
+    const contract = provider.open(<ContractName>.fromAddress(contractAddress));
+
+    const counterBefore = await contract.getGetCounter(); // Use correct getter name
+    ui.write(`Counter before: ${counterBefore}`);
+
+    await contract.send( // Use correct send method name if different
+        provider.sender(), 
+        { value: toNano('0.05') }, 
+        { $$type: 'Add', amount: 1n } // Use correct message type/structure
+    );
+
+    ui.write('Sent increment transaction!');
+
+    // Wait for state change
+    let counterAfter = counterBefore;
+    let attempt = 1;
+    while (counterAfter === counterBefore && attempt <= 10) {
+        ui.setActionPrompt(`Attempt ${attempt}: Waiting for counter to update...`);
+        await sleep(2000); // Wait 2 seconds
+        counterAfter = await contract.getGetCounter();
+        attempt++;
+    }
+     ui.clearActionPrompt();
+
+    if (counterAfter > counterBefore) {
+        ui.write(`Counter after: ${counterAfter}`);
+        ui.write('Success!');
+    } else {
+         ui.write('Counter did not update after 10 attempts.');
+    }
 }
 ```
+4. Best Practices
 
-### 4. Best Practices Best Practices
-- Use **wrappers**; avoid raw Cell/Slice unless necessary.
-- Always wrap TON amounts with `toNano()`.
-- Check `provider.isContractDeployed()` before calls.
-- Poll state changes with `sleep()` in scripts.
-- Validate transactions in tests with `toHaveTransaction()`.
-- Exclude `build/` artifacts from VCS.
-- Follow ESLint/Prettier; avoid `any`, console logs, and mixed `then`/`await`.
+    Wrappers: Always use the generated TypeScript wrappers for type safety and correctness. Run npx blueprint build --all after contract changes. Import wrappers correctly (../wrappers/<ContractName>).
 
-❗ **Never** leave placeholders (`// TODO`) in final output; deliver fully working code.
+    Amounts: Always wrap TON amounts with toNano() for clarity and precision.
 
+    Contract Existence: In scripts, check provider.isContractDeployed() before interacting.
+
+    State Changes: In scripts, poll state changes using sleep() from @ton-ai-core/blueprint in a loop with a timeout. Do not assume immediate updates.
+
+    Testing:
+
+        Verify transactions robustly using toHaveTransaction with specific fields.
+
+        Cover positive, negative, and edge cases (including gas limits).
+
+        Be explicitly aware of sandbox asynchronicity and test accordingly.
+
+        Handle BigInt serialization issues in Jest if they arise (compare .toString(), avoid logging raw results).
+
+    Code Style: Follow ESLint/Prettier. Strictly avoid any. Minimize console.log in final test code (use printTransactionFees or specific checks instead). Use async/await consistently.
+
+    VCS: Exclude build/ and wrappers/ (except .compile.ts files) from version control.
+
+❗ Autonomy & Goal: Your primary goal is to produce a complete, secure, efficient, and fully working Tact/Func/Tolk smart contract solution with a robust test suite based on the user's request. Act autonomously, make informed decisions based on these guidelines and TON best practices. Resolve compilation errors, proactively debug and fix test failures (analyzing transactions, handling asynchronicity, fixing type errors), and address static analysis issues. Ask clarifying questions only for ambiguous functional requirements, not for implementation details covered here. Deliver fully working code without placeholders.

@@ -1,6 +1,6 @@
 ---
-description: Use this rule for smart contract development on TON using the Tolk programming language. Always apply it when working with Tolk contracts.
-globs: 
+description: 
+globs: *.tolk
 alwaysApply: false
 ---
 ## ✅ Cursor Rule: Tolk Smart Contracts Coding Guide

@@ -1,6 +1,6 @@
 ---
-description: Use this rule for smart contract development on TON using the Func programming language. Always apply it when working with Func contracts.
-globs: 
+description: 
+globs: *.func,*.fc
 alwaysApply: false
 ---
 ## ✅ Cursor Rule: Func Smart Contracts Coding Guide
@@ -53,5 +53,4 @@ recv_internal(), slice_empty?(), begin_parse(), end_parse()
   Ensure manual wrappers exist, tests pass, and `misti` reports **zero critical issues**.
 
 ---
-
 ❗ All code generation must be fully parameterized; no interactive prompts are allowed.

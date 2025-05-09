@@ -1,6 +1,6 @@
 ---
-description: Use this rule for smart contract development on TON using the Fift(Assembler) programming language. Always apply it when working with Fift contracts.
-globs: 
+description: 
+globs: *.fif,*.fift
 alwaysApply: false
 ---
 ## ✅ Cursor Rule: Fift Smart Contracts Coding Guide
