@@ -1,1 +1,0 @@
-import "./config/import2.tact"

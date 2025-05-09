@@ -1,3 +1,0 @@
-contract Name {
-    init(,) {}
-}

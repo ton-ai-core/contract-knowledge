@@ -1,2 +1,0 @@
-@name(#include)
-native idTest();

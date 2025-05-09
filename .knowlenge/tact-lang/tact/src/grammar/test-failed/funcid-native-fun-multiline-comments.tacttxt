@@ -1,2 +1,0 @@
-@name({-aaa-})
-native idTest();

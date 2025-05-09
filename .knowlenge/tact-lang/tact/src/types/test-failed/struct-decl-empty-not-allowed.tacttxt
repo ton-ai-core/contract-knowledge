@@ -1,3 +1,0 @@
-trait BaseTrait { }
-
-struct Main { }
