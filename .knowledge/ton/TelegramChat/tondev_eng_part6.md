@@ -1,7 +1,3 @@
-&rey: Use @ton/ton lib. (reply to 53882)
-
-Oscar: Does anyone want to help 🙂 (reply to 53816)
-
 Michael: If you are not a developer, you should get help from a dev to customize your contract to take fee from transactions and deploy using script. (reply to 53887)
 
 Oscar: I am a developer, but I'd like some support with the FunC language and if there are any guides on doing something like this. I've looked into Solana contracts - and they involve things like withdraw authority addresses etc. How do I implement something like this?
@@ -1062,9 +1058,9 @@ I'm: Hi, Iam a beginner, I just know to active the wallet via Tonkeeper app not 
 
 web3: Hello here can somebody have a source code of Tap to earn game ? I want to edit and deploy it
 
-Nightwing: I am using TonTools and TonCenterClient, what's the fee amount I should set to transfer jetton?
+Nyxra: I am using TonTools and TonCenterClient, what's the fee amount I should set to transfer jetton?
 
-Nightwing: Guys is there a platform where I can get test jetton faucet?
+Nyxra: Guys is there a platform where I can get test jetton faucet?
 
 Hustle: Its literally the copy of minter repo kek (reply to 46026)
 
@@ -1244,7 +1240,7 @@ Heydar: Thanks, I will try to achieve that. so we need a benchmark sdk in ton de
 
 Heydar: for example you want to know which part of your func codes consuming more in a test procedure. (reply to 54824)
 
-Nightwing: if anyone has jettons on testnet please send me some for testing   UQAKW5qVNT64JbLzIvFRnzvb-n-hCoTeJwAQ6tZj7h0Pvsdi
+Nyxra: if anyone has jettons on testnet please send me some for testing   UQAKW5qVNT64JbLzIvFRnzvb-n-hCoTeJwAQ6tZj7h0Pvsdi
 
 CYFHER: Hi Guys Please how do I fix 'Price Impact too high 100%' on ston.fi ? This happened after I added liquidity to the token.
 
@@ -1372,7 +1368,7 @@ K.: a lot of scammers nowadays, yes. (reply to 54924)
 
 K.: Trust Wallet does not support TonConnect, no. If Trust Wallet developers ever decide to support TON, then it will work. (reply to 54926)
 
-Nightwing: Guys I am trying to transfer jetton and got this error. I got the code from this example: https://github.com/yungwine/TonTools/blob/master/examples/Jetton/transfer_jetton.py  How can I fix it? Any idea?
+Nyxra: Guys I am trying to transfer jetton and got this error. I got the code from this example: https://github.com/yungwine/TonTools/blob/master/examples/Jetton/transfer_jetton.py  How can I fix it? Any idea?
 
 Frank: I mean that work at the foundation (reply to 54924)
 
@@ -1536,7 +1532,7 @@ Elon: alway down
 
 MA: Is it possible to have optional parameter in functions in FunC ?
 
-Nightwing: Guys I am getting an error while trying to transfer USDT, my code from this example: https://docs.ton.org/develop/dapps/cookbook#how-to-construct-a-message-for-a-jetton-transfer-with-a-comment  Error: pytoniq.liteclient.client.LiteServerError: Liteserver crashed with 0 code. Message: cannot apply external message to current state : External message was not accepted        Cannot run message on account: inbound external message rejected by transaction 0A...  Any idea what I should do to fix this? Thank you
+Nyxra: Guys I am getting an error while trying to transfer USDT, my code from this example: https://docs.ton.org/develop/dapps/cookbook#how-to-construct-a-message-for-a-jetton-transfer-with-a-comment  Error: pytoniq.liteclient.client.LiteServerError: Liteserver crashed with 0 code. Message: cannot apply external message to current state : External message was not accepted        Cannot run message on account: inbound external message rejected by transaction 0A...  Any idea what I should do to fix this? Thank you
 
 123xfs: @tonconnect/ui How to obtain the balance of wallet tokens?
 
@@ -1548,7 +1544,7 @@ Kevin Jr: Hi guys, how can I list my project giveaway on @community_bot?
 
 Амир: Deploy, wait 1 year, try to send message, check the fee (reply to 55111)
 
-Nightwing: Is anyone using tonsdk on python? https://github.com/tonfactory/tonsdk Is it safe to use? I want to use it to transfer jetton. I don't know if it works. I have tried TonTools and pytoniq both didn't work for me and gave me errors.
+Nyxra: Is anyone using tonsdk on python? https://github.com/tonfactory/tonsdk Is it safe to use? I want to use it to transfer jetton. I don't know if it works. I have tried TonTools and pytoniq both didn't work for me and gave me errors.
 
 I'm: Hi bro, I am searching the code that can get estimate Ton fee. But I have no result. May you share me the way?. Thank bro
 
@@ -2282,7 +2278,7 @@ Ke: hi guys, the (~ is_initialized) is true or false? I feel confused  var is_in
 
 Lamborghini: Hello,  can anyone please help me how to create a wallet from specific derive path? I already ask the question in the github issues. it number is 35. (I tried to send the link but it is failed)
 
-dou: Hello, how can I start with TON using JS to develop BOT/Web App please help?
+dou | onWealth: Hello, how can I start with TON using JS to develop BOT/Web App please help?
 
 Ume: is there any dex aggregator that on TON? like 1inch?
 
@@ -2292,7 +2288,7 @@ User<6452070203>: how send jetton on ton/blueprint help please?
 
 Nothing Ⓜ️ MEMES: Have you looked on the TON website, everything is well documented and well explained (reply to 55734)
 
-dou: Looked but not understand clearly (reply to 55744)
+dou | onWealth: Looked but not understand clearly (reply to 55744)
 
 Ton: body: new CommonMessageInfo({                 body: new CellMessage(msgBody)             })  anyone knows how to code this right now? The CellMessage is deleted
 
@@ -3288,7 +3284,7 @@ User<6861867033>: HI. I'm a Full-stack developer with 6 years of xp and am have 
 
 kevin: I know a great opensource project, you might take a look      https://github.com/tonindexer/anton (reply to 56475)
 
-alli <3: is there a python repo capable of creating NFTs?
+boot adbot: is there a python repo capable of creating NFTs?
 
 ayushag: Can't find it? Can you ping it down if you can find.... (reply to 56661)
 
@@ -3750,21 +3746,21 @@ User<6861867033>: The most significent exmaple api is TONviewer API. (reply to 5
 
 User<6861867033>: You can see polygon at the right-bottom on tonviewer webpage Click it (reply to 57134)
 
-Kuntul 🇯🇵: Hallo
+Quntul 🇯🇵: Hallo
 
-Kuntul 🇯🇵: Why are the mainet and testnet addresses different?
+Quntul 🇯🇵: Why are the mainet and testnet addresses different?
 
-Kuntul 🇯🇵: Will it affect when we receive the gift?
+Quntul 🇯🇵: Will it affect when we receive the gift?
 
-Kuntul 🇯🇵: Meanwhile, the address when working on testnet tasks is different from the mainet address
+Quntul 🇯🇵: Meanwhile, the address when working on testnet tasks is different from the mainet address
 
 User<6861867033>: Yes address between testnet and mainnet is totaly different (reply to 57160)
 
-Kuntul 🇯🇵: How about this ? (reply to 57160)
+Quntul 🇯🇵: How about this ? (reply to 57160)
 
 User<6861867033>: Yes ofc (reply to 57162)
 
-Kuntul 🇯🇵: Oh, I mean, I'm working on a testnet project, of course with a testnet wallet, so when I get a prize, will the prize automatically go to mainet?
+Quntul 🇯🇵: Oh, I mean, I'm working on a testnet project, of course with a testnet wallet, so when I get a prize, will the prize automatically go to mainet?
 
 User<6861867033>: Maybe (reply to 57164)
 
@@ -5612,7 +5608,7 @@ Sasha: maybe it will help
 
 SpacyLion: I think yes! Ty! (reply to 58945)
 
-takezō: Hello everyone I send transaction with react tonconnect-ui, and get a boc as the function result.  Is it possible to monitor the transaction confirm with this data?  I use API /getTransactions and there's no option for boc passing...
+~/takezō: Hello everyone I send transaction with react tonconnect-ui, and get a boc as the function result.  Is it possible to monitor the transaction confirm with this data?  I use API /getTransactions and there's no option for boc passing...
 
 Kenny | Staked: Hey is this the place to ask questions about running validators?
 
@@ -5918,7 +5914,7 @@ Baron: Who needs a smart contract/ ton developer?
 
 Денис: Hello,  How can I find out the status of the contract at its address?
 
-/: Good evening, how can I send a simple transaction with a comment via tonconnect?
+/ Stars Bank: Good evening, how can I send a simple transaction with a comment via tonconnect?
 
 User<43817863>: Can a NFT expire?
 
@@ -6108,9 +6104,9 @@ User<1795676886>: Yes, but using tokens for interactions such as swaps, bridges 
 
 P000RI: Does anyone know the notcoin support ID?
 
-Nightwing: Guys I'm getting these error trying to send jetton   1 error: LiteServerError(result["code"], result["message"]) pytoniq.liteclient.client.LiteServerError: Liteserver crashed with 651 code. Message: cannot load block (0,4000000000000000,43484363):224AC0EF787920B1D86E18DFD3667D1597272E7CC4A3C8EDC199BDB3D3A2F69C:3064EC4BFDDA3189E10B4B71FC7C8EA7ECE74AC9EDE1C5DF6C9A985E9A6A41AD : block (0,4000000000000000,43484363) is not in db (possibly out of sync: shard_client_seqno=37850707 ls_seqno=37850752)  2 error: LiteServerError(result["code"], result["message"]) pytoniq.liteclient.client.LiteServerError: Liteserver crashed with 0 code. Message: cannot send external message : duplicate message
+Nyxra: Guys I'm getting these error trying to send jetton   1 error: LiteServerError(result["code"], result["message"]) pytoniq.liteclient.client.LiteServerError: Liteserver crashed with 651 code. Message: cannot load block (0,4000000000000000,43484363):224AC0EF787920B1D86E18DFD3667D1597272E7CC4A3C8EDC199BDB3D3A2F69C:3064EC4BFDDA3189E10B4B71FC7C8EA7ECE74AC9EDE1C5DF6C9A985E9A6A41AD : block (0,4000000000000000,43484363) is not in db (possibly out of sync: shard_client_seqno=37850707 ls_seqno=37850752)  2 error: LiteServerError(result["code"], result["message"]) pytoniq.liteclient.client.LiteServerError: Liteserver crashed with 0 code. Message: cannot send external message : duplicate message
 
-Nightwing: I'm using pytoniq (reply to 59445)
+Nyxra: I'm using pytoniq (reply to 59445)
 
 Boss 🍅 🐾 🌱SEED: is testnet not working right now?
 
@@ -6250,15 +6246,15 @@ Oleg: Hi team, 2 questions - whoever ended up implementing both TON deposits and
 
 &rey: I believe it's better to use pytoniq, with ability to connect to liteservers directly and check proofs.
 
-Nightwing: Guys I'm using Python transfer jetton example from TON cookbook and getting such errors many times:  LiteServerError(result["code"], result["message"]) pytoniq.liteclient.client.LiteServerError: Liteserver crashed with 651 code. Message: cannot load block (.......) : block (0,4000000000000000,43485902) is not in db (possibly out of sync: shard_client_seqno=37852420 ls_seqno=37852481)
+Nyxra: Guys I'm using Python transfer jetton example from TON cookbook and getting such errors many times:  LiteServerError(result["code"], result["message"]) pytoniq.liteclient.client.LiteServerError: Liteserver crashed with 651 code. Message: cannot load block (.......) : block (0,4000000000000000,43485902) is not in db (possibly out of sync: shard_client_seqno=37852420 ls_seqno=37852481)
 
-Nightwing: Can someone please tell me the solution for this (reply to 59626)
+Nyxra: Can someone please tell me the solution for this (reply to 59626)
 
-Nightwing: Sometimes the transaction is a success and sometimes gives this error (reply to 59626)
+Nyxra: Sometimes the transaction is a success and sometimes gives this error (reply to 59626)
 
 &rey: Have you read the error? Connect to single liteserver then. (reply to 59626)
 
-Nightwing: Yes I read but didn't understand.  provider = LiteBalancer.from_mainnet_config(2)  You mean I should write 1 here instead of 2? I tried that before and got an error. I did some research and found that others were also getting the same error and they people were writing 2 to fix it so I did the same. (reply to 59629)
+Nyxra: Yes I read but didn't understand.  provider = LiteBalancer.from_mainnet_config(2)  You mean I should write 1 here instead of 2? I tried that before and got an error. I did some research and found that others were also getting the same error and they people were writing 2 to fix it so I did the same. (reply to 59629)
 
 &rey: Something something ls_index. (reply to 59630)
 
@@ -6272,7 +6268,7 @@ Jane: Hi does anyone have TON brand guideline?
 
 Jane: thank you, got it!
 
-Nightwing: Please what does this mean 😭 (reply to 59631)
+Nyxra: Please what does this mean 😭 (reply to 59631)
 
 Nerkrkririei I Think I Need A It's A: How can I get the details of transferred items by transaction hash?
 
@@ -6704,7 +6700,7 @@ Sasha: hi, do you know some open-source DEX on TON?
 
 Development: Hello. Please help me, I urgently need a job, every day, I’m ready to give 6 hours. I’m a professional developer who has completed my studies. I’m waiting for your assignments in private messages
 
-Nightwing: I think I can (reply to 60077)
+Nyxra: I think I can (reply to 60077)
 
 Johan: Sorry for disturbing, but can you check current state of my node? Is that ready for proper work now? (reply to 60030)
 
@@ -7940,7 +7936,7 @@ Nerkrkririei I Think I Need A It's A: do you know how I can remove the bounce fl
 
 &rey: Address.parse('...').toString({bounceable: false}) (reply to 61237)
 
-a11: import { Address } from '@ton/ton' Address.parse('...').toString({bounceable: false}) (reply to 61237)
+ally11: import { Address } from '@ton/ton' Address.parse('...').toString({bounceable: false}) (reply to 61237)
 
 Nerkrkririei I Think I Need A It's A: ok, thanks (reply to 61238)
 
@@ -8198,7 +8194,7 @@ Makten: Any reason why Ton seems to process transactions incredibly slow for a s
 
 Kenny$$Shillz: Wrap in a number class instance (reply to 60655)
 
-𝐇𝐚𝐧𝐬𝐚 𝐌𝐨𝐝𝐞𝐫𝐚𝐭𝐨𝐫: We need a smart contract for additional payment in a neuro-bot in tenge. We plan to extend the token throughout the ecosystem in the future. Preferably on the TON network -when you purchase a service, tokens are sent to your wallet. -replenishment of the bot. - output from the bot. -allow/deny a token for replenishment/withdrawal/purchase of services in the bot. - balance check. -checking whether the token is allowed/prohibited for interaction with the bot. -installation of a new wallet to which funds will be sent when purchasing a service.
+𝐓𝐡𝐞𝐂𝐚𝐭𝐅𝐚𝐭𝐡𝐞𝐫: We need a smart contract for additional payment in a neuro-bot in tenge. We plan to extend the token throughout the ecosystem in the future. Preferably on the TON network -when you purchase a service, tokens are sent to your wallet. -replenishment of the bot. - output from the bot. -allow/deny a token for replenishment/withdrawal/purchase of services in the bot. - balance check. -checking whether the token is allowed/prohibited for interaction with the bot. -installation of a new wallet to which funds will be sent when purchasing a service.
 
 John: I Personally do not understand. You have to come clear please.  👉 What is meant by replenishment of bot? (reply to 61495)
 
@@ -8288,7 +8284,7 @@ Johan: https://pypi.org/project/ton-client-py/ (reply to 61573)
 
 Johan: goddamn, I need to make more robust fetcher for nodes :D
 
-Nightwing: Guys I want to make a telegram bot like notcoin, is there any free source code available online
+Nyxra: Guys I want to make a telegram bot like notcoin, is there any free source code available online
 
 Johan: Probably $not (reply to 61577)
 
@@ -8410,7 +8406,7 @@ Makten: This is what I was looking for. Thank you. Are there any improvement pro
 
 Vatshayan: same error  Code I have referd from jetton ton doc (reply to 61654)
 
-takezō: Hello!  My dictionary stores cell (through udict_set_ref()) Can I use the udict_get_next function for iteration? Because the function returns a slice, and there's no function with cell output.  If I can, will I get a slice of my cell or should I extract my cell out of this slice?
+~/takezō: Hello!  My dictionary stores cell (through udict_set_ref()) Can I use the udict_get_next function for iteration? Because the function returns a slice, and there's no function with cell output.  If I can, will I get a slice of my cell or should I extract my cell out of this slice?
 
 Aydin: Not sure if I understood your intent properly, but I guess it is better to work with slices for iteration in general. You can easily convert cells to slices with .begin_parse() (reply to 61661)
 
@@ -9192,7 +9188,7 @@ Zachary: Hello everyone, anyone here understands this metric? Not really sure ho
 
 Modusp 💯: Pls anyone here that can explain more better to me
 
-Taki: Hello, I'm a python developer, I want to build a program to retrieve information from wallets using seed phrases, but I don't know how to send these requests, please help!
+김선우: Hello, I'm a python developer, I want to build a program to retrieve information from wallets using seed phrases, but I don't know how to send these requests, please help!
 
 M3: Need developer able to work with smart contracys
 
@@ -9534,7 +9530,7 @@ Tiago: didn't found any explorer with that information
 
 Vatshayan: Hy what is this 3 API key for premium user.  how we gonna use 3 API key if request per second goes above?
 
-takezō: Is there alternative for tonweb's writeBytes in @ton/ton lib?  const commentBytes = new TextEncoder().encode(comment); const payload = new TonWeb.boc.Cell();  payload.bits.writeBytes(commentBytes);
+~/takezō: Is there alternative for tonweb's writeBytes in @ton/ton lib?  const commentBytes = new TextEncoder().encode(comment); const payload = new TonWeb.boc.Cell();  payload.bits.writeBytes(commentBytes);
 
 Jonny: hi, if i minte an nft using the ton package with typescript. how can i update it? whether it's the price or its attributes?
 
@@ -9714,7 +9710,7 @@ Nikita: Yes (reply to 62879)
 
 User<6676350680>: Howdy,who is currently in need of frontend and web3 developer?
 
-takezō: Hi, is there any example for Dictionary.Values.Slice in ton js?  UPD:  function createSliceValue() {   return {       serialize: (src, buidler) => {           buidler.storeSlice(src);       },       parse: (src) => {           return src.loadSlice();       }   } }  Slice: () => {             return createSliceValue();  }
+~/takezō: Hi, is there any example for Dictionary.Values.Slice in ton js?  UPD:  function createSliceValue() {   return {       serialize: (src, buidler) => {           buidler.storeSlice(src);       },       parse: (src) => {           return src.loadSlice();       }   } }  Slice: () => {             return createSliceValue();  }
 
 Erfan: buidler instead of builder is hurting me (reply to 62944)
 
@@ -9722,7 +9718,7 @@ Erfan: buidler instead of builder is hurting me (reply to 62944)
 
 Bryan: Hi want to ask is dynamic sharding already in working and in use in ton? and in the future when other workchains are activated, will dynamic sharding apply to those too? so for example if the new workchain uses evm, does this mean ton's architecture instantly allow dynamic sharding on the evm working chain?
 
-takezō: Hello, I'm forming such a dict and sending it through storeDict / storeDictDirect, and in the contract func in_msg_body~load_dict().  When I loop through the dict, it says there are supposedly 0 elements (flag = 0, or nothing is incremented in the loop; I've tried both ways).  Am I saving k+v incorrectly or what? Keys: [0, 1, 2] values: can be seen in the terminal screenshot.
+~/takezō: Hello, I'm forming such a dict and sending it through storeDict / storeDictDirect, and in the contract func in_msg_body~load_dict().  When I loop through the dict, it says there are supposedly 0 elements (flag = 0, or nothing is incremented in the loop; I've tried both ways).  Am I saving k+v incorrectly or what? Keys: [0, 1, 2] values: can be seen in the terminal screenshot.
 
 Batyr: Hey guys, I can't figure out what's the difference between cell and slices. And why we have both as inputs to () recv_internal(cell in_msg_full, slice in_msg_body) .  Doc's description somewhat confusing. Is there any article where I can read more detailed info?
 
@@ -10392,13 +10388,13 @@ Disha | SMBmarket: Hey guys need your help!!  How we can store the metadata in B
 
 Mikko: The last post to answers.ton.org is 1 month ago, and I believe nobody is clearing the moderating queue for the new posts. Is there a plan to continue this site or shut it down, as it is currently functioning?
 
-абв: how to withdraw money from ton contract address? i owner
+коммунист: how to withdraw money from ton contract address? i owner
 
 &rey: Generally, no one can. People who deployed the contract have no special privileges. (reply to 63583)
 
 &rey: I've only heard of TON withdrawals from owned NFT balance. To do so, you can send it to yourself.
 
-абв: so why then balance the NFT collection if it can be replenished but not withdrawn? (reply to 63584)
+коммунист: so why then balance the NFT collection if it can be replenished but not withdrawn? (reply to 63584)
 
 &rey: It may be a bug in its code, that it retains too much TON. (reply to 63586)
 
@@ -10488,15 +10484,15 @@ chebu: tact is better, func is ok as well (reply to 63651)
 
 Johan: Guys, one freakin' question.  Circulating supply = Max Supply - Current Balance  ???
 
-Reza 👑🐈‍⬛ $WELF 🐾: Mcap ?
+Reza Pawtato: Mcap ?
 
 Johan: Yep, in the end I want to calculate MarketCap. (reply to 63656)
 
 Johan: Then, circulating supply * current price = marketcap?
 
-Reza 👑🐈‍⬛ $WELF 🐾: Yes
+Reza Pawtato: Yes
 
-Reza 👑🐈‍⬛ $WELF 🐾: Tokenomist understand these things
+Reza Pawtato: Tokenomist understand these things
 
 Johan: I'm writing my own "bicycle".
 
@@ -10512,9 +10508,9 @@ Johan: Wanted to create really understandable documentation and guide for that a
 
 Johan: Because they are not well documented.
 
-Reza 👑🐈‍⬛ $WELF 🐾: I get it now (reply to 63668)
+Reza Pawtato: I get it now (reply to 63668)
 
-Reza 👑🐈‍⬛ $WELF 🐾: I just started out with developing, I'm more like an observer
+Reza Pawtato: I just started out with developing, I'm more like an observer
 
 User<1795676886>: Guys, in this TON know the gass for the fees?. Or there other units for calling?
 
@@ -13722,7 +13718,7 @@ C: Can you explain about the method in details? (reply to 67772)
 
 User<6670085319>: I code website & contracts and tg bots for meme coin & dApps(EVM & Sol & TON). Does anyone need?
 
-𖣂𖣂𖣂-🤍🦋 rifal🦋🤍: /
+𖣂𖣂𖣂-🤍🦋 Sifen🦋🤍: /
 
 User<6669453785>: https://t.me/buddle0xdev (reply to 67768)
 
@@ -14230,7 +14226,7 @@ Colin: yeah, that's my last resort. Don't really want to pay aws $600/month for 
 
 Do not listen to me = chikn bruh apexoor mining $coq $ket $blub: I am already on it in here. We wait for Monday admins (reply to 68602)
 
-𖣂𖣂𖣂-🤍🦋 rifal🦋🤍: /
+𖣂𖣂𖣂-🤍🦋 Sifen🦋🤍: /
 
 Do not listen to me = chikn bruh apexoor mining $coq $ket $blub: For sure (reply to 68605)
 
@@ -14242,7 +14238,7 @@ Lex: 👀 looking for a developer for a large custom compressed-nft collection, 
 
 User<6981260071>: What language (reply to 68631)
 
-kopoba: hey, can I deploy a small social network on TON?
+User<5291110476>: hey, can I deploy a small social network on TON?
 
 User<6981260071>: Sure (reply to 68644)
 

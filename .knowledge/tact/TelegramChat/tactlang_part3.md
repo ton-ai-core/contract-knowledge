@@ -7149,3 +7149,387 @@ V: Hey looking to start develop on Ton, some articles on the topics for beginner
 Андрей: https://docs.tact-lang.org/book/learn-tact-in-y-minutes/ (reply to 61507)
 
 V: Thanks 🙏🏽
+
+Шу: Hello everyone! Please help me figure this out. When I compile file main.tact I keep getting the same error: Error: main.tact:3:13: Expected ":" 2 | // Variable for storing NFT description > 3 | storage last_description: cell;  Tact version 1.6.7 I checked it on two different computers with Ubuntu and MacOS. I've already rewritten it dozens of times in different ways, nothing helps(((  contract Fanta {     // Variable for storing the last NFT description     storage last_description: cell;      init() {         self.last_description = empty_cell(); // Пустое значение при инициализации     }      // mint NFT — just save description     receive("mint") {         let description = slice::load_ref();         self.last_description = description.as_cell();         send_raw_message(sender(), 0, "Mint successful");     }      // Get last description     get fun get_last_description(): cell {         return self.last_description;     } } This Expected ":" it constantly appears... Thanks advance! 🙏
+
+Dmitry: Just remove ‘’’storage’’’ (reply to 61521)
+
+Dmitry: Your code looks very awkward tbh
+
+Dmitry: Some weird mix of Tact and FunC
+
+Шу: I am an amateur) thanks for your advice I will try it
+
+Dmitry: I will not expect that this code will compile
+
+Dmitry: https://docs.tact-lang.org/book/learn-tact-in-y-minutes/
+
+Dmitry: Maybe you want to start here
+
+David: Hi, I want to ask, does anyone know where I can get a smart contract for a reward token? (The one where the commission from purchases/sales is divided between holders.)
+
+— 2025-05-03 —
+
+Roman: How to check this for Anonymous Telegram Numbers? (reply to 58940)
+
+— 2025-05-04 —
+
+Georgiy: 🔧 Announcing: OCaml library for FunC parsing: nowarp/ocaml-func  For developers working with FunC, this library provides AST and parser functionality. (forwarded from nowarp | TON Security)
+
+— 2025-05-05 —
+
+Randolph: I have a smart contract written in Tact. Which SDK is most suitable for initiating interactions from the frontend?
+
+maksim: I guess there is only one option now - using Ton Connect as wallet provider and Tact generated wrappers within it to create messages for send (reply to 61743)
+
+Yet Another Anti-Spam Bot: Bot decided that this is a spamer. Is it correct? Vote (1/3)
+
+— 2025-05-06 —
+
+Abrham: Hi, I've developed a web app similar to Polymarket where users can deposit Toncoin and interact with the platform. When a user wants to withdraw their balance, the process should be automatic.  I understand how to handle deposits using TON Connect, but my question is: How can I automate withdrawals without requiring my manual intervention?
+
+Daniil: Use highload wallet on backend (reply to 61849)
+
+Akan: Hi guys, I need some help sending a message to a contract from a react app, the user connects their wallet and then triggers the transaction that then sends the message as the payload of the transaction, I have figured everything except the creation of the payload, its a lot of cell manupulation I see online, which is a bit confusing, is there some article I can use to figure it out?  Thanks a bunch!
+
+Akan: Thank you!, I have figured it out (reply to 61925)
+
+— 2025-05-07 —
+
+Ivan: Hi! I have a receive method where the message contains a referrer address (other than the sender). Since the message may be sent from an alternative client, I need to validate this address in my receive method to ensure it's valid and I can send messages to it. Could you provide an example or just point me in the right direction? I need something like this:  receive(msg: MyMessage) {     let isValid = isAddressValid(msg.referrerAddress); //???     if(isValid) {         someAction();     } }
+
+Slava: I'm afraid you will have to define what the "valid" is, in your terms. (reply to 61995)
+
+Ivan: - Is properly formatted according to the blockchain's address structure (this would probably throw an error earlier, when the client tries to send the message) - Exists on the same chain as my contract (reply to 61998)
+
+Slava: I believe the Tact will handle address deserialization for you and will halt if the address format is invalid.
+
+maksim: True, if it's defined in MyMessage message definition as Address field than Tact will handle it (reply to 62000)
+
+Slava: Regarding the workchain, check the methods starting from here.
+
+Anton: For you all, JetBrains IDEs lovers: intelli-tact plugin release 📸  🍲 got IDEA? ♨️ @tact_kitchen from the @ton_studio (forwarded from TON Dev News)
+
+Brave: offtopic but  Please make a FunC lsp plugin for neovim (or just vim)  Add FunC to the nvim-lspconfig pleeeeaseee 🥺 (reply to 62005)
+
+Anton: you should probably ask the team behind FunC to do it :) (reply to 62007)
+
+Brave: 💯  But only the TacT team is actually doing shit...  So i hardly think about moving from FunC -> to Tact... 🤔 (reply to 62009)
+
+Anton: you should be, you can already be more gas efficient since Tact 1.6.0 (if you follow the guidelines here: https://docs.tact-lang.org/book/gas-best-practices/)  and we are working on a new backend to completely cut off FunC and Fift from the compilation pipeline (reply to 62010)
+
+Brave: soon, i will seriously look forward into doing that. 🤝  We'll see)) (reply to 62011)
+
+Slava: 👏🏻 😅 (reply to 62010)
+
+— 2025-05-08 —
+
+🔳 ivan: Hi! I created a contract that emits event. Now i want to build a listener for such a contract. can you please guide me on off-chain part of this solution? how to get emitted events and parse the event data given event "abi"?
+
+Adam: Yeah sure thing what if you can explain what you want the listener to do I can help (reply to 62071)
+
+Lê: can you help me?  async getCounter(provider: ContractProvider) {         const builder = new TupleBuilder();         const source = (await provider.get('counter', builder.build())).stack;         const result = source.readBigNumber();         return result;     } this void is problem with user wallet
+
+— 2025-05-09 —
+
+Daniil: hello, tell me how to get correct op code from forwardPayload  const innerPayload = beginCell()                 .storeUint(0x54d5c342, 32)                  .endCell();                  const jwPayload = beginCell()                 .storeUint(0xf8a7ea5, 32)                 .storeUint(0, 64)                 .storeCoins(10 * 10**decimals)                 //.storeCoins(toNano(1))                 .storeAddress(smcAddress)                 .storeUint(0, 2) // response address -- null                 .storeUint(0, 1)                 .storeCoins(toNano("0.1"))                 .storeBit(1)                 .storeRef(innerPayload)                 .endCell()                  const payload = jwPayload.toBoc().toString('base64');  receive(msg: JettonTransferNotification) {          if (!msg.forwardPayload.empty()) {             let payload: Slice = msg.forwardPayload;             let opcode: Int = payload.loadUint(32);               if (opcode == 0x54d5c342) {                 self.requireNotStopped();                 let seed: Int = getSeed();                  setSeed(seed);                                let prize: Int = random(self.minPrize, self.maxPrize);                    send(SendParameters{                     to: self.myJettonWallet,                     value: JettonTransferGas,                     body: JettonTransfer {                         queryId: 6,                         amount: prize,                         destination: sender(),                         responseDestination: myAddress(),                         customPayload: null,                         forwardTonAmount: ton("0.015"),                         forwardPayload: rawSlice("F")                     }.toCell()                 });             }         } else {             self.myJettonBalance += msg.amount;             self.forward(msg.sender, null, false, null);         }        }
+
+klass: Please check out here:  https://github.com/ton-blockchain/liquid-staking-contract/blob/1f4e9badbed52a4cf80cc58e4bb36ed375c6c8e7/utils.ts#L426 (reply to 62161)
+
+A: Hi guys. Anyone faced this issue: When TonConnect is connected to a wallet (in a React.js app), sending the transaction causes openning a url in the browser instead of openning the already installed Wallet app (eg. TonKeeper). When sending the transaction the app should ask to open the already installed wallet app instead of openning this page.
+
+Slava: It's not the first report of this issue. (reply to 62193)
+
+— 2025-05-10 —
+
+Kenny: Hi guys. I'm new to Ton and Tact. I don't know what a map<K, V> actually does under the hood, so I have concerns that this type will consume lots of gas.  According to Ton docs, TVM is a stack machine, and it can operates on 7 types like integer and cell. So I'm assuming a map<K, V> is essentially a cell. (If my understanding is wrong here, then please ignore the following questions)  As far as I know, the data/bits in a cell cannot be randomly accessed, and can only be converted to a slice, then read and parsed bit by bit. Based on this fact, I have 2 questions:  1. Does a map<K, V> create a new cell for each new key value pair? And all cells (each with one and only one key-value pair in it) are organized in a binary-tree-like structure, leveraging the ability that each cell can store at most 4 references to other cells.  2. What's the time complexity of map.get and map.set and other functions? It seems to be O(log N) or even worse?  Thanks in advance 🙏
+
+Philip: Maps are called "dictionaries" on TVM side, and operations on them are implemented with assembly instructions. See "Dictionary manipulation" section here. (reply to 62249)
+
+Philip: Exact details on how dictionaries are stored can be found in tvm.pdf whitepaper, section 3.3 (reply to 62249)
+
+Kenny: Thanks a lot!!! I'll check them
+
+Philip: Time complexity doesn't really matter much, the thing that counts is amount of spent gas. TVM instruction documentation has "gas" column, albeit sometimes that number is wrong.  You can enable full TVM logs in sandbox and see actual gas costs for every instruction (reply to 62249)
+
+Kenny: At first I didn't know there are dedicated TVM instructions on operating on hashmap/dictionary. I thought the functionality of a map<K, V> is provided by Tact via encapsulating lots of low-level codes. But since there are dedicated TVM instructions, you are probably right that the time complexity doesn't matter much
+
+Philip: Also I have to tell that if you intend to store large amount of data in maps, you'll hit a limit on total amount of storage of a single contract. Scalable solution would use a child contract.  I recall we had some kind of documentation about that, but don't recall where exactly. The person who knows will likely answer here after weekend and public holidays are over (reply to 62254)
+
+Kenny: Yea, I've seen this on Tact book. Thanks for reminding 🥹 (reply to 62255)
+
+Amr: Hi
+
+Kenny: I also think it would be better if the details (reference links) of how a map<K, V> works is written in the "Maps" chapter of the Tact Book.
+
+Slava: I wonder what was the reason behind renaming dictionaries to maps. This is very confusing. Especially for people coming from lower level stuff.
+
+Anton: Who knows :) We just have to live with this now (reply to 62264)
+
+Slava: Oh, I see )
+
+Slava: By the way, I haven't seen any mention of the dictionaries in Tact docs.
+
+Anton: https://docs.tact-lang.org/book/exit-codes/#10 (reply to 62267)
+
+Anton: https://docs.tact-lang.org/book/maps/#ascell (reply to 62249)
+
+Slava: I was expecting to find it on this page.
+
+Anton: it is the same page :) (reply to 62274)
+
+Anton: a quick Cmd+F (Ctrl+F) revealed it to me  but yeah, this can be improved, of course
+
+Kenny: These docs are really helpful! Thanks a lot
+
+Anton: thanks for your questions that help improve the docs
+
+Anton: I just opened an issue about the map representation: https://github.com/tact-lang/tact/issues/3029
+
+Slava: I would've moved it to the top of the page or even renamed the page to read "Maps (dictionaries)" ;) (reply to 62275)
+
+— 2025-05-11 —
+
+Kenny: Hi guys. I have 2 questions regarding the "Communication and messaging" chapter in the Reference.  1. What's the point of send() function? If I want to send a message without deploying a contract, I can use message() and it's even cheaper. If I want to send a message and deploy a contract if there's no contract, I can use deploy() and it's cheaper too. So when should I use send()?  2. Under which situation should I use sendRawMessage()? According to the TL-B definition of a message: int_msg_info$0 ihr_disabled:Bool bounce:Bool bounced:Bool   src:MsgAddressInt dest:MsgAddressInt    value:CurrencyCollection ihr_fee:Grams fwd_fee:Grams   created_lt:uint64 created_at:uint32 = CommonMsgInfo; ext_in_msg_info$10 src:MsgAddressExt dest:MsgAddressInt    import_fee:Grams = CommonMsgInfo; ext_out_msg_info$11 src:MsgAddressInt dest:MsgAddressExt   created_lt:uint64 created_at:uint32 = CommonMsgInfo;  message$_ {X:Type} info:CommonMsgInfo   init:(Maybe (Either StateInit ^StateInit))   body:(Either X ^X) = Message X; and the SendParameters: struct SendParameters {     mode: Int = SendDefaultMode;     body: Cell? = null;     code: Cell? = null;     data: Cell? = null;     value: Int;     to: Address;     bounce: Bool = true; }  It seems that SendParameters covers all settable fields except for IHR related fields (but anyway IHR mechanism isn't implemented yet).
+
+User<7759979758>: Differ is in sugar and compilation result. Method "message" is universal, "send" & "deploy" — more specific.
+
+/B4ckSl4sh\: send is general, while message and deploy are mose specific (reply to 62393)
+
+/B4ckSl4sh\: It's left mainly for backwards compatibility (reply to 62392)
+
+Kenny: Thanks!
+
+— 2025-05-13 —
+
+Kenny: Hi guys. What will happen if there's no corresponding receiver function when receiving a message? For example:  1. When receiving an internal message with body of unknown opcode, and there's no fallback receive(msg: Slice)  2. When receiving an internal message without body, and there's no receive()  3. When receiving a bounced message, but there's no bounced() or other bounced message receiver.  Will this message be simply ignored without throwing an error, and the message value is credited to the contract? Or will the contract throws an error in computation phase?
+
+Евгений: 1. error thrown for unknown opcode 2. if opcode is known, then contract will try to parse body (if opcode requires that) and error thrown because body is empty 3. it should be just ignored (reply to 62662)
+
+Kenny: Oh! I understand. Thanks a lot 🙏
+
+Fynn: Hello, I’m trying to do the following with no success: User calls a function to deposit some amount x of Ton in a contract, so the user can send x + y amount of Ton to cover fees. I can specify x in the msg itself, and y should be greater than a constant to cover fees. I though about calling nativeReserve to reserve the amount of x, so only x is effectively sent to the contract and send the rest with SendRemainingValue and value = 0. But it doesn’t seem to work, can someone see the flaw in my approach?
+
+maksim: This is tricky, but reserve doesn't work with this send mode because of very low level stuff (reseve doesn't update internal message balance) (reply to 62717)
+
+maksim: Your approach is right, but this is the corner case for such action combination
+
+/B4ckSl4sh\: And if I understood correctly, exactly what you are doing but with mode SendRemainingBalance will work for you
+
+Fynn: Then it’s not really possible, another approach is instead of relying in the actual balance of the contract, I could keep track of the balances myself and rely on this number instead of the actual balance of the contract. But wanted to still try the approach that looked more natural
+
+maksim: Here is docs link for this  https://docs.ton.org/v3/documentation/smart-contracts/message-management/message-modes-cookbook#mode64  See notice section (reply to 62717)
+
+Fynn: Is there some way to do this that doesn’t involve keeping track of the balance myself? This would complicate the code a lot since I need to add a step to solve this divergence between the actual balance of the contract and the one I’d like to track.
+
+&rey: I wouldn't recommend; after all, some transactions might've decreased balance (with storage fees) while not launching TVM at all. (reply to 62724)
+
+fruitful-l: Hi, I'm trying to make Jetton transfer from my contract to my wallet. This is how I do it: receive(msg: Invested) {         let init = getJettonWalletInit(myAddress());         self.budget += msg.value;         send(SendParameters {             to: contractAddress(init),             value: msg.value,             body: JettonTransfer {                 queryId: self.id,                 amount: 100,                 destination: msg.investor,                 responseDestination: null,                 customPayload: null,                 forwardTonAmount: 1,                 forwardPayload: beginCell().storeUint(32, 7).asSlice(),                                              }.toCell(),         }); I'm confident I'm doing something wrong, surly there's a problem with calculating contract's wallet address as after it gets the msg, it sends another message to init contract that bounces back
+
+Anton: you might want to check out the recipes in https://github.com/tact-lang/defi-cookbook (reply to 62751)
+
+fruitful-l: Glad to know that the solution is somewhere there. I'm having huge troubles implementing what I've seen on the cookbook into my contract, but thanks anyway for reducing the search area (reply to 62752)
+
+&rey: Does that consider that a) a random jetton is likely incompatible with any specific implementation of this, b) jetton master contract is not equal to myAddress() in context of this tx? (reply to 62751)
+
+fruitful-l: Should it be equal to jetton master address? Isn't it supposed to be address of the contract that has jettons? (reply to 62754)
+
+— 2025-05-14 —
+
+Seva: The to address in SendParameters should be the Jetton wallet address (derived from the Jetton master contract and your contract’s address), not the Jetton master address. The Jetton wallet is the contract that holds the Jettons for your contract.
+
+fruitful-l: The contract I’m using this function in is not the jetton master. I was trying to send message to the contract’s jetton wallet, therefore I need its jetton address. I’m using inline function imported from another contract, and that was the error. It’s from the minter and has arguments: address(wallet), myAddress(Should be minter address, but since I imported it became another jetton wallet address), and balance. The solution was using initial function which I described above but with minter address and not myAddress() (reply to 62799)
+
+Seva: Thank you for such a detailed description and comments. Do you have you any additional issues now? (reply to 62830)
+
+Angel Ⓜ️ MEMES: Please how does this work?
+
+fruitful-l: Everything seems to be working, at least for now, thanks! (reply to 62837)
+
+Angel Ⓜ️ MEMES: Anyone please 🙏 (reply to 62838)
+
+Seva: I did not got you clearly, what exactly do you mean by "this"? Is it a situation, issue, event or smthng else? How would you describe "this"? (reply to 62840)
+
+Sol: looking for orders for the development team
+
+Герман: Тут есть русские?
+
+Sol: https://t.me/tactlang_ru (reply to 62888)
+
+— 2025-05-15 —
+
+u: I can help you (reply to 35371)
+
+Kenny: Hi guys, me again 🥺 Under the hood, is a struct actually a tuple in TVM? For example: struct Coordinate {     x: Int as int32;     y: Int as int32; }  fun foo() {     let c = Coordinate {         x: 4,         y: 3,     }; } From TVM's perspective, is variable c a tuple with 2 integer elements, so x and y together form only one element on the stack? Or there are 2 integer elements on the stack, representing x and y namely?
+
+Hung: is jBTC token is legit? i just wanna use BTC in TON network for my projects
+
+Anton: It depends, but it’s usually two elements in the stack (reply to 62926)
+
+Kenny: Thanks!
+
+Seva: Me too (reply to 62882)
+
+— 2025-05-16 —
+
+A: Hi guys. How to get the user's wallet type using code to see if they are using version 5 or other versions? eg WalletContractv4, WalletContractV5R1, ...
+
+Alexander: Hello everyone. Is there a way to on-chain verify that the STON fi router address passed to the contract actually belongs to STON fi? DeDust has this option and it is implemented by creating a proof for a specific pair of jettons (there is an example in their sdk), which does not allow funds to be sent to the hacker's wallet  Here is the implementation for DeDust:  // DeDust contract type const DEDUST_CONTRACT_TYPE_VAULT: Int = 1; const DEDUST_CONTRACT_TYPE_POOL: Int = 2; const DEDUST_CONTRACT_TYPE_LIQUIDITY_DEPOSIT: Int = 3;  // DeDust factory address const DEDUST_FACTORY_ADDRESS: Address = address(   "EQBfBWT7X2BHg9tXAxzhz2aKiNTU1tpt5NsiK0uSDW_YAJ67" );  // DeDust contract code const DEDUST_BLANK_CODE: Cell = cell(   "te6ccgEBBAEAlgABFP8A9KQT9LzyyAsBAgJwAwIACb8pMvg8APXeA6DprkP0gGBB2onai9qPHDK3AgFA4LEAIZGWCgOeLAP0BQDXnoGSA/YB2s/ay9rI4v/aIxx72omh9IGmDqJljgvlwgcIHgmmPgMEITZ1R/V0K+XoB6Z+AmGpph4CA6hD9ghDodo92qYgjCCLBAHKTdqHsdqD2+ID5f8=" );  // Create proof to confirm DeDust address fun createProofAddress(   factoryAddress: Address,   contractType: Int,   jettonAddress: Address? ): Address {   let data = beginCell()     .storeAddress(factoryAddress)     .storeUint(contractType, 8);    if (jettonAddress == null) {     data = data.storeUint(0b0000, 4);   } else {     let parsedAddress = parseStdAddress(jettonAddress!!.asSlice());      data = data       .storeUint(0b0001, 4)       .storeInt(parsedAddress.workchain, 8)       .storeUint(parsedAddress.address, 256);   }    return contractAddress(     StateInit {       code: DEDUST_BLANK_CODE,       data: data.endCell()     }   ); }  // Create proof to confirm the DeDust vault address fun createVaultProofAddress(   factoryAddress: Address,   jettonAddress: Address? ): Address {   return createProofAddress(     factoryAddress,     DEDUST_CONTRACT_TYPE_VAULT,     jettonAddress   ); }  // Verification of DeDust vault address fun verifyVaultAddress(   vaultAddress: Address,   factoryAddress: Address,   jettonAddress: Address? ) {   require(     vaultAddress == createVaultProofAddress(factoryAddress, jettonAddress),     "Invalid DeDust vault address"   ); }  And what is the implementation for STON fi?
+
+Slava: Hey. You just need to compare the contract's code with the canonical one. (reply to 63072)
+
+— 2025-05-18 —
+
+M.a: C:\Users\extra>npm install -g https://github.com/tact-lang/tact.gitnpm warn deprecated inflight@1.0.6: This module is not supported, and leaks memory. Do not use it. Check out lru-cache if you want a good and tested way to coalesce async requests by a key value, which is much more comprehensive and powerful.npm warn deprecated glob@8.1.0: Glob versions prior to v9 are no longer supported\
+
+Anton: it’s fine, won’t affect your smart contracts (reply to 63274)
+
+M.a: I want to create a system that receives inputs from the user and, based on a specific algorithm, generates a license key to be used for activating a software application. Last night, I was installing the prerequisites, but I ran into some issues while trying to install Tact. I'll try again tonight and also get help from ChatGPT.
+
+poppa: Have you considered that the blockchain state is public and therefore any license key you generate will be readable by the entire world? (reply to 63276)
+
+Daniil: I don't think smart contract is the right solution for that goal (reply to 63276)
+
+Daniil: why? (reply to 63291)
+
+M.a: Yes, the keys are visible to everyone, but each key is generated for only one user ID, so the keys are unique." (reply to 63282)
+
+M.a: Smart contracts eliminate the need for a server and simplify the process of collecting subscription fees. I no longer need to generate the keys manually—there just needs to be a complex enough algorithm so that the encryption cannot be easily guessed through reverse engineering. (reply to 63290)
+
+M.a: The user enters their account number and selects the license duration, and the key is generated based on these inputs. On the other side, within the software, it checks whether the account number matches the system's account number and whether the algorithm follows the pattern defined by the developer. Only then is the user authorized to use the software.
+
+M.a: I have a problem: this is my first experience writing a smart contract, and I couldn't even run hello.tact without errors. I'm using ChatGPT for help, but I'm still getting errors. I was hoping to have a simple example of a contract to help me get started.
+
+M.a: contract Hello {      get inline greet(): String {         return "Hello, blockchain!";     }  }   What is the problem?
+
+Denis: Try harder 🌚️️ https://docs.tact-lang.org/book/learn-tact-in-y-minutes/ (reply to 63342)
+
+&rey: that tends to make things worse. LLMs are extremely not familiar with TON. (reply to 63338)
+
+&rey: It is actually comparable with coming from EVM to TON.
+
+Jan: Which AMM dex like uniswap v2 in Ton chain?
+
+&rey: Both Dedust and Stonfi I guess? Tho how is that related to Tact? (reply to 63346)
+
+Jan: Which one is built using tact between two? Also can I implement adding liquidity in my Tact contract even if the dex is not built using Tact? (reply to 63347)
+
+&rey: 1. Neither. 2. Of course. Tact can send pretty much any message to other contracts, and that is sufficient to control, in particular, liquidity adding. (TON's account boundary also happens to abstract implementation away.) (reply to 63348)
+
+/B4ckSl4sh\: We are developing https://github.com/tact-lang/dex now, you can check it out (reply to 63348)
+
+Jan: Do you have any codesnippet which interacts ston.fi and adding liquidity using Tact? (reply to 63349)
+
+&rey: No. But I know that, per https://docs.ston.fi/developer-section/api-reference-v2/example_lp_provide, you just have to send two jetton transfers with appropriate forward payloads. (reply to 63352)
+
+Anton: have you checked this page?  https://docs.tact-lang.org/cookbook/dexes/stonfi/#liquidity-provision  if something does not work there, please let us know (reply to 63352)
+
+Jan: How can we deploy new contract and get address inside receiver()? For example in solidity ERC20 token = new ERC20(....); address tokenAddress = address(token); How can we implement this in Tact?
+
+— 2025-05-19 —
+
+&rey: Note: you can obtain address prior to deploying contract. Knowing this, do you still need to deploy it? (reply to 63390)
+
+M.a: Is the smart contract code I use for the license key generation algorithm visible to everyone? If the answer is yes, is there a way to keep the algorithm hidden?
+
+&rey: Visible to everyone. No you can't hide algorithm. (reply to 63424)
+
+&rey: Nor the data or results of evaluation, actually, so if a "license key" is generated it will be available to anyone.
+
+M.a: It doesn’t matter if the key itself is publicly accessible; what matters to me is that the key generation algorithm is not made public. (reply to 63426)
+
+&rey: You are choosing wrong tools. Blockchain, with its transparency and ability to replicate+verify any part, is uniquely bad-suited for the task. (reply to 63427)
+
+Jan: I am going to build token factory contract which deploys new token when user requests Btw how can we get address before deploy? (reply to 63423)
+
+&rey: I believe you should check out Tact Smart Battle, it can point at some fundamental knowledge for you. (reply to 63429)
+
+Jan: What is Tact Smart Battle? (reply to 63430)
+
+&rey: This one: https://github.com/ton-studio/tact-smart-battle, which was run on Codeforces. (reply to 63431)
+
+Georgiy: If you must use blockchain (you should not), you could move the key generation logic to the off-chain part (kind of trusted oracle) and store the computation results on-chain. These could either be the keys generated by your algorithm as-is or zk proofs that you know them if they also need to be private. (reply to 63424)
+
+Michaelzy: Hey guys  want to know if it's possible to upgrade contracts on tact or if its better(possible) to design a proxy contract
+
+Dmitry: https://docs.tact-lang.org/cookbook/upgrades/ (reply to 63463)
+
+Michaelzy: Thank you (reply to 63464)
+
+Dagnachew: Hi
+
+— 2025-05-20 —
+
+`SayedEx: Hello
+
+`SayedEx: i am new in TON anyone can help me with jetton deployment?
+
+Georgiy: The easier way is to use blueprint: https://github.com/ton-org/blueprint?tab=readme-ov-file#deploying-contracts (reply to 63543)
+
+Anton: take a look at this project https://github.com/tact-lang/jetton  it showcases deployment scripts  you might also want to check out this repo too: https://github.com/tact-lang/defi-cookbook (reply to 63543)
+
+`SayedEx: I can verify the contract as well here sir?   Also, can you please send me a standard jetton token smart contract that i can learn and deploy to production.   Thanks 🙌 (reply to 63546)
+
+Michaelzy: good morning guys Tact dev here i currently have this transaction payload in my script that sends message to my contract and it executes successfully.  const message = beginCell()     .storeUint(2016634319, 32)     .storeUint(0, 64)     .storeStringRefTail(trackData.tun3zTitle)     .storeStringRefTail(trackData.coverImage)     .endCell();  this is the message in my contract message Mint{     query_id: Int as uint64;        name: String;     image: String; }  But i want to make the name and string values optional in my contract like this  message Mint{     query_id: Int as uint64;        name: String?;     image: String?; }  how can i modify my payload to match this new message struct because old one wont work
+
+Daniil: Consider using auto-generated wrappers for message composing instead (reply to 63553)
+
+M.a: "I want to send a transaction with a private comment to a smart contract I wrote. Can this comment, considering it's private, be understood by the contract?"
+
+&rey: Contract execution is replicated by each and every validator, and also by any interested party. You're looking for some ZK technology. (reply to 63563)
+
+`SayedEx: anyone can help? (reply to 63548)
+
+Devialle: Hello everyone, I am looking for an experienced developer on tact with extensive experience
+
+sajad: dm (reply to 63570)
+
+— 2025-05-21 —
+
+🔳 ivan: hey everyone. where can I find repo with tact docs?
+
+🔳 ivan: ( i want to try using raw docs files to teach my cursor )
+
+Georgiy: https://github.com/tact-lang/tact/tree/main/docs (reply to 63650)
+
+Devon: hi guys, we just launched an open source community project tonmcp.xyz for interacting with Ton blockchain using natural language, pin me if you have questions install it or want to collaborate on PRs 😆
+
+Michaelzy: how do i use it the wrapper in my blueprint folder only contains an export statement (reply to 63558)
+
+M.a: Can a smart contract search for a past comment using a hash or address? A comment that was previously sent to the contract's address.
+
+Mirka: Contract can't access past transactions but it can save comment/data you need (reply to 63656)
+
+M.a: I want to save a private comment. After saving it, is it still fully secure, or can it be accessed through hacking?  I want to introduce a key to the contract only once without writing the key itself inside the contract code, and use this key for encryption.
+
+Dmitry: Nothing is private in the blockchain (reply to 63659)
+
+Dmitry: You already have been advised in which direction you should look (reply to 63564)
+
+Я̨kov: You can also give it llms.txt, see: * https://docs.tact-lang.org/llms.txt — for full context * https://docs.tact-lang.org/llms-small.txt — for smaller context windows (reply to 63651)
+
+Skuli: I do the same We can cooperate (reply to 63651)
+
+Philip: Please share the code and error messages  https://nometa.xyz/ (reply to 63672)
+
+Anton: this is not valid Tact, there is no storage blocks (reply to 63678)
+
+Anton: LLMs are not of much help with TON smart contract languages, please check out https://docs.tact-lang.org/
+
+Petr: Or at least try this one: https://chatgpt.com/g/g-tFkVOWIoi-tact
+
+Skuli: I can recommend using my template for development with Cursor AI. It is compatible with blueprint, but I use a custom version of blueprint. You will be able to create contracts autonomously from start to finish, but the system is not ready yet.  https://github.com/ton-ai-core/contract-knowlenge (reply to 63688)
+
+🔳 ivan: raw llms not but if fed with knowledge base - that could work. (reply to 63685)
+
+Skuli: Just documentation won't help much. It is necessary to create a system in which AI can feel free. Test the code yourself. See the result yourself.  it is necessary to make a mutation testing library for TON. Also, the code will have to be covered by 100% tests. (reply to 63697)
+
+— 2025-05-22 —
+
+Anton: We’ve launched the ultimate hunt for bugs and hacker mastery — the epic CTF has begun at positive.com/ctf!   On the menu: blazing challenges in EVM and TON security — plus one juicy Bug Bounty worth 100 TON! (forwarded from Positive Web3)
+
+Stark: hey i am looking to deploy bridge on ton for smooth transactions with evm chain, any idea which repo i should fork and any previous deployments available?
+
+`SayedEx: I have a repo (reply to 63800)
+
+Bohdan: Who know what does this error from https://ton.access.orbs.network means? {"ok":false,"error":"VALIDATE_ACCOUNT_STATEFailed to unpack Account","code":500}

@@ -750,7 +750,7 @@ Step: can anybody explain what is the use of this https://github.com/ton-blockch
 
 TON Answers Bot (not AI): Alternative for `Smart Contract` from `ton-contract-executor` from Gajesh Naik  what is an ton-core alternative for SmartContract in ton-contract-executor?  for example: let contract = await SmartContract.fromCell(code.cell, data)    🔗 Answer on TON Overflow
 
-Rahchaar Meshchain.Ai: TON Contests Bot: Incorrect TON Wallet repo link entered!  Send the link to your TON Wallet repo: Help
+Rahchaar: TON Contests Bot: Incorrect TON Wallet repo link entered!  Send the link to your TON Wallet repo: Help
 
 TON Answers Bot (not AI): Этой мой заголовок для теста from D2D4  Этой мой вопрос для теста  🔗 Answer on TON Overflow
 
@@ -2852,7 +2852,7 @@ User<6194487905>: Hello, could anyone help me about ston-fi sdk?
 
 liminal: https://youtu.be/0-A2IuK3KcA
 
-Lisa: Hey devs!  We need your brutally honest thoughts on ton.org website. Do you find it easy to use or do you have any suggestions to make it better?  Please do us a solid and fill out our feedback form. You'll be done with the form quicker than you can say "supercalifragilisticexpialidocious"!  Your input is incredibly valuable to us, and we are grateful for any help you can give us.  Thanks a TON ❤️
+Lisa OOO: Hey devs!  We need your brutally honest thoughts on ton.org website. Do you find it easy to use or do you have any suggestions to make it better?  Please do us a solid and fill out our feedback form. You'll be done with the form quicker than you can say "supercalifragilisticexpialidocious"!  Your input is incredibly valuable to us, and we are grateful for any help you can give us.  Thanks a TON ❤️
 
 Aina: Hey guys! I want to share some news on behalf of TON Play:  TON Play has released the Unity SDK + payment management for games!  TON Play, a toolkit for developers, has introduced Pay-in, Mass payout, and On-demand payout methods that are easy to incorporate into a product.  The payment solution allows you to: 💸 get paid by Telegram users in TON 💸 add mass payouts in TON to games with cash prizes 💸 automate payouts on user demand  But that’s not all! TON Play has simplified interaction with the TON blockchain and WebApps on Telegram by releasing SDKs, allowing projects to manage assets and in-game marketplace. SDKs are written in Unity, Python, and Typescript.  What do you have to do to connect all these solutions? ✔️ subscribe to TON Play Insider ✔️ take SDK and payment solutions ✔️ in case of questions, write to @tonplay_devs or gamedevs@tonplay.io.
 
@@ -5372,7 +5372,7 @@ User<6247944943>: ❤️❤️❤️❤️
 
 sz: https://www.theblock.co/post/232879/ton-foundation-proposes-burning-50-of-validator-rewards is Really?
 
-pdzeng on vacation until 5/4: hello, I have a question here.  how can i calculate my total tx gas fees?  https://test-explorer.toncoin.org/transaction?account=0:1d898cd7f90ae860760cb577cd59084721292a81d14c5fe31bc2bbb531bdd6c4&lt=11898016000001&hash=54c5df44a7c812d9808879b76eb4ef85290089d1350a48115bc4500556ab26d4 (forwarded from pdzeng on vacation until 5/4)
+pdzeng: hello, I have a question here.  how can i calculate my total tx gas fees?  https://test-explorer.toncoin.org/transaction?account=0:1d898cd7f90ae860760cb577cd59084721292a81d14c5fe31bc2bbb531bdd6c4&lt=11898016000001&hash=54c5df44a7c812d9808879b76eb4ef85290089d1350a48115bc4500556ab26d4 (forwarded from pdzeng)
 
 เจตต์ธนาพงษ์: ton://transfer/EQBmZbQ3VH2-RrQVhM_gE88fb3uLRLXBk3u1sBgqHAuB9btj
 
@@ -5384,9 +5384,9 @@ TON Answers Bot (not AI): How does the TON foundation generate income? from hadr
 
 Maksim: hey guys! the fourth Ton - Python lesson just came out!  lesson themes: NFT collection creation and deployment; NFT (batch) minting; NFT transfer  youtube - https://www.youtube.com/watch?v=mBDSZnqpDbo  lesson folder - https://github.com/TonDevStudy/pyton-lessons-eng/tree/main/lesson_4  course repo - https://github.com/TonDevStudy/pyton-lessons-eng
 
-pdzeng on vacation until 5/4: I want to ask how can i estimate gas fees. I think dton.io not work on me. (reply to 28961)
+pdzeng: I want to ask how can i estimate gas fees. I think dton.io not work on me. (reply to 28961)
 
-pdzeng on vacation until 5/4: 😭😭😭
+pdzeng: 😭😭😭
 
 Maksim: The fifth Ton - Python lesson is just came out!  lesson themes: NFT collection parsing via get methods; single NFT items parsing; NFT sale (auction) contracts parsing; get all NFT items by collection address  youtube - https://www.youtube.com/watch?v=XPL97vlmfts  lesson folder - https://github.com/TonDevStudy/pyton-lessons-eng/tree/main/lesson_5  course repo - https://github.com/TonDevStudy/pyton-lessons-eng (reply to 28964)
 
@@ -5850,9 +5850,9 @@ Yuri: Can I use Ton Connect on TWAPs?
 
 Andrew: multisig is better to create separately from versioning simple wallets (reply to 29254)
 
-Lisa: Join our livestream about FunC ❤️
+Lisa OOO: Join our livestream about FunC ❤️
 
-Lisa: Join us tomorrow for an epic workshop hosted by none other than Mark Okhman — the DevRel Manager at TON Foundation! Mark will be diving into the world of FunC smart programming, and it's going to be mind-blowing.  Make sure to set a reminder because Mark's workshop kicks off tomorrow at 16:00 GMT+4.  Just click on the link below to hop in and be part of this awesome experience!   Link to workshop 👈  Save the date. See you there, folks! (forwarded from TON Society)
+Lisa OOO: Join us tomorrow for an epic workshop hosted by none other than Mark Okhman — the DevRel Manager at TON Foundation! Mark will be diving into the world of FunC smart programming, and it's going to be mind-blowing.  Make sure to set a reminder because Mark's workshop kicks off tomorrow at 16:00 GMT+4.  Just click on the link below to hop in and be part of this awesome experience!   Link to workshop 👈  Save the date. See you there, folks! (forwarded from TON Society)
 
 Дмитрий: Why might this error occur? What did I do wrong? I'm running an example code Jetton TonTools
 
@@ -6352,7 +6352,7 @@ Samyar: also no erros  it just sends two get requests (reply to 29566)
 
 — 2023-06-14 —
 
-pdzeng on vacation until 5/4: hello guys, I have a question   How to deploy a contract on TON Blockchain with init balance = 0  , and how to validate tx.
+pdzeng: hello guys, I have a question   How to deploy a contract on TON Blockchain with init balance = 0  , and how to validate tx.
 
 User<6232442049>: P
 
@@ -8442,9 +8442,9 @@ User<5903536486>: and,  a vesting wallet toolkit has been developed, which will 
 
 Jeff: Hello, how can I load or store coins in dict?
 
-Stephanie (Wattz Admin): Hey guys, does you all think if it’s possible to have a IoT System connect to the TON network?  The IoT system will be used to collect data as an input and calculate the respective reward should be given to the user?
+K: Hey guys, does you all think if it’s possible to have a IoT System connect to the TON network?  The IoT system will be used to collect data as an input and calculate the respective reward should be given to the user?
 
-Stephanie (Wattz Admin): The idea is have a IoT Smart Recycle Bin,  user will bring their segregated waste and throw into the bin, then the smart bin is equip with a weighing system that connected to TON Networks.
+K: The idea is have a IoT Smart Recycle Bin,  user will bring their segregated waste and throw into the bin, then the smart bin is equip with a weighing system that connected to TON Networks.
 
 Dmitry | backend4you.ton: And this bin pays to user depending on amount of waste? Cool! Tell me where first bin will reside and i'll put some dumbbells into plastic section :) (reply to 30811)
 
@@ -8458,13 +8458,13 @@ Steven: hello
 
 Steven: I want to build a Ton test network node, is there any tutorial?
 
-Stephanie (Wattz Admin): Thanks for your feedback. That sounds good. So each of the facilities (IoT Smart Bin) will equip with one microcontroller and it’s program to have a interaction with TON. (reply to 30816)
+K: Thanks for your feedback. That sounds good. So each of the facilities (IoT Smart Bin) will equip with one microcontroller and it’s program to have a interaction with TON. (reply to 30816)
 
-Stephanie (Wattz Admin): I intend to make the IoT Smart Bin as a NFT. The idea is tied up the Physical Asset (IoT Bin) with Digital Asset (NFT). So user can own the NFT as an investment. And all the waste that collected through the IoT Smart Bin will be generate income, then the NFT owner will able to get revenue through the Bin.
+K: I intend to make the IoT Smart Bin as a NFT. The idea is tied up the Physical Asset (IoT Bin) with Digital Asset (NFT). So user can own the NFT as an investment. And all the waste that collected through the IoT Smart Bin will be generate income, then the NFT owner will able to get revenue through the Bin.
 
 Steven: I want to contribute to the Ton ecosystem and launch a dapp, but I need to know how to build it now, and I haven't seen the corresponding testnet node documentation
 
-Stephanie (Wattz Admin): Just read your message carefully. LOL That’s the problem that I need to solve for this idea. People can easily cheat the system. (reply to 30814)
+K: Just read your message carefully. LOL That’s the problem that I need to solve for this idea. People can easily cheat the system. (reply to 30814)
 
 Steven: hello
 
@@ -9864,7 +9864,7 @@ sdw: Hello,  after trying the following to convert boc to text still returns me 
 
 Daniil: const yourCell = Cell.fromBase64('te...') (reply to 31643)
 
-f: Hy Helo
+Spongebob: Hy Helo
 
 Gardener: The last time she asked y'all just made fun of her. Slow Wednesday? Lol
 
@@ -11646,7 +11646,7 @@ Roche: kQBmj7KsJkxnFv7QeNnARrFUFMJQdSlp5Sx13Lx6YSsf-dTU
 
 Roche: Give ton tesnet
 
-Keanu: Claim tesnet kQB1QiPc7frFgIKWe_ORou6sEcL7ygl31cfiNSfrlUxOQHFe
+User<6392716793>: Claim tesnet kQB1QiPc7frFgIKWe_ORou6sEcL7ygl31cfiNSfrlUxOQHFe
 
 Arash Nemat Zadeh: How can we mine TON on testnet for ourselves without thirdparties like telegram bots?
 
@@ -11678,9 +11678,9 @@ Maksim: or you mean tsc4? then i still don’t get why people need testnet tonco
 
 User<6247944943>: what is the one means here in the test library?
 
-Keanu: who needs Ton test exchange with 0.2 matic / 1 ton
+User<6392716793>: who needs Ton test exchange with 0.2 matic / 1 ton
 
-Keanu: DM me
+User<6392716793>: DM me
 
 Андрей: https://t.me/toncontests_chat/19889 https://t.me/toncontests_chat/20520 (reply to 32727)
 
@@ -14610,7 +14610,7 @@ Jzuss ┌( ಠ_ಠ)┘: yes! (reply to 34468)
 
 Jzuss ┌( ಠ_ಠ)┘: ye, your advice helped! thnx @pcrafter @TrueCarry (reply to 34469)
 
-🐇: goodbye
+хд: goodbye
 
 — 2023-09-12 —
 
@@ -14991,4 +14991,8 @@ moono: address
 &rey: Doesn't wallet need some ETH to pull wrapped TON out of bridge?
 
 moono: then, the receiver needs to withdraw himself?
+
+&rey: I don't actually know but this looks plausible. Or the transaction might not go through yet; if it's not working for 30 more minutes, you can write to https://t.me/ton_help_bot.
+
+moono: thx
 

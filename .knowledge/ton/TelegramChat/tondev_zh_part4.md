@@ -1,7 +1,3 @@
-备用: 为啥呢?我用沙盒感觉有点脱裤子放屁
-
-gavin: 但是testnet 有浏览器🤣
-
 备用: 我觉得熟手的话,dump log的作用不如浏览器的作用大
 
 备用: 自动化测试的前提是业务比较固定,改动小...
@@ -158,9 +154,9 @@ EncryptPecker（-25s->100s）: 骗子
 
 Heath Ledger🤡: 请问现在有办法把stars换为ton么？bot中的withdraw按钮是灰的，在fragment平台上也没找到兑换功能
 
-johnny: 老哥们，我在开发合约的时候遇到一个问题： 当我使用{check_signature 或者 check_date_signature}时 我的func文件编译没有任何问题，但是当我尝试部署到测试网络，会被钱包拒绝，无论我使用Tonkeeper或者MytonWallet
+Johnny: 老哥们，我在开发合约的时候遇到一个问题： 当我使用{check_signature 或者 check_date_signature}时 我的func文件编译没有任何问题，但是当我尝试部署到测试网络，会被钱包拒绝，无论我使用Tonkeeper或者MytonWallet
 
-johnny: 钱包只会给我返回一串数字，请问哪位老哥知道问题原因吗
+Johnny: 钱包只会给我返回一串数字，请问哪位老哥知道问题原因吗
 
 谋士: 不客气 (reply to 63951)
 
@@ -248,7 +244,7 @@ live: 大佬们，这几种方式获取消息时，他们的参数每部分获�
 
 Evan: ？
 
-johnny: 哪位大佬有 TS 和FC签名验签的代码样例啊，用blueprint的
+Johnny: 哪位大佬有 TS 和FC签名验签的代码样例啊，用blueprint的
 
 匿名少女: 大佬，你从nft铸造到mint的流程跑通没，我这边卡在这一步了 (reply to 64117)
 
@@ -316,13 +312,13 @@ Evan: 要仔细看他的文档，里面都有；
 
 gg: 谢谢赐教！
 
-johnny: 大佬有Git的代码样例吗 (reply to 64146)
+Johnny: 大佬有Git的代码样例吗 (reply to 64146)
 
 Evan: 稍等，我给你找找官方的文档
 
 gg: 我有个点不大明白 例如哈我要做个NFT交易市场，用户挂单等数据存储在同一个合约上，还是像jetton那样每个用户有一个合约去挂单啊？ 不是说数据都存储在一个合约gas会越来越高嘛
 
-johnny: 你说的很多，就是有些是需要进行中心化验证，中心化私钥对数据进行签名，然后合约进行验签来确定调用来源 (reply to 64146)
+Johnny: 你说的很多，就是有些是需要进行中心化验证，中心化私钥对数据进行签名，然后合约进行验签来确定调用来源 (reply to 64146)
 
 Evan: 是的，一些目前ton 项目都是半中心化的， 否则比如做了某任务才能 mint nft ;
 
@@ -332,17 +328,17 @@ Evan: 注意， ton 的设计思路， 和evm 有本质的区别，尽力将数�
 
 Evan: 不像evm 的nft 市场， 一个map 存天下；
 
-johnny: 我的fc部分代码
+Johnny: 我的fc部分代码
 
-johnny: 我无论如何调整数据的传入，验证签名都通不过
+Johnny: 我无论如何调整数据的传入，验证签名都通不过
 
 Evan: 你自己写单元测试嘛，这些调试方式不科学
 
 gg: 我现在设计思路就是想把NFT资产放到主合约，然后谁挂单谁产生一个sale合约，然后谁要去买就和对应子sale合约交互，然后通知主合约反资产。
 
-johnny: git上找了很久的代码样例了，都没找到有blueprint的
+Johnny: git上找了很久的代码样例了，都没找到有blueprint的
 
-johnny: TS部分不知道怎么写
+Johnny: TS部分不知道怎么写
 
 Evan: 你的思路不对，其实官方给了一个例子，你可以参考下 (reply to 64169)
 
@@ -3174,13 +3170,13 @@ v: 好像是WalletContractV4 这个
 
 Andrew: 翻看一下 Telegram 最新的 bot API 文档看看呢 (reply to 69534)
 
-AT: 朋友们好，我是AT和Ton开发者。 我们已经在亚洲启动了 Memepad 的工作，请在大陆 @tbccmeme_bot 上查看！
+Toha (AT): 朋友们好，我是AT和Ton开发者。 我们已经在亚洲启动了 Memepad 的工作，请在大陆 @tbccmeme_bot 上查看！
 
 Kenneth | FormosArt: 這個之前有人做出來了！應該用不到最新的功能 (reply to 69544)
 
 Kenneth | FormosArt: Keep loading! (reply to 69546)
 
-AT: 你在哪个国家？新加坡 (reply to 69548)
+Toha (AT): 你在哪个国家？新加坡 (reply to 69548)
 
 v: 他的库我看了，没有对应的方法，我的想法是在调用合约后，能否方便直接获取链上的txhash，否则我还要去获取合约的交易列表，去对比交易，太麻烦了 (reply to 69542)
 
@@ -4778,9 +4774,9 @@ Yasmin: Assalamualaikum 👋
 
 — 2025-01-05 —
 
-yarg0xxxx: https://github.com/ton-connect/sdk/issues/255
+0xNameless: https://github.com/ton-connect/sdk/issues/255
 
-yarg0xxxx: 没人解决这个问题吗
+0xNameless: 没人解决这个问题吗
 
 Andrew: 你在 github 提了 issue，开发者会评估解决的 (reply to 76341)
 
@@ -5036,9 +5032,9 @@ Jacob: 要么让用户直接发到sc whitelist，如判断通过再转发给jwsc
 
 Leo: 很简单，让wl持有资产而不是proj，这样wl只需发个通知给proj即可，用户可以直接转到wl的jw  如果资产一定要由proj持有，就把wl的功能合并到proj内，减少不必要的模块化  如果一定要分开且proj持有资产，让wl把变动或状态同步给proj，用merkle之类的方式让用户不经过wl也能在proj中验证 或者还有个思路是用户转给proj的jw后通知proj向wl请求验证，wl返回结果再处理下一步或退款
 
-yarg0xxxx: ton 小程序内部可以实现保存图片到手机相册吗
+0xNameless: ton 小程序内部可以实现保存图片到手机相册吗
 
-yarg0xxxx: 浏览器 a 标签下载没反应
+0xNameless: 浏览器 a 标签下载没反应
 
 Nix: 您可以使用 TonApi 获取 Fragment 的交易历史记录。如果您没有解决它，我可以为您提供帮助。 (reply to 76902)
 
@@ -5196,15 +5192,15 @@ Andrew: 我测试了是可以 callback 的，你需要在 bot 里面先构建一
 
 Andrew: 测试代码在这里，按需修改一下就好  savePreparedInlineMessage https://github.com/ton-builders/open-tg-bot/blob/main/bot.ts  window.Telegram.WebApp.shareMessage("Q80OofhZLXrSW8Br",callme)) https://github.com/ton-builders/open-mini-app/blob/main/app/page.tsx (reply to 77707)
 
-yarg0xxxx: 这是用来分享 media 的吗 (reply to 77758)
+0xNameless: 这是用来分享 media 的吗 (reply to 77758)
 
 Andrew: 是的，各种媒体消息都可以分享。 因为这个接口还比较新，所以我 demo 一下 (reply to 77762)
 
-yarg0xxxx: 如果是图片的话 必须是 url 吧 不能是前端本地生成的 blob 什么的么
+0xNameless: 如果是图片的话 必须是 url 吧 不能是前端本地生成的 blob 什么的么
 
 Andrew: 这个具体你看文档就好，实在遇到问题可以群里问
 
-yarg0xxxx: 好的 明天试试看看能不能分享本地图片 感谢🙏
+0xNameless: 好的 明天试试看看能不能分享本地图片 感谢🙏
 
 Karen: tonweb 的哪个版本是文档中的版本： 因为当我写入：const jettonMinter = new TonWeb.token.jetton.JettonMinter(tonweb.provider, {address: "<JETTON_MASTER_ADDRESS>"}); 我收到错误，它需要 JettonMinterOptions，而不是单个地址
 
@@ -6034,7 +6030,7 @@ Howard: TONX API or  TON API (reply to 80105)
 
 Andrew: 欢迎加入 TON Nest TON Society 官方孵化营计划 ！   TON Nest 为开发者提供全面项目支持服务，链接全球资源，目标助力 TON 项目取得成功。加入 TON Nest，您将有机会接触 TON 生态全球项目方和 TON 生态合作伙伴。  详见附件📎
 
-molir: 什么的测试币 (reply to 80147)
+栩栩如生: 什么的测试币 (reply to 80147)
 
 — 2025-02-13 —
 
@@ -8152,7 +8148,7 @@ Traffic Builder: Ton链的官网上还有怎么开发TMA的教程，感觉写的
 
 — 2025-05-01 —
 
-猫猫租赁: 请问我的号码 已经绑定了一个tg acc，且session在线，但是在fragment平台上没有 terminate session 按钮，这是为什么呢？
+猫猫号码租赁会员代开: 请问我的号码 已经绑定了一个tg acc，且session在线，但是在fragment平台上没有 terminate session 按钮，这是为什么呢？
 
 one: 机器人的联盟计划关了，还是被人投了广告是个什么情况有人知道吗
 
@@ -8162,8 +8158,498 @@ one: 有没有大佬知道哈 (reply to 87594)
 
 sniper07: Its me (reply to 87597)
 
-Combot: shishani1 has been banned! Reason: CAS ban.
+— 2025-05-03 —
 
-Combot: 『🔪𝕯𝖆𝖗𝖎𝖘𝖍𝖐𝖆𝖗𝖚𝖚🔪] has been banned! Reason: CAS ban.
+Traffic Builder: 1请问做到TMA上有什么好用的生物识别api吗？
 
-Combot: в🩷⌯ has been banned! Reason: CAS ban.
+Traffic Builder: 1我希望给每一个用户生成一个唯一的生物识别码
+
+— 2025-05-05 —
+
+Randolph: 原来tact
+
+Randolph: 这么好用，之前学func白搞了几个月。。
+
+Howard: haha..... 也不一定啦 (reply to 87979)
+
+Randolph: 官方这个ide太好用了。调试方便，节省很多时间，之前用webstorm的还要自己测试代码调试
+
+Randolph: 没有早点发现😭
+
+Alex: 问个ton支付的问题，tonsdk如何判断支付成功或支付失败的？ 好像没有支付成功以及失败的回调事件这种东西。
+
+— 2025-05-06 —
+
+Andrew: 因为区块链不会依赖业务系统，所以区块链不会回调你的业务系统，正常是你主动查询。  但是也有一些 API 服务商，提供 Webhook 这样轻量级的回调增值服务。 比如 tonxapi 和 tonconsole (reply to 88017)
+
+Sun: 这个退出code文档链接有谁知道吗？
+
+Andrew: https://docs.ton.org/v3/documentation/tvm/tvm-exit-codes (reply to 88110)
+
+Sun: 我问一下现在ton转账代币，gas变高了吗？0.05好像不够了
+
+Andrew: 具体费用和 token 的合约相关，然后 gas price 是配置在下面文档 https://docs.ton.org/v3/documentation/network/configs/blockchain-configs (reply to 88115)
+
+Sun: ok
+
+— 2025-05-07 —
+
+Qwanntum: 😮‍💨🤙
+
+Katiya｜TON: 💎《TON 生态开发公开课 & 编程挑戰赛 2025》 🚀第4課下周一開課！  📅 課程時間：5 月 12 日 20:00 (UTC+8) 🎙️直播平台：請關注 X 帳號 @ tonsocietyhk  🏆 課程結束後還有 Coding Challenge編程挑戰賽，所有提交的开发者将会贏取一整年 Telegram Premium 會員！  💡 課程內容： 📌 TON 基础 & 智能合约 – 消息模式、API & SDK、Bag of Cell 📌 Jetton & NFT – 真实 USDT 案例，全流程应用集成  ✨感謝社區夥伴： BeWaterOfficial,HackQuest_,OpenBuildxyz (forwarded from TON Society Hong Kong Announcements)
+
+Katiya｜TON: 第四课来咯！下周一开课
+
+Katiya｜TON: 大家记得来参与～～
+
+Randolph: 这节课很核心呀，期待😊
+
+Jacob: 有没有好用的http RPC server， 主网测试网都能稳定的工作？
+
+Andrew: https://tonapi.io/  https://tonxapi.com/
+
+atsolutionyoung: 为什么我拿不到mainfest
+
+atsolutionyoung: 我用ton-connect的demo-react是可以的
+
+atsolutionyoung: 但喔代码力， 用tonConnectUI.openModal(); 之后返回wallet就找不到manifest
+
+Smart: hi we have built bot like tiktok on telegram but issue is capture photo and video quality is very low compared to tiktok or other native apps how we can improve it along adding filters hdr10 need guidance from experienced developers
+
+Andrew: 没遇到过这个错误，你再参考 demo 仔细检查下配置 (reply to 88279)
+
+Andrew: u can ask in @devs for bot/mini app issues (reply to 88281)
+
+— 2025-05-08 —
+
+Gr: 各位大佬，请教一下在领取usdt测试币时，这个链接怎么打开？
+
+Andrew: 用钱包切换到测试网去扫描这个二维码，比如Tonkeeper 创建一个测试网钱包 (reply to 88351)
+
+wikig: 整了个bridge aggrator，但是中间的比价调度和部分流动性是centralized的，适合dev小钱买gas
+
+wikig: 不知道这玩意儿TMA化算不算TON project
+
+wikig: 底层流动性走的fixedfloat。还在测bug笑死  http://t.me/FrogBridge_Bot/app (reply to 88391)
+
+Katiya｜TON: 🚀 TON Builders Day | 5.24 1PM-6PM  🔥 開發者必來！與 TON 基金會、頂級項目面對面，探索 2025 生態機會！ 💡 學習 TON 開發技巧、Telegram 增長秘笈，贏取孵化營直通車＋獎金！ 🏆 路演項目將獲官方孵化營計劃 TON Nest 直通車＋SafePal 獎勵＋SafePal 硬體錢包！  🔗 報名链接：http://lu.ma/kbz4esy7  🎤 重磅嘉賓 & 議程 13:20–13:40 ｜ TON 2025 生態賽道解析 – John(TON基金會亞太負責人） 13:40–14:00 ｜ TON 鏈上開發技巧 – Andrew (TON東亞 Hub 開發者關係經理） 14:00–14:20 ｜ 如何在 Telegram 做增長 – George (TON增長實驗室創始人） 14:20–14:40 ｜ TON 生態的「共生型」項目 – Helen（InnoAlpha 基金聯合創始人） 15:10–17:00 ｜ 項目路演（觀眾投票前三名將獲 SafePal 獎勵！） 17:00–18:00 ｜ 自由交流 & 資源對接  ✨感謝合作夥伴：SafePal, AWS, 鏈捕手, MetaEra, OpenBuild (forwarded from TON Society Hong Kong Announcements)
+
+Katiya｜TON: 开发者专门的活动，欢迎大家来参加我们的线下活动！
+
+Katiya｜TON: 了解TON最新的趋势和方向，开发、增长！
+
+Randolph: 已报名，居然来深圳了😊
+
+Katiya｜TON: 这回可以线下听Andrew老师讲课了😂 (reply to 88401)
+
+Randolph: 想想就令人激动😄 (reply to 88403)
+
+Leo: 怎么才讲20分钟，不够听😏 (reply to 88403)
+
+Andrew: 🚀 TON Builders Day | 5.24 1PM-6PM  🔥 開發者必來！與 TON 基金會、頂級項目面對面，探索 2025 生態機會！ 💡 學習 TON 開發技巧、Telegram 增長秘笈，贏取孵化營直通車＋獎金！ 🏆 路演項目將獲官方孵化營計劃 TON Nest 直通車＋SafePal 獎勵＋SafePal 硬體錢包！  🔗 報名链接：http://lu.ma/kbz4esy7  🎤 重磅嘉賓 & 議程 13:20–13:40 ｜ TON 2025 生態賽道解析 – John(TON基金會亞太負責人） 13:40–14:00 ｜ TON 鏈上開發技巧 – Andrew (TON東亞 Hub 開發者關係經理） 14:00–14:20 ｜ 如何在 Telegram 做增長 – George (TON增長實驗室創始人） 14:20–14:40 ｜ TON 生態的「共生型」項目 – Helen（InnoAlpha 基金聯合創始人） 15:10–17:00 ｜ 項目路演（觀眾投票前三名將獲 SafePal 獎勵！） 17:00–18:00 ｜ 自由交流 & 資源對接  ✨感謝合作夥伴：SafePal, AWS, 鏈捕手, MetaEra, OpenBuild (forwarded from TON Society Hong Kong Announcements)
+
+Rose: TON Dev Chat (中文) 歡迎你的到來，請多加利用下方按鈕的資訊，並遵守群組規則。
+
+— 2025-05-09 —
+
+Combot: Lakin Lon has been banned! Reason: CAS ban.
+
+Combot: Gl has been banned! Reason: CAS ban.
+
+sniper07: scam! (reply to 88510)
+
+one: 怎么禁止自己机器人被别人投广告啊
+
+Combot: selyaaaa has been banned! Reason: CAS ban.
+
+Kenny Chan: 官方推号👍
+
+— 2025-05-10 —
+
+Combot: schöne_Schlampe has been banned! Reason: CAS ban.
+
+TK: 大家好，谁知道这个的原因
+
+TK: 我用python版的tonsdk开发ton交易签名，并将boc提交https://testnet.toncenter.com/api/v2进行广播的时候报错：{'ok': False, 'error': 'INVALID_BAG_OF_CELLS: bodyinvalid bag-of-cells failed to deserialize cell #22 [Error : 0 : TODO: absent cells]', 'code': 500}
+
+Andrew: 看异常消息是期望读取一个消息体  body 来反序列化解析，但是没有读取到。 具体的你要根据代码再仔细分析。 (reply to 88612)
+
+Andrew: 最好是找一个案例来小步迭代修改
+
+TK: 我这个就是一个v4r2版本的一个简单的支付
+
+TK: @andrew_cong 有没有比较好用的python版的demo推荐一个 ，有git库也行
+
+TK: 我是用的oneKey里的ton的sdk用到我框架里的
+
+Leo: 生成boc的代码发出来大伙儿看看就知道了
+
+TK: digest, boc = wallet.create_transaction_digest(             to_addr=msg.address,             amount=msg.amount,             seqno=msg.seqno,             expire_at=msg.valid_until,             payload=payload,             is_raw_data=False,             send_mode=msg.mode,             state_init=state_init         )
+
+TK: 这是调用
+
+TK: 下边是创建交易信息的函数方法
+
+TK: def create_transaction_digest(         self,         to_addr: str,         amount: int,         seqno: int,         expire_at: int,         payload: Union[Cell, str, bytes, None] = None,         is_raw_data: bool = False,         send_mode=SendModeEnum.ignore_errors | SendModeEnum.pay_gas_separately,         state_init: bytes = None,         ext_to: List[str] = None,         ext_amount: List[int] = None,         ext_payload: List[Union[Cell, str, bytes, None]] = None,     ):         payload_cell = Cell()         if payload:             if isinstance(payload, str):                 # check payload type                 # if is_raw_data:                 if payload.startswith("b5ee9c72"):                     payload_cell = Cell.one_from_boc(payload)                 else:                     payload_cell.bits.write_uint(0, 32)                     payload_cell.bits.write_string(payload)             elif isinstance(payload, Cell):                 payload_cell = payload             else:                 payload_cell.bits.write_bytes(payload)          order_header = Contract.create_internal_message_header(             dest=Address(to_addr), grams=amount         )          state_init_cell = None         if state_init:             print("state_start: ", Cell.REACH_BOC_MAGIC_PREFIX)             if state_init.startswith(Cell.REACH_BOC_MAGIC_PREFIX):                 state_init_cell = Cell.one_from_boc(state_init)             else:                 # state_init_cell = state_init                 raise ValueError("Invalid state init")         order = Contract.create_common_msg_info(             order_header, state_init_cell, payload_cell         )         signing_message = self.create_signing_message(expire_at, seqno)         signing_message.bits.write_uint8(send_mode)         signing_message.refs.append(order)           boc = signing_message.to_boc()#bytes()#)base64.b64encode().decode('utf-8')         return signing_message.bytes_hash(), boc
+
+TK: @andrew_cong
+
+Combot: Anggie has been banned! Reason: CAS ban.
+
+Andrew: 主要提供 TypeScript 的 SDK，我个人也没有用过 Python (reply to 88616)
+
+Combot: Nadezhda, QTModo, a have been banned! Reason: CAS ban.
+
+Combot: даниил, Tkk Flk have been banned! Reason: CAS ban.
+
+Rose: TON Dev Chat (中文) 歡迎你的到來，請多加利用下方按鈕的資訊，並遵守群組規則。
+
+— 2025-05-11 —
+
+Kenny: GM 各位，想请教下，当一个合约收到一个 bounceable message，并且这个 message 附带的 toncoin value 在 computation phase 被耗尽，那么这个 message 还能被 bounce 回之前的合约吗？如果不能的话，岂不是理论上会有点风险，比如 Alice 给 Bob 转账 Jetton 时，Alice 的余额已经变少了，但是 message 去到 Bob 的合约时，message value 耗尽，没办法增加余额，而且 message 也 bounce 不回 Alice 的合约，这样子的话，这个 Jetton 的总供应量不久凭空消失了一部分吗？
+
+Leo: 是这样的，所以一般internal transfer这种关键消息都会带上足够的value，最后剩余返还给用户即可
+
+Kenny: 是说，合约收到 internal message 时，会主动检查 value 是否足够，如果不够，就直接设定 exit code ，然后进到 bounce phase 吗？
+
+Kenny: 感觉总不能指望用户老老实实带上足够的 value？
+
+Kenny: 主要是感觉，亏点小钱是小事，但是这一块逻辑没处理好的话，可能会导致一些很严重的问题（比如 Jetton 的总供应量凭空消失），这种是大事……
+
+Leo: 不是啊，发出internal transfer之前就检查了，如果发出了就说明用户带的value足够
+
+Kenny: 哦哦哦，有道理。不过感觉似乎还是有一些问题？假设 Alice 要给 Bob 转 USDT，在 Alice 的 USDT wallet contract 收到 internal message 时，此时检查 value 是否足够，仅当足够时才发 internal message 给 Bob 的 USDT wallet contract，这样确实比较好。但是，假设 Alice 填的 Bob 的地址是一个错误的合约地址呢？USDT wallet contract 总没有能力能够检查目标地址是否跟自己一样是 USDT wallet 吧。然后那个错误的合约收到 internal message 时，假设它无视 message 内容，然后耗尽了 value，此时仍然是无法 bounce 回 Alice 的 USDT wallet contract？ (reply to 88767)
+
+Leo: alice给jetton wallet提供bob的地址而不是jw地址，alice的jw会算出对应的jw地址再发消息 (reply to 88768)
+
+Kenny: 有道理，十分感谢🙏
+
+TK: 大家好，谁知道我用tonsdk中的https://github.com/tonfactory/tonsdk/blob/master/examples/wallets/wallet.py这个运行后（将seqno改成获取最新的，version改成WalletVersionEnum.v4r2）生成的签名boc可以交易广播成功，但我换成我自己的24位的助记词（也是一个钱包生成的，正常钱包）就会报错，提示助记词有错误不能获取公钥匙私钥什么的，谁看过这个sdk，知道什么原因吗？
+
+TK: 还有就是我在我的框架那边用的是oneKey的ton的sdk,能正常使用我的钱包生成公钥和私钥，sdk地址是https://github.com/OneKeyHQ/firmware-pro/tree/main/core/src/apps/ton,其下的sign_message.py是生成交易签名的代码，get_address.py是根据种子获取ton地址的代码，哪位朋友能帮忙比较下这两个sdk的异同点
+
+TK: 上边说的tonsdk中的签名代码wallet.py运行时是提示无效的助记词，当使用我自己钱包的助记词执行的时候
+
+ke bi: 有做tg生态矿机的吗
+
+— 2025-05-12 —
+
+Randolph: tact真是太好用了，连jetton转账的接受方法的封装了，直接command+c、command+v 一把梭😄
+
+Randolph: message结构的设计真是秒，比func的方便很多，可复用性也强
+
+TK: 谁知道这一块的原因 (reply to 88823)
+
+Andrew: 使用 Python 的开发者比较少，你可以在 tonsdk 的Contributors中看看有没有联系方法问问，比如这个就留下了 TG，你问问看 https://github.com/yungwine  还有这个有邮箱 https://github.com/psylopunk (reply to 88923)
+
+Leo: 助记词是ton原生钱包生成的么 (reply to 88823)
+
+Randolph: 开始了吗
+
+Randolph: 课程
+
+Katiya｜TON: 开发直播课开始啦！
+
+Katiya｜TON: 💎《TON 生态开发公开课 & 编程挑戰赛 2025》 🚀第4課正式開課！  🏆 課程結束後還有 Coding Challenge編程挑戰賽，所有提交的开发者将会贏取一整年 Telegram Premium 會員！  💡 課程內容： 📌 TON 基础 & 智能合约 – 消息模式、API & SDK、Bag of Cell 📌 Jetton & NFT – 真实 USDT 案例，全流程应用集成  🔗直播链接： https://x.com/i/broadcasts/1zqJVjAyzVdJB (forwarded from TON Society Hong Kong Announcements)
+
+Ali Karaman: 管理在吗？
+
+Ali Karaman: 有问题资讯一下
+
+Ali Karaman: @oopshelena 在吗？
+
+— 2025-05-13 —
+
+Andrew: 有问题直接问，不要问在不在 (reply to 88969)
+
+TK: @leouvw ton原生钱包是说什么，通过ton官方网站或客户端吗，我用的钱包是我们自己设备生成的助记词 (reply to 88942)
+
+Leo: 就是专为ton开发的钱包，如tonkeeper，@wallet 等  ton标准对助记词有要求，不是所有随机生成的都符合 (reply to 89060)
+
+TK: 那要是不符合的话，还能参与交易签名广播吗 还是说得改造程序
+
+TK: @leouvw
+
+Leo: 可以啊，代价是要自己改sdk，而且无法导入钱包
+
+TK: 你说无法导入到专为ton开发的钱包里吧
+
+Katiya｜TON: $TON 编程挑战 & 课后作业04 💎🔥  第四次編程比賽&課後作業來啦💎 Andrew為大家準備了課後作業巩固昨晚学习到的知识！  🏆我们会挑選出獲勝者贏取Telegram會員（1年、半年、3個月），同時，積極在社群和推特互動轉發，也有機會獲得大會員！  🔗比賽題目（直接fork參與）：https://github.com/ton-builders/ton-coding-challenge-25-round-4 🔗昨晚直播課程文檔：https://ton-org.notion.site/IV-Jetton-NFT-1e35274bd2cf80648f32d9157647451d 🔗昨晚直播連結回放： https://www.youtube.com/watch?v=MXNBztpa8ZU (forwarded from TON Society Hong Kong Announcements)
+
+Katiya｜TON: 课后作业不要忘记提交哦！
+
+Katiya｜TON: 🫡
+
+Randolph: 好的，Katiya老师🙃
+
+TK: @leouvw 这个是用我的钱包的助记词导入tonkeeper钱包，这个钱包的词库有一定范围内的使命
+
+TK: 是吗
+
+Andrew: Tonkeeper 的助记词在 TON 生态内是兼容的通用的 (reply to 89095)
+
+TK: @raphael233 你好，朋友，你这儿这个问题是怎么解决的，我看下下边那个兄弟的消息说是绑定账号原因吗，我没太明白什么意思 (reply to 76260)
+
+6666feile: https://github.com/neodix42/ton4j/issues/103 我没看最新版本行不行了，准备放弃这货了 (reply to 89110)
+
+TK: 对了，我那个错误还不是133，是33
+
+TK: {'ok': False, 'error': 'LITE_SERVER_UNKNOWN: cannot apply external message to current state : External message was not accepted\nCannot run message on account: inbound external message rejected by transaction FCBC39F68D71AE15B42A0E6A5DFAB4D5AA70A2BD3D5A54B7679976DDB6040BFC:\nexitcode=33, steps=23, gas_used=0\nVM Log (truncated):\n...te NOW\nexecute LEQ\nexecute THROWIF 36\nexecute PUSH c4\nexecute CTOS\nexecute LDU 32\nexecute LDU 32\nexecute LDU 256\nexecute LDDICT\nexecute ENDS\nexecute XCPU s4,s3\nexecute EQUAL\nexecute THROWIFNOT 33\ndefault exception handler, terminating vm with exit code 33\n', 'code': 500}
+
+c: 麻烦问下telegram bot 给用户发送消息有没有批量发送的操作
+
+6666feile: @ajcdn66 你看下，如果不匹配，就要看一下源码，一般他源码里有声明的
+
+6666feile: https://docs.ton.org/v3/documentation/tvm/tvm-exit-codes 列表没列全 (forwarded from 6666feile)
+
+TK: @carlxxxxxxxxx 你这个是怎么解决的，我这儿也是这个错误 (reply to 21619)
+
+TK: 你的意思这一次性发的消息过多吗，我只发了一个交易的签名呀
+
+TK: 不是jetton 合约，就是正常的ton交易
+
+TK: 给一个钱包
+
+TK: @leouvw
+
+Randolph: https://testnet.tonviewer.com/transaction/a00c320c27ccf5cbeabbf3b552e80be0f04aec214b2d3c618d7b250cc1c3cd77 大佬们，这个通知有个叹号是不是表示没有执行成功呀。
+
+Andrew: 一般的 Notify 和 Excess 可以忽略，相当于银行的短信通知，不影响银行转账结果。 (reply to 89146)
+
+Randolph: Jetton Notify可以用于处理转账成功后的动作吗，例如用户usdt质押存款，通过Jetton Notify通知质押合约更新用户的质押金额
+
+TK: 转出钱包地址：UQD8vDn2jXGuFbQqDmpd-rTVqnCivT1aVLdnmXbdtgQL_PlX  转入钱包地址：UQC6UPsnVDFqRIzkbPNmV4xPv2C9xE8RifVbRQ4pAyebGCbx
+
+Randolph: 看源码好像只有JettonNotification能继续把消息往下传
+
+TK: from tonsdk.crypto import mnemonic_new from tonsdk.contract.wallet import Wallets, WalletVersionEnum from tonsdk.utils import to_nano, bytes_to_b64str, Address import base64 import requests import httpx from tonsdk.boc import begin_cell  from tonsdk.boc import Cell import base64  def base64_encode_with_padding(data: bytes) -> str:     return base64.b64encode(data).decode('utf-8')    # def b64url_encode(data): #     return base64.urlsafe_b64encode(data).rstrip(b'=') # mnemonics = ['report', 'deposit','grape','priority','network','palm','sponsor','vivid','involve','attract','source','embrace'] # mnemonics = mnemonic_new() version = WalletVersionEnum.v4r2 wc = 0  # mnemonics, pub_k, priv_k, wallet = Wallets.from_mnemonics(mnemonics=mnemonics, version=version, workchain=wc) # print("pub_k:", pub_k) # print("priv_k:", priv_k) #钱包实例 print("version:", version) wallet = Wallets.ALL[version](         public_key=b'lM\n\xb56[ab\xc5\x16\xb2\x86\x0eu\xce\x99\x97\xe9\xfa\xa42-\x92-wV\xc2\xcdT\xdd\x96\xde', private_key=b'\x83\x86s\x9e\x0b\x8b\x99o\xba9w\xcc\x98\xbc\xa2\x9d*\x99\x88\x9a`x\xa3\x0c9z\xd6,\xec\x1b\xb5l',wallet_id=698983191, wc=wc     )   """to external deploy""" # boc = wallet.create_init_external_message()  # print("boc:") # print(boc) """to internal deploy""" # query = my_wallet.create_transfer_message(to_addr=new_wallet.address.to_string(), #                                   amount=to_nano(0.02, 'ton'), #                                   state_init=new_wallet.create_state_init()['state_init'], #                                   seqno=int('wallet seqno'))  """transfer""" address = wallet.address.to_string(         is_user_friendly=True,         is_url_safe=True,         is_bounceable=False,         is_test_only=False,     ) print("address:", address) # address=wallet.address.to_string() # print("address:", address)  url = "https://testnet.toncenter.com/api/v2/getWalletInformation" params = {"address": address} response = requests.get(url, params=params) seqno = response.json()["result"]["seqno"] print("seqno:", seqno) # print(response.json()) query = wallet.create_transfer_message(to_addr="UQC6UPsnVDFqRIzkbPNmV4xPv2C9xE8RifVbRQ4pAyebGCbx",                                   amount=to_nano(0.01, 'ton'),                                   payload="",                                   seqno=seqno) # print("query:", query)   # 转换为Base64 # boc_base64 = bytes_to_b64str(external_msg_cell.to_boc()) # print("amount:",to_nano(1, 'ton'))   """then send boc to blockchain""" boc = bytes_to_b64str(query["message"].to_boc(False))  #https://testnet.toncenter.com/api/v2/#/send/send_boc_sendBoc_post response = requests.post(     "https://toncenter.com/api/v2/sendBoc",     json={"boc": boc},     headers={"Content-Type": "application/json"} ) print(response.json())
+
+TK: {'ok': False, 'error': 'LITE_SERVER_UNKNOWN: cannot apply external message to current state : External message was not accepted\nCannot run message on account: inbound external message rejected by transaction FCBC39F68D71AE15B42A0E6A5DFAB4D5AA70A2BD3D5A54B7679976DDB6040BFC:\nexitcode=33, steps=23, gas_used=0\nVM Log (truncated):\n...te NOW\nexecute LEQ\nexecute THROWIF 36\nexecute PUSH c4\nexecute CTOS\nexecute LDU 32\nexecute LDU 32\nexecute LDU 256\nexecute LDDICT\nexecute ENDS\nexecute XCPU s4,s3\nexecute EQUAL\nexecute THROWIFNOT 33\ndefault exception handler, terminating vm with exit code 33\n', 'code': 500}
+
+TK: @leouvw 这是运行的代码和结果错误信息
+
+TK: 就是这个代码文件，是在下边这个sdk的根目录下运行的
+
+TK: https://github.com/tonfactory/tonsdk
+
+TK: 代码中公钥私钥来自于转账钱包：UQD8vDn2jXGuFbQqDmpd-rTVqnCivT1aVLdnmXbdtgQL_PlX  转入钱包地址是：UQC6UPsnVDFqRIzkbPNmV4xPv2C9xE8RifVbRQ4pAyebGCbx
+
+TK: 去掉了之后是这个错误：{'ok': False, 'error': 'LITE_SERVER_UNKNOWN: cannot apply external message to current state : External message was not accepted\nCannot run message on account: inbound external message rejected by transaction FCBC39F68D71AE15B42A0E6A5DFAB4D5AA70A2BD3D5A54B7679976DDB6040BFC:\nexitcode=35, steps=31, gas_used=0\nVM Log (truncated):\n... XCPU s4,s3\nexecute EQUAL\nexecute THROWIFNOT 33\nexecute XCPU s5,s1\nexecute EQUAL\nexecute THROWIFNOT 34\nexecute XCHG s5\nexecute HASHSU\nexecute XC2PU s0,s6,s4\nexecute CHKSIGNU\nexecute THROWIFNOT 35\ndefault exception handler, terminating vm with exit code 35\n', 'code': 500}
+
+TK: @leouvw
+
+TK: 明天我发你下
+
+— 2025-05-14 —
+
+Randolph: 大佬们，前端发起Jetton转账的时候，destination和response_destination分别有啥作用呀，destination是填目标用户的jettonwallet地址还是目标用户本身的地址呢
+
+TK: te6cckEBAgEAqQAB4YgB+Xhz7RrjXCtoVBzUu/Vpq1ThRXp6tKluzzLtu2wIF/gH+JuPgF67M9iSQ6n7+it5dqnzPiuzh3gjDonJsiwysULyNYsF5xEKDmJ4Q76uI4oRZlNZCE2ncWMgHL04MS3AKU1NGLtBH28AAAAAIAAcAQBmQgBdKH2Tqhi1IkZyNnmzK8Yn37Be4ieIxPqtoocUgZPNjBzEtAAAAAAAAAAAAAAAAAAAESv+CA==
+
+TK: @leouvw 这是boc
+
+ke bi: 请问我在FRAGMENT上面购买星星，支付总是失败是啥原因呢
+
+ke bi: 提示这个
+
+Andrew: https://github.com/ton-blockchain/TEPs/blob/master/text/0074-jettons-standard.md  https://ton-org.notion.site/IV-Jetton-NFT-1e35274bd2cf80648f32d9157647451d (reply to 89261)
+
+Andrew: 在 网页端 试试 https://fragment.com/stars (reply to 89276)
+
+ke bi: @andrew_cong 我是登录在网页端，
+
+ke bi: Token会提示这个
+
+ke bi: 不知道是啥原因，现在无法购买星星
+
+Andrew: 用 TonKeeper 钱包 (reply to 89294)
+
+TK: @leouvw 你这个连起来，是说私钥和公钥不匹配吗 (reply to 89289)
+
+TK: 怎么连起来，首位相接还是什么？，现在程序里是二进制的数据格式
+
+TK: 现在是这样的 @leouvw
+
+TK: 嗯
+
+TK: 就是个测试的
+
+TK: 好像可以了😂
+
+TK: 这个的原理是什么😂之前的sdk没到这块资料
+
+Leo: 大伙儿都是助记词，你要直接用私钥就得这样
+
+Kenny Chan: 收到badge了！👍
+
+— 2025-05-15 —
+
+Randolph: 今天试了一下，第一个地址是目标用户的jetton wallet 地址，可以用jettonmaster类的函数获得 (reply to 89286)
+
+Randolph: 第二个地址可以是任意地址，但只能通知无法携带自定义参数
+
+Leo: 非也，第一个是用户地址，jw地址无需提供 (reply to 89454)
+
+Randolph: 啊，我再试下
+
+Randolph: 这地址数太多了，钱包ui一个地址，Address phrase 一个格式，在交易细节里面又是一个格式
+
+Randolph: 🤣
+
+Randolph: 第二个地址不能携带参数是因为这个通知不可信吗，因为不确定转账是否真的顺利完成，只有目标地址余额增加了，才算完成
+
+Andrew: 🎓欢迎注册 TON 人才库    你是否有技术而没有实战的舞台？ 你是否有成熟的技术团队而找不到业务方？  赶紧注册 TON人才库，成为技术服务商(Agencies)、独立技术专家(Individuals)以及安全审计(Auditors)。  注册地址：https://ton.org/en/talents?howToJoin
+
+Randolph: 这个我们可以注册吗 (reply to 89469)
+
+Katiya｜TON: 这个就是专门针对开发者的，赶紧注册～～ (reply to 89478)
+
+Randolph: 好的👌
+
+Randolph: destination确实是接收者的ton钱包地址 https://testnet.tonviewer.com/transaction/4884f73a5b0c9ced206bb442f42402c853ec931ba5d1fa4ba54fefb35ca135c0
+
+Randolph: Jetton Notify 终于生效了，成功更新用户质押金额。之前不生效的原因应该是给的转发gas不够，一直以为是地址的问题。。😂
+
+Randolph: 从源码看Jetton Notify的接受方，是jetton接收人的ton钱包地址，也就是destination，并不能自定义 Jetton Notify发送到其他地方。 那个response_destination，应该是多余ton回退的地址
+
+6666feile: response_destination一般填用户D或自己A的地址，你填B地址，就相当于超出的TON就丢了吧
+
+Randolph: 明白了🫡 (reply to 89488)
+
+Andrew: hello 我写了个ton的nft合约 但是在tonviewer和tonscan上面都不能能被解析为nft格式。 有没有可能我用在合约用了with deployable 导致的呢？ tep62得方法我都实现了
+
+Andrew: 应该还是 content 数据格式问题 (reply to 89511)
+
+Andrew: 了解 我xontent给的一个ipfs的link (reply to 89522)
+
+— 2025-05-16 —
+
+Katiya｜TON: $TON 家人们：  5月21日至22日欢迎來第五屆全球產品與增長出海展會，現場見一面吧！  🔥連結知名出海企業 🔥解鎖海外流量增長新機會 🔥學習海外流量增長策略  🔗报名注册：掃描海報上的二維碼，立即報名！ (forwarded from TON Society Hong Kong Announcements)
+
+— 2025-05-17 —
+
+Lucky: Hi!In the TON sandbox, could you please suggest how to write a test to ensure that a transaction sent to an invalid address gets properly bounced?
+
+— 2025-05-19 —
+
+Combot: Fred Coz has been banned! Reason: CAS ban.
+
+Combot: dt has been banned! Reason: CAS ban.
+
+Combot: Jean Paul Sinti has been banned! Reason: CAS ban.
+
+Combot: Solana, Cc have been banned! Reason: CAS ban.
+
+wikig: 提问，目前TMA在涉及crypto这块有什么限制性条款吗。 因为我看目前TON上最大的mixer  tonnel也停止了mixer运营。 所以来询问一下有什么服务是不能做的么
+
+Combot: hamo da ana has been banned! Reason: CAS ban.
+
+Combot: BoB Zasa, Noel Cantero, Noelle, Bensalem med ishak have been banned! Reason: CAS ban.
+
+— 2025-05-20 —
+
+Combot: Сообщение от Exnode has been banned! Reason: CAS ban.
+
+Andrew: 目前最权威的是这个文档 Blockchain Guidelines https://core.telegram.org/bots/blockchain-guidelines (reply to 90059)
+
+Combot: Anastasiya 🥠, Anna 🍌 have been banned! Reason: CAS ban.
+
+Combot: 喔！是陳 has been banned! Reason: CAS ban.
+
+wikig: 我看了下，似乎是没有限制混币协议或者隐私性协议的开发、使用的，那么如果接下来我们做一个基于TON的隐私转账服务或混币协议应该是不会被ban的吧hhh (reply to 90127)
+
+Andrew: 我理解不违法这个协议，以及 TG小程序和 BOT 的开发者协议就可以 (reply to 90144)
+
+Combot: 漢堡🐤 has been banned! Reason: CAS ban.
+
+Combot: CL|𝑯𝒊𝒎𝒆𝒌𝒐/ 姫子#𝐀𝐬𝐧 has been banned! Reason: CAS ban.
+
+Combot: Liza, Solana have been banned! Reason: CAS ban.
+
+— 2025-05-21 —
+
+Combot: 豬排飯我的愛 has been banned! Reason: CAS ban.
+
+Combot: Sara Kapoor has been banned! Reason: CAS ban.
+
+Andrew: 问个问题 为什么我在quicknode买的付费ton节点 却不能执行mint类似的功能
+
+Andrew: 会报404
+
+Andrew: 我用公共节点就可以
+
+Andrew: 是quicknode提供的节点有问题吗
+
+Andrew: 没有用过quicknode，也不推荐使用 (reply to 90263)
+
+Andrew: 那推荐使用什么节点呢？ (reply to 90264)
+
+Andrew: 免费节点不符合项目要求
+
+Andrew: http://tondevdoc.xyz/
+
+Andrew: 我之前用的mainnet-v4.tonhubapi
+
+Andrew: 这个v2 v3 会对tonClient4 初始化吗
+
+Andrew: https://github.com/ton-org/ton 上有 Usage 的，如果你选第三方 API，可能也有独立的兼容 SDK (reply to 90269)
+
+Andrew: https://ton-org.notion.site/III-TON-1d05274bd2cf80a7a8b0e11c0f3b1640
+
+Andrew: tonclinet4 是在@ton/ton下面的 这个不能像evm一样直接替换的一个地址就行了吗
+
+Andrew: 我不需要自己搭建 如果好的 付费的最好了
+
+Andrew: 能够直接替换掉我现有的 mainnet-v4.tonhubapi.com
+
+Combot: Полина Камышова has been banned! Reason: CAS ban.
+
+Andrew: 主要是今天开始这个地址发起不了我的交易了 (reply to 90275)
+
+jgfg: 洛阳
+
+AGT: 朋友们，如何在这里的地址可以显示自定义头像，就像币安这样
+
+Combot: Aymen Nnnnn has been banned! Reason: CAS ban.
+
+Combot: Nestor Orito has been banned! Reason: CAS ban.
+
+Combot: Bingsu has been banned! Reason: CAS ban.
+
+Combot: Phan Trong Duy has been banned! Reason: CAS ban.
+
+Keith: 找几个执行力强的哥们，两个月后奥迪Q7到位，不玩虚的，戳头像
+
+Combot: Akui Rian has been banned! Reason: CAS ban.
+
+— 2025-05-22 —
+
+c: ton的地址是EQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM9c嘛？
+
+c: why get ton-usdt price is 0?
+
+Copper Golem: 謝謝你的歡迎 (reply to 90429)
+
+Copper Golem: 不客氣 (reply to 90430)
+
+Combot: saya has been banned! Reason: CAS ban.
+
+Combot: satannn has been banned! Reason: CAS ban.
+
+— 2025-05-23 —
+
+Combot: ㅤㅤㅤㅤ ㅤ𝙷𝙸𝙼𝙾𝚁𝚁𝙸ㅤㅤㅤ ㅤㅤㅤㅤㅤㅤ has been banned! Reason: CAS ban.
+
+Combot: Sp Senevirathne has been banned! Reason: CAS ban.
+
+ke bi: Telegram小程序开发者可将Telegram Stars兑换为TON代币，或以折扣价格购买Telegram广告。
+
+ke bi: 我怎么没看到在什么地方可以兑换呢
+
+ke bi: Stars兑换ton或者去投Tg 广告也可以，没找到位置哈
+
+Andrew: https://ton-org.notion.site/Telegram-Star-1b95274bd2cf81a381f7da81c96d4baf?pvs=73 (reply to 90509)
+
+ke bi: 好的，谢谢
+
+Rose: TON Dev Chat (中文) 歡迎你的到來，請多加利用下方按鈕的資訊，並遵守群組規則。

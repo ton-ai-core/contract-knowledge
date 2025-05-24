@@ -1,5 +1,3 @@
-talkol: Ledger has some insanely bad decisions too, it’s not perfect  For example, passphrase has to be typed on the device using only 2 buttons which make people either avoid passphrase or take a short 4-6 character one which can easily be brute forced. Passphrase should always be used so then device doesn’t hold the full private key and it should be at least 14-15 characters so brute forcing it becomes difficult
-
 NuSs: hi, how can i get test tons? I tried a bot in teleram, but I could never get any ton :( (reply to 14284)
 
 doni: is your wallet on testnet ? (reply to 14285)
@@ -514,7 +512,7 @@ Dario: Yeah, and if in a dex a trade is traded >1$ usually you can mint more fro
 
 davide: yes the problem is how the contract knows? (reply to 14696)
 
-stablealt.hl: SC gets data from oracles (reply to 14696)
+altoshi: SC gets data from oracles (reply to 14696)
 
 Dario: If its backed by crypto, usually they use oracles, a fancy word to say that someone push the data inside the smart contract (reply to 14701)
 
@@ -526,7 +524,7 @@ Max: doesn't exist at the moment
 
 Max: but there is a grant for that I believe although it is only a draft right now
 
-stablealt.hl: https://t.me/tondev_eng/11564 (reply to 14705)
+altoshi: https://t.me/tondev_eng/11564 (reply to 14705)
 
 Max: oh that's cool (reply to 14708)
 
@@ -534,7 +532,7 @@ Dario: No code = no trust (reply to 14708)
 
 Step: no one is here can help? 🥹 (reply to 14637)
 
-stablealt.hl: Said stonfi developer Our oracle is open-source. (reply to 14710)
+altoshi: Said stonfi developer Our oracle is open-source. (reply to 14710)
 
 Dario: Where? (reply to 14712)
 
@@ -544,9 +542,9 @@ Max: 👀
 
 Dario: Im really curious, i looked for it at the beginning but i didn't find anything on GitHub (reply to 14713)
 
-stablealt.hl: Yes. I need to update it tomorrow (reply to 14714)
+altoshi: Yes. I need to update it tomorrow (reply to 14714)
 
-stablealt.hl: Dm me, so I won’t forget to give a link to u
+altoshi: Dm me, so I won’t forget to give a link to u
 
 Saber: the scheme of your tx data is: OP(32 bits) Signature(512 bits) subwallet Id ( 32 bits) valid_since( 32 bit) valid_till ( 32 bit) username length(8 bit) username(8bit * length) content(ref) auction config(ref) royalty(ref) (reply to 14711)
 
@@ -572,9 +570,9 @@ Max: not yet at least (reply to 14762)
 
 — 2022-12-02 —
 
-stablealt.hl: Testnet is back.  Developers using testnet: please update the config and, if necessary, rebuild the tonlib from last commit of the testnet branch.
+altoshi: Testnet is back.  Developers using testnet: please update the config and, if necessary, rebuild the tonlib from last commit of the testnet branch.
 
-stablealt.hl: Chainlink is EVM Oracle, TON is TVM, but I think they can build a new one on TVM using their brand name. (reply to 14762)
+altoshi: Chainlink is EVM Oracle, TON is TVM, but I think they can build a new one on TVM using their brand name. (reply to 14762)
 
 davide: but we have to wait chainlink (reply to 14781)
 
@@ -590,7 +588,7 @@ Hartmann D.: Lol https://t.me/tonsociety_chat/6791 (reply to 14826)
 
 Rasoul: Hi guys how to call   function from smart contract  with http request ?
 
-stablealt.hl: I think you need to use Tonweb (reply to 14843)
+altoshi: I think you need to use Tonweb (reply to 14843)
 
 Rasoul: Have you ever done this? I need documentation. I have not worked with tonweb (reply to 14844)
 
@@ -688,11 +686,11 @@ User<5321317577>: Morning from the South  I just finished my final year of secon
 
 User<5321317577>: Does TON only use Fift language and where can I learn it?
 
-stablealt.hl: TON uses FunC, which compiles into lower-level Fift  But you can use Fift, which is 100x harder than FunC :) (reply to 14974)
+altoshi: TON uses FunC, which compiles into lower-level Fift  But you can use Fift, which is 100x harder than FunC :) (reply to 14974)
 
 User<5321317577>: 100x harder?😢  Is it also harder than C# or Python? (reply to 14975)
 
-stablealt.hl: FunC is similar to C, so Fift is alien language :) (reply to 14976)
+altoshi: FunC is similar to C, so Fift is alien language :) (reply to 14976)
 
 User<5321317577>: I understand, thanks (reply to 14977)
 
@@ -1120,9 +1118,9 @@ Florent: Hi Ruslan, Will do so thank you (reply to 15338)
 
 hadi: Hi. is there any article about ton tokenomic?
 
-Anthony: Any solid developers in the chat?
+Anthony | Sendor - Beyond The Pump: Any solid developers in the chat?
 
-Anthony: Any open to building something on the Ton Network together? I am 11 years in this space and interested in supporting some growth on this network.
+Anthony | Sendor - Beyond The Pump: Any open to building something on the Ton Network together? I am 11 years in this space and interested in supporting some growth on this network.
 
 Daniil: @toncoin_chat for general questions
 
@@ -1510,7 +1508,7 @@ Dr. T: We obviously do as well, but get too many inquiries that aren't very seri
 
 Eazy: Depends on what you are building (reply to 15688)
 
-Elshad 💠 🐾: hey everyone. Who can check testnet? I think testnet is down!
+Elshad: hey everyone. Who can check testnet? I think testnet is down!
 
 play of the game: hi, I'm recently getting this error while using glitch to compile, I understand that I should define the FIFPATH variable, does anyone know the value I should put inside it?
 
@@ -1542,7 +1540,7 @@ Step: main library has no documentation at all if even there something its outda
 
 Cpperg: Are you looking for developers? (reply to 15711)
 
-Elshad 💠 🐾: set FIFTPATH environment variable before the compilation (reply to 15700)
+Elshad: set FIFTPATH environment variable before the compilation (reply to 15700)
 
 fraffo: hello, how can i buy  a telegram nft number without using tonkeeper?
 
@@ -1614,11 +1612,11 @@ Max: 1) your kv pair count would be limited by the key length. Say you choose ke
 
 Md Zaan: Hi
 
-Elshad 💠 🐾: https://github.com/ton-defi-org/ton-binaries  from this source download the binaries which version is appropriate to your operating system and put them into the same folder (reply to 15773)
+Elshad: https://github.com/ton-defi-org/ton-binaries  from this source download the binaries which version is appropriate to your operating system and put them into the same folder (reply to 15773)
 
-Elshad 💠 🐾: and later download the zip file from this link: https://github.com/ton-defi-org/ton-binaries/releases/download/fiftlib/fiftlib.zip unarchive and put the extracted folder to somewhere. And now you can set FIFTPATH environment before the compilation. Just type in the terminal: export FIFTPATH=[path to your extracted folder] (reply to 15773)
+Elshad: and later download the zip file from this link: https://github.com/ton-defi-org/ton-binaries/releases/download/fiftlib/fiftlib.zip unarchive and put the extracted folder to somewhere. And now you can set FIFTPATH environment before the compilation. Just type in the terminal: export FIFTPATH=[path to your extracted folder] (reply to 15773)
 
-Elshad 💠 🐾: thats all
+Elshad: thats all
 
 Coalus: P.S. this link a bit broken, current working link to fiftlib.zip - https://github.com/ton-defi-org/ton-binaries/releases/download/ubuntu-18-0.3.0/fiftlib.zip (reply to 15817)
 
@@ -1648,7 +1646,7 @@ User<5321317577>: When we're going to integrate Ton with Telegram and have a spe
 
 Ammer Wallet: On-chain p2p payments with TON. :)
 
-stablealt.hl: fabulous! Btw is it legal to pay with crypto? (reply to 15842)
+altoshi: fabulous! Btw is it legal to pay with crypto? (reply to 15842)
 
 Ammer Wallet: Depends on the jurisdiction. We are Swiss based, here and in the majority of the european countries it is fully legal. (reply to 15843)
 
@@ -1750,7 +1748,7 @@ Nano: I have a question
 
 Nano: How can I use a smart contract that allows you to make a payment with another person (P2P), but that the funds are not deposited until both parties have paid?
 
-Александр: Hi Guys i find a programmer who can make a contract from another network to TON network  Good money
+•⚜️• 𝐀𝟏𝐞𝐤𝐬𝐚𝐫𝐭 •⚜️•: Hi Guys i find a programmer who can make a contract from another network to TON network  Good money
 
 Сергей: dton.io how to connect testnet
 
@@ -2166,7 +2164,7 @@ Behrang: This is not TonHub. This is TON Wallet.
 
 User<5021395935>: ?
 
-♚ 𝑴𝛂𝒉𝒅𝒊 |: Hello I bought number in https://foxtails.io/gallery but I didn't receive number NFT, What is "Contract Deploy"?
+♚ 𝑴𝛂𝒉𝒅𝒊: Hello I bought number in https://foxtails.io/gallery but I didn't receive number NFT, What is "Contract Deploy"?
 
 Howard: they supposedly can connect right? (reply to 16483)
 
@@ -2202,11 +2200,11 @@ User<5858985737>: Hi
 
 Behrang: To talk to smart contracts on the TON network, you have to use the Cell data structure. You have to write it bit by bit (not bytes) and create it. To send it to the network you have gather all cells together in a BOC (Bag Of Cells) format. (reply to 16523)
 
-Elshad 💠 🐾: hello guys. Who knows how to convert address to slice in func? I want to set custom address in cell but first of all I have to convert string wallet address to slice somehow. I don't know how
+Elshad: hello guys. Who knows how to convert address to slice in func? I want to set custom address in cell but first of all I have to convert string wallet address to slice somehow. I don't know how
 
 Andrey: .store_slice("Ef8zMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzM0vF"a)   ;) (reply to 16584)
 
-Elshad 💠 🐾: thanks a lot ) (reply to 16586)
+Elshad: thanks a lot ) (reply to 16586)
 
 User<5461650450>: Hi, have a quick question.  What is certificate for ton used for? What is certificate for ? How can we get it ?
 
@@ -3144,9 +3142,9 @@ Saber: I saw this paragraph in ton whitepaper, but I couldn’t find anything ab
 
 Emilia: Unfortunately no one answered me. (reply to 17332)
 
-Elshad 💠 🐾: is testnet.tonscan.org down or only me cannot access
+Elshad: is testnet.tonscan.org down or only me cannot access
 
-Elshad 💠 🐾: ?
+Elshad: ?
 
 Young: Hey all! I'm building a DAO tooling related project on TON. I’m doing some specs up but I’m interested in two types of devs:  1. doing a paid gig for a prototype (I can pay 1-10K), or  2. looking to be a CTO/Tech lead, can net 100-300K yearly   Need: Familiarity with FunC/C, Javascript, Typescript. Blockchain exp not needed. No min years of engineering exp. As long as you're learning FunC  Send me a DM with your CV and Github if that's you!
 
@@ -5056,17 +5054,17 @@ zzss: I have cases where I need to win a race with other transactions, so it can
 
 Daniil: There is no "race" between transactions (reply to 19175)
 
-stablealt.hl: He means gas auctions. It’s a normal thing in Ethereum (reply to 19176)
+altoshi: He means gas auctions. It’s a normal thing in Ethereum (reply to 19176)
 
 Daniil: Gas auctions? (reply to 19177)
 
 Daniil: Oh you mean that
 
-stablealt.hl: Yes. The higher the bid, the faster your transaction will be completed. (reply to 19178)
+altoshi: Yes. The higher the bid, the faster your transaction will be completed. (reply to 19178)
 
 Daniil: I know what it is, just saying that there's no such thing in TON
 
-stablealt.hl: There is no gas auctions in TON, it was made to avoid cheating, gas fee rise and other bad things. (reply to 19175)
+altoshi: There is no gas auctions in TON, it was made to avoid cheating, gas fee rise and other bad things. (reply to 19175)
 
 zzss: Thanks (reply to 19182)
 
@@ -5802,19 +5800,19 @@ Daniil: ton doesn't have this kind of problem. (reply to 19689)
 
 kirito: short eth 🙈
 
-a11: Hello developers! What I am need to do with that error. I'm getting it on tonweb (js) when I'm deploying the contract  const deploy = wallet.deploy(keyPair.secretKey); const deploySended = await deploy.send();  Error:  Failed to unpack account state
+ally11: Hello developers! What I am need to do with that error. I'm getting it on tonweb (js) when I'm deploying the contract  const deploy = wallet.deploy(keyPair.secretKey); const deploySended = await deploy.send();  Error:  Failed to unpack account state
 
 &rey: Doesn't deploy use keyPair.publicKey as argument? (reply to 19692)
 
-a11: what's version of contract is using https://wallet.ton.org
+ally11: what's version of contract is using https://wallet.ton.org
 
 &rey: I think that's v3R2 unless it has been updated since summer 2022. (reply to 19694)
 
-a11: k
+ally11: k
 
-a11: I'm just getting different addresses
+ally11: I'm just getting different addresses
 
-a11: my code   let wallet = WalletContractV3R2.create({ workchain, publicKey: keyPair.publicKey }); let contract = client.open(wallet);  console.log(contract)  and I am getting an different addresses
+ally11: my code   let wallet = WalletContractV3R2.create({ workchain, publicKey: keyPair.publicKey }); let contract = client.open(wallet);  console.log(contract)  and I am getting an different addresses
 
 T: I've updated my code to resend the transaction every 20 seconds and it's still not coming through. What could be the issue? See the sending code attached.  Sending wallet: https://testnet.tonscan.org/address/EQAKgUmCYrQ4L8_Fs8X69QD9mt-vkBDATBJeAmCAca8qoLaO (reply to 19682)
 
@@ -5824,7 +5822,7 @@ Daniil: you can also try printing the result of that sendTransfer call
 
 Daniil: there should be execution logs somewhere. big chance that your transaction just got rejected because of some wrong parameters
 
-a11: can u help me? (reply to 19698)
+ally11: can u help me? (reply to 19698)
 
 T: Yes seqno is correct. This wallet has only sent 1 transaction so far with seqno 0. You can verify that on tonscan (reply to 19701)
 
@@ -5834,7 +5832,7 @@ T: Hmm not sure where, i haven't been able to find any yet. Will have another lo
 
 User<1800730764>: hi, where can I see all the tokens and projects on the ton network?
 
-a11: bodybag of cells is expected to have exactly one root" what is it
+ally11: bodybag of cells is expected to have exactly one root" what is it
 
 T: Double checked the source for "ton" js library and I can't find any way to get logs for the sendTransfer request. Since it uses axios under the hood, I tried adding request/response interceptors, but that also didn't seem to work - I guess the lib gets a different instance of axios than my service. Might need to come up with some temporary hacky way of getting some code added to the lib, so I can log the relevant data myself (reply to 19703)
 
@@ -6804,11 +6802,11 @@ Hermès: I mean example code haha
 
 Slava: Check the grammY framework. (reply to 20439)
 
-@business: Why is someone or something trying to destroy my asset? Who are sending my minted domain to the zero address *AAM9c? Can share more details if needed.
+211 Capital: Why is someone or something trying to destroy my asset? Who are sending my minted domain to the zero address *AAM9c? Can share more details if needed.
 
 Daniil: ? (reply to 20441)
 
-@business: I own an asset - domain name (minted already). Saw suspicious operations in my transaction history. I did not do them. One example of a transaction:  https://tonapi.io/transaction/652feb4b65afc19629d9813543a2d0c2628876be45b8577f8748081451cd0994  Is my domain name trying to self-destruct?  This always happens during listing on a Fragment. But sometimes spontaneously. Bug? (reply to 20442)
+211 Capital: I own an asset - domain name (minted already). Saw suspicious operations in my transaction history. I did not do them. One example of a transaction:  https://tonapi.io/transaction/652feb4b65afc19629d9813543a2d0c2628876be45b8577f8748081451cd0994  Is my domain name trying to self-destruct?  This always happens during listing on a Fragment. But sometimes spontaneously. Bug? (reply to 20442)
 
 Howard: https://github.com/ton-defi-org/tonstarter-twa  Here is one part (reply to 20439)
 
@@ -6818,19 +6816,19 @@ User<5693104230>: I'm not yet thinking about security issues, thank you my frien
 
 Daniil: I don't see these null-address transactions on tonscan or toncx (reply to 20443)
 
-@business: Yes, an outgoing transaction (that is not made by me) always fails. But why does this even happen? This has happened several times over the past 2 months. (reply to 20447)
+211 Capital: Yes, an outgoing transaction (that is not made by me) always fails. But why does this even happen? This has happened several times over the past 2 months. (reply to 20447)
 
 Daniil: I've just compared the history in tonapi explorer and other ones. Looks like tonapi shows external messages as messages from null address...
 
 Daniil: Basically, someone sent several external messages to the contract of your username. It's okay, nothing bad can happen. (reply to 20448)
 
-@business: Can a minted asset be revoked or taken away in some way? (reply to 20449)
+211 Capital: Can a minted asset be revoked or taken away in some way? (reply to 20449)
 
 Daniil: Maybe it's a little bug in Fragment, maybe someone is just having fun. Maybe it's necessary for something. (reply to 20450)
 
 Daniil: NFT - no (reply to 20451)
 
-@business: It's not funny that someone is experimenting with your NFT. Moreover, I observe digital hygiene and exclude mistakes on my part. :) (reply to 20452)
+211 Capital: It's not funny that someone is experimenting with your NFT. Moreover, I observe digital hygiene and exclude mistakes on my part. :) (reply to 20452)
 
 Daniil: Even if these are "experiments" - nothing bad can happen. (reply to 20454)
 
@@ -6874,9 +6872,9 @@ Steve: yeah, just copying new library and rebranding it everywhere - very friend
 
 Diako: Do you have any example of getting connected to my ton wallet " chrome extension " ?
 
-@business: Let's try to rephrase the question. The point is not that some transaction is shows weird messages. The essence of the problem and the question is that the transaction is spontaneously committed (!) without my participation. And it is visible in other tone explorers (reply to 20457)
+211 Capital: Let's try to rephrase the question. The point is not that some transaction is shows weird messages. The essence of the problem and the question is that the transaction is spontaneously committed (!) without my participation. And it is visible in other tone explorers (reply to 20457)
 
-@business: https://tonscan.org/tx/ZS_rS2WvwZYp2YE1Q6LQwmKIdr5FuFd_h0gIFFHNCZQ=  who did this? ^_^ has no idea (reply to 20457)
+211 Capital: https://tonscan.org/tx/ZS_rS2WvwZYp2YE1Q6LQwmKIdr5FuFd_h0gIFFHNCZQ=  who did this? ^_^ has no idea (reply to 20457)
 
 &rey: I think that message was sent by Fragment to end the auction. (reply to 20480)
 
@@ -7898,7 +7896,7 @@ Petr 🇷🇺: It's what? Orbs or another?
 
 Petr 🇷🇺: Where I can read about differences? (reply to 21253)
 
-Web7 TimeLord 👨‍💻: Hey folks Grafana dashboard not working https://tonmon.xyz/?orgId=1&refresh=5m
+User<554673663>: Hey folks Grafana dashboard not working https://tonmon.xyz/?orgId=1&refresh=5m
 
 &rey: I can't find the description though I've read it, probably it is shown while verifying contract. In short: — TON validators execute your contract bytecode. They are responsible for correct execution but they don't know code from which the contract was generated. They are designed for highload and are doing the one thing — generating TON transactions; — Orbs validators, among other things, can check whether onchain code matches one provided by users. If I remember correctly, they have significantly lower stakes. (reply to 21256)
 
@@ -8104,11 +8102,11 @@ Whitey: Thank you very much! You have no idea how you helped me! (reply to 21368
 
 &rey: Good luck in buidling on TON) (reply to 21369)
 
-stablealt.hl: “now it turns into some q/a , I think I can continue to answer for a fee.” 😁
+altoshi: “now it turns into some q/a , I think I can continue to answer for a fee.” 😁
 
 &rey: WDYM? (reply to 21371)
 
-stablealt.hl: https://t.me/tondev_eng/19131 (reply to 21373)
+altoshi: https://t.me/tondev_eng/19131 (reply to 21373)
 
 User<5807008649>: Hey
 
@@ -8584,7 +8582,7 @@ Rinat | ZilPay (Will not Call or DM you): i want to be anonymous in centralized 
 
 Rinat | ZilPay (Will not Call or DM you): yes, this is cool wallet but there no way to connect it ((( (reply to 21655)
 
-stablealt.hl: connect to getgems.io via TonHub > buy Telegram Numbers from secondary market. (reply to 21651)
+altoshi: connect to getgems.io via TonHub > buy Telegram Numbers from secondary market. (reply to 21651)
 
 Daniil: But he won't be able to use it without Fragment (reply to 21658)
 
@@ -9504,7 +9502,7 @@ Alex: have you maybe exmaple how to do that diff contract?
 
 User<1783915887>: hi,I am a  ambassador and marketer, with two years of experience in marketing and guidance and moderator, in Telegram, conditions for I can create a local association. What is your opinion, who should I talk to?
 
-Lisa: Attention, developers! 💎  Join us at the upcoming Hack-a-TONxDoraHack offline meetup in Dubai, where you'll have the opportunity not only to pitch ideas for the hackathon but also to learn about the latest advancements in TON blockchain technology and network.  18-19 Feb, TON Foundation office, you'll learn everything you need to know to get started. The full agenda is already published on the website.  Whether you're an experienced developer or just starting out, this is the perfect opportunity to expand your knowledge, network with TON experts, and be a part of the TON community shaping the future of blockchain technology.  👉 Register now and be a part of our meetup.
+Lisa OOO: Attention, developers! 💎  Join us at the upcoming Hack-a-TONxDoraHack offline meetup in Dubai, where you'll have the opportunity not only to pitch ideas for the hackathon but also to learn about the latest advancements in TON blockchain technology and network.  18-19 Feb, TON Foundation office, you'll learn everything you need to know to get started. The full agenda is already published on the website.  Whether you're an experienced developer or just starting out, this is the perfect opportunity to expand your knowledge, network with TON experts, and be a part of the TON community shaping the future of blockchain technology.  👉 Register now and be a part of our meetup.
 
 Alex: i try to do                     const opcode = cell.bits.readUint(32)  i don't have readuinit(32) =/
 

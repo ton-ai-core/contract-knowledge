@@ -1,5 +1,3 @@
-Nxrix: If I select 24 random words from bip39 list in javascript using Math.random is it safe to use it as wallet?
-
 Andrey: Actually it has addition checks for generated seed, you can check them in tonlib code:  https://github.com/ton-blockchain/ton/blob/8a9ff339927b22b72819c5125428b70c406da631/tonlib/tonlib/keys/Mnemonic.cpp#L159 (reply to 43707)
 
 Bear: 😄 (reply to 43706)
@@ -3260,17 +3258,17 @@ Mohammad: This is the smart contract that Telegram intends to use in order to pu
 
 Жоуд: Is it okay for a first cycle?
 
-a11: hello guys, is there a method for estimate correct fees for ton sending (tonweb)
+ally11: hello guys, is there a method for estimate correct fees for ton sending (tonweb)
 
-a11: import { WalletContractV4, TonClient, internal } from '@ton/ton';  const client = new TonClient({   endpoint: 'https://testnet.toncenter.com/api/v2/jsonRPC', });  const wallet = WalletContractV4.create({   publicKey: key.publicKey,   workchain: 0, });  const walletContract = client.open(wallet); const seqno = await walletContract.getSeqno();  const transfer = await walletContract.createTransfer({   secretKey: key.secretKey,   seqno: seqno,   messages: [     internal({       to: secondAddress,       value: sendAmount,       body: "Hello",       bounce: false,     })   ], });  console.log('estimate:', await client.estimateExternalMessageFee(wallet.address, { body: transfer } ));  await walletContract.send(transfer);
+ally11: import { WalletContractV4, TonClient, internal } from '@ton/ton';  const client = new TonClient({   endpoint: 'https://testnet.toncenter.com/api/v2/jsonRPC', });  const wallet = WalletContractV4.create({   publicKey: key.publicKey,   workchain: 0, });  const walletContract = client.open(wallet); const seqno = await walletContract.getSeqno();  const transfer = await walletContract.createTransfer({   secretKey: key.secretKey,   seqno: seqno,   messages: [     internal({       to: secondAddress,       value: sendAmount,       body: "Hello",       bounce: false,     })   ], });  console.log('estimate:', await client.estimateExternalMessageFee(wallet.address, { body: transfer } ));  await walletContract.send(transfer);
 
-a11: Estimation output {   '@type': 'query.fees',   source_fees: {     '@type': 'fees',     in_fwd_fee: 1564000,     storage_fee: 108763,     gas_fee: 3308000,     fwd_fee: 1000000   } } Sum of storage_fee + in_fwd_fee + fwd_fee + gas_fee equals 5980763 which is 3 gram less then real fee paid for the transaction https://testnet.tonscan.org/tx/2xRWxV-7sIxMWpT8xmLGYgc5Z8YOk93GZVURJzw2Ro0= (0,005980766 TON = 5980766).  Fee estimation shortage may differ from 2 to 100 grams, but always less then real fee.  How to accurately calculate the transfer fee?
+ally11: Estimation output {   '@type': 'query.fees',   source_fees: {     '@type': 'fees',     in_fwd_fee: 1564000,     storage_fee: 108763,     gas_fee: 3308000,     fwd_fee: 1000000   } } Sum of storage_fee + in_fwd_fee + fwd_fee + gas_fee equals 5980763 which is 3 gram less then real fee paid for the transaction https://testnet.tonscan.org/tx/2xRWxV-7sIxMWpT8xmLGYgc5Z8YOk93GZVURJzw2Ro0= (0,005980766 TON = 5980766).  Fee estimation shortage may differ from 2 to 100 grams, but always less then real fee.  How to accurately calculate the transfer fee?
 
 &rey: Check detalization for actual transaction. Likely storage fee is off. (reply to 45687)
 
 &rey: Also, 1 TON = 1 Gram (called that in the past) = 1'000'000'000 nanoTON, indivisible units without specific name.
 
-a11: so how this need to be fixed? (reply to 45688)
+ally11: so how this need to be fixed? (reply to 45688)
 
 Behrang: Since the storage fee is calculated per second, I believe that's a really hard and error prone task to calculate it exactly.   Maybe by the time you send the request, some time passes and the storage fee increases.   Maybe by the time your request arrives, another message has paid the due storage fee and you actually sent it more than needed.   I would just send more gas and try to return the remaining value in contracts.
 
@@ -3764,13 +3762,13 @@ DEEP: 👍😁 (reply to 46006)
 
 🆙 UXUY 🌱SEED 🐸' 🐾 📦 Bums: you can do it? (reply to 46008)
 
-Kahoor: Hey there, Is there a method for enforcing comments on incoming transactions for a particular address? For example, can exchanges require(On-Chain) that users include a comment or tag/memo when transferring funds to the address?
+Amir Kahoori | P2P.org: Hey there, Is there a method for enforcing comments on incoming transactions for a particular address? For example, can exchanges require(On-Chain) that users include a comment or tag/memo when transferring funds to the address?
 
 &rey: I have guesses about the theory how to build it. Yes, those are bots. (reply to 46010)
 
 &rey: Yes, that requires a custom smart-contract. (reply to 46011)
 
-Kahoor: So the address should be a contract? Is there a sample contract I can check out? (reply to 46013)
+Amir Kahoori | P2P.org: So the address should be a contract? Is there a sample contract I can check out? (reply to 46013)
 
 Nxrix: is it possible to get total sale volume of NFT collection for owner
 
@@ -4814,7 +4812,7 @@ kevin: I was doing the same thing, what I did is reading the contract and trying
 
 kevin: I am researching on that bro. (reply to 46654)
 
-Barb: What website to use for revoking mint
+G G: What website to use for revoking mint
 
 Kenny$$Shillz: but how do you read the raw data in the first place... its quite difficult getting information for technical stuff on ton and this leads to some of the worst developer experience in crypto echo system. take for instance the toncenter api docs. there's practically nothing you can gain from opening  their docs, u may as well have written the api yourself, and its not just toncenter, its the same with all the sdks for building on ton... This will surely impact negatively on growth imo (reply to 46657)
 
@@ -5912,7 +5910,7 @@ Grigory: Hello everyone, what version of tonweb the one that is in docs: https:/
 
 wikig: Hello guys ! are there any vanilla-js demo of @tonconnect/ui-react  ?
 
-Kahoor: Hi, is anyone here a dev for telegram wallet? @wallet
+Amir Kahoori | P2P.org: Hi, is anyone here a dev for telegram wallet? @wallet
 
 Kenny$$Shillz: Should you not batch the  two transfer messages in one transaction with same seqno? (reply to 47196)
 
@@ -10208,7 +10206,7 @@ Jeremy: TON WSL ubuntu22.04   fift -V How can I do ?
 
 TON Bounty Bridge: ​Telegram bot for controlling access to private chats via Jetton and/or NFT  🏷 Developer Tool  Summary:Given the activity in TON and the increasing popularity of Jetton tokens, as well as the necessity f...  Rewards: • SBT Bounty Reward • 2000 USD in TON  Created by nessshon
 
-alli <3: anyone know how to create an nft with python
+boot adbot: anyone know how to create an nft with python
 
 Glenn: Okay thank you (reply to 50065)
 
@@ -10288,13 +10286,13 @@ K.: Have you done any modifications to the project? The error you are seeing is 
 
 Pavel: No, I didn't make any changes. It must be a problem in my work environment. I'll try reinstalling my windows OC (reply to 50156)
 
-alli <3: I ❤️ the TON blockchain
+boot adbot: I ❤️ the TON blockchain
 
 &rey: What's the manifest content? (reply to 50157)
 
 &rey: What are you using to create such a working sequence of transactions? (reply to 50159)
 
-alli <3: tontools on python
+boot adbot: tontools on python
 
 Nxrix: I don't think that's ton problem (reply to 50159)
 
@@ -12854,9 +12852,9 @@ Anarion: 😊Hi guys! Today I was amazed and decided to write my projects, which
 
 ayushag: Hey, I am new to TON Blockchain and my learning way is by building and collaborating. So, Can I have some Opensource projects or your projects to work on?
 
-GyNanzo: Hi
+Gy: Hi
 
-GyNanzo: hello guys can i ask something?, i want to make telegram bot but i need tutorial link from ton official
+Gy: hello guys can i ask something?, i want to make telegram bot but i need tutorial link from ton official
 
 Frank: Hi everyone
 
@@ -12942,19 +12940,19 @@ peilipu: how to split a cell contents like this dump 496[7362D09C000000000000000
 
 User<6952362368>: Sorted it out manually.
 
-Nightwing: Hey guys, how can I check the amount of a token balance a wallet holds?
+Nyxra: Hey guys, how can I check the amount of a token balance a wallet holds?
 
-Nightwing: Is there any API for this? (reply to 52831)
+Nyxra: Is there any API for this? (reply to 52831)
 
 Gyorgy: Toncenter V2 API? /getTokenData (reply to 52832)
 
 Gyorgy: Or is your address Jetton balances what you are asking for? Toncenter/Tonapi and there are several other APIs to look for. Some data you can gather from liteservers too; that’s not that complicated either, but it needs to have exceptions for failures, which requires more development.
 
-Nightwing: Yes (reply to 52835)
+Nyxra: Yes (reply to 52835)
 
 Gyorgy: Check tonapi-v2, it has jetton balances. Not pasting link here as on some communities not allowed.
 
-Nightwing: Thanks found it (reply to 52837)
+Nyxra: Thanks found it (reply to 52837)
 
 On-Chain ⛓️: Hi guys, which API can I use for a TG bot on Ton?
 
@@ -13134,7 +13132,7 @@ kevin: Hi, how can I calculate next transaction hash if I know a out_msg of the 
 
 Heydar: I mean , tonclient is sending init code and the code so it dont send any extra data , and also because tonweb is doing that , may it adding some extra data to deploy, so we can detect that by that extra data, but I dont think it add something . however maybe Im thinking totaly different. (reply to 52960)
 
-GyNanzo: Oh thank you (reply to 52753)
+Gy: Oh thank you (reply to 52753)
 
 Heydar: Im doing load_uint(32) in the func contract and in typescript using number type , now when I just change bit-length to 8 ->  load_uint(8) my tests failed, what's the problem? what type should I use in typescript for that length?
 
@@ -13160,7 +13158,7 @@ Oscar: Does anyone have any ideas? (reply to 52998)
 
 Oscar: Please help 🙂
 
-Nightwing: You're awesome man, thanks for the help (reply to 52837)
+Nyxra: You're awesome man, thanks for the help (reply to 52837)
 
 &rey: Your flags have drifted between msg and master_msg, from 1 to 2. (reply to 53001)
 
@@ -13864,7 +13862,7 @@ K.: No, but you can just make one that sends Jettons directly by asking a user t
 
 K.: It’s really not always about the tech, people are the ones getting exploited
 
-/: Hi, everybody How can multiple transactions be sent from a highload at once? Are there any examples?  Js
+/ Stars Bank: Hi, everybody How can multiple transactions be sent from a highload at once? Are there any examples?  Js
 
 wikig: lol . that's true . (reply to 53592)
 
@@ -14170,7 +14168,11 @@ K.: Yes, https://tonhelloworld.com/01-wallet/ (reply to 53871)
 
 &rey: After all, since others can use same queryId, it's useless to me.
 
-Nightwing: Guys is there any API that helps me send jetton to another TON wallet address?
+Nyxra: Guys is there any API that helps me send jetton to another TON wallet address?
 
 &rey: And storing zero onchain is a bit cheaper.
+
+&rey: Use @ton/ton lib. (reply to 53882)
+
+Oscar: Does anyone want to help 🙂 (reply to 53816)
 

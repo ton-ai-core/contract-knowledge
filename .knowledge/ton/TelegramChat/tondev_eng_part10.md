@@ -1,5 +1,3 @@
-Valentin: Hey, is there a way to obtain the owner of a given jetton wallet contract?
-
 &rey: Yes, get_jetton_data or sth like that returns it. (reply to 128262)
 
 &rey: Make sure to cross-check that jetton master really gives that jetton wallet's address, or you risk spending TON on wrong contract but thinking that's just high fees.
@@ -154,11 +152,11 @@ Sam: For example this is jetton wallet ?  0:09f2e59dec406ab26a5259a45d7ff23ef11f
 
 Jacob: rpc error :   cannot compute block with specified transaction: cannot find block (0,03d18a0b4b77c76f) lt=28733542000001: lt not in db  how to address this issue?  Thank you
 
-Tung: Hello, i call transfer Cati token, but error: Compute Phase Success: false Exit code: 709  I have never encountered this error 709, please help me, this is a cati contract  https://tonviewer.com/EQD-cvR0Nz6XAyRBvbhz-abTrRC6sI5tvHvvpeQraV9UAAD7
+TKAINU: Hello, i call transfer Cati token, but error: Compute Phase Success: false Exit code: 709  I have never encountered this error 709, please help me, this is a cati contract  https://tonviewer.com/EQD-cvR0Nz6XAyRBvbhz-abTrRC6sI5tvHvvpeQraV9UAAD7
 
 final: Check source code of Jetton master or wallet (reply to 128677)
 
-Tung: I found the error, due to lack of gas, but the opcode here is 709, not 48 like other contracts. (reply to 128678)
+TKAINU: I found the error, due to lack of gas, but the opcode here is 709, not 48 like other contracts. (reply to 128678)
 
 final: Because it is thrown by contract itself, which provides custom op codes (reply to 128679)
 
@@ -296,7 +294,7 @@ TonAlph: Ohh 😦 (reply to 128899)
 
 TonAlph: Ok thk you. (reply to 128901)
 
-А: Please repair tonconnect ui
+Аro: Please repair tonconnect ui
 
 TON Bounty Bridge: ​Implement referral system in the TON Circle  🏷 Developer Tool  Summary:Create a new page in TMA with all the necessary information about how the Referral System works, int...  Created by coalus
 
@@ -636,9 +634,9 @@ Osalotioman: Didn't change the wallet details on tonscan.org 😔 (reply to 1302
 
 Toby | OSL: Hi all I saw there is a scheduled network update in Dec 17. May I understand the details of the upgrade? How likely would the network stability be impact
 
-Luke H: Hi everyone, after I hash the response boc from a recently sent transaction like this: const response = await TonConnectUI?.sendTransaction({                     messages: [                         {                             address: args.to.toString(),                             amount: args.value.toString(),                             payload: args.body?.toBoc().toString('base64'),                         },                     ],                     validUntil: Math.floor(Date.now() / 1000) + 300, // 5 minutes                 });                 const inMsgHash = Cell.fromBoc(Buffer.from(response.boc, 'base64'))[0]                     .hash()                     .toString('base64');                 console.log({ inMsgHash }); I went to testnet.tonviewer.com to search by hash and see that it is pending. However, after around 5 minutes, I reload the page and it shows 404 not found error.  What might be the cause of this?
+Luke: Hi everyone, after I hash the response boc from a recently sent transaction like this: const response = await TonConnectUI?.sendTransaction({                     messages: [                         {                             address: args.to.toString(),                             amount: args.value.toString(),                             payload: args.body?.toBoc().toString('base64'),                         },                     ],                     validUntil: Math.floor(Date.now() / 1000) + 300, // 5 minutes                 });                 const inMsgHash = Cell.fromBoc(Buffer.from(response.boc, 'base64'))[0]                     .hash()                     .toString('base64');                 console.log({ inMsgHash }); I went to testnet.tonviewer.com to search by hash and see that it is pending. However, after around 5 minutes, I reload the page and it shows 404 not found error.  What might be the cause of this?
 
-Luke H: https://testnet.tonviewer.com/transaction/149751124566363c66b6312ecddcf0dd2d4d9dc502f03177358ae92ca03e97a7
+Luke: https://testnet.tonviewer.com/transaction/149751124566363c66b6312ecddcf0dd2d4d9dc502f03177358ae92ca03e97a7
 
 Paul2: Hi, Is it still available to call apis for wallet integration in react project? We are going to implement game item purchase by USDT(Ton) using TON Space wallet like in-app wallet. Not sure why api calls are getting blocked.
 
@@ -1084,7 +1082,7 @@ Brian ☀️: Code do transfer ton
 
 WhyesCode: Is your mnemonic for tonkeeper giving the same address? (reply to 131298)
 
-Tung: You can try replacing contractv4 with contractv3r2 (reply to 131299)
+TKAINU: You can try replacing contractv4 with contractv3r2 (reply to 131299)
 
 Brian ☀️: yes I sure it same, double check in wallet (reply to 131300)
 
@@ -1282,7 +1280,7 @@ WhyesCode: Great 👍 (reply to 131761)
 
 Justin: Hi everyone, can anyone help me solve this problem? I sent an external message with 1 ton to a contract, and the contract wants to keep 0.4 ton. I want the remaining 0.6 ton to be returned to the sender after deducting gas fees. Is this possible? I tried to use nativeReserve to keep part of the amount, but it doesn't seem to work with SendRemainingValue.
 
-Khashi: I need to send a message to my deployed contract on the mainnet. I sent the message in this format, but I received error 130. Could you please assist me with this issue?
+FreeSpirit: I need to send a message to my deployed contract on the mainnet. I sent the message in this format, but I received error 130. Could you please assist me with this issue?
 
 https:// 🏁: Then, is there any way to check if transaction is successful? (reply to 131751)
 
@@ -1394,7 +1392,7 @@ pid | ton: thanks rey, that's help a lot (reply to 131988)
 
 WhyesCode: What's the issue? (reply to 131974)
 
-Khashi: how can i accept all messages inside tact?
+FreeSpirit: how can i accept all messages inside tact?
 
 Anton: https://docs.tact-lang.org/book/receive/#receive-internal-messages  > receive(msg: Slice) - called when binary message of unknown type is sent to the contract (reply to 131992)
 
@@ -1732,7 +1730,7 @@ Outcasters: Thanks for info (reply to 133130)
 
 Tea the Bottle: hello, Im stucking here:  with this code, address show up was diff from my Ton keeper address  let mnemonics = (process.env.mnemonics || "").toString();  console.log(mnemonics.split(" ")) let keyPair = await mnemonicToPrivateKey(mnemonics.split(" "));  // Create wallet contract let workchain = 0; // Usually you need a workchain 0 let wallet = WalletContractV5R1.create({ workchain, publicKey: keyPair.publicKey }); console.log(wallet.address);   I can not figure out why from same mnemonics it was gave out 2 address
 
-Tung: It will be 1 display address and 1 standard Ton address (reply to 133134)
+TKAINU: It will be 1 display address and 1 standard Ton address (reply to 133134)
 
 Tea the Bottle: I solved it, V4 is ok, V5 is a mess. Tonkepper using w5, not v5r1 like ton ton (reply to 133135)
 
@@ -2064,7 +2062,7 @@ Ahamd: Hello friends, I want to write a robot that the user sends some TON and t
 
 Sol: Hello everyone! I am looking for a technical specification or task related to developing smart contracts on the TON blockchain. If anyone has ongoing projects or documents describing specific requirements, please share or let me know where I can find one. Thank you in advance!
 
-Tung: For example, I have contract A with balance Ton = 0, executing transactions in parallel: - Receive jetton token X with 2 Ton from wallet 1 - When notified of receipt of Jetton X, 1 ton will be transferred from A to wallet 2 So the transferred ton will be taken from the contract, or taken from the ton of wallet 1 transferred to, because when I make the transaction to transfer ton from A to wallet 2, there will be an error of not having enough ton, even though I have received ton from wallet 1 and sent it over. Please help me
+TKAINU: For example, I have contract A with balance Ton = 0, executing transactions in parallel: - Receive jetton token X with 2 Ton from wallet 1 - When notified of receipt of Jetton X, 1 ton will be transferred from A to wallet 2 So the transferred ton will be taken from the contract, or taken from the ton of wallet 1 transferred to, because when I make the transaction to transfer ton from A to wallet 2, there will be an error of not having enough ton, even though I have received ton from wallet 1 and sent it over. Please help me
 
 &rey: No contract executes anything in parallel; all transactions are serialized. (reply to 133627)
 
@@ -2118,7 +2116,7 @@ Nerses: Is under the hood in TON blockchain operates Storage daemon for storage 
 
 𝘼𝙧𝙮𝙖𝙣.🦴: Hello friends, I need a script to buy NFT from getgems. Can you please advise how to do this?
 
-Abdoul: I can write for you (reply to 133703)
+Africhain: I can write for you (reply to 133703)
 
 Nerses: In forward fees is mentioned about IHR and HR mechanisms but there is no reference to them,can someone simply explain what are they or provide any appropriate material for investigation ? https://docs.ton.org/v3/documentation/smart-contracts/transaction-fees/fees-low-level#forward-fees
 
@@ -2656,11 +2654,11 @@ know: Hello, first time dev with a question about TMAs (hopefully this is an ok 
 
 4Basic: pleas any one ?
 
-yarg0xxxx: can anyone give some suggestion for ton-connect issue255 ?
+0xNameless: can anyone give some suggestion for ton-connect issue255 ?
 
-yarg0xxxx: i just found this problem on Android,it seems all telegram accout share the same localStorage in each miniapp
+0xNameless: i just found this problem on Android,it seems all telegram accout share the same localStorage in each miniapp
 
-yarg0xxxx: it caused the local wallet information of multiple accounts to be the same
+0xNameless: it caused the local wallet information of multiple accounts to be the same
 
 Nick: Hi, guys! Is it possible to send 10k messages in a row using highload wallet v3?  I tried tonkite lib and put 250 messages in each transaction (40 transactions in total). I set appropriate query id, but still I was getting this error after about 20 transactions. Does it mean I can't send any transactions amount even using highload wallet v3?  error: rejected by account before smart-contract execution
 
@@ -2882,7 +2880,7 @@ TON Bounty Bridge: 📊 Update Digest!  🔍 Active bounties: 56 ✅ Approved b
 
 Alan | Torch: Sure. I have tested. Golang speed up incredibly, in future, the only reason I will use typescript is convenience. (reply to 135308)
 
-David haserror404: AI16Z’s ElizaOS AI Agent framework is very popular, in fact it’s ranked #1 in AI Agent platforms in terms of number of Github stars; they already have a Ton blockchain plugin https://github.com/elizaOS/eliza —- 1. anyone have used that Ton plugin?  2. maybe there are opportunities to build more plugins like telegram plugins?  3. or platform on top of Eliza to better suit ton blockchain ?
+User<7611800731>: AI16Z’s ElizaOS AI Agent framework is very popular, in fact it’s ranked #1 in AI Agent platforms in terms of number of Github stars; they already have a Ton blockchain plugin https://github.com/elizaOS/eliza —- 1. anyone have used that Ton plugin?  2. maybe there are opportunities to build more plugins like telegram plugins?  3. or platform on top of Eliza to better suit ton blockchain ?
 
 Alan | Torch: It is 400x faster than dict.generateMerkleProof typescript version. Amazing (reply to 135330)
 
@@ -3088,25 +3086,25 @@ User<7012417474>: it only show 706 exit code (reply to 135604)
 
 M: Can any one help me to use TON wallet with PYTHON??
 
-Abdoul: Explain please (reply to 135609)
+Africhain: Explain please (reply to 135609)
 
 M: I want to write a python code that this program can be connected to the ton wallet and I can transfer with it and... (reply to 135610)
 
-Abdoul: Ok (reply to 135611)
+Africhain: Ok (reply to 135611)
 
 Vesting: Hello, I wanna ask about reall time transaction. I want when I get TON in my wallet it trow data  to my website like: block number, time, address sender, amount, etc. How I can pass this problem?.
 
 A: hi how should write a withdraw code for python using toncenter api for ton and usdt?
 
-Abdoul: Which language (reply to 135622)
+Africhain: Which language (reply to 135622)
 
 A: python (reply to 135624)
 
-Abdoul: Ok (reply to 135625)
+Africhain: Ok (reply to 135625)
 
 A: thanks (reply to 135626)
 
-Abdoul: Talk to me in few minutes (reply to 135627)
+Africhain: Talk to me in few minutes (reply to 135627)
 
 Александр: How can I enable double verification to perform an operation? (By double verification I mean verification with the help of another wallet) I did not find such a function in Tonkeeper, maybe it is in other wallets?
 
@@ -3258,7 +3256,7 @@ WhyesCode: Can you explain the issue you are facing? (reply to 135770)
 
 — 2025-01-10 —
 
-alli <3: does anyone know how to decompile BOCs
+boot adbot: does anyone know how to decompile BOCs
 
 &rey: https://github.com/ProgramCrafter/wallet-contract/blob/c4e9271abae8abe554a82e7d34f8c87b073acd8e/build.ts#L6. (reply to 135890)
 
@@ -3274,7 +3272,7 @@ User<7158594595>: Hi guys, I can't see any function read string on smart contrac
 
 &rey: There's no string in TVM either, those are just slices of UTF-8-decodable bytes. When you store_slice one, you lose length information and may run into some problems with tail for long strings. (reply to 135902)
 
-👾: Hello, I went to the chat in Russian, they gave us the rules for familiarisation. While I was reading I was banned, can you tell me who to write about this issue?
+Press >>>: Hello, I went to the chat in Russian, they gave us the rules for familiarisation. While I was reading I was banned, can you tell me who to write about this issue?
 
 Mr: Hello  Does anyone build with ton connect UI on the ton blockchain   I'm trying to initiate a ton transfer but the wallet keeps saying failed to calculate fee and the docs on the ton connect UI doesn't show anything related to inputting the gas fee when initiating the ton transfer
 
@@ -3426,9 +3424,9 @@ Nakli Aman: thanks, i already see someone report this, but i lost a lot of funds
 
 Nakli Aman: thanks a million, trying this (reply to 136078)
 
-Slidesiko: Hi
+Ирина Л Ирина: Hi
 
-Slidesiko: Im looking for ux/ui designers, Developer of tact, func, tester and  investors for my Tap to earn ton game
+Ирина Л Ирина: Im looking for ux/ui designers, Developer of tact, func, tester and  investors for my Tap to earn ton game
 
 Nakli Aman: Thanks to @TrueCarry    He added Custom Updates to his app Which now supports BIP as well as TON seed
 
@@ -3440,7 +3438,7 @@ Nolan: so the only issue could be the way ManagerContract is unable to call Mint
 
 Nolan: if anyone could help with this, that would be great, been stuck on trying to resolve this for the entire day
 
-Abdoul: Sure (reply to 136144)
+Africhain: Sure (reply to 136144)
 
 &rey: You generally must not ask for DMs. (reply to 136148)
 
@@ -3472,7 +3470,7 @@ TheCryptoSamaritan: Hi I am looking for backend engineers with experience buildi
 
 Combot: Combot has warned Toffees.flex. Mcnde (1/3) Reason: 1 reports (reply to 136387)
 
-Zkkgxgxkxkghxj: can I create my ton wallet via ton api
+cm4a: can I create my ton wallet via ton api
 
 &rey: A wallet on TON needs a keypair — secret key, which MUST only be held by you, and public key matching the former. Given this definition, you may know that no API can create you a true wallet, it must be done locally. (reply to 136394)
 
@@ -3672,11 +3670,11 @@ SynthLuvr: I don't see any launchpad on dedust. How did you do it? (reply to 136
 
 SynthLuvr: Interesting. I try to create and it gives error: This token is not supported. Please use a modern token. Not sure what that means (reply to 136678)
 
-Seva: Hello, searching for work! My CV: https://drive.google.com/file/d/1w4fzhfxYkRrvFsTOt3r92hupUgL-XLHc/view?usp=sharing
+klass: Hello, searching for work! My CV: https://drive.google.com/file/d/1w4fzhfxYkRrvFsTOt3r92hupUgL-XLHc/view?usp=sharing
 
 &rey: I'd like to test your expertise?  The validation question is: 1) given a game server that wants to increase players' score (aka mint more jettons to them), 2) given that number of players may be quite high so we want users to pay for recording score in blockchain, 3) given a feature that users should be able to record several victories at once, using one transaction tree (to save on gas), how can this scheme be built? (Btw there is an ideal answer.) (reply to 136681)
 
-Seva: To address the described scenario optimally, here’s the ideal approach to structuring this scheme:  ---  ### 1. Smart Contract Design for Score Recording  #### a. Batch Recording Mechanism Design a smart contract that: - Supports batch transactions where multiple scores (or victories) can be recorded in a single transaction. - Accepts a list of victories with corresponding data (e.g., player ID, score increment, timestamp).  #### b. Payment Integration - Require users to include a payment in their transaction to cover the cost of recording the scores.  - The payment amount can be proportional to the number of victories recorded to ensure fairness and cover gas fees.  #### c. Verification - Use cryptographic signatures to verify that the data submitted (victories and scores) is valid and not tampered with. - Optionally, implement anti-cheat mechanisms if the scores originate from a game server.  ---  ### 2. Efficient Gas Usage via Merkle Trees To reduce gas fees when recording multiple victories: - Merkle Tree Structure:    - Players (or the server) construct a Merkle tree off-chain where each leaf represents a single victory.   - Submit the Merkle root to the smart contract in a single transaction.   - Store the root on-chain for verification purposes. - Proof-Based Verification:   - Allow players to submit individual victory proofs later if needed (e.g., for disputes or further validation).   - The proof will verify against the Merkle root stored on-chain.  ---  ### 3. Gas Payment Management - Players prepay a balance into the contract or include the payment directly in the batch transaction. - Deduct gas fees for recording scores from the prepaid balance.  ---  ### 4. Player-Oriented UX - Provide tools (e.g., a web app or SDK) to help players construct the Merkle tree and batch their victories. - Automate signing and submission of transactions for convenience.  ---  ### 5. Scalability and Security - Scalability: Use rollups or sidechains if the number of players is exceptionally high, with periodic settlement on the main chain. - Security: Regularly audit the smart contract and ensure it handles edge cases to prevent abuse.  ---  ### Ideal Flow 1. Player Wins Games: Off-chain, the game server tracks victories. 2. Batch Submission:     - The player (or game server) batches multiple victories into a Merkle tree.    - Sends the root and required payment in a single transaction to the contract. 3. Contract Validation:    - Contract validates the payment and stores the Merkle root.    - Optionally records a summary of the scores on-chain. 4. Optional Individual Proofs: Players can later submit individual proofs if needed.  ---  Would you say this aligns with your ideal answer? If not, let me know what I missed! (reply to 136682)
+klass: To address the described scenario optimally, here’s the ideal approach to structuring this scheme:  ---  ### 1. Smart Contract Design for Score Recording  #### a. Batch Recording Mechanism Design a smart contract that: - Supports batch transactions where multiple scores (or victories) can be recorded in a single transaction. - Accepts a list of victories with corresponding data (e.g., player ID, score increment, timestamp).  #### b. Payment Integration - Require users to include a payment in their transaction to cover the cost of recording the scores.  - The payment amount can be proportional to the number of victories recorded to ensure fairness and cover gas fees.  #### c. Verification - Use cryptographic signatures to verify that the data submitted (victories and scores) is valid and not tampered with. - Optionally, implement anti-cheat mechanisms if the scores originate from a game server.  ---  ### 2. Efficient Gas Usage via Merkle Trees To reduce gas fees when recording multiple victories: - Merkle Tree Structure:    - Players (or the server) construct a Merkle tree off-chain where each leaf represents a single victory.   - Submit the Merkle root to the smart contract in a single transaction.   - Store the root on-chain for verification purposes. - Proof-Based Verification:   - Allow players to submit individual victory proofs later if needed (e.g., for disputes or further validation).   - The proof will verify against the Merkle root stored on-chain.  ---  ### 3. Gas Payment Management - Players prepay a balance into the contract or include the payment directly in the batch transaction. - Deduct gas fees for recording scores from the prepaid balance.  ---  ### 4. Player-Oriented UX - Provide tools (e.g., a web app or SDK) to help players construct the Merkle tree and batch their victories. - Automate signing and submission of transactions for convenience.  ---  ### 5. Scalability and Security - Scalability: Use rollups or sidechains if the number of players is exceptionally high, with periodic settlement on the main chain. - Security: Regularly audit the smart contract and ensure it handles edge cases to prevent abuse.  ---  ### Ideal Flow 1. Player Wins Games: Off-chain, the game server tracks victories. 2. Batch Submission:     - The player (or game server) batches multiple victories into a Merkle tree.    - Sends the root and required payment in a single transaction to the contract. 3. Contract Validation:    - Contract validates the payment and stores the Merkle root.    - Optionally records a summary of the scores on-chain. 4. Optional Individual Proofs: Players can later submit individual proofs if needed.  ---  Would you say this aligns with your ideal answer? If not, let me know what I missed! (reply to 136682)
 
 Egor: Hello everyone. I need some help: I'm working on a React app with Telegram UI and trying to connect to Tonkeeper from the Telegram desktop app, but the wallet doesn't recognize the app. Everything works fine from mobile and web. Has anyone encountered this issue?
 
@@ -3736,7 +3734,7 @@ Xonxora: If you suspect the data is stored on the host, manually check and delet
 
 Vanshika: okay
 
-Zkkgxgxkxkghxj: You mean it's not possible to create ton wallet (reply to 136655)
+cm4a: You mean it's not possible to create ton wallet (reply to 136655)
 
 Nerses: what security issues can arise having same queryId for multiple tokenTransfer messages from same contract ?
 
@@ -5758,7 +5756,7 @@ Adam: and initialize seqno with 0 of error but i checked the contract it has 0 i
 
 &rey: Not really. (reply to 139964)
 
-s.s. (token2049): Is it common for the bridge.ton.org to be always very slow?
+bt/ss: Is it common for the bridge.ton.org to be always very slow?
 
 — 2025-02-01 —
 
@@ -5766,13 +5764,13 @@ s.s. (token2049): Is it common for the bridge.ton.org to be always very slow?
 
 &rey: It doesn't. Maybe you meant "does anyone offer a GPU-for-TON service", the question which is very different but is also presumably answered "no". (reply to 139980)
 
-s.s. (token2049): Still going (reply to 139968)
+bt/ss: Still going (reply to 139968)
 
-s.s. (token2049): Should I just accept the funds as lost? why does the foundation with millions of funding keep up a website that just steals money?
+bt/ss: Should I just accept the funds as lost? why does the foundation with millions of funding keep up a website that just steals money?
 
 @CryptoCops: is there an affiliate program or any kind of a rewards program for tje TON wallet? (reply to 139981)
 
-s.s. (token2049): not to be rude or anything but... what (reply to 139983)
+bt/ss: not to be rude or anything but... what (reply to 139983)
 
 @CryptoCops: i wasn't sure if TON owned their own GPUs or not (reply to 139984)
 
@@ -5802,7 +5800,7 @@ Majid: Hi
 
 Majid: Any help?
 
-Zkkgxgxkxkghxj: Can I create a casino with ton transaction send/receive on website
+cm4a: Can I create a casino with ton transaction send/receive on website
 
 Green: sure, you have to develop smart contract (reply to 140041)
 
@@ -5824,7 +5822,7 @@ Mohammad: Is there any way to have TonConnectUI in react and blueprint wrappers 
 
 WhyesCode: Yes. It's possible (reply to 140041)
 
-Zkkgxgxkxkghxj: How any api (reply to 140085)
+cm4a: How any api (reply to 140085)
 
 WhyesCode: https://t.me/tondev_eng/140044 (reply to 140086)
 
@@ -5854,7 +5852,7 @@ Nishant | Emerging Tech Product Guy: Any TON Dev here for Smart contract develop
 
 Merlin: yeah it is possible (reply to 140041)
 
-Zkkgxgxkxkghxj: Documentation (reply to 140185)
+cm4a: Documentation (reply to 140185)
 
 WhyesCode: What are the mechanisms? Can you share details. (reply to 140181)
 
@@ -5936,7 +5934,7 @@ Evgenii: your stateInit would include an owner address to check an op was sent f
 
 Nerses: referring to this. Then how in dexes the transferred funds are refunded in case swap isnt completed ? do they hardcode and support only few jettons ? (reply to 140239)
 
-noname: what is the lowest hardware requirement for running liteserver for own use?
+🇵🇸: what is the lowest hardware requirement for running liteserver for own use?
 
 Adam: Only Jetton wallet know it’s owner (reply to 140239)
 
@@ -6226,7 +6224,7 @@ Majid: Can some one enlight me ?
 
 &rey: This is scam and not related to anyone in TON. (reply to 140516)
 
-s.s. (token2049): anyone can get that name (reply to 140521)
+bt/ss: anyone can get that name (reply to 140521)
 
 &rey: Projects (TON Society, Tonkeeper, and all those) almost never write first, and never ask to transfer any money.  You should DYOR, and in that research remember the guiding rule: whatever [transfer to you] has not happened and is not guaranteed by blockchain, might not happen.
 
@@ -7488,7 +7486,7 @@ Adam: Vodka2134156/SEND_TOKEN_TONWEB
 
 Adam: Has already an exemple set for tonweb sending tokens
 
-Florina · Cyberscope · Token2049 Dubai: hey! anyone in need of a consensus hk ticket? can no longer attend :(!
+Florina · Cyberscope: hey! anyone in need of a consensus hk ticket? can no longer attend :(!
 
 &rey: No because it is utterly irrelevant to TON. (reply to 141950)
 
@@ -7570,7 +7568,7 @@ Barack 💎: Hey. I have full experience with Func and Tolk now. If you need som
 
 Mikey: Anyone in need of FunC developer? Hit me up. More than happy to help!
 
-alli <3: other than just scraping fragment or getgems, is there a way to get the owner address of a telegram username nft with just the username?
+boot adbot: other than just scraping fragment or getgems, is there a way to get the owner address of a telegram username nft with just the username?
 
 Mr: Hello   Please can anyone help me   I'm trying to create a token transfer using ton connect but it doesn't seem to work   Also checked stack overflow but couldn't find a solution to it
 
@@ -7834,17 +7832,17 @@ A: Hello, I want to test usdt on TON testnet… how can I receive something like
 
 A: Ok thanks for the answer, I’ll test it
 
-noname: is there any graphql service for accounts lookup based on their code hash?
+🇵🇸: is there any graphql service for accounts lookup based on their code hash?
 
 &rey: There is https://dton.io/graphql. (reply to 142345)
 
-noname: most of the time timeout error paid plans are expensive. (reply to 142347)
+🇵🇸: most of the time timeout error paid plans are expensive. (reply to 142347)
 
 &rey: Well it IS a resource-intensive query, probably without an index attached. You'd have to download blockchain state and put it into your own database to do that faster. (reply to 142349)
 
-noname: how to download? (reply to 142350)
+🇵🇸: how to download? (reply to 142350)
 
-noname: should i run a full node?
+🇵🇸: should i run a full node?
 
 &rey: It's an option but I don't know how to load list of contracts from it easily. (reply to 142352)
 
@@ -7956,9 +7954,9 @@ Kevin: This is not an NPS survey (reply to 142528)
 
 𝚠𝚊𝚕𝚝𝚌𝚘𝚘𝚔𝚜: how long it takes for tonviewer to revalidate updated nft metadata?
 
-noname: can anybody explain what is extra currency?
+🇵🇸: can anybody explain what is extra currency?
 
-noname: is it alternative to jettons ? (reply to 142537)
+🇵🇸: is it alternative to jettons ? (reply to 142537)
 
 Mr X | PLANT GAME 🌿 |: Hey guys I got one question for you, as I'm developing a Telegram mini app and is required a Ton wallet connection, however when I've tried on my ton wallet to search it on tonscan(.)org my official wallet is: EQDFONMPzOn2vaQtuhDc5DD-pvG_oIhFRGb0M_uDOvNLGSs3  But I've noticed the tonscan is reverting my wallet back into this one: UQDFONMPzOn2vaQtuhDc5DD-pvG_oIhFRGb0M_uDOvNLGXby  The founds in it are the same, so I'm wondering if I send some ton to the first wallet would it work correctly or I will lose the transaction?
 
@@ -8292,7 +8290,7 @@ Combot: Total messages:142888
 
 Vladimir: He is a spammer. (reply to 142916)
 
-Tung: Hello, i receive err: Retry limit reached: Unable to execute get method. Got exit_code: -13 Help me
+TKAINU: Hello, i receive err: Retry limit reached: Unable to execute get method. Got exit_code: -13 Help me
 
 tp: Hi, is there any documents about message processing sequence rules? If I have a contract "C", which will send message "M" to other contract when receive message. There are two user "user1" and "user2". First, "user1" send message to contract "C" and generate a "message1", then "user2" send message to contract "C" and generate a "message2", Whether "message1" and "message2" will be processed in order?
 
@@ -8312,7 +8310,7 @@ KBA07: @pcrafter  Thanks for pointing it out. Can we rely it on more than testne
 
 &rey: And what is getting done instead? (reply to 142955)
 
-Tung: when i call runMethod, i receive error: Request failed with status code 405 please help me
+TKAINU: when i call runMethod, i receive error: Request failed with status code 405 please help me
 
 Павел: Have you read "Messages and Transactions" on "docs ton org"? (Cannot send link because of spam protection) (reply to 142942)
 
@@ -8392,7 +8390,7 @@ KarnageKane: Is TON EVM compatible?
 
 WhyesCode: No (reply to 143098)
 
-💠🆓️🐾: Any tool I can use to deploy a smart contract on TON testnet with a few clicks ?  I need this help please 🙏.
+🛍️: Any tool I can use to deploy a smart contract on TON testnet with a few clicks ?  I need this help please 🙏.
 
 bulul: Relationships, but complex transaction - idk(i dont understand 😂) For example tap to earn games: notcoin, catizen, hamster… (reply to 143097)
 
@@ -8628,7 +8626,7 @@ Mr: Thank you (reply to 143335)
 
 — 2025-02-28 —
 
-無名 . 👮🏻: /stat@combot
+匿名的 👮🏻: /stat@combot
 
 Combot: Total messages:143348
 
@@ -8752,7 +8750,7 @@ Nik: OR, is there a way to clear an individual TMA cache and data so I can see i
 
 Mohammad: Hey everyone. I am using WebStorm and installed TON plugin and trying to write smart contracts in Tact lang. but I don't get any syntax or snippet help from my IDE. I am using the latest version of both WebStorm and  TON plugin. Should I do something special?
 
-draco: Anyone familiar with TON infrastructure for running apps/servers?
+2024: Anyone familiar with TON infrastructure for running apps/servers?
 
 ❤️♣️Oliver | Waiger ♠️♦️: Hi all - nice to meet you. Had a question regarding questing in Tg apps.
 
@@ -8768,7 +8766,7 @@ Petr: Tact will definitely get great support in JB IDE, but a bit later 🙂
 
 WhyesCode: Yes, what is the issue? (reply to 143566)
 
-draco: How can I deploy FastAPI service on Ton Network?   Lets say I want to be on ubuntu linux and run some services on it. Whats involved in making this APi available to TON applications etc?
+2024: How can I deploy FastAPI service on Ton Network?   Lets say I want to be on ubuntu linux and run some services on it. Whats involved in making this APi available to TON applications etc?
 
 0xElements.sol: https://telegram.org/tos/stars#3-1-disputing-purchases  Is this rule fair? There was 600000 miner  97% of community invest in loss At least 20% of some miners have -5x loss frome Orginal strars purchase (reply to 143543)
 
@@ -8952,7 +8950,7 @@ Arseniy: Hi chat, I have question about contract code changes: how to properly d
 
 WhyesCode: What's the error? Can you send a code snippet (reply to 143749)
 
-draco: Greetings! i am looking for FunC developers and those familar with TON Networking/Filesystem to start a fun project.  Dm is fine
+2024: Greetings! i am looking for FunC developers and those familar with TON Networking/Filesystem to start a fun project.  Dm is fine
 
 3,1415: Hello everyone, please tell me how to bypass the blocking of a bot from reading messages from other bots?
 
@@ -9054,7 +9052,7 @@ BenVu: For TON Bridge for ETH L2 to TON Jetton, the new Jettons... 1. Add a "j" 
 
 perfogic: you have to write it manually (reply to 143899)
 
-💠🆓️🐾: Can I get a working link to this? (reply to 143102)
+🛍️: Can I get a working link to this? (reply to 143102)
 
 Starsquid: Hi, is there a way to create my own genesis state of the chain for local testing?
 
@@ -9086,9 +9084,9 @@ Yash: Anyone knows tonvalidators(.org) site team? We are looking to list out our
 
 F: Accommodation requests are no longer accepted. (reply to 143986)
 
-Рахмонов: So, tonkeeper support recomended me you about a small issue (reply to 143990)
+Рахманов: So, tonkeeper support recomended me you about a small issue (reply to 143990)
 
-Рахмонов: I have send toncoins to token adress, is anyone help me ? Can i hope?
+Рахманов: I have send toncoins to token adress, is anyone help me ? Can i hope?
 
 Denis: Hi,  Do getgems, tonviewer, etc. have native integration with TON Storage? I tried to use manual how-to-migrate-ton-nft-content-to-ton-storage from docs.ton.org but without success. GetGems doesn't load metadata by url tonstorage://<my_bag_id>/image.png Does anybody know working TON Site or NFT Content placed in TON Storage as an example?
 
@@ -9558,7 +9556,7 @@ Okan: Even when I try it with a low ton fee, it doesn't give an error and transf
 
 KTO: Try to increase forward_ton_amount (reply to 144581)
 
-noname: what does SPECIAL x{010170825CFBA4309E71EB9878798BD781377FA465EED872EEF4EB57C674608C94450014}  mean?   i see it in many contract data.
+🇵🇸: what does SPECIAL x{010170825CFBA4309E71EB9878798BD781377FA465EED872EEF4EB57C674608C94450014}  mean?   i see it in many contract data.
 
 &rey: You really should emulate those messages first, via tonapi or @ton/sandbox. (reply to 144581)
 
@@ -10368,7 +10366,7 @@ User<7596541438>: I am a func ton developer, if anyone wants to build mini-app o
 
 Saurav: I used Multisig Contract v2 code in my project, where the order contract code is stored in a ref cell and fetched by the multisig contract to deploy new orders. Initially, I encountered some errors related to this, as well as multiple errors while deploying a new order, including exit code 9. To fix these issues, I made some changes, with the major one being that instead of storing the order contract code in a ref cell on the blockchain, I stored it inside the multisig contract (parent) and deployed it from there.  I just want to know if this is the correct approach or not. If not, does anyone have the latest code along with the least Blueprint dependencies? The existing code seems very old, and the dependencies are outdated, which is also causing some Blueprint  command fail with erros.
 
-noname: can anybody tell what does special x{}  mean?
+🇵🇸: can anybody tell what does special x{}  mean?
 
 🐼 Sild: that it's not a data-cell (in fact it's a library cell: Library cell contains 8-bit tag of library 0x02) https://docs.ton.org/v3/documentation/data-formats/tlb/library-cells (reply to 145730)
 
@@ -10442,7 +10440,7 @@ dicke: H5 game is listed on Tonapp and Tonapp responded that there is no Ton eco
 
 Ilya: Can you explain, please? (reply to 145801)
 
-alli <3: Is there a way to bulk generate wallets? similar to solana-keygen, i want to create a vanity address
+boot adbot: Is there a way to bulk generate wallets? similar to solana-keygen, i want to create a vanity address
 
 &rey: Sorry for the delay; I hope you were able to find https://docs.ton.org/v3/documentation/smart-contracts/transaction-fees/fees-low-level#calculator-example in meantime. (reply to 145804)
 
@@ -10662,13 +10660,13 @@ mikey: Here (reply to 146107)
 
 mikey: I am from Gana
 
-Barry: Yoo fam, I need a help plz dm me I will pay for your help
+Mr. Barry: Yoo fam, I need a help plz dm me I will pay for your help
 
 &rey: Asking for DMs is not allowed. Please describe what's the problem. (reply to 146132)
 
-Barry: Ohh (reply to 146133)
+Mr. Barry: Ohh (reply to 146133)
 
-Barry: OK, I see (reply to 146133)
+Mr. Barry: OK, I see (reply to 146133)
 
 Сергей: Hello! Can anyone advise how to verify a coin on ton, github request was rejected by some unclear reason . Does anyone know how to handle it? Thank you for help in advance!
 
@@ -11070,9 +11068,9 @@ PetX: Hello, I want to create a token that ends with the same token name as NOT.
 
 Nova: 2. Can you direct me where I can find out more about this? (reply to 146668)
 
-noname: any experienced ton developer here to architect a design for an indexer? will compensate good for your time and help.
+🇵🇸: any experienced ton developer here to architect a design for an indexer? will compensate good for your time and help.
 
-noname: indexer that will index all nft collection,items and its states. (reply to 146674)
+🇵🇸: indexer that will index all nft collection,items and its states. (reply to 146674)
 
 Felix: Just shipped integration of TON swaps for jettons in gem wallet, whoever needs zero tracking swaps its available on latest build.
 
@@ -11222,11 +11220,11 @@ Syed Mahdi | Salvation: Complete game! (reply to 146969)
 
 Giorgi: @pcrafter But it actually is, yet it still can't find it I don't know why (reply to 146973)
 
-Zkkgxgxkxkghxj: Can I create a ton wallet for send and receive
+cm4a: Can I create a ton wallet for send and receive
 
 &rey: Yes. In automated manner? (reply to 146978)
 
-Zkkgxgxkxkghxj: Users deposit ton or withdraw like that
+cm4a: Users deposit ton or withdraw like that
 
 &rey: Consider github.com/gobicycle/bicycle (reply to 146983)
 
@@ -11468,7 +11466,7 @@ Sam: hola ! what exactly my_address() return ? is it initial address of the cont
 
 wisderfin: Hello everyone I can't join a Russian-speaking chat using the TON. I would be grateful if someone could tell me where to turn for help. [TON Dev Chat (РУ)]
 
-alli <3: is there a way to buy tele stars with TON without fragment?
+boot adbot: is there a way to buy tele stars with TON without fragment?
 
 &rey: Telegram or the intermediary may do anything (including annulling) with such stars so I will not recommend any such services. Please note it is also off topic for this chat. (reply to 147300)
 
@@ -11692,7 +11690,7 @@ Pasha: Hello, is there a way I can get the mainnet version of a Testnet address?
 
 &rey: Address.parse('...').toString({testOnly: false, bounceable: ...}) (reply to 147582)
 
-Stefan: hello everyone! we are exploring solutions for DAO governance in the TON ecosystem. who can recommend any project or framework that can help us achieve transparent and decentralized governance voting?
+Stefan | CTIDAO: hello everyone! we are exploring solutions for DAO governance in the TON ecosystem. who can recommend any project or framework that can help us achieve transparent and decentralized governance voting?
 
 — 2025-05-01 —
 
@@ -11716,7 +11714,7 @@ Samyar: Hi, has anyone encountered the problem with tonconnect in miniapps that 
 
 Samyar: for tonkeeper (reply to 147663)
 
-حسن: Hi , I need a code in node.js from which I can send tokens from wallet to another wallet
+Дмитрий: Hi , I need a code in node.js from which I can send tokens from wallet to another wallet
 
 Mojisola🍅 🍅: I have this code (reply to 147666)
 
@@ -11726,6 +11724,649 @@ Nick: Hello,  Nice to meet you! Admin, can I share my project here? 😊  It a t
 
 &rey: No. (reply to 147679)
 
-Ник: Hi guys. I use the toncenter api to get the latest transactions. Please tell me how can I determine the currency in which the transaction took place?
+Nick: Hi guys. I use the toncenter api to get the latest transactions. Please tell me how can I determine the currency in which the transaction took place?
 
-Ник: Forget it. I'll use methods for getting actions from API v3. (reply to 147683)
+Nick: Forget it. I'll use methods for getting actions from API v3. (reply to 147683)
+
+Sam: hola ! how do you compile FunC code for production ? (omitting all debugging instructions like STRDUMP) I'am using blueprint
+
+— 2025-05-03 —
+
+&rey: Normally, debugging functions do not live in contract's source till production; however, you can also replace a few lines of stdlib.fc to make the dump functions just drop their arguments (+ remove impure specifier so that their arguments are not calculated at all). (reply to 147690)
+
+Игорь: does anyone have @ton/ton documentation or an example of jetton sending?
+
+TON Bounty Bridge: ​ParityHash — verifiable RNG via TON_hash mod N  🏷 Developer Tool  Summary:ParityHash is an ultra‑light RNG that turns the current TON block hash into a verifiable random numb...  Created by Multipiston
+
+Morpheus || $SHIVA: anyone understands why this isn't working anymore, I get a 404 error - https://eco.ton.org/en/opportunities/make-sbt-campaign
+
+Morpheus || $SHIVA: you can't create an SBT campaign and the GitHub readme was talking about contacting them or something
+
+— 2025-05-04 —
+
+wy: hi how can i make a pull request. i would like to verify my token
+
+🔳 ivan: hi! is there a recipe to simulate contract execution with internal message and get its new state?
+
+Combot: Combot has warned Georgiy Komarov (1/3) Reason: Word **** is not allowed
+
+Артур: Hello everyone! Does anyone know if there’s a way to verify on-chain that an NFT belongs to a certain collection? I mean, I can’t call get_collection_data on-chain because it’s a get-method. And I can’t rely on get_static_data / report_static_data, because these messages can be faked.
+
+TON Bounty Bridge: ​Trouble  Created by 4ak7P
+
+Mojisola🍅 🍅: can't you call directly the contract address of the nft? (reply to 147799)
+
+Артур: Yes, I can call the get_static_data method of the NFT item contract and get a response with information about the collection. But that information can be faked. Someone could create a fake NFT item contract that claims the NFT belongs to a collection it doesn’t actually belong to. (reply to 147801)
+
+Артур: It would be great if the NFT collection contract had a method that could confirm whether a given NFT actually belongs to that collection. Unfortunately, TEP-62 doesn’t provide for such a method. (reply to 147802)
+
+&rey: You can "import" collection address, data and code into your contract — more precisely, place these cells in whatever way you see fit. Then, call https://github.com/ProgramCrafter/tvm-quirks/blob/master/ok-nft-addr-onchain.fc. (reply to 147799)
+
+Артур: Yes, but my goal is to make my contract compatible with any contract that implements the NFT standard. So unfortunately, hardcoding the collection’s data and code isn’t a viable option for me. (reply to 147804)
+
+&rey: Those could be set on contract deployment, for most applications I can imagine. (reply to 147805)
+
+Артур: I hadn’t considered that approach 🤔 I’ll give it a try—thank you! (reply to 147806)
+
+Mojisola🍅 🍅: what's the scope though, is it going to be your own created nfts or nfts from other people?  if from others, not sure you can run away from fakes except you manually check originals
+
+— 2025-05-05 —
+
+TON Bounty Bridge: 📊 Update Digest!  🔍 Active bounties: 19 ✅ Approved bounties: 0 🔄 Bounties seeking suggestions: 61  📣 We value your feedback! Join the community discussion and participate in shaping the future. Click the 'Create Your Own Bounty' button to get started.  Happy contributing!
+
+@CryptoCops: Hello. May I please know the different organizations to reach out to for project funding?
+
+Michaelzy: does anyone have the correct format of how to store jetton content metadata on chain? (and off chain) currently i am doing this in my init: self.content = TempMetadata {             name: "Michaelzy",             description: "Michaelzy Tunez",             symbol: "MZT",             decimals: 0,             image_data: "jfhvbgfdfweuihfiwsfdsjbfdsfb",         }.toCell();  where TempMetadata is a custom struct with 5 fields fro the metadat as defined by TEP-64
+
+Michaelzy: my jetton is showing name as unkown in tonviewer and tonscan
+
+&rey: It wouldn't work; TEP-62 wants another data serialization compared to the .toCell() call. (reply to 147836)
+
+Chace: I'm getting cell Underflow error code 9, but unable to find out what's missing, tried to use retracer but that unable to understand that too, can anyone guide or enlighten me
+
+Willy: If you're developing contacts yourself - try debugging with "dump()" or smth else to see which line creates an error. (reply to 147854)
+
+Андрей: Good evening. I have the TMA app and I want to exclude several wallets from the list that TonСonneсtUI offers.  <TonConnectUIProvider                 walletsListConfiguration={{                   includeWallets                 }}               >  I pass here a list of wallets that I would like to see in the modal window. But this list does not change
+
+— 2025-05-06 —
+
+Abrham: Hi, I've developed a web app similar to Polymarket where users can deposit Toncoin and interact with the platform. When a user wants to withdraw their balance, the process should be automatic.  I understand how to handle deposits using TON Connect, but my question is: How can I automate withdrawals without requiring my manual intervention?
+
+Daivd: You mean, withdraw? (reply to 147867)
+
+Abrham: yes (reply to 147869)
+
+Daivd: https://docs.ton.org/v3/guidelines/dapps/asset-processing/payments-processing/#toncoin-withdrawals-send-toncoins (reply to 147870)
+
+Kenny: Hi guys. I want to develop a Telegram Bot (not mini app) that allows users to send TON to a specific address. I find this doc and this GitHub repo . Those are very helpful, but why does the doc say it's outdated? I've run the demo project, and it's exactly what I want.
+
+Star1004: Interested (reply to 147873)
+
+FREEZZZZ: hello, why in ton center, the output like this: {   "ok": false,   "result": "Network not allowed",   "code": 403 }
+
+Chace: I dont own the contract (reply to 147858)
+
+Alex: Because a bot's UX/UI contains many issues, developers who start using bots can't resolve them.   All these issues are solved in TMAs with TON Connect protocol.   So, if you plan to build any TON-based service with a nice UX/UI, it is suggested that you make it with TMA. (reply to 147873)
+
+Kenny: Thanks Alex. Could you please specify what issues does bot have? I'm thinking that the text based UI is actually very good.  Besides, the doc also says TMA is more secure. I can't understand in which way TMA is more secure.  Thanks in advance 🙏 (reply to 147879)
+
+Андрей: Could you guys help me? (reply to 147861)
+
+Mojisola🍅 🍅: the Tact Smart Battle Contest rewards have been distributed hours ago.  any participant here..
+
+Jacob: hello,   1. issue description.     err  {"message":"Request failed with status code 500","code":"ERR_BAD_RESPONSE","name":"AxiosError","status":500,"response.config.data":"{\"id\":\"1\",\"jsonrpc\":\"2.0\",\"method\":\"getTransactions\",\"params\":{\"address\":\"EQDlYDH0PmST2okwTluXJ2mUDMDCzPzXF1gGz24U6H2tE24h\",\"limit\":91,\"archival\":true,\"to_lt\":\"0\",\"lt\":\"34281132000001\",\"hash\":\"f72e8179fb68469156ccf7f0d78b794e331f9e999bcb8050bfffc65ee09f258d\"}}","response.data.error":{"ok":false,"error":"LITE_SERVER_UNKNOWN: cannot compute block with specified transaction: cannot find block (0,e56031f43e6493da) lt=34075122000001: lt not in db","code":500}}   1) for testnet , above is the issue.   2) for mainnet , there is no such issue.   3)   testnet url: https://testnet.toncenter.com/api/v2/jsonRPC  mainnet url: https://toncenter.com/api/v2/jsonRPC    2. is there stable rpc url for testnet when we call getTransactions?
+
+leo: i'm having the exact same issue here. the mainnent it's working well but the tesetnet getTransactions is failing (reply to 147893)
+
+Андрей: Please help me I have the TMA app and I want to exclude several wallets from the list that TonСonneсtUI offers.                  walletsListConfiguration={{                   includeWallets                 }}               > I pass here a list of wallets that I would like to see in the modal window. But this list does not change
+
+&rey: Are the wallets you want to exclude buggy? (reply to 147902)
+
+Андрей: bitget (reply to 147903)
+
+Artur: Hi! I used the built-in swap in Trust Wallet to exchange 18 TON for SOL on May 5th. The transaction failed and was marked “Suspicious” in TON Explorer. Funds were sent to contract  0:aa4ee3d2f9c30df5249185a16bc093862fb74a90517c0b46b4e60d96cc8f6e44 and never returned.  Does anyone recognize this contract? Is it part of a legit DEX or bridge? Any hope to recover funds?
+
+Mojisola🍅 🍅: why do this? (reply to 147910)
+
+Combot: Combot has warned LodStorn (1/3) Reason: Word **** is not allowed
+
+LodStorn: I need help to build AMM working on TON. dm if you have FunC experience
+
+TON Bounty Bridge: ​Toolbox for creating .ton subdomains  🏷 Developer Tool  Summary:A toolbox for TON developers and users to create and manage .ton subdomains. It includes smart contr...  Rewards: • TBD USD in TON • SBT Bounty Reward  Created by nessshon
+
+Albert: Ping me (reply to 147919)
+
+— 2025-05-07 —
+
+Desconocido: Help me Could someone tell me if I have just been robbed, because they made a payment to me with this currency and at first everything was fine and then Telegram marked it as spam
+
+Mojisola🍅 🍅: you should verify. that should be easy (reply to 147944)
+
+Jolly: Hi everyone, we are preparing to launch our app on the Telegram Mini App Store and begin operations. Initially, we plan to use Telegram’s native advertising system for promotion, but we’re currently unsure how to track the performance of these ads. Does anyone have any recommendations?
+
+Daivd: You can use your mini app (reply to 147947)
+
+Jolly: how to trace the ad performance by my mini app? Is there any API or SDK to plug in? (reply to 147948)
+
+Daivd: No, implement that function. (reply to 147949)
+
+Jolly: Sorry, I didn't get it, what function? (reply to 147951)
+
+Daivd: You can make the section to track in your mini app. (reply to 147952)
+
+&rey: Totally off topic for the chat. (reply to 147947)
+
+Andy: If a message is sent to a contract in the same shard, can it get processed in the same block?
+
+Mojisola🍅 🍅: why do you need this details?
+
+Max: generally it will be, yeah (reply to 147965)
+
+Andy: just thinking how much I can reduce confirmation time by sharding contracts (reply to 147967)
+
+Andy: that's great news. what decides whether it will though? (reply to 147968)
+
+Max: it's somewhere in sources of blockchain, won't be able to tell you rn where exactly. i'm pretty sure it's like 90% of the time that the same shard tx will be processed in same block, but i'm not sure what happens if, for example, you try to recursively call, for example, yourself a million times: it would make sense that these messages won't all be in the same block, but i'm not that sure (reply to 147970)
+
+Andy: that makes sense. thank you!
+
+&rey: Validator, based on block limits. There is also some lower or upper bound (I don't remember) on ratio of external to internal messages processed. (reply to 147970)
+
+Ad: Gm. how can i disassemble a contract code found on the chain? disassemble to fift fx
+
+&rey: Approximately like https://github.com/ProgramCrafter/wallet-contract/blob/c4e9271abae8abe554a82e7d34f8c87b073acd8e/build.ts#L3-L10. (reply to 147978)
+
+Terminator: hey is there any tutorial or docs available with examples how to build on ton?
+
+Ad: yes. maybe tvm-disassembler s what i need thanks! (reply to 147992)
+
+Boris: Hello, a question from a newbie, I have debug enabled in the compilation of a file and I use the dump function to output an error via try...catch, how can I view the error itself, do I need to view it somehow via tonviewer testnet?
+
+klass: You need to write and run tests to make the error visible. Dump is used to output variable values to the terminal when running the program, but the error itself will be displayed without it as a result of the test execution with debugging enabled. Additionally, you can use more detailed debugging with verbosity, which is also specified in the tests as follows:  await blockchain.setVerbosityForAddress(orderNft.address, {     vmLogs: 'vm_logs_full',     print: true,     blockchainLogs: false,     debugLogs: false })  However, there are also options for "live" testing... You can conduct a transaction through the blockchain on either the mainnet or testnet and check the result of its execution via an explorer that supports debug display, but currently, it is less clear than in a test environment. (reply to 148000)
+
+— 2025-05-08 —
+
+Jolly: Hello everyone, I'm currently encountering an issue with the withdrawal process from our product to users. When I try to withdraw 5 USDT to a user's wallet via a contract from a certain app, TON first deducts a fee of 0.25 TON. My app also wants to implement such an order, but I haven't been able to achieve it. I don't understand where this 0.25 TON fee is specified in the code.  Could anyone help?
+
+Desconocido: Could you help me please? (reply to 147946)
+
+Russia: Everyone, can you tell me if Nextjs 15 can use tonConnectUI?
+
+&rey: Please note you are not interacting with TON in any way; Telegram is a distinct entity not controlled by the chain. (reply to 148016)
+
+Jolly: I thought this is an interaction with TON, okay, thx (reply to 148024)
+
+&rey: Anyone can create their own jetton with pretty much any display info and behavior. You should open tonviewer's main page, find true USDC and then enter your address to check if you have any. (reply to 147944)
+
+Russia: I want to connect ton wallet and pay on ton wallet on my website made with nextjs 15. I copied from my reactjs source and it runs normally but through nextjs it doesn't show popup to connect wallet and also shows error code. @pcrafter
+
+.6: I can do it. (reply to 148028)
+
+? NOT SANCHEZIO ?: there is no USDC on ton chain so most likely you got scammed 😔 (reply to 147944)
+
+Sam: hola! can someone explain why this happens inside telegram mini app sometimes when using ton connect ?  also - sometimes the app page is replaced by the ton keeper page for some reason  ton keeper app is installed (android)
+
+Sam: like this (reply to 148055)
+
+Skidrow: hello guys. hacker withdrawal my funds from MYTONwallet 4 hours ago
+
+Skidrow: my telegram account was hacked as well
+
+&rey: This group has nothing to do with it nor has any ability to help. (reply to 148062)
+
+Sam: this page is especially annoying because it breaks user interaction with the app - any ideas ? (reply to 148056)
+
+TON Bounty Bridge: ​Add support for wallet connection via QR code  🏷 Developer Tool  Summary:Implement a tool that enables users to connect their TON wallet by scanning a QR code, streamlining ...  Created by my9letters
+
+— 2025-05-09 —
+
+Pasha: Wtf 🤣 (reply to 148076)
+
+Jan: Hi Ton devs I am following the smart contract tutorial When I run npx blueprint run, It asks "Which wallet are you using?". I remember in deploy script we already hardcord mnemonic. Which option should I choose?
+
+klass: Hello. Please try out Tonkeeper. (reply to 148106)
+
+Aleks: toncenter TESTNET v2/jsonRPC throwing 500s
+
+Boris: Hello! have a small question - TON wallet doesn't get activated after top ups. What's the cause?
+
+Boris: address is UQDCxTpNnwrU8IuuBbPe2vCBWY7ZbJdz9ldNyBP5mB8TQQz2
+
+jennifer [afk]: u need to make transaction (reply to 148110)
+
+Артур: At least one outgoing transaction is required (reply to 148110)
+
+Boris: ok thanks (reply to 148113)
+
+Boris: another one question - how to find the reason why transaction is partially applied? a5f34cb3071144275f75910b875a7a3afc60373eb5104d5edc05bb76540ff887
+
+&rey: Insufficient TON, in all probability? (reply to 148115)
+
+Boris: 2.97+ 0.25245 + 0.04455 = 3.267 < 3.27 without PayGasSeparately flag
+
+&rey: And where did you count 0.007 TON in fees? (reply to 148117)
+
+Boris: but it's deducted from each amount isn't it? (reply to 148118)
+
+Boris: unclear for me from the docs
+
+Boris: reality = intention - fee right?
+
+Boris: is there any guide how withdraw funds to multiple accounts at once and understand how much of them are really withdrawable without PayGasSeparately flag?
+
+Gg: Hello everyone. Are there any representatives of Fragment here? Or what are the current ways to contact them?
+
+klass: Please make a constant for the costs to calculate available funds on-chain or I got smthng wrong? 🚀 (reply to 148123)
+
+&rey: You didn't account for compute fees (needed for processing your order at all). And for storage which happened to be zero. (reply to 148122)
+
+Boris: so they should be accounted separately even without PayGasSeparately flag right? (reply to 148127)
+
+Boris: got it - thanks)
+
+&rey: You could make the biggest message have flag 128 (SendRemainingBalance) value 0, and rotate list to send it last.
+
+&rey: I don't think there were any contact options whatsoever. (reply to 148125)
+
+&rey: Anyways, not relevant to this chat.
+
+Jan: Also which wallet contract instance do I have to use from @ton/ton lib? Here is my wallet address (w5) in testnet - 0QCI4TmOUkA6y_AjBnmaTmdjNQHe6qdovWMN-AWlhMR81Bda (reply to 148107)
+
+klass: Well, try one of the latest for confidence, so that if you will implement some newest functionality, you will not have to change this for more amount of time.  import { WalletContractV5R1 } from '@ton/ton/dist/wallets/WalletContractV5R1'; (reply to 148135)
+
+Jan: I tried this but with same mnemonic it shows different wallet address. When you check above wallet address in tonscan, it's version is wallet_v5 (reply to 148137)
+
+klass: There are different addresses formats, there were several transitions. I recommend you to use Tonviewer OR not paying attention to this issue, as it is obvious to use the same Wallet version instance you are actually deploying  https://testnet.tonviewer.com/kQCI4TmOUkA6y_AjBnmaTmdjNQHe6qdovWMN-AWlhMR81Eqf (reply to 148138)
+
+Jan: Problem is even if I use WalletContractV5R1, it says the the different wallet address connected. And says wallet is not deployed Code:   const key = await mnemonicToWalletKey(mnemonic.split(" "));   const wallet = WalletContractV5R1.create({ publicKey: key.publicKey, workchain: 0 }); Logs: Using file: deployCounter ? Which network do you want to use? testnet ? Which wallet are you using? TON Connect compatible mobile wallet (example: Tonkeeper) Connected to wallet at address: EQBC4Zd6VA00TaOF6z2IFaj0rU3RqrSBd17JbkgUW_L7VM71 contract address: EQBUDBeL9w5Br1o0c4DlI9ZUrJZtnAsRK3AIEkOpc023MuxQ wallet is not deployed
+
+klass: Blueprint environment creates you a "random" wallet to deploy your contract from the script, so it shows you the address of that newly created deploy-wallet. If you want to actually deploy a wallet using terminal, you can git clone that repository and do that for example:  https://github.com/tonkeeper/w5  Another practice is to create necessary wallets manually and just use them. For example you can use Tonkeeper PRO for comfort.  Apart from that blueprint creates a config file for the newly created wallet. If you want to put there your custom wallet, you can just change the config manually as well.  So deploy-wallet created automatically is not the same as the contract of wallet you are deploying with blueprint environment.  Please give a feedback if I misunderstood you. (reply to 148140)
+
+Jan: I am following the smart contract tutorial now and got stuck in step 8 (reply to 148141)
+
+Jan: helloworld dot tonstudio dot io
+
+Jan: In the deploy script, we put mnemonic   // open wallet v4 (notice the correct wallet version here)   const mnemonic = "unfold sugar water ..."; // your 24 secret words (replace ... with the rest of the words)   const key = await mnemonicToWalletKey(mnemonic.split(" "));   const wallet = WalletContractV4.create({ publicKey: key.publicKey, workchain: 0 });   if (!await client.isContractDeployed(wallet.address)) {     return console.log("wallet is not deployed");   }  So this tutorial is incorrect one?
+
+&rey: It might be outdated or very outdated. (reply to 148146)
+
+Jan: Then which tutorial can I try? (reply to 148147)
+
+klass: Tutorial is correct, change here as well  const wallet = WalletContractV4.create({ publicKey: key.publicKey, workchain: 0 });  And check in tonviewer if you like ) (reply to 148146)
+
+Andy: Since w5 allows for arbitrary actions, that means all w5 contracts can be updated similar to SETCODE right?
+
+Jan: I changed WalletContractV4 to WalletContractV5R1 but as I mentioned above it shows different wallet address. (reply to 148149)
+
+klass: it shows just another wallet format, do not worry (reply to 148155)
+
+Jan: Using file: deployCounter ? Which network do you want to use? testnet ? Which wallet are you using? TON Connect compatible mobile wallet (example: Tonkeeper) Connected to wallet at address: EQBC4Zd6VA00TaOF6z2IFaj0rU3RqrSBd17JbkgUW_L7VM71 contract address: EQBUDBeL9w5Br1o0c4DlI9ZUrJZtnAsRK3AIEkOpc023MuxQ wallet is not deployed But as you've seen my wallet is already deployed but it says it's not deployed
+
+&: Can I get exact token output amount on swap?
+
+— 2025-05-10 —
+
+Kenny: Hi guys. Which language is suggested to use now to develop smart contracts? FunC, Tact or Tolk? There are so many there... Which language has the most mature ecosystem? Thanks!
+
+Master: Tact is more powerful, I think. (reply to 148174)
+
+Kenny: But afaik,wallet contracts are developed in FunC...
+
+Kaveh: 📩 Official Invitation to the TON Community Dear TON Community, On the occasion of Technology Day, which coincides with the birth anniversary of Muhammad ibn Musa al-Khwarizmi – the father of algebra and one of the greatest contributors to mathematics and computer science – we are delighted to invite you to participate in the upcoming TechDay Khuzestan event in Iran. This event will be held at Gundishapur University in Ahvaz – recognized as the world’s first university – and will focus on innovation, emerging technologies, blockchain, and the TON ecosystem. 🗓 Date: July 13, 2025 Registration & More Info: https://www.techday.top 📩 Email: techday.khuzestan@proton.me We warmly welcome your participation, presence, or contribution to this historic celebration of technology and legacy.
+
+Combot: Hello Алексей Не важно! Click on the button below so that we understand that you are not a bot who came to tell us about how Durov is giving away bitcoins as a gift.
+
+:3: Crypto Bot? (reply to 148201)
+
+&rey: There is https://github.com/gobicycle/bicycle (if you need any automatic processing; manually, just a wallet address would suffice). (reply to 148201)
+
+Complex: https://github.com/txsociety/spice-harvester  I have made simple server for this (reply to 148201)
+
+𝐻𝒾𝓉𝒶𝓈𝓅("⁧ ;(": TON needs a tool like hel.io for creating invoices and simple paylinks (reply to 148204)
+
+&rey: You know that ton://transfer links do exist, right? (reply to 148207)
+
+𝐻𝒾𝓉𝒶𝓈𝓅("⁧ ;(": I mean a service to simplify creating invoices and checkout flow (reply to 148208)
+
+Complex: This one. You can creae invoice and receive it status. Very simple (reply to 148206)
+
+𝐻𝒾𝓉𝒶𝓈𝓅("⁧ ;(": How can you create an invoice with product details and customer info with deeplinks?
+
+Complex: https://github.com/txsociety/spice-harvester/blob/main/api/example.http (reply to 148211)
+
+𝐻𝒾𝓉𝒶𝓈𝓅("⁧ ;(": nice job, thanks for sharing. Its can be infrastructure for what i said. Because needs a friendly UI to creating and monitoring invoices (reply to 148210)
+
+Complex: Coming soon. (reply to 148213)
+
+&rey: Asking for DMs is not permitted. Please describe your task a bit more detailed than "I have one".
+
+MoeMoney: /help
+
+— 2025-05-11 —
+
+Kenny: Hi guys. According to docs, transaction fee consists of 5 parts: storage_fee, in_fwd_fee, computation_fee, action_fee, out_fwd_fee. Assume a transaction will send an internal message to another contract, and there's no in_fwd_fee (which incurs when receiving external messages) and out_fwd_fee (which incurs when sending messages to outside blockchain like logging). We don't consider IHR either. We only consider the other 3 fees.  storage_fee and computation_fee is easy to understand. But I'm really confused with the action_fee. According to docs, action_fee is calculated by:  total_fwd_fee = lump_price + ceil((bit_price * number_of_bits + cell_price * number_of_cells) / 65536)  action_fee = total_fwd_fee * first_frac / 65536  where lump_price, bit_price, cell_price, first_frac is in the config parameter 24 & 25.  So, we are actually calculating total_fwd_fee first, and then action_fee is approximately 1/3 of this total_fwd_fee. And action_fee is actually part of total_fwd_fee. The remaining 2/3 of the total_fwd_fee is the forward fee of the newly created internal message.  So here comes 2 questions that confuse me a lot:  1. The word "forward" and its short form "fwd" are used everywhere. What exactly is a "forward fee"?  2. In my image, the amount I actually spend on fees should be the sum of all. How ever, the message forward fee (i.e., 2/3 * total_forward_fee) isn't counted into the transaction_fee. We can also confirm this on tonviewer.com. Why is it the case? Is it because the action_fee and message forward fee will be awarded to different validators?
+
+Leo: 1. forward fee is paid to validators along the routing path of outgoing messages 2. yes, total_fee only counts 1/3 of total forward fees that are paid to the validator responsible for the tx that sends messages
+
+Kenny: Oh! I understand. But why isn't the forward fee counted into the transaction_fee? To me (and possibly other people coming from other chains), in a naive toncoin transfer scenario, the "transaction fee" should be the amount that I am debited but not credited to recipient
+
+Kenny: I mean, the "transaction fee" should be equal to the rewards of all validators plus burnt amount
+
+User<7802931480>: Transaction fee includes the amounts paid immediately. Forward fee is deducted on outgoing message kick off. (reply to 148239)
+
+Kenny: What? Do you mean the forward fee is deducted gradually as the message is routed and getting closer to target contract? (reply to 148241)
+
+User<7802931480>: I mean not every transaction will cause an outbound message from the smart contract, so there would be no any forward fee in that case (reply to 148242)
+
+Kenny: You are right. But when there IS an outbound message, I think the forward fee should be counted into the "transaction fee", but the fact is that forward fee isn't counted into transaction fee.
+
+User<7802931480>: Outbound message would be another transaction. (reply to 148244)
+
+Kenny: Yes there's one more transaction. But the forward fee isn't counted into either transaction.
+
+User<7802931480>: That's something in between two transactions. (reply to 148246)
+
+Kenny: So the forward fee is indeed deducted gradually? If I query the balance of my wallet contract multiple times after my wallet contract sends an outbound internal message, and before the message reaches target contract, I might get different results?
+
+User<7802931480>: Well, on smart-contract execution, a queue for all actions is formed, including outbound messages. Forward fees are deducted from the smart-contract balance on outbound message creation, and the amount for validators is attached to the message.
+
+Kenny: The queue is formed during action phase of the transaction, isn't it? It seems not something in between two transactions...
+
+User<7802931480>: As far as I know, messages are formed on compute phase, than sent on action phase.
+
+Kenny: OK, so they are formed on compute phase of the transaction. Still seems not something in between two transactions
+
+User<7802931480>: Yes, sorry for small confusion
+
+Leo: the total_fee field is for validators constructing merkle proofs of the shard block, instead of for you users to get the "transaction fee" (reply to 148240)
+
+Leo: so it's augmented by the fees only charged by the validator responsible for the tx
+
+Kenny: OK I understand. But this is still confusing. Why doesn't any Ton explorer show the actual transaction fee paid by users? All Ton explorers only shows total_fee, which is only collected by the validator responsible for the tx...
+
+Leo: bcoz explorers usually only show native data in the blockchain node
+
+Leo: all fields in, say tonviewer transaction page, are directly obtained from the tx cells in node database
+
+User<7802931480>: So that data is not consistent with real fees?
+
+&rey: Value flows are more relevant indeed. (reply to 148260)
+
+Kenny: Thanks a lot! 🙏
+
+Leo: it's consistent if you do not misunderstand meaning of the total_fees field (reply to 148260)
+
+User<7802931480>: I see... As explorers show forward fees as well. Thank you.
+
+Kenny: But from a user's perspective, I have to manually calculate the sum of them. And if there are many outbound messages, this is a little bit painful... (reply to 148265)
+
+Seva: You can use ready-made emulation for estimation.
+
+Leo: you can simply do total_fee-action_fee+fwd_fee or storage_fee+gas_fee+fwd_fee, these fields are already summed (reply to 148266)
+
+Kenny: Oh! Make sense! 👍 (reply to 148269)
+
+James: Hi there? Anyone here need full-Stack and Web3 d.e.v?
+
+— 2025-05-12 —
+
+Kenny: Hi guys. If a contract has some operations that can only be called by an admin, there seems to be 2 ways to achieve this. One is to store an owner address, and check if the internal message sender is equal to this (e.g., Jetton Wallet). The second way is to store an Ed25519 public key, and verify signature in the external message (e.g., Wallet).  Seems that the first approach is more preferrable. But with the second approach, we can save some fee that would've been used for paying internal message forward fee, right? Is there any best practice like "just don't handle external messages yourself"?
+
+Leo: Not only cost, but the functions are not equal with the two methods. With the first, you can set any address as the admin, be it a wallet, multi-sig, or more complicated contracts. But with the second, only Ed25519 keys can be set and that's neither flexible nor secure.  Generally storing an address is common practice in most cases, which may cost more storage fees but the difference is negligible. Do not over-optimize, focus on more important aspects.
+
+&rey: unfortunately it's counterbalanced by "just don't make extra messages in transaction chains" (reply to 148305)
+
+Kenny: Thanks a lot!! 🙏
+
+TON Bounty Bridge: 📊 Update Digest!  🔍 Active bounties: 19 ✅ Approved bounties: 0 🔄 Bounties seeking suggestions: 65  📣 We value your feedback! Join the community discussion and participate in shaping the future. Click the 'Create Your Own Bounty' button to get started.  Happy contributing!
+
+JD: Hello everybody.  Is tvm:-239 (mainnet ) and tvm:-3 (testnet) the correct CAIP2 ids ?
+
+JD: i've found the docs about it that is a draft that i can't post on the channel apparently and couldn't find anymore informations.
+
+Seva: > Is tvm:-239 (mainnet ) and tvm:-3 (testnet) the correct CAIP2 ids?  Yes
+
+Michaelzy: good day everybody please what is the recommended library to use in backend to interact with tact smart contracts
+
+Michaelzy: I am currently using @ton/ton  But when i send transaction there is no was to check if transaction is successful or not because the sendMessage fn returns a void Promis
+
+&rey: Hint question: which of the transactions? (reply to 148328)
+
+Secret: Hello everyone, I am passionate blockchain developer, if you need my help I am willing to help you
+
+Michaelzy: i created an nft collection. i then wrote a script using @ton/ton library to send a transaction to the contract and mint an nft item i currently have no way of retrieving the contract address of the deployed nft item after it is deployed (reply to 148330)
+
+Dark Star: Hey everyone! I’m running into an issue while building a function to send tokens – mainly interested in sending USDT on TON.  Here’s what my function currently looks like: public static async sendToken(from: string, to: string, amount: number) {     try {         const privateKeyHex = '';         const privateKey = Buffer.from(privateKeyHex, "hex");                  const jettonMinter = new JettonMinter(tonweb.provider, {             address: new Address('EQCxE6mUtQJKFnGfaROTKOt1lZbDiiX1kCixRv7Nw2Id_sDs'),             adminAddress: new Address('EQBkQP48aUEDg5Y5RRc8SxFHm_C5tNcJDlh3e9pYHC-ZmG2M'),             jettonContentUri: 'https://tether.to/usdt-ton.json',             jettonWalletCodeHex: 'b5ee9c72010101010023000842028f452d7a4dfd74066b682365177259ed05734435be76b5fd4bd5d8af2b7c3d68',         });          const fromAddress = new Address(from);         const toAddress = new Address(to);          const senderJettonWalletAddress = await jettonMinter.getJettonWalletAddress(fromAddress);         const senderJettonWallet = new JettonWallet(tonweb.provider, {             address: senderJettonWalletAddress,         });          const transferBody = await senderJettonWallet.createTransferBody({             tokenAmount: utils.toNano(amount.toString()),             toAddress: toAddress,             responseAddress: fromAddress,             forwardAmount: utils.toNano('0.01'),             forwardPayload: new TextEncoder().encode('gift'),         });          const WalletClass = tonweb.wallet.all.v3R1;         const wallet = new WalletClass(tonweb.provider, {             publicKey: utils.nacl.sign.keyPair.fromSecretKey(privateKey).publicKey,         });         await wallet.deploy(privateKey);          const seqno = await wallet.methods.seqno().call() || 0;         const transaction = await wallet.methods.transfer({             secretKey: privateKey,             toAddress: new tonweb.Address(to),             amount: utils.toNano('0.01'),             seqno: seqno,             payload: transferBody,             sendMode: 3,         }).send();          Print.ev('Token Send: ', transaction);     } catch(error) {         Print.error('Ton | sendToken | Error: ', error);     } }  After running it, I see a new transaction on tonscan with “Action Called Contract”, and it deducts 0.05 TON and sends it to the recipient – but the USDT token itself doesn’t get transferred.  I tried tweaking the jettonTransferBody according to the docs: https://docs.ton.org/v3/guidelines/dapps/cookbook  But when I do, I get an error: Invalid character.  Feels like the issue is with how I’m building the jettonTransferBody. Any idea what I might be doing wrong?  Thanks in advance
+
+Dark Star: Never mind, I figured out the issue, I was using the wrong address for the recipient 😅 Turns out I was passing the user’s wallet address directly, but it should’ve been the Jetton wallet address instead.  Now the transaction goes through, but there’s a new problem: it sends 0 USDT instead of the intended 0.5 USDT. Not sure yet if it’s an encoding issue or something else, still digging into it. (reply to 148335)
+
+&rey: TonWeb bindings issue. (reply to 148338)
+
+Asrorbek: There should be a common issue and solution website for those facing issues like this. (reply to 148341)
+
+&rey: TonWeb reads jettonAmount but binding labelled it tokenAmount.
+
+&rey: There is. Namely, github.com. (reply to 148342)
+
+Dark Star: So, as I understand it, I need to pass a parameter called "jettonAmount" when creating the transfer body. But TypeScript throws an error saying that this property doesn’t exist in the TransferBodyParams type. (reply to 148343)
+
+&rey: Absolutely. You have to do some typing tricks if you want it work with TonWeb. A more common library for TS is @ton/ton.  I should also note that you cannot forward 0.01 TON out of 0.01 you provide for completing the transfer, which is an issue with your parameters. (reply to 148346)
+
+Dark Star: Thanks a ton for the help. That cleared things up. I’ll take another look tomorrow and consider switching to @ton/ton. Really appreciate the support.
+
+— 2025-05-13 —
+
+Howard: anyone heard any project similar like Skatechain.org that help people interacting with other chains in TON?
+
+Nihal: Hello TON community  I am seeking a ZK dev ? Anyone here? ( Unpaid, looking for a contributor)
+
+.6: Yeah, ZK dev here. Worked with zk-SNARKs, Circom, and smart contract integration. Let’s chat. (reply to 148385)
+
+Вадим: Looking for a developer experienced with TON (smart contracts, FunC/Tact). We're applying for a grant to build a project that combines an AI agent + DAO constructor on TON. The idea: a decentralized service with auto-payments and onchain logic. If you're interested in joining as a co-creator — DM me, I’ll share the pitch and details.
+
+Seva: Отписал (reply to 148387)
+
+Terry: @pcrafter  I have question I run the script to mint the new jetton when deploy, I use onchain metadata so after mint, send 0x04 message to change content, jetton's metadata even jetton_content changed, I can't see any change on explorer Can you explain about it?
+
+Terry: ok solved problem. it takes some time to show the updated metadata (reply to 148395)
+
+.6: I'm an expert in TON (reply to 148387)
+
+Seva: I have written him (reply to 148399)
+
+TON Bounty Bridge: ​From f0c421f85f2d28fd6e43ef100b2a9293c9df0a13 Mon Sep 17 00:00:00 2001  Created by Eikyarkway
+
+— 2025-05-14 —
+
+SINISTER: I'm looking for someone who can measure the creditworthiness of smart contracts. Is there anyone here to help me
+
+professor x: Do u know how I can learn about creating smart contracts and wallets and sending money (reply to 148443)
+
+ሏጠሀፐየሀህ ፎዐየዐዘሀዘ: Good morning to everyone!  👋 Who can give you the code for a crypto bot, from which you can start writing your own, like the basis for a crypto bot. Please! 🙏
+
+SINISTER: Can I send you the address? (reply to 148446)
+
+professor x: I don't know how to check validity (reply to 148449)
+
+SINISTER: Well, that's my problem, bro 🤣🤣 (reply to 148450)
+
+SINISTER: You don't have a friend or acquaintance whose source code is publicly available
+
+professor x: Nope (reply to 148452)
+
+Hooman: for learning smart contract on TON, search for "funC" and "tact" programming language. (reply to 148444)
+
+ሏጠሀፐየሀህ ፎዐየዐዘሀዘ: Good morning to everyone!  👋 Who can give you the code for a crypto bot, from which you can start writing your own, like the basis for a crypto bot. Please! 🙏
+
+Tharun Tej: How to create multi-sig wallet on TON?
+
+Seva: multisig.ton.org (reply to 148458)
+
+Tharun Tej: Can you guide me how to use it and how will it work, pls? (reply to 148459)
+
+Ricardo: Hey guys, im trying to parse and decode a transaction before sending it to the network to understand all the details involved.      const message = beginCell()       .storeWritable(         storeMessage(           external({             init: seqno == 0 ? contract.init : undefined,             to: contract.address,             body: transfer           })         )       )       .endCell()  are there any tools?
+
+fedya eremin: hey, guys, does gobicycle require personal liteserver?
+
+.6: Interested (reply to 148455)
+
+&rey: Prerequisites point 2: it requires personal liteserver only for reliability. (reply to 148467)
+
+&rey: It is strange to try decoding the thing you just constructed. (reply to 148466)
+
+&rey: On https://docs.ton.org. (reply to 148444)
+
+Daniel: Is anyone looking for a FunC dev?
+
+JD: Usefull for multisigs etc. Standard stuff (reply to 148479)
+
+Seva: DM (reply to 148484)
+
+Dark Star: Hey folks, me again 😅 Ran into another issue – this time I’m trying to parse a Jetton transfer transaction.  For regular transactions, I can get the amount and other info from targetTx.inMessage?.info, but with Jetton transfers, the actual amount isn’t there. GPT says I should look in targetTx.inMessage.body, but when I try to parse it, I get this error:  No overload matches this call. Argument of type 'Cell' is not assignable to parameter of type 'string | Buffer | ArrayBuffer...'   Turns out inMessage.body is already a Cell, and I guess I was treating it like a base64 string or buffer 🤦  Any idea how to properly extract the amount from Jetton transfers? Or maybe I’m just missing something obvious after switching to @ton/core. Appreciate any tips!   Full code: public static async transactionsTokenFounder(adr: string, tx: string) {     try {         const wallet = Address.parse(adr);         const transactions = await client.getTransactions(wallet, { limit: 5 });         const targetTx = transactions.find(t => t.hash().toString('hex') === tx.toLowerCase());          if (targetTx && targetTx.inMessage?.body) {             console.log('FOUND THIS SHIT!', targetTx.inMessage?.info)             const hash = targetTx.hash().toString('hex');             const from = targetTx.inMessage?.info.src?.toString() ?? 'unknown';             const to = targetTx.inMessage?.info.dest?.toString() ?? 'unknown';                          const bodyBuffer = Buffer.from(targetTx.inMessage.body, 'base64');             const cell = Cell.fromBoc(bodyBuffer)[0];             const slice = cell.beginParse();              slice.skip(32);             slice.skip(64);              const amount = slice.loadCoins();             console.log('Amount:', amount.toString());             //@ts-ignore             const fee = targetTx.totalFees?.coins ?? 0n;             const timestamp = new Date((targetTx.now ?? 0) * 1000).toISOString();                      console.log(                 'Found transaction:\n' +                 `hash:   ${hash}\n` +                 `from:   ${from}\n` +                 `to:     ${to}\n` +                 `amount: ${fromNano(0)} TON\n` +                 `fee:    ${fromNano(fee)} TON\n` +                 `date:   ${timestamp}`             );                     } else {             console.log('All hashs found transactions:');             for (const tx of transactions) {                 const hash = tx.hash().toString('hex');                 console.log(`- ${hash}`);             }         }     } catch (error) {         console.error('Ton | transactionsTonFounder | ERROR: ', error);         throw new Error(`Ton | transactionsTonFounder | ERROR: ${error}`);     } }
+
+Nemo: Hi guys, could you please help, I want to track if a transaction I sent by tonconnect is completed, how this can be done?
+
+&rey: Please see https://t.me/tondev_eng/145782. (reply to 148491)
+
+Tharun Tej: Use tonviewer (reply to 148493)
+
+Slava: You can use Cell.fromBase64() directly. (reply to 148489)
+
+&rey: Is that a valid TON address though? (reply to 148493)
+
+Tharun Tej: Easy bro! (reply to 148491)
+
+Slava: import assert from 'node:assert/strict';  import { Address, Cell } from '@ton/core';  interface JettonTransfer {   queryId: bigint;   amount: bigint;   from: Address;   responseAddress: Address;   forwardTonAmount: bigint;   forwardPayload: (Cell | undefined); }  const MSG_OP_CODE_SIZE = 32;  const JettonOpCodes = {   transfer: 0x0f8a7ea5,   transfer_notification: 0x7362d09c,   excesses: 0xd53276db,   burn: 0x595f07bc,   provide_wallet_address: 0x2c76b973,   take_wallet_address: 0xd1735400,   internal_transfer: 0x178d4519,   burn_notification: 0x7bdd97de,  } as const;  export function parseJettonTransfer(   cell: Cell  ): JettonTransfer {    const slice = cell.beginParse();    /**    * internal_transfer#178d4519    *   query_id:uint64    *   amount:(VarUInteger 16)    *   from:MsgAddress    *   response_address:MsgAddress    *   forward_ton_amount:(VarUInteger 16)    *   forward_payload:(Either Cell ^Cell)    *    * = InternalMsgBody;    */    const op = slice.loadUint(MSG_OP_CODE_SIZE);   assert.equal(op, JettonOpCodes.internal_transfer);    const queryId = slice.loadUintBig(MSG_QUERY_ID_SIZE);    const amount = slice.loadCoins();    const from = slice.loadAddress();    const responseAddress = slice.loadAddress();    const forwardTonAmount = slice.loadCoins();    const forwardPayload = slice.loadMaybeRef();    return {     queryId,     amount,     from,     responseAddress,     forwardTonAmount,     forwardPayload: (forwardPayload ?? undefined),   };  } (reply to 148489)
+
+Pesy: import assert from 'node:assert/strict';  import { Address, Cell } from '@ton/core';  interface JettonTransfer {   queryId: bigint;   amount: bigint;   from: Address;   responseAddress: Address;   forwardTonAmount: bigint;   forwardPayload: (Cell | undefined); }  const MSG_OP_CODE_SIZE = 32;  const JettonOpCodes = {   transfer: 0x0f8a7ea5,   transfer_notification: 0x7362d09c,   excesses: 0xd53276db,   burn: 0x595f07bc,   provide_wallet_address: 0x2c76b973,   take_wallet_address: 0xd1735400,   internal_transfer: 0x178d4519,   burn_notification: 0x7bdd97de,  } as const;  export function parseJettonTransfer(   cell: Cell  ): JettonTransfer {    const slice = cell.beginParse();    /**    * internal_transfer#178d4519    *   query_id:uint64    *   amount:(VarUInteger 16)    *   from:MsgAddress    *   response_address:MsgAddress    *   forward_ton_amount:(VarUInteger 16)    *   forward_payload:(Either Cell ^Cell)    *    * = InternalMsgBody;    */    const op = slice.loadUint(MSG_OP_CODE_SIZE);   assert.equal(op, JettonOpCodes.internal_transfer);    const queryId = slice.loadUintBig(MSG_QUERY_ID_SIZE);    const amount = slice.loadCoins();    const from = slice.loadAddress();    const responseAddress = slice.loadAddress();    const forwardTonAmount = slice.loadCoins();    const forwardPayload = slice.loadMaybeRef();    return {     queryId,     amount,     from,     responseAddress,     forwardTonAmount,     forwardPayload: (forwardPayload ?? undefined),   };  }
+
+Nemo: maybe you know, are there testnet version for the base url tonapi.io ? (reply to 148492)
+
+&rey: Well testnet.tonapi.io should work. (reply to 148505)
+
+Nemo: Thank you, (reply to 148506)
+
+zerox: You can use indexer for ton network, like tonindexer or tonresearch (reply to 148491)
+
+zerox: or theGraph is better
+
+Nemo: Thank you will check (reply to 148509)
+
+zerox: I suggest theGraph (reply to 148510)
+
+Dark Star: Thanks a lot, that really helped! (reply to 148499)
+
+Andrei: Hey! Does anyone experiences problems with deploying smart contract through the tonkeeper wallet? It works fine on desktop, but neither on android nor on ios, transaction is perceived as a smart contract deployment, rather as a normal send transaction.
+
+DexfLo: Hello.  We are developing a protocol for TON that is an extension of a live protocol on EVM. It mitigates impermanent loss, at times converting it to an impermanent gain. There is also a lending protocol attached to it that generates synthetic usd from yield earned. With permission, I can drop a pitchdeck on here so you can get a better idea, because it's a bit complex to describe without me leaving a big wall of text that nobody will take the time to read lol.
+
+&rey: Do you have insights which are relevant to ways how to develop on TON by any chance? (reply to 148523)
+
+&rey: Examples of contracts are also appreciated, once you know that they work (as opposed to "well we tested it on a couple of messages and it looked fine").
+
+&rey: If you have any relevant questions, you can either search in chat history and ask!
+
+DexfLo: we have the entire blueprint.  You can't translate the code literally of course, but we have the entire codebase from evm and... what could you possibly have said that was an infraction (reply to 148524)
+
+DexfLo: im going to try to drop this pdf on here and see what happens..  nah.. won't let me
+
+&rey: (I managed to hit word which is used in most scam messages so very convenient to remove them automatically) (reply to 148529)
+
+&rey: On average, knowledge of EVM hindered development for TON compared to general programming experience. (reply to 148529)
+
+DexfLo: anyway, we have a sound plan. Im in the midst of applying for a grant. This can work as a standalone dex/lending protocol, or it can integrate with any other dex/liquidity pool
+
+DexfLo: i just sent u a message
+
+— 2025-05-15 —
+
+Mojisola🍅 🍅: was restricted for 5 days. now it has elapsed. Will I be restricted again....
+
+Lasha: Hey, How can I send a Jetton transaction that will bounce?
+
+Mojisola🍅 🍅: send above your balance, it will bounce
+
+Giorgi: Hello
+
+Giorgi: I have problem while deploying jetton_wallet using hub.docker.com/r/trinketer22/func_docker/  sudo docker run --rm -it -v /path/to/project:/code -v /path/to/toncli_conf_dir/:/root/.config toncli-local deploy --net testnet   address is active but contract type is unknown (testnet address: kQAum8jtCv0jiFZsZUoMAzQFoUOgKR2PZK0Q5kpMfv28DG2f)   error while deploying INFO: 🚀 You want to interact with your contracts ['jetton_wallet'] in testnet - that's great! INFO: 🦘 Found existing deploy-wallet [kQAum8jtCv0jiFZsZUoMAzQFoUOgKR2PZK0Q5kpMfv28DG2f] (Balance: 1.998173999💎, Is inited: True) in /root/.config/toncli INFO: 👻 Your smart contract project [/code] is now going to be deployed, get ready! INFO: 🌈 Start building:  failed to create output file /code/build/jetton_wallet.fif Traceback (most recent call last):   File "/usr/local/bin/toncli", line 8, in <module>     sys.exit(main())   File "/toncli/src/toncli/main.py", line 67, in main     CommandsExecuter(command, string_kwargs, parser)   File "/toncli/src/toncli/modules/utils/commands/commands_executer.py", line 42, in __init__     self.command_mapper[command](self)   File "/toncli/src/toncli/modules/utils/commands/commands_executer.py", line 73, in deploy_command     return DeployCommand(self.string_kwargs, self.parser)   File "/toncli/src/toncli/modules/utils/commands/command_classes/deploy_command.py", line 17, in __init__     deployer.publish(real_args[2:])   File "/toncli/src/toncli/modules/deploy_contract.py", line 81, in publish     self.compile_func(real_contracts)   File "/toncli/src/toncli/modules/abstract/deployer.py", line 153, in compile_func     fift_build(self.project_root, cwd=self.project_root, contracts=contracts)   File "/toncli/src/toncli/modules/utils/func/commands.py", line 47, in build     build_files(contract.func_files_locations, contract.to_save_location, func_args, cwd))   File "/toncli/src/toncli/modules/utils/func/commands.py", line 81, in build_files     get_output = check_output(build_command,   File "/usr/lib/python3.8/subprocess.py", line 415, in check_output     return run(*popenargs, stdout=PIPE, timeout=timeout, check=True,   File "/usr/lib/python3.8/subprocess.py", line 516, in run     raise CalledProcessError(retcode, process.args, subprocess.CalledProcessError: Command '['/usr/local/bin/func', '-o', '/code/build/jetton_wallet.fif', '-SPA', '/root/.config/toncli/func-libs/error_codes.func', '/root/.config/toncli/func-libs/stdlib.func', '/root/.config/toncli/func-libs/math.func', '/code/func/helpers.func', '/code/func/op-codes.func', '/code/func/params.func', '/code/func/jetton-utils.func', '/code/func/jetton-wallet.func']' returned non-zero exit status 2.   Any ideas?
+
+Ricardo: Hey guys, what methods are availiable for me to fetch fees for a simple transaction? is it possible to fetch normal and fast fees if i want the tx to be included faster?
+
+Ricardo: ideally using '@ton-api/client' or '@ton/ton' libraries
+
+Mojisola🍅 🍅: ton is a kind of different network.  you send enough ton for a transaction and return excess to your wallet.   because it is asynchronous and transaction confirms later not instant like ethereum
+
+Mojisola🍅 🍅: why do you need to know fees??
+
+&rey: No doubt you know that even TON transfer uses two transactions, but fees are fixed by config – there is no "fast fee" whatsoever. (reply to 148567)
+
+&rey: Either your command works wrong with Docker (maybe extra colon in first -v argument), or contract doesn't compile. (reply to 148566)
+
+&rey: Not really topic for public chat. It has to do with whether responses help people. (reply to 148550)
+
+Shemhamforash: you mean tonscanner* (reply to 148494)
+
+Tharun Tej: That is also one of the option (reply to 148577)
+
+&rey: I haven't heard of project with that name. A well-known one is https://tonscan.org . (reply to 148577)
+
+Tharun Tej: That's what he is about to say 🤣 (reply to 148581)
+
+Shemhamforash: You always, want to use native scanner not a 3rd party ones
+
+&rey: Nope. Native one, which is https://explorer.toncoin.org/status, is kinda not convenient to use. (reply to 148584)
+
+Shemhamforash: https://tonscan.org/ is also good (reply to 148585)
+
+— 2025-05-16 —
+
+Alexander: Hello everyone. Is there a way to on-chain verify that the STON.fi router address passed to the contract actually belongs to STON.fi? DeDust has this option and it is implemented by creating a proof for a specific pair of jettons (there is an example in their sdk), which does not allow funds to be sent to the hacker's wallet
+
+Denis: You can't verify this (reply to 148610)
+
+Alexander: Can't verify only for STON fi? Is this implementation for DeDust absolutely correct?  // DeDust contract type const DEDUST_CONTRACT_TYPE_VAULT: Int = 1; const DEDUST_CONTRACT_TYPE_POOL: Int = 2; const DEDUST_CONTRACT_TYPE_LIQUIDITY_DEPOSIT: Int = 3;  // DeDust factory address const DEDUST_FACTORY_ADDRESS: Address = address(   "EQBfBWT7X2BHg9tXAxzhz2aKiNTU1tpt5NsiK0uSDW_YAJ67" );  // DeDust contract code const DEDUST_BLANK_CODE: Cell = cell(   "te6ccgEBBAEAlgABFP8A9KQT9LzyyAsBAgJwAwIACb8pMvg8APXeA6DprkP0gGBB2onai9qPHDK3AgFA4LEAIZGWCgOeLAP0BQDXnoGSA/YB2s/ay9rI4v/aIxx72omh9IGmDqJljgvlwgcIHgmmPgMEITZ1R/V0K+XoB6Z+AmGpph4CA6hD9ghDodo92qYgjCCLBAHKTdqHsdqD2+ID5f8=" );  // Create proof to confirm DeDust address fun createProofAddress(   factoryAddress: Address,   contractType: Int,   jettonAddress: Address? ): Address {   let data = beginCell()     .storeAddress(factoryAddress)     .storeUint(contractType, 8);    if (jettonAddress == null) {     data = data.storeUint(0b0000, 4);   } else {     let parsedAddress = parseStdAddress(jettonAddress!!.asSlice());      data = data       .storeUint(0b0001, 4)       .storeInt(parsedAddress.workchain, 8)       .storeUint(parsedAddress.address, 256);   }    return contractAddress(     StateInit {       code: DEDUST_BLANK_CODE,       data: data.endCell()     }   ); }  // Create proof to confirm the DeDust vault address fun createVaultProofAddress(   factoryAddress: Address,   jettonAddress: Address? ): Address {   return createProofAddress(     factoryAddress,     DEDUST_CONTRACT_TYPE_VAULT,     jettonAddress   ); }  // Verification of DeDust vault address fun verifyVaultAddress(   vaultAddress: Address,   factoryAddress: Address,   jettonAddress: Address? ) {   require(     vaultAddress == createVaultProofAddress(factoryAddress, jettonAddress),     "Invalid DeDust vault address"   ); } code taken from DeDust sdk (reply to 148612)
+
+Andrei: Hey! Quick question. Can somebody please tell what are the common reasons for transaction being marked as suspicious on tonviewer?
+
+Denis: Usually long text with some keywords and low amount attached to message (reply to 148614)
+
+Denis: Yes (reply to 148613)
+
+Alexander: This means that there are 2 solutions for absolute security of swaps: 1. Refuse STON fi and use only DeDust 2. Create a multisig contract that stores all STON fi router addresses and manually update them when new routers appear Right? Do you think that no one has yet implemented the second point in the same way? (reply to 148617)
+
+Lasha: Hi, I’d like to install Func on Ubuntu. Could you please share an article or guide on how to do that?
+
+Andy: Hi! Is there any way to accept_message an internal message with a value of one nanoton, to pay for everything from contract's balance?
+
+&rey: No. TVM is already not launched for it. (reply to 148642)
+
+Master: Who can help me with my project? I need to create a Lenling website and a Telegram bot on a volunteer basis. Please become my partner in developing my project.
+
+Combot: Combot has warned Daivd Eason (1/3) Reason: Word ***** is not allowed (reply to 148644)
+
+Daivd: open source? (reply to 148644)
+
+BizX: Hey, what kind of project are you developing? (reply to 148644)
+
+Slava: Anyway, you need to pay forward fees to send the message in the first place, why not pay minimal gas fees as well? (reply to 148642)
+
+Andy: That's true. The case I'm considering is doing something on-chain once a simple jetton transfer from a wallet is received (which at least in mytonwallet generates a transfer notification with 1 nanoton) (reply to 148652)
+
+Slava: It can be zero with the same effect. Just increase the value. (reply to 148656)
+
+— 2025-05-17 —
+
+Nasri: Hi guys, can i check if there is a developer program on TON?
+
+Mojisola🍅 🍅: what do you mean? (reply to 148667)
+
++888: #Is logical time of each message within a transaction unique ?  A transaction can consist of several messages within a smart‑contract. But if 2 messages are executed exactly at the same moment, for example by being started at the exact same moment within 2 different transactions, can this result in logical time not being unique ?  Or more generally, is there any way to make logical time not unique ?
+
+Mojisola🍅 🍅: no sure 2 similar transaction can have same logical time.  and why will this matter though.
+
+&rey: Logical time is not unique. Logical time + contract's address is. (reply to 148680)
+
++888: So it’s impossible to make logical time not unique for the same smart‑contract despite it’s possible to have the code of smart contract being run line by line at the same time ? (reply to 148682)
+
+&rey: Always unique. And FYI smart contract executions are sequentially consistent (and I don't think a validator ever runs same contract in parallel threads). (reply to 148683)
+

@@ -1,25 +1,3 @@
-Anthony: Yes. It could take up to 24 hrs (reply to 18810)
-
-Anthony: Last time it took 1 hrs for me
-
-Anthony: This is dump downloading step. The dump is about 100 GB if i'm not mistaken (reply to 18808)
-
-Pie: Thanks a lot! I have finished the download progress. (reply to 18816)
-
-Pie: Unfortunately, I encountered an error when launching MyTonCtrl. Does this step require additional configuration?Thank you once again for your help.😭
-
-Anthony: Which user did you run the installation script as?
-
-Pie: The non-root user account used for installation in step 1.
-
-Pie: Do you mean that this could be a permissions issue?
-
-Anthony: It could be
-
-Pie: I tried removing 'sudo' and running mytonctrl as a normal user. It seems to no longer give an error.
-
-Pie: Thank you for your timely help. The TON community is really fantastic.
-
 Pie: It seems that this tutorial differs from the actual situation. I found in the GitHub repository that this step doesn't require sudo permissions.
 
 Pie: https://github.com/ton-blockchain/mytonctrl
@@ -432,7 +410,7 @@ Howard: TonWeb or Tact語言現成的 (reply to 19079)
 
 Jim: Tact語言現成的是指？ (reply to 19080)
 
-pdzeng on vacation until 5/4: tonweb 你應該比較熟悉
+pdzeng: tonweb 你應該比較熟悉
 
 — 2023-12-25 —
 
@@ -1852,17 +1830,17 @@ AWS-阿里云国际-cloudflare: 基于 TON的链游有没有
 
 Roykay: 咨询下，能否在一个小游戏里边，直接关闭小游戏窗口，跳转打开一个小程序？
 
-鲁长鹏: 怎么买+888的号码
+Tianque: 怎么买+888的号码
 
 TRX靓号 海外卡: 拍卖网。。 (reply to 19935)
 
 TRX靓号 海外卡: ton钱包里面就可以找到
 
-鲁长鹏: 有链接吗 (reply to 19937)
+Tianque: 有链接吗 (reply to 19937)
 
 TRX靓号 海外卡: 圈起来那个F开头的就是
 
-鲁长鹏: 好的谢谢
+Tianque: 好的谢谢
 
 裸裸: 经历了漫长的好长时间，我的任务终于要完成啦。
 
@@ -2056,11 +2034,11 @@ Yves: Hi 各位好 很高興加入群組🤝
 
 — 2024-01-26 —
 
-pdzeng on vacation until 5/4: 各位 Dev 們，我們晚上七點在台北有舉辦 Meetup   歡迎大家來吃吃喝喝，學習 TON 上資訊
+pdzeng: 各位 Dev 們，我們晚上七點在台北有舉辦 Meetup   歡迎大家來吃吃喝喝，學習 TON 上資訊
 
-pdzeng on vacation until 5/4: Hello Dev, save the date: January 26th at 7pm (UTC+8).  Join #TonTaipeiMeetup where Taipei Developers explore the world of #TON.  In partnership with TON Society, this innovation-driven meetup awaits you! Be part of this thrilling event.  Our stronger speakers ⚡️  👉 @dev_rel, @ton_blockchain Dev Rel 👉 @drawesomedoge, co-founder of @TonXStudio 👉 @wisdom_yang, co-founder of @AlphaTon / TON Ambassador  If you are interested in #TON and want your project to face more customers, you must join us!  ⚡️Join our events ⚡️X Post (forwarded from TONX API)
+pdzeng: Hello Dev, save the date: January 26th at 7pm (UTC+8).  Join #TonTaipeiMeetup where Taipei Developers explore the world of #TON.  In partnership with TON Society, this innovation-driven meetup awaits you! Be part of this thrilling event.  Our stronger speakers ⚡️  👉 @dev_rel, @ton_blockchain Dev Rel 👉 @drawesomedoge, co-founder of @TonXStudio 👉 @wisdom_yang, co-founder of @AlphaTon / TON Ambassador  If you are interested in #TON and want your project to face more customers, you must join us!  ⚡️Join our events ⚡️X Post (forwarded from TONX API)
 
-pdzeng on vacation until 5/4: set up 好了，大家如果提早下班都可以進場！ 七點正式開始！ (reply to 20090)
+pdzeng: set up 好了，大家如果提早下班都可以進場！ 七點正式開始！ (reply to 20090)
 
 🐾: Hi
 
@@ -2352,11 +2330,11 @@ Andrew: 需要出一个 Alchemy (https://www.alchemy.com/)
 
 Howard: @pdzeng  / @TonFura (reply to 20267)
 
-pdzeng on vacation until 5/4: 仍在努力哈
+pdzeng: 仍在努力哈
 
-pdzeng on vacation until 5/4: 都歡迎來填寫 @tonfura_ann 的 early access 表單  https://bit.ly/tonfura-early-access
+pdzeng: 都歡迎來填寫 @tonfura_ann 的 early access 表單  https://bit.ly/tonfura-early-access
 
-pdzeng on vacation until 5/4: 💝💝💝
+pdzeng: 💝💝💝
 
 Andrew: 以太坊系的基础设施，随便一搜一大堆哦
 
@@ -2458,7 +2436,7 @@ Yang: https://ton.run/#/  Ton Run 是可以讓你查詢現今熱門的 .ton 網�
 
 Yang: 這是如何架設 .ton 網站的傻瓜指南，透過翻譯器，你應該可以知道如何架設 .ton 網站。  https://howto.ton.run/
 
-pdzeng on vacation until 5/4: 謝謝你我是傻瓜 學會了 (reply to 20328)
+pdzeng: 謝謝你我是傻瓜 學會了 (reply to 20328)
 
 戈門: 它已經502了哈哈 (reply to 20328)
 
@@ -2836,7 +2814,7 @@ Kojh: 明白了，所以不是合约的问题，只是TonViewer没解释 (reply 
 
 🅰🅻🅰🅽: 嗨大家好 我這裡有個問題想請教一下   有人呼叫過TON DNS contract 的 get_method 嗎？我可以怎麼用一個 dns name 查詢到對應的地址呢？  https://tonviewer.com/EQC3dNlesgVD8YbAazcauIrXBPfiVhMMr5YYk2in0Mtsz0Bz?section=method
 
-pdzeng on vacation until 5/4: Developers from all over the world, you're invited👩‍💻👨‍💻 TON Hackerhouse 2024 - TON DEV Journey is now Live🚀  Experience the journey with 6 Workshops 🎓 2 Demo Days 💡 1 Hacker House 🏠  First stop: Taipei on 2/23  Don't miss the kick-off at the first workshop! Here  Can't make it in person?  Catch the second Journey online on 2/24 Here  Exclusive Rewards  📌 Join the Journey: Here 🌐 Fill your TON address: Provide it during events. 🎉 Multiply surprises: More events, more surprises!  Official Website: https://tonhackerhouse.com Official Twitter: https://twitter.com/TONHackerHouse Journey Calender: https://lu.ma/tonhackerhouse (forwarded from TONX 💎)
+pdzeng: Developers from all over the world, you're invited👩‍💻👨‍💻 TON Hackerhouse 2024 - TON DEV Journey is now Live🚀  Experience the journey with 6 Workshops 🎓 2 Demo Days 💡 1 Hacker House 🏠  First stop: Taipei on 2/23  Don't miss the kick-off at the first workshop! Here  Can't make it in person?  Catch the second Journey online on 2/24 Here  Exclusive Rewards  📌 Join the Journey: Here 🌐 Fill your TON address: Provide it during events. 🎉 Multiply surprises: More events, more surprises!  Official Website: https://tonhackerhouse.com Official Twitter: https://twitter.com/TONHackerHouse Journey Calender: https://lu.ma/tonhackerhouse (forwarded from TONX 💎)
 
 Howard: TonViewer 的 API 有提供對應接口吧、專門展示DNS相關訊息的 (reply to 20537)
 
@@ -2900,7 +2878,7 @@ MyKol: TON DEV JOURNEY 將會在今晚準備香港站，歡迎有興趣了解 To
 
 Kojh: @Te_0x66 Hi, Please text me. Because I found I can not directly send message to you. (reply to 20553)
 
-pdzeng on vacation until 5/4: You need to join the next workshop.  lu.ma/tondevjourney (reply to 20576)
+pdzeng: You need to join the next workshop.  lu.ma/tondevjourney (reply to 20576)
 
 — 2024-02-25 —
 
@@ -3122,11 +3100,11 @@ User<238211251>: 请告诉我如何从蓝图中的地址计算 sha256 哈希值
 
 Howard: 用咱們官方套件包 有一個 hash 模塊 (reply to 20711)
 
-pdzeng on vacation until 5/4: https://x.com/tonhackerhouse/status/1762852705914266089?s=46&t=1LAyoawP6LK1AbrwCvLGqQ
+pdzeng: https://x.com/tonhackerhouse/status/1762852705914266089?s=46&t=1LAyoawP6LK1AbrwCvLGqQ
 
-pdzeng on vacation until 5/4: TON DEV Workshop #2 就在今天！ (reply to 20713)
+pdzeng: TON DEV Workshop #2 就在今天！ (reply to 20713)
 
-pdzeng on vacation until 5/4: 沒報名的快來報名！
+pdzeng: 沒報名的快來報名！
 
 — 2024-03-01 —
 
@@ -3302,9 +3280,9 @@ Mr.A: 哪位老哥给推荐个靠谱的ton浏览器
 
 Maxey: Tonkey目前還可以使用嗎？！
 
-pdzeng on vacation until 5/4: 可以吧 (reply to 20820)
+pdzeng: 可以吧 (reply to 20820)
 
-pdzeng on vacation until 5/4: 你在哪裡遇到問題了
+pdzeng: 你在哪裡遇到問題了
 
 🅰🅻🅰🅽: 我自己測試創建新的多簽錢包也有問題 (reply to 20821)
 
@@ -3392,9 +3370,9 @@ Howard: 大家下個月 April 8 要來香港！
 
 Howard: https://x.com/ton_blockchain/status/1763867017390469403?s=46&t=OlAx5pRJg1BNjb9INUSdhw (forwarded from TON Blockchain | by Howard)
 
-pdzeng on vacation until 5/4: 不是 April 4 (reply to 20868)
+pdzeng: 不是 April 4 (reply to 20868)
 
-pdzeng on vacation until 5/4: https://tonhackerhouse.com
+pdzeng: https://tonhackerhouse.com
 
 Howard: 👍🏿 (reply to 20871)
 
@@ -3492,11 +3470,11 @@ Zorro: 你有沒有看到最上面那排紅字? (reply to 20932)
 
 uupp $ZAI: 😂停止运营
 
-小P「JitoShreds」: 😑TON起飞了
+小P「JitoShred教程作者」: 😑TON起飞了
 
 TON: 拥有TON，拥有Telegram 股份权，1TON=10股！
 
-小P「JitoShreds」: 😑有没有人晓得TONOT这个项目是不是诈骗
+小P「JitoShred教程作者」: 😑有没有人晓得TONOT这个项目是不是诈骗
 
 TON: 囤TON就好了
 
@@ -3548,13 +3526,13 @@ Kirill: Or @thetonstakers / https://tonstakers.com (reply to 20970)
 
 Yang: 笑死，大家出來搶生意了
 
-小P「JitoShreds」: 🫠Tonot才是最强的
+小P「JitoShred教程作者」: 🫠Tonot才是最强的
 
 Yang: Bemo、Hipo 在哪？一支穿雲箭、千軍萬馬來相見
 
 Yang: 過分了喔 (reply to 20975)
 
-小P「JitoShreds」: 🫠滞销了
+小P「JitoShred教程作者」: 🫠滞销了
 
 Howard: PS. TonKeeper 的質押功能背後就是串 TonStakers.com 😂 (reply to 20973)
 
@@ -3590,9 +3568,9 @@ Yang: 難度： Fift > FunC > Tact 上手度：Tact > FunC > Fift   基本上全
 
 小龙龙: 有没有一键发布合约的三方平台了
 
-小P「JitoShreds」: ton吗
+小P「JitoShred教程作者」: ton吗
 
-小P「JitoShreds」: ton好像有的
+小P「JitoShred教程作者」: ton好像有的
 
 Will 🍅: 這誰說的 (reply to 20937)
 
@@ -3626,7 +3604,7 @@ Howard: Tact 教學可以參考 ScaleBit & TON 贊助的講座：https://openbui
 
 Howard: 征求一些微信小程序开发过的 Devs 跟我们分享一下迁移过来 TG 上搭建 mini-app 的体验、以及开发上的差别😂
 
-小P「JitoShreds」: 羊了个羊
+小P「JitoShred教程作者」: 羊了个羊
 
 快乐玩币圈: 哈哈
 
@@ -4006,17 +3984,17 @@ User<6234295669>: is there anybody looking for a front-end developer?
 
 Andy (Gang): 我決定重壓ton ~
 
-小P「JitoShreds」: 🙈有没有链游开发的
+小P「JitoShred教程作者」: 🙈有没有链游开发的
 
 Sean: 請問有興趣開發dapp程式要跟誰討論和聯絡呢
 
-小P「JitoShreds」: 你是开发者吗
+小P「JitoShred教程作者」: 你是开发者吗
 
 Sean: 有點基本的基礎 也在學習開發
 
 Trb: 兄弟们,Tact有好点的Arrays 方案么,想实现  ABC[ 0 ].push( )这个功能
 
-小P「JitoShreds」: 😐没人搞赌博类的链游吗
+小P「JitoShred教程作者」: 😐没人搞赌博类的链游吗
 
 Andy: 请问 ton合约 一般用啥语言 fift func  还是 tact
 
@@ -4122,11 +4100,11 @@ Tom: 应该是没有出发 转出这个动作，导致我的 tg wallet 余额没
 
 Trb: 大家有没有遇到在线IDE nujan.io   map<Address, Int> 地图类型无法设置的问题?
 
-Alex: 剛開始玩tact, 有大神可以教教嗎     get fun convertStringToAddress(a:String): Address {         let _address:Address = address(a);         return _address     }  Error while building
+Crypto A99: 剛開始玩tact, 有大神可以教教嗎     get fun convertStringToAddress(a:String): Address {         let _address:Address = address(a);         return _address     }  Error while building
 
-Alex: build不起 我只是想試試 DataType : string to Address
+Crypto A99: build不起 我只是想試試 DataType : string to Address
 
-Alex: map<Address, Int> 地图类型无法设置的问题? 我都卡這問題  checkinCount: map<Address,Int>;  self.checkinCount.set(sender(),1);  會build不了 在想是IDE問題還是什麼
+Crypto A99: map<Address, Int> 地图类型无法设置的问题? 我都卡這問題  checkinCount: map<Address,Int>;  self.checkinCount.set(sender(),1);  會build不了 在想是IDE問題還是什麼
 
 Howard: String to Address 可以參考 (reply to 21353)
 
@@ -4136,7 +4114,7 @@ Howard: https://github.com/ton-society/grants-and-bounties/issues/413  可以幫
 
 Howard: 這段代碼是 Ken 提供的、可以參考 (reply to 21357)
 
-Alex: 好的，謝謝
+Crypto A99: 好的，謝謝
 
 User<5871101661>: 卧槽我提的u到电报钱包怎么，没来呀
 
@@ -4144,7 +4122,7 @@ User<5871101661>: 有大佬知道吗
 
 Squid: ❤️
 
-Alex: EVM調用合約後有一個 transition hash, ton 鏈有嗎...
+Crypto A99: EVM調用合約後有一個 transition hash, ton 鏈有嗎...
 
 — 2024-03-25 —
 
@@ -4152,7 +4130,7 @@ Howard: 提交到鏈上打包之後會有。透過 api 查詢 (reply to 21365)
 
 coolkhz: 合约可以写定时器   循环 3 分钟就执行一些操作吗？
 
-小P「JitoShreds」: 🙈这是要搞什么 (reply to 21368)
+小P「JitoShred教程作者」: 🙈这是要搞什么 (reply to 21368)
 
 Squid: 可以内部写逻辑 (reply to 21368)
 
@@ -4166,19 +4144,19 @@ coolkhz: 那个机器人领了  也不给发啊
 
 coolkhz: 半个多小时了
 
-小P「JitoShreds」: 以前领的水也不见了😂
+小P「JitoShred教程作者」: 以前领的水也不见了😂
 
 Ann: 你好，有空请看下私信哦 (reply to 21367)
 
 Howard: 可以寫腳本 (reply to 21368)
 
-Alex: 想問一下 gas fee 返還的問題.  因為send message 一定要value > gas   所以我想在合約裏 返還多了的value給user    我加了 refund_gas() 但 value還是在合約裏 沒有轉還給sender() ...    inline fun refund_gas() {     send(SendParameters{         to: sender(),         value: 0,         mode: SendRemainingValue + SendIgnoreErrors,         bounce: false     }); }
+Crypto A99: 想問一下 gas fee 返還的問題.  因為send message 一定要value > gas   所以我想在合約裏 返還多了的value給user    我加了 refund_gas() 但 value還是在合約裏 沒有轉還給sender() ...    inline fun refund_gas() {     send(SendParameters{         to: sender(),         value: 0,         mode: SendRemainingValue + SendIgnoreErrors,         bounce: false     }); }
 
 Howard: 可以參考 native_reserve   https://docs.tact-lang.org/language/ref/advanced#nativereserve (reply to 21382)
 
-Alex: 好謝謝
+Crypto A99: 好謝謝
 
-Alex: 我想做的 大概就像Deploy時 退還value的
+Crypto A99: 我想做的 大概就像Deploy時 退還value的
 
 Arnaud: xdm，测试网bot领水估计多久能到账呀 “Request added to the queue for execution, please wait!”
 
@@ -4222,7 +4200,7 @@ Bill: Address 的 tostring 有三个参数， 其中有个 testonly，和这个�
 
 Andrew: 翻到了群主的视频
 
-Alex: 最後用self.reply成功了  之前不成功，是因為上面有一個emit .  原來emit後 的reply都不會觸發 (reply to 21410)
+Crypto A99: 最後用self.reply成功了  之前不成功，是因為上面有一個emit .  原來emit後 的reply都不會觸發 (reply to 21410)
 
 Howard: 是的😂😂😂 (reply to 21419)
 
@@ -4242,7 +4220,7 @@ Vivi: 你怎么也叫一个名字
 
 Conight: 脚本里面TonClient4实例怎么调用类似于api.getContractState 方法？
 
-小P「JitoShreds」: 🫠ton上有看k线的吗
+小P「JitoShred教程作者」: 🫠ton上有看k线的吗
 
 航: tong这个币
 
@@ -4258,7 +4236,7 @@ Turbo: 请问这种混合配置想要重写或者在transfer里面新增业务�
 
 Turbo: 是不是得去学func进行修改？
 
-Alex: Ton api  POST :: /api/v3/runGetMethod   res的地址是    {       "type": "cell",       "value": "te6cckEBAQEAJAAAQ4AaelHhBpDLDW8p1EBi0d5kdRUxez/f+GW7QXflYyIT2DBGvYpg"     }   想問一下有java 的sdk 去convert 成string 地址嗎？
+Crypto A99: Ton api  POST :: /api/v3/runGetMethod   res的地址是    {       "type": "cell",       "value": "te6cckEBAQEAJAAAQ4AaelHhBpDLDW8p1EBi0d5kdRUxez/f+GW7QXflYyIT2DBGvYpg"     }   想問一下有java 的sdk 去convert 成string 地址嗎？
 
 User<6707872053>: 谢谢 (reply to 21440)
 
@@ -4452,7 +4430,7 @@ User<7003351347>: 🦐
 
 Trb: 钱包上显示消息已成功发送了,但是合约上没有任何的操作记录,这种情况是卡区块了么?
 
-Alex: 想問一下 tact 合約 能做多簽嗎  就是我有一個admin錢包 如果用戶需要進行某些操作 需要得到admin錢包的signature   然後合約會驗証 signature 的 payload 是不是一樣 以及簽名的人是不是admin wallet    其實就是erc712🙏🏻
+Crypto A99: 想問一下 tact 合約 能做多簽嗎  就是我有一個admin錢包 如果用戶需要進行某些操作 需要得到admin錢包的signature   然後合約會驗証 signature 的 payload 是不是一樣 以及簽名的人是不是admin wallet    其實就是erc712🙏🏻
 
 BellingerKitty: 我在读一个教程，里面有很多奇怪的 throw, 用的代码是 0x 开头的 ，比如 0x123, 0xfffe, 0xfffd 请问这些是什么意思？ 为什么要用 0x 开头？直接用 TVM 退出码表格里的整数不行吗？
 
@@ -4462,7 +4440,7 @@ Howard: 有 (reply to 21570)
 
 Howard: - https://github.com/tact-lang/contract-payouts - https://github.com/nonam3e/tact-lessons/tree/main/lesson3 (reply to 21570)
 
-Alex: 好的謝謝
+Crypto A99: 好的謝謝
 
 Jalala: Wy
 
@@ -4484,9 +4462,9 @@ Jalala: /
 
 ۵۶۷۳۳: Hay
 
-Alex: @dev_rel Howard大哥 我在看你寫的nft contract example. 想問一下  message Transfer{} 和
+Crypto A99: @dev_rel Howard大哥 我在看你寫的nft contract example. 想問一下  message Transfer{} 和
 
-Alex: message(0x5fcc3d14) Transfer {}  有什麼分別嗎
+Crypto A99: message(0x5fcc3d14) Transfer {}  有什麼分別嗎
 
 Laura: trusted transfers
 
@@ -4494,9 +4472,9 @@ Vladislav: 大家好，朋友们。请告诉我，当我在 Ston.fi 上进行农
 
 Vladislav: 我将非常感谢您的建议🙏🏻
 
-Alex: thank you, can i also ask how can i convert Transfer to 0x5fcc3d14 ?    seems not just 0x  with MsgName( string to hex )    Cause the tact doc haven't mentioned about this.  https://docs.tact-lang.org/book/receive (reply to 21592)
+Crypto A99: thank you, can i also ask how can i convert Transfer to 0x5fcc3d14 ?    seems not just 0x  with MsgName( string to hex )    Cause the tact doc haven't mentioned about this.  https://docs.tact-lang.org/book/receive (reply to 21592)
 
-Alex: if i just convert "Transfer" to hex  it would be 0x5472616e73666572
+Crypto A99: if i just convert "Transfer" to hex  it would be 0x5472616e73666572
 
 — 2024-03-31 —
 
@@ -4536,9 +4514,9 @@ Zorro: TON 沒有預言機 (reply to 21613)
 
 Bill: 也就是 市场空白😁
 
-小P「JitoShreds」: 🌝🌝市场空白的比较多
+小P「JitoShred教程作者」: 🌝🌝市场空白的比较多
 
-小P「JitoShreds」: 看你想怎么搞
+小P「JitoShred教程作者」: 看你想怎么搞
 
 carl: 在做sendBoc的时候返回了这个有大佬知道是什么原因吗end error: LITE_SERVER_UNKNOWN: cannot apply external message to current state : External message was not accepted\nCannot run message on account: inbound external message rejected by transaction 978819DB7AE4D9EDAE63A43C98BACC09176913FF820352E92148F06D9766D649:\nexitcode=33, steps=33, gas_used=0\nVM Log (truncated):\n...OW\nexecute XCHG s1,s3\nexecute LEQ\nexecute THROWIF 35\nexecute PUSH c4\nexecute CTOS\nexecute LDU 32\nexecute LDU 32\nexecute LDU 256\nexecute ENDS\nexecute XCPU s3,s2\nexecute EQUAL\nexecute THROWIFNOT 33\ndefault exception handler, terminating vm with exit code 33\n
 
@@ -4750,11 +4728,11 @@ carl: 这笔交易
 
 carl: 有对接过的大佬吗
 
-小P「JitoShreds」: ton有没有狙击bot?
+小P「JitoShred教程作者」: ton有没有狙击bot?
 
 兵长: 有
 
-小P「JitoShreds」: 哪里有
+小P「JitoShred教程作者」: 哪里有
 
 小龙: 在TON上如何获取telegram的用户信息
 
@@ -4922,7 +4900,7 @@ Philip 菲力: 1. 監控內存池交易目前最簡單的作法是去監聽所�
 
 Philip 菲力: btw, tag正確 @rainboltz 我才會在，我會在這邊盡量回答大家問題 (reply to 21892)
 
-pdzeng on vacation until 5/4: 愛了 (reply to 21897)
+pdzeng: 愛了 (reply to 21897)
 
 Development: 你好。我是 ton dev 研究畢業的。親愛的鄰居們，幫我找份工作吧
 
@@ -5492,11 +5470,11 @@ Philip 菲力: 我也在等待，這個好酷
 
 Squid: 🦑🦑🦑
 
-Alex: 有人知道 合約裏的 map<Address,Bool>  我想在ts 裏 傳到合約 要如何生成這個Dictionary?
+Crypto A99: 有人知道 合約裏的 map<Address,Bool>  我想在ts 裏 傳到合約 要如何生成這個Dictionary?
 
-Alex: const whiteList : Dictionary<Address,Boolean> =  ？？？
+Crypto A99: const whiteList : Dictionary<Address,Boolean> =  ？？？
 
-Alex: o, i found it!
+Crypto A99: o, i found it!
 
 He: 反正这么写不成 (reply to 22281)
 
@@ -5626,7 +5604,7 @@ Eagle: Hello guys one question which language should be used on backend if you w
 
 Philip 菲力: personal opinion: go > js > python > java (reply to 22371)
 
-+888: @tonsadmin
+ORIFJON: @tonsadmin
 
 — 2024-04-11 —
 
@@ -5642,9 +5620,9 @@ Leo: 有什么地方能看到in_msg和out_msgs的解释吗
 
 Howard: good (reply to 22096)
 
-醒狮-富贵 股票 外汇 资金盘大区搭建: 如果我想在TON 上面 开发一个类似wanswap的去中心化交易所，可以实现的吗
+醒狮-王权富贵 股票 外汇 资金盘大区搭建: 如果我想在TON 上面 开发一个类似wanswap的去中心化交易所，可以实现的吗
 
-醒狮-富贵 股票 外汇 资金盘大区搭建: TON上面可以进行自主开发游戏吗
+醒狮-王权富贵 股票 外汇 资金盘大区搭建: TON上面可以进行自主开发游戏吗
 
 User<6449299367>: 大家好
 
@@ -6060,17 +6038,17 @@ Trb: 老大,合约中用什么方法  只退回多余的Gas费  比如,用户发
 
 Trb: reply()  它会全部退回  send(),又不知道具体使用了多少
 
-Alex: send(SendParameters{     to: sender(),     bounce: true,     value: context().value - msg.amount,     mode: SendRemainingValue + SendIgnoreErrors });
+Crypto A99: send(SendParameters{     to: sender(),     bounce: true,     value: context().value - msg.amount,     mode: SendRemainingValue + SendIgnoreErrors });
 
-Alex: 但gas 方面要優化一下haha
+Crypto A99: 但gas 方面要優化一下haha
 
-Alex: msg.amount = 支付金额
+Crypto A99: msg.amount = 支付金额
 
-Alex: 有人玩過 tact的checkSignature  嗎   我驗證用的publicKey是walletA的, 但我用Wallet B sign的signature 居然通過了 .
+Crypto A99: 有人玩過 tact的checkSignature  嗎   我驗證用的publicKey是walletA的, 但我用Wallet B sign的signature 居然通過了 .
 
 Trb: 这样计算的话,相当于就是往用户那里发送0.1个Ton过去.是不是相当于说,本次的交易费用是由合约在支付了?
 
-Alex: 對 (reply to 22627)
+Crypto A99: 對 (reply to 22627)
 
 User<6449299367>: YOIU
 
@@ -6078,7 +6056,7 @@ killer47: dm (reply to 22628)
 
 Trb: 这样就没意义啦,还不如说,客户端那边,直接发送10个过来,然后不处理退费不更好么
 
-Alex: 但這樣 你扣了gas 到帳就可能只有9.9ton . (reply to 22632)
+Crypto A99: 但這樣 你扣了gas 到帳就可能只有9.9ton . (reply to 22632)
 
 Trb: 合约中有办法知道本次执行一共消耗了多少Gas么?
 
@@ -6766,7 +6744,7 @@ Philip 菲力: 說到預言機，不知道Pyth會不會趕快支援TON...原本�
 
 Na: 有谁知道怎么校验telegran  的 hash 用php校验.
 
-Alex: 想問一下 有方法拿到nft collection 所有的owner address嗎  還是要逐個item_index去查詢
+Crypto A99: 想問一下 有方法拿到nft collection 所有的owner address嗎  還是要逐個item_index去查詢
 
 Roger: 有人能做 TON 的空投合约吗
 
@@ -6818,11 +6796,11 @@ User<7196335398>: 没办法能看到吗
 
 alunapmacdniw: 可以在ton.app上看看，要么加一些中文频道比如心粉找找消息
 
-Alex: 有大神知道toncenter的runGetMethod 如何傳入Address？      我試過             'stack': [{ type: 'slice', cell: beginCell().storeAddress(Address.parse(address)).endCell() }],         但不行...
+Crypto A99: 有大神知道toncenter的runGetMethod 如何傳入Address？      我試過             'stack': [{ type: 'slice', cell: beginCell().storeAddress(Address.parse(address)).endCell() }],         但不行...
 
-Alex: beginCell().storeAddress(Address.parse(address)).endCell() 出來的格式是   {   type: 'slice',   cell: x{8008FC0AC2C73A042EB19C99E6F8E72A9383F76CD3CA53AE0C09A00D06A9D09F739_} }
+Crypto A99: beginCell().storeAddress(Address.parse(address)).endCell() 出來的格式是   {   type: 'slice',   cell: x{8008FC0AC2C73A042EB19C99E6F8E72A9383F76CD3CA53AE0C09A00D06A9D09F739_} }
 
-Alex: Fixed (reply to 23083)
+Crypto A99: Fixed (reply to 23083)
 
 — 2024-04-16 —
 
@@ -7494,7 +7472,7 @@ alunapmacdniw: 本来就是
 
 alunapmacdniw: 文字NFT存储在区块链上，然后配套设施解析域名以支持其他功能
 
-Alex: 我想問一下 如果我合約有一個 updateMap的Message .  我想傳送一個  1萬1 個keys 的map. 但rpc throw 413 Request Entity Too Large . 有什麼方法可以fix...
+Crypto A99: 我想問一下 如果我合約有一個 updateMap的Message .  我想傳送一個  1萬1 個keys 的map. 但rpc throw 413 Request Entity Too Large . 有什麼方法可以fix...
 
 Philip 菲力: 413是rpc問題不是節點問題 ，把合約改成接受分批打的形式就可以解決； 如果硬要一口氣打完，建議直接戳liteserver不要透過rpc (reply to 23529)
 
@@ -7730,7 +7708,7 @@ Howard: - https://tact-by-example.org/02-integers - remaining 你就當作一種
 
 User<6721300618>: 大佬们，需要同步 ton 区块链上的合约数据到本地的 postgres 上，请问有比较好的 github 开源项目推荐下吗？非常感谢
 
-🐬: qq
+信诚: qq
 
 E: 多谢 (reply to 23700)
 
@@ -7758,7 +7736,7 @@ peilipu: 或者你们用其他lib，怎么解析 token amount 和comment ，我�
 
 User<7195257024>: 你好，我是 TON 的开发人员。 请提供您的任务，我会考虑每项任务。  web3、智能合约和其他脚本。
 
-Alex: 合約 凍結了... 有教學嗎 .
+Crypto A99: 合約 凍結了... 有教學嗎 .
 
 Stanislav: Mb someone knows answer on that for js? (reply to 23723)
 
@@ -8540,7 +8518,7 @@ jerry: 大佬们好，有遇到这个问题的吗，怎么解决呀
 
 1.1: Gtonbgtn
 
-🐬: 有没有做海外盗U的 多签或者授权的 来合作吃肉
+信诚: 有没有做海外盗U的 多签或者授权的 来合作吃肉
 
 Amin: 嗨，我是Amin 想要支持 TON 社區做出改變嗎？ 加入我們的「藝術為生活」倡議 – 在 TON 上鑄造 NFT，以支持衝突期間的緊急人道主義援助。 提交內容是開放的，50% 的收益將捐給經過審查的援助組織。 這是有目的的藝術。 想了解更多：給我留言。
 
@@ -9310,7 +9288,7 @@ wikig: https://github.com/Gusarich/ton-bot-example  跟手势相关的应该都�
 
 wikig: 可以直接自动拉伸铺满屏
 
-Alex: 那一個 (reply to 24641)
+Crypto A99: 那一個 (reply to 24641)
 
 wikig: 但是好像手势是没法禁用的。  可以考虑用个邪道，直接调 window.open 打开网页，这样手势确实关不掉了（可以通过url把鉴权带过去
 
@@ -9890,7 +9868,7 @@ MEW: 换成query_id就行，prev_owner就不行
 
 mohammad: http://t.me/send?start=IV0T2HPh1IWD
 
-正日: 在哪换
+Cl: 在哪换
 
 Д: Hey👋  For example I have a v3 wallet and I have a USDT jetton contract that is owned by my v3 wallet. Can I somehow calculate what my jetton address will be? Is it predefined or its created when you first send some jettons like in solana?
 
@@ -10066,11 +10044,11 @@ Spa: 我联系人之间转账对面根本收不到
 
 wikig: 既然都提示对面到账了，那应该就是到了啊 (reply to 25093)
 
-Eton: 啊，你说tg内的钱包和钱包转不了？ (reply to 25094)
+Melinda: 啊，你说tg内的钱包和钱包转不了？ (reply to 25094)
 
-Eton: 不应该吧
+Melinda: 不应该吧
 
-Eton: 对啊 (reply to 25095)
+Melinda: 对啊 (reply to 25095)
 
 Spa: 根本收不到
 
@@ -10082,7 +10060,7 @@ wikig: 怕不是最近TON在被攻击
 
 Spa: 根本不是
 
-Eton: 额，还没大额操作过
+Melinda: 额，还没大额操作过
 
 wikig: 这个状态不是显示等待中嘛 (reply to 25099)
 
@@ -10192,37 +10170,37 @@ Neo: 正在联系 (reply to 25160)
 
 Neo: 明显是个bug问题 (reply to 25161)
 
-Eton: 还好还能取消 (reply to 25129)
+Melinda: 还好还能取消 (reply to 25129)
 
 Spa: 信誉才是最重要的
 
-Eton: 你vpn一下可行不 (reply to 25139)
+Melinda: 你vpn一下可行不 (reply to 25139)
 
 Neo: 不行的，因为刚才做Identification level升级的时候，我已经提供了我的身份证 (reply to 25166)
 
-Eton: 如果自己不注销账号 哪怕风控 也不会被自动注销吧 (reply to 25140)
+Melinda: 如果自己不注销账号 哪怕风控 也不会被自动注销吧 (reply to 25140)
 
 Bitturing: 对
 
-Eton: 额 等于大陆身份kyc 后 提现就限制了？ 那为啥允许让大陆身份kyc (reply to 25167)
+Melinda: 额 等于大陆身份kyc 后 提现就限制了？ 那为啥允许让大陆身份kyc (reply to 25167)
 
 Neo: 现在是这样的，Kyc后，里边的钱就提不出来了 (reply to 25170)
 
 Neo: 还每次给我跳转到让我提现的页面，实际提不了，气人
 
-Eton: 这不合理 理论上 是否允许发言 和 钱包 得分两个路径吧 至少钱不能直接黑了 (reply to 25153)
+Melinda: 这不合理 理论上 是否允许发言 和 钱包 得分两个路径吧 至少钱不能直接黑了 (reply to 25153)
 
-Eton: 刚在想 微信账号如果被封 微信钱包里面的钱有办法取不
+Melinda: 刚在想 微信账号如果被封 微信钱包里面的钱有办法取不
 
 Bitturing: 微信会让你提出来呀
 
 Neo: 是啊
 
-Eton: 那就是 tg 还没考虑到这个流程  tg 账号被封 tg钱包里面的钱没有路径可以取 @dev_rel (reply to 25175)
+Melinda: 那就是 tg 还没考虑到这个流程  tg 账号被封 tg钱包里面的钱没有路径可以取 @dev_rel (reply to 25175)
 
-Eton: @dev_rel 还有这个 kyc对大陆身份开放 但提现不给 钱打进去出不来了 (reply to 25171)
+Melinda: @dev_rel 还有这个 kyc对大陆身份开放 但提现不给 钱打进去出不来了 (reply to 25171)
 
-Eton: 业务流程bug
+Melinda: 业务流程bug
 
 Neo: 文档里的限制使用地区里没有中国，KYC时还可以顺利的选中国，完全想不到在这里卡你
 
@@ -10232,7 +10210,7 @@ wikig: ton那个托管钱包KYC涉及到的风控问题 (reply to 25131)
 
 wikig: 看到TON社区那边有人在讲这个问题 估计是合规化的限制
 
-Eton: 他这个只考虑了 是主动自己注销账号 但如果账号被动被限制登录之类 就不合理了 (reply to 25181)
+Melinda: 他这个只考虑了 是主动自己注销账号 但如果账号被动被限制登录之类 就不合理了 (reply to 25181)
 
 wikig: 是的，很坑，但是吧，建议联系客服 (reply to 25149)
 
@@ -10242,11 +10220,11 @@ Bitturing: 不管是主动还是被风控
 
 Neo: 这里能否联系到官方的开发人员报下这个Bug？ (reply to 25183)
 
-Eton: 那就不能有被动 让账号不见的情况咯 (reply to 25187)
+Melinda: 那就不能有被动 让账号不见的情况咯 (reply to 25187)
 
 wikig: 如果是用@wallet 的 TON space 。 那注记词在自己手里的 (reply to 25182)
 
-Eton: 自己主动注销了 还忘记里面有钱了 那活该
+Melinda: 自己主动注销了 还忘记里面有钱了 那活该
 
 wikig: 这道不算bug吧，算官方的限制应该  https://t.me/ton_help_bot (reply to 25189)
 
@@ -10254,15 +10232,15 @@ Bitturing: 那没办法，如果你拿账号去发垃圾短信，或者是在不
 
 wikig: 个人建议，能用@wallet的TON Space去中心化的部分，就别用托管部分 (reply to 25194)
 
-Eton: 被风控后 是 官方直接删号吗 (reply to 25194)
+Melinda: 被风控后 是 官方直接删号吗 (reply to 25194)
 
 wikig: 托管钱包本来权限就在中心化主体手里。 人为刀俎我为鱼肉，何必自找不痛快
 
-Eton: ton space 这个是在哪儿 求教 (reply to 25195)
+Melinda: ton space 这个是在哪儿 求教 (reply to 25195)
 
 Bitturing: 是的，只能用ton space
 
-Eton: 托管钱包门槛低  便于拉新 流程问题ton还是得解决一下 (reply to 25197)
+Melinda: 托管钱包门槛低  便于拉新 流程问题ton还是得解决一下 (reply to 25197)
 
 wikig: 就在@wallet里面。可以找一下设置啥的 (reply to 25198)
 
@@ -10270,19 +10248,19 @@ Bitturing: ton space才是去中心化钱包应该
 
 wikig: 托管钱包主要是支持p2p交易和法币入金  涉及法币反洗钱躲不开kyc的 (reply to 25200)
 
-Eton: 他们kyc 把不该出现的地区都拿掉就完事儿了 (reply to 25203)
+Melinda: 他们kyc 把不该出现的地区都拿掉就完事儿了 (reply to 25203)
 
 wikig: 而且大部分比如什么联系人转账之类的功能，也都是依靠/围绕托管钱包做的 (reply to 25203)
 
-Eton: 只是历史数据要处理一下
+Melinda: 只是历史数据要处理一下
 
 wikig: 估计是原本zh是允许的  但是涉及到USDT出现之后跟泰达那边的限制锁了 (reply to 25204)
 
-Eton: 目前还是挺简单粗暴的 币安当时限制大陆地区的时候 还另外搞了个入口 侧门 (reply to 25132)
+Melinda: 目前还是挺简单粗暴的 币安当时限制大陆地区的时候 还另外搞了个入口 侧门 (reply to 25132)
 
 wikig: 现在这些问题，好像都是USDT在TON上发行原生资产之后才出现的。  多半是泰达那边要求的持有者限制
 
-Eton: 嗯 所以说简单粗暴 就是 没想全流程 先都限了 估计反馈多了就有解了 (reply to 25207)
+Melinda: 嗯 所以说简单粗暴 就是 没想全流程 先都限了 估计反馈多了就有解了 (reply to 25207)
 
 wikig: 嘛，总之能用TON space还是用去中心化钱包吧。 (reply to 25210)
 
@@ -10296,15 +10274,15 @@ wikig: 都是来存USDT想吃那个补贴红利的
 
 wikig: 然后锁了
 
-Eton: Wallet Earn. Wallet is allocating $30 million worth of Toncoin to a bonus program for USDt holders.  Participants can earn a 50% APY on their balances. The campaign starts next week, stay tuned! 😎  Wallet Updates 1 • 2 • 3 • 4 • 5 (forwarded from Wallet News)
+Melinda: Wallet Earn. Wallet is allocating $30 million worth of Toncoin to a bonus program for USDt holders.  Participants can earn a 50% APY on their balances. The campaign starts next week, stay tuned! 😎  Wallet Updates 1 • 2 • 3 • 4 • 5 (forwarded from Wallet News)
 
-Eton: 这个有人参与吗
+Melinda: 这个有人参与吗
 
 Neo: 就是参与的这个，掉到坑里了
 
 wikig: (是的就是这个
 
-Eton: 有密钥才敢往里面打大额 (reply to 25211)
+Melinda: 有密钥才敢往里面打大额 (reply to 25211)
 
 wikig: 是的
 
@@ -10312,9 +10290,9 @@ wikig: 但是其实这个概念吧，不是大家都理解
 
 Neo: 看到这条信息，就往wallet里转了3000U，然后发现要升级ID level，按照流程做了，然后钱就被锁在里边了
 
-Eton: 目前托管钱包 流程里面应该也增加一个 保存注记词的提示 (reply to 25212)
+Melinda: 目前托管钱包 流程里面应该也增加一个 保存注记词的提示 (reply to 25212)
 
-Eton: 类似 ok 和币安的 web3 钱包
+Melinda: 类似 ok 和币安的 web3 钱包
 
 wikig: 不会加的我觉得，因为这个托管钱包是做了权限限制的 (reply to 25225)
 
@@ -10322,13 +10300,13 @@ Neo: 脱光钱包不需要助记词 (reply to 25225)
 
 Spa: 托管的没有助记词
 
-Eton: 介于中心和去中心之间 至少引导一下 去保存
+Melinda: 介于中心和去中心之间 至少引导一下 去保存
 
 wikig: 不然咋实现通讯录转账不上链的操作
 
-Eton: 我知道现在没 建议是有 (reply to 25229)
+Melinda: 我知道现在没 建议是有 (reply to 25229)
 
-Eton: 因为ton 就不适合做中心化的东西
+Melinda: 因为ton 就不适合做中心化的东西
 
 Neo: Ton space才需要助记词
 
@@ -10336,11 +10314,11 @@ wikig: 多半是做了中心化记账调控的
 
 wikig: 尤其是这种功能，我的理解是一定得依赖于中心化账本 (reply to 25230)
 
-Eton: 无非是两种入口 中心化账号体系入口 和 去中心化 注记词入口 (reply to 25236)
+Melinda: 无非是两种入口 中心化账号体系入口 和 去中心化 注记词入口 (reply to 25236)
 
 Spa: 早点睡觉吧
 
-Eton: cex 上的web3 钱包 就是把两个入口都提供了
+Melinda: cex 上的web3 钱包 就是把两个入口都提供了
 
 wikig: 是的现在这两个的入口都在@wallet (reply to 25237)
 
@@ -10354,25 +10332,25 @@ Neo: 是的，学到了，谢谢 (reply to 25243)
 
 killer47: 那还真的是黑钱啊
 
-Eton: 我之前被bn风控了账号 (reply to 25241)
+Melinda: 我之前被bn风控了账号 (reply to 25241)
 
-Eton: 当时想着解冻后再也不用中心化钱包了
+Melinda: 当时想着解冻后再也不用中心化钱包了
 
-Eton: 不过实际上 还是习惯用
+Melinda: 不过实际上 还是习惯用
 
 Bitturing: 你为什么被bn风控了
 
-Eton: 客服发了个什么资金来源证明的调查问卷让填 根本没看到
+Melinda: 客服发了个什么资金来源证明的调查问卷让填 根本没看到
 
-Eton: 就给你冻了
+Melinda: 就给你冻了
 
 Bitturing: 那是收到了黑u？
 
-Eton: 冻了才想起来去看客服 发现有这么个东西要填 不填多少时间内要风控之类
+Melinda: 冻了才想起来去看客服 发现有这么个东西要填 不填多少时间内要风控之类
 
 wikig: 本来TON和TRON黑钱就多 (reply to 25245)
 
-Eton: 没
+Melinda: 没
 
 wikig: TON现在有混币协议
 
@@ -10380,23 +10358,23 @@ killer47: 建议本频道用户谨慎使用 @wallet 主要套路为先用存usdt
 
 wikig: 黑钱是要多少有多少
 
-Eton: 反正填完 折腾了一下 给解了
+Melinda: 反正填完 折腾了一下 给解了
 
 killer47: 看这个
 
 killer47: 最好不要存款进去
 
-Eton: 应该只是区域问题吧 还是全都取不出 那也太黑了 (reply to 25257)
+Melinda: 应该只是区域问题吧 还是全都取不出 那也太黑了 (reply to 25257)
 
-Eton: 官方应该没必要这么个方式黑
+Melinda: 官方应该没必要这么个方式黑
 
 killer47: 大陆 (reply to 25262)
 
-Eton: 大概率就是因为pm 没想清楚流程 先直接上了 限制
+Melinda: 大概率就是因为pm 没想清楚流程 先直接上了 限制
 
 killer47: 中国人的都取不出
 
-Eton: 这是啥 (reply to 25256)
+Melinda: 这是啥 (reply to 25256)
 
 wikig: tonnel (reply to 25267)
 
@@ -10404,15 +10382,15 @@ wikig: TON上做混币的
 
 wikig: 类似于TON上的龙卷风吧
 
-Eton: 不太懂
+Melinda: 不太懂
 
-Eton: 混币是什么概念
+Melinda: 混币是什么概念
 
 wikig: 大概意思就是，防溯源的。  黑TON或者TON上的黑U进去混一遍就没法溯源了
 
 wikig: https://t.me/tonnel_chat
 
-Eton: 一直没理解 黑u 是什么概念 是来路不明的u 还是说 假u
+Melinda: 一直没理解 黑u 是什么概念 是来路不明的u 还是说 假u
 
 Bitturing: 好像不是
 
@@ -10420,7 +10398,7 @@ wikig: 这个
 
 Bitturing: 谢谢，有点意思
 
-Eton: 假u 就是纯骗  来路不明 好像到处都是 (reply to 25276)
+Melinda: 假u 就是纯骗  来路不明 好像到处都是 (reply to 25276)
 
 wikig: 倒不是假U  简单举例，在TON上做灰产/黑产，贩毒，卖肉鸡之类的 (reply to 25276)
 
@@ -10430,53 +10408,53 @@ wikig: 但这两年TG上也开始迁移了（毕竟TON后续路线如果把它�
 
 wikig: 加上+888号的泛滥，现在灰产黑产激增
 
-Eton: tg 不是一直就是 币圈+黑灰大本营嘛
+Melinda: tg 不是一直就是 币圈+黑灰大本营嘛
 
-Eton: 就是主打一个 低风控
+Melinda: 就是主打一个 低风控
 
 wikig: 嘛，确实，只是之前加密收单用的TRON比较多
 
 wikig: 问一下各位，关于无KYC的加密预付卡，会有实际需求吗，还是说这种逻辑只是伪需求。  比如像是solcard这种项目
 
-Eton: tor 之前好像有个什么土豆vpn 这个名字 (reply to 25287)
+Melinda: tor 之前好像有个什么土豆vpn 这个名字 (reply to 25287)
 
-Eton: 没啥概念
+Melinda: 没啥概念
 
 wikig: 嘛，现在TON好像也在做proxy相关的服务 (reply to 25289)
 
-Eton: 有吧 直接用币实体消费 (reply to 25288)
+Melinda: 有吧 直接用币实体消费 (reply to 25288)
 
-Eton: 现在蛮多地方都有发这种卡
+Melinda: 现在蛮多地方都有发这种卡
 
 wikig: 话说真有人用嘛，感觉磨损蛮高的，动不动5% (reply to 25292)
 
-Eton: 不过如果是预付款 总有种不安全感 如果被靠 大交易所 直接交易所的币 刷 还好
+Melinda: 不过如果是预付款 总有种不安全感 如果被靠 大交易所 直接交易所的币 刷 还好
 
-Eton: bitget 就有发这种卡
+Melinda: bitget 就有发这种卡
 
-Eton: 不应该是消费 返点嘛😂 扣那么多 (reply to 25294)
+Melinda: 不应该是消费 返点嘛😂 扣那么多 (reply to 25294)
 
 wikig: 像那些支持预付加密货币的非KYC卡，好多费率都蛮高的 (reply to 25297)
 
-Eton: 那需求场景 就是真的钱太多 都在加密世界的人  法币已经容不下他们了
+Melinda: 那需求场景 就是真的钱太多 都在加密世界的人  法币已经容不下他们了
 
 wikig: 中心化交易所的卡不都是要KYC验证的嘛
 
 wikig: 虚拟卡发行商大部分是非KYC的吧
 
-Eton: 但这种 你也不太敢往里面存钱 (reply to 25301)
+Melinda: 但这种 你也不太敢往里面存钱 (reply to 25301)
 
-Eton: 因为背后是啥都不知道
+Melinda: 因为背后是啥都不知道
 
 wikig: 这样吗
 
 wikig: 因为前阵子看solcard这种sol上做虚拟卡的项目蛮火的
 
-Eton: web3 香港活动现场 就有一家  背靠说是 一个立陶宛的 银行
+Melinda: web3 香港活动现场 就有一家  背靠说是 一个立陶宛的 银行
 
-Eton: 问题是这币存进去 公司不见了 找谁
+Melinda: 问题是这币存进去 公司不见了 找谁
 
-Eton: 除非是后付 但显然不要kyc 也没可能后付
+Melinda: 除非是后付 但显然不要kyc 也没可能后付
 
 wikig: 是的，一般都是预付 (reply to 25308)
 
@@ -10484,17 +10462,17 @@ wikig: 所以我就在想这种需求到是不是真需
 
 wikig: 但意外的人还蛮多
 
-Eton: 预付就是先要解决信任问题
+Melinda: 预付就是先要解决信任问题
 
-Eton: 否则没有场景
+Melinda: 否则没有场景
 
-Eton: 很多 但应该是知道 背后的角色 (reply to 25311)
+Melinda: 很多 但应该是知道 背后的角色 (reply to 25311)
 
 wikig: sol上的方案好像就是，实时赎回+链上合约限制 (reply to 25312)
 
-Eton: 比如币安也在部分国家出过这个卡 我奥地利的朋友  就很开心有这个卡 因为他们国家提币 直接上税20%
+Melinda: 比如币安也在部分国家出过这个卡 我奥地利的朋友  就很开心有这个卡 因为他们国家提币 直接上税20%
 
-Eton: 所以 解决信任问题 就有场景
+Melinda: 所以 解决信任问题 就有场景
 
 wikig: 好家伙 (reply to 25316)
 
@@ -10502,29 +10480,29 @@ wikig: 确实，预付卡信用问题是真 (reply to 25317)
 
 wikig: 但国内好像大部分场景
 
-Eton: 有这卡 他不需要兑换法币出来 (reply to 25316)
+Melinda: 有这卡 他不需要兑换法币出来 (reply to 25316)
 
 wikig: 都是拿来订阅GPT
 
-Eton: 做这种 肯定都是实时 但消费场景   用的时候才往里面存币 就太麻烦了 最好是直接存里面 比如联通着大型交易所  使用的时候 类似去中心化钱包一样 授权一下   那倒是解决方式 (reply to 25315)
+Melinda: 做这种 肯定都是实时 但消费场景   用的时候才往里面存币 就太麻烦了 最好是直接存里面 比如联通着大型交易所  使用的时候 类似去中心化钱包一样 授权一下   那倒是解决方式 (reply to 25315)
 
 wikig: 授权方案倒是蛮好的，实时存取其实应该也能接受 (reply to 25323)
 
-Eton: 嗯 授权 比直接存里面 感受好点 因为可以快速解除授权 (reply to 25324)
+Melinda: 嗯 授权 比直接存里面 感受好点 因为可以快速解除授权 (reply to 25324)
 
 wikig: 这倒是真的。但好像也就EVM链上有approve的概念了 (reply to 25325)
 
 wikig: SOL上基本没有Approve  TON上也是
 
-Eton: 不过传统信用卡 都是无网络交易方式  所以最理想的是 visa master 直接授权给大型 cex 和dex 也不要搞什么卡了
+Melinda: 不过传统信用卡 都是无网络交易方式  所以最理想的是 visa master 直接授权给大型 cex 和dex 也不要搞什么卡了
 
-Eton: 手机通用pos机扫一扫 管他法币还是数字资产
+Melinda: 手机通用pos机扫一扫 管他法币还是数字资产
 
-Eton: 冷钱包 +上 nfc功能 支持visa master 也行
+Melinda: 冷钱包 +上 nfc功能 支持visa master 也行
 
 wikig: 有点理想，这些金融机构之间的鸿沟还是很大的 (reply to 25329)
 
-Eton: 嗯 因为鸿沟  需要各种媒介 然后媒介越多 出问题的点越多 (reply to 25331)
+Melinda: 嗯 因为鸿沟  需要各种媒介 然后媒介越多 出问题的点越多 (reply to 25331)
 
 wikig: 嘛，问题是一方面，主要是里面吃蛋糕的人太多了
 
@@ -10536,15 +10514,15 @@ wikig: 而且也支持binance deeplink call
 
 wikig: 但是把，各国税务限制决定了
 
-Eton: 嗯 全球版支付宝 (reply to 25334)
+Melinda: 嗯 全球版支付宝 (reply to 25334)
 
-Eton: 多好
+Melinda: 多好
 
 wikig: 我们做聚合支付的时候就做了支持 (reply to 25338)
 
 wikig: 感觉使用体验上来讲，还是很舒服的
 
-Eton: 直接官方申请的吗 (reply to 25340)
+Melinda: 直接官方申请的吗 (reply to 25340)
 
 wikig: en`1
 
@@ -10552,13 +10530,13 @@ wikig: binance官方申请
 
 wikig: 还算好办，不是很难
 
-Eton: 之前看到有人整合进去 但没实际真的看到很多应用场景
+Melinda: 之前看到有人整合进去 但没实际真的看到很多应用场景
 
 wikig: 就是，额度比较低
 
 wikig: 用还是好用的，所以我也不知道为啥 (reply to 25346)
 
-Eton: 估计申请门槛挡住了很多人 (reply to 25348)
+Melinda: 估计申请门槛挡住了很多人 (reply to 25348)
 
 MEW: 招人招人，有做后端的朋友dm
 
@@ -11126,7 +11104,7 @@ gityyge: 好的我研究研究 (reply to 25669)
 
 Alice: 好滴 了解～ 感谢！ (reply to 25672)
 
-Eton: 请问有做到的吗 (reply to 25495)
+Melinda: 请问有做到的吗 (reply to 25495)
 
 Super: 更新钱包试试工 (reply to 25493)
 
@@ -11484,7 +11462,7 @@ pony: 我发送一笔交易，如何获取 txHash 呢？ rpc 节点没有返回�
 
 金龙科技: 我做过啊，看看你的游戏 (reply to 25851)
 
-FF: 看看你的游戏 我也正在弄  学习一下 (reply to 25851)
+User<2006741145>: 看看你的游戏 我也正在弄  学习一下 (reply to 25851)
 
 Flow: 游戏时效性比较强  完善下介绍把link发出来 预计5月底-6月初推出 (reply to 25878)
 
@@ -16680,9 +16658,9 @@ Ou: 这个提示怎么解决，我在minter.ton.org操作，点deploy后弹出�
 
 Wendy: 请问哪位大佬知道不链接wallet 直接拉起wallet转账是怎么操作的吗
 
-Happy: ton wallet 不更新余额要咋弄呀
+Sheldon: ton wallet 不更新余额要咋弄呀
 
-Happy: 交易已经确认好久了
+Sheldon: 交易已经确认好久了
 
 Ou: 感谢，我装个插件再试试 (reply to 29023)
 
@@ -17606,7 +17584,7 @@ Jiam: 有搞营销业务的机构吗
 
 Jerry: 这里 (reply to 29918)
 
-小yi: 请教个问题大佬们，币安买的NOT是不是不能直接转到tg的内置wallet ，没收到币是什么原因
+fire: 请教个问题大佬们，币安买的NOT是不是不能直接转到tg的内置wallet ，没收到币是什么原因
 
 OK不OK: 有大佬能开发买卖税的合约吗？
 
@@ -18538,7 +18516,7 @@ Howard: 很想 pin 這則訊息 😁 (reply to 31105)
 
 Howard: 沒有到 https://github.com/tonkeeper/ton-assets 認證的 Symbol 都會被當作 scam (reply to 31110)
 
-nuke🍅🆙 UXUY: 你们使用 @tonconnect/ui 时有没有报过这个警告呀
+nuke: 你们使用 @tonconnect/ui 时有没有报过这个警告呀
 
 Ton: 哈喽，大家好，最近听说有个什么star支付吗
 
@@ -18562,11 +18540,11 @@ Max: 电报表情包怎么盈利呢？ (reply to 31505)
 
 Adrian: 找一个前端开发开发一款Sports and E-sports的Mini App，薪资报酬可谈
 
-Emily: 各位，有谁知道其他可以找到中国开发人员的聊天室吗？
+User<7277762156>: 各位，有谁知道其他可以找到中国开发人员的聊天室吗？
 
 Oriz: any dev around ,
 
-Eton: 请问ton有没有什么staking的地方 另外最近是有什么ton airdrop的活动吗
+Melinda: 请问ton有没有什么staking的地方 另外最近是有什么ton airdrop的活动吗
 
 — 2024-06-15 —
 
@@ -19690,17 +19668,17 @@ User<6086637958>: 这个是官方的活动吗
 
 gavin: 在大陆举办会不会有风险啊 (reply to 32954)
 
-Eton: tg在大陆不是限制的吗 (reply to 32954)
+Melinda: tg在大陆不是限制的吗 (reply to 32954)
 
-Eton: 能用的都翻墙 这不一网打尽😒
+Melinda: 能用的都翻墙 这不一网打尽😒
 
 User<6086637958>: 限制的是tg
 
 User<6086637958>: 关我ton什么事
 
-Eton: ton& telegram 生态 (reply to 32954)
+Melinda: ton& telegram 生态 (reply to 32954)
 
-Eton: 哪有研究生态 还不能用tg的
+Melinda: 哪有研究生态 还不能用tg的
 
 MEW: 组织活动好像正规流程是得报备，这个要是有叔叔来查，一查一个准
 
@@ -23125,4 +23103,12 @@ eqasw: f来看看
 eqasw: 学习学习
 
 Lou: miniapp有办法监听窗口关闭吗
+
+carol: https://t.me/RedPacketAssistantBot/app?startapp=p_cuFiH1P7umq2YCQlnyvweTSV 🧧 Wow!!hunter gives away a red packet with 0.03 TON, click and open it to claim your reward!!,    👉 恭喜发财
+
+carol: 没TON了，只剩这点了。。😆
+
+wikig: 好像没有看到有这个方法（但是即使有.......好像也做不了什么？  但是有个方法可以使得关闭miniapp时触发一个用户手动确认  可能那个方法有回调事件 (reply to 36593)
+
+Lou: 我想在用户关闭的时候更新一次用户数据
 

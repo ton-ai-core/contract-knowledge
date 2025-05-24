@@ -5876,11 +5876,11 @@ Andrey: checkout this (reply to 6369)
 
 ehsan: hope to see it on mainnet soon 👍🏻 (reply to 6375)
 
-stablealt.hl: KuCoin and Huobi invested a lot of money in TON few months ago, so I think they will list Toncoin on their exchanges soon (reply to 6357)
+altoshi: KuCoin and Huobi invested a lot of money in TON few months ago, so I think they will list Toncoin on their exchanges soon (reply to 6357)
 
 F: It should be clarified that their venture divisions have not invested in TON, but in other projects based on TON. Without this clarification, third-party readers may be led to incorrect thoughts.  And also the discussion of this topic goes beyond the scope of this chat and is offtopic. (reply to 6377)
 
-stablealt.hl: It also means that they are interested in TON ecosystem. (reply to 6378)
+altoshi: It also means that they are interested in TON ecosystem. (reply to 6378)
 
 Slava: You should've credited the author :) (reply to 6366)
 
@@ -6048,7 +6048,7 @@ shahar: Announcing Jetton Deployer:  we've created a webapp which allows anyone 
 
 shahar: hello, sure
 
-Lisa: Hack-a-TON  The first-ever Hack-a-TON, with a total prize fund of 40,000 TON!   The brainstorming is about to begin 😉 All you need to participate is JavaScript and fresh ideas. The TON team will provide all the participants with an SDK and ready-made smart contracts. Get ready to gather a group of 4 people (or fewer).   It kicks off on Friday, July 1! The hack-a-TON will run for 48 hours. We will provide you with all the details later.
+Lisa OOO: Hack-a-TON  The first-ever Hack-a-TON, with a total prize fund of 40,000 TON!   The brainstorming is about to begin 😉 All you need to participate is JavaScript and fresh ideas. The TON team will provide all the participants with an SDK and ready-made smart contracts. Get ready to gather a group of 4 people (or fewer).   It kicks off on Friday, July 1! The hack-a-TON will run for 48 hours. We will provide you with all the details later.
 
 User<1130209015>: Does anyone have a link to funC tutorial? I couldn’t find anything on YouTube
 
@@ -6146,7 +6146,7 @@ left: But I didn't succeed, I tried all kinds of methods, but still no success�
 
 left: Thank you @andreypfau and all others working for the benefit of TON to benefit humanity! It’s really appreciated (reply to 6619)
 
-stablealt.hl: @andreypfau dm me pls
+altoshi: @andreypfau dm me pls
 
 Andrey: nope (reply to 6629)
 
@@ -6256,7 +6256,7 @@ Yakitori: noice (reply to 6739)
 
 Yakitori: Naive question: is an EVM possible on TON?
 
-stablealt.hl: No. But it will be available by the end of 2022 because of Ethereum Workchain (reply to 6744)
+altoshi: No. But it will be available by the end of 2022 because of Ethereum Workchain (reply to 6744)
 
 Yakitori: Wow (reply to 6745)
 
@@ -6266,7 +6266,7 @@ Yakitori: I'm a solidity dev, and I really like TON
 
 Yakitori: So I'll probably make something on top of it
 
-stablealt.hl: Learn FunC :) (reply to 6748)
+altoshi: Learn FunC :) (reply to 6748)
 
 Yakitori: Yeah I did learn a bit, but better docs or even commented code could help (reply to 6750)
 
@@ -6306,9 +6306,9 @@ eli: mf uses nano to code 😭 (reply to 6775)
 
 Dario: Lmao (reply to 6788)
 
-stablealt.hl: which coding language Func is similar to?
+altoshi: which coding language Func is similar to?
 
-stablealt.hl: C++ or C?
+altoshi: C++ or C?
 
 test: C++ similar to C (reply to 6792)
 
@@ -7328,13 +7328,13 @@ fraffo: I checked out toncli, but i'm trying to build up a python framework usin
 
 Taewoo | Spacebar Ventures / HabiliAI: hey, did you get a solution for this? (reply to 4072)
 
-Mimin: Hi any suggestion on documentation or example on integrating simple transaction (send payment) on web using tonkeeper ? Like getgems.io payment
+User<5021336785>: Hi any suggestion on documentation or example on integrating simple transaction (send payment) on web using tonkeeper ? Like getgems.io payment
 
 User<862437728>: Hi, what are the options for stacking / liq mining on TON blockchain: how to get yield? Checked ton.org, but didn't find any lending protocols / DEXes / yield aggregators.
 
 — 2022-07-04 —
 
-Mimin: Hi, anyway I can use TON Login feature like getgems.io ? any documentation I can read on?
+User<5021336785>: Hi, anyway I can use TON Login feature like getgems.io ? any documentation I can read on?
 
 Mr: Hello, where i can see NFT metadata standart for TON ?
 
@@ -7414,7 +7414,7 @@ Slava: Hey! No, you will have to learn funC and the details of TON implementatio
 
 Slava: Also, read from here: https://t.me/tondev_eng/7274 (reply to 7820)
 
-stablealt.hl: You can use Everscale compilators for TVM (reply to 7820)
+altoshi: You can use Everscale compilators for TVM (reply to 7820)
 
 Slava: Which is highly discouraged. (reply to 7823)
 
@@ -7434,11 +7434,11 @@ Dario: Yes i know it, its a good project (reply to 7833)
 
 Andrey: https://t.me/tactlang/147 (reply to 7834)
 
-stablealt.hl: I knew it, but since you said that Everscale compilators are compatible with TON I recommend sometimes to use EverOs Compilators (reply to 7830)
+altoshi: I knew it, but since you said that Everscale compilators are compatible with TON I recommend sometimes to use EverOs Compilators (reply to 7830)
 
 Andrey: I said about TVM. Compatible with TVM != Compatible with TON (reply to 7838)
 
-stablealt.hl: oh oke, I am sorry (reply to 7839)
+altoshi: oh oke, I am sorry (reply to 7839)
 
 Pablo: Hi, somebody found this method?
 
@@ -7570,9 +7570,9 @@ Andrey: Online-translation services translate from Russian "Тон" as "tone", s
 
 Andrey: @TonMeUp so you can ask for help in Russian dev-chat: https://t.me/tondev
 
-stablealt.hl: I am banned in @tondev because I tried to send TON via tonrocket in Ru chat chat :( (reply to 7943)
+altoshi: I am banned in @tondev because I tried to send TON via tonrocket in Ru chat chat :( (reply to 7943)
 
-stablealt.hl: @andreypfau also, can you answer our dev @demonbiker14 in dm about ton-eth bridge? (reply to 7945)
+altoshi: @andreypfau also, can you answer our dev @demonbiker14 in dm about ton-eth bridge? (reply to 7945)
 
 Andrey: please don't flood in my dm
 
@@ -8018,7 +8018,7 @@ Slava: I don't believe so. This is a long-term goal and is probably experimental
 
 Slava: However, the concept is somewhat explained in the documentation, see the whitepaper.
 
-stablealt.hl: How about TON External Secure ID? (reply to 8234)
+altoshi: How about TON External Secure ID? (reply to 8234)
 
 Ruslan: Hello once again. Did you installed OpenSSL for win64? If not, then could you please try to install it. Here is the instruction: https://github.com/toncenter/ton-http-api#local-run-experimental (reply to 8209)
 
@@ -8040,13 +8040,13 @@ Ruslan: No problem, glad to help!🙂 (reply to 8243)
 
 User<5191150934>: I am testing with toncenter and tonapi, I can work with transactions and wallets and everything is fine, but I don't understand how to get information from sales contracts. For example https://explorer.tonnft.tools/sale/EQBv_XbqWY-Ua0EgrlzBDCckO8s4s14qy7WkL9Z2k6E9bjEq  How do I get the "NFT Owner Address" or "Full Price"?
 
-stablealt.hl: Hi! https://github.com/ton-blockchain/TIPs/issues/24  Where can I find the code of bridge oracle?
+altoshi: Hi! https://github.com/ton-blockchain/TIPs/issues/24  Where can I find the code of bridge oracle?
 
 talkol: https://github.com/ton-blockchain/bridge-func https://github.com/ton-blockchain/bridge-solidity https://github.com/ton-blockchain/bridge (reply to 8247)
 
 Kou: hi guys do we have a list of tools to develop ton apps?
 
-stablealt.hl: I need the code of oracle. (reply to 8248)
+altoshi: I need the code of oracle. (reply to 8248)
 
 talkol: I assume if it was ever published it would be next to them (reply to 8251)
 
@@ -8378,7 +8378,7 @@ Slava: Each address in TON could be represented in nine different formats. (repl
 
 isoscele 💎: yo if i use toncli is it necessary to define the storage structure via a fif file or the storage is automatically learned watching at save data function of func?
 
-stablealt.hl: Use my address for burning (reply to 8473)
+altoshi: Use my address for burning (reply to 8473)
 
 Purple: 0:00000000000000000000000000000000000000000000000000000000000ab0ba (reply to 8473)
 
@@ -8424,13 +8424,13 @@ Semion: How to deploy in ton Blockchain? (reply to 8518)
 
 talkol: There are 3 ways I’ve seen around:  1. Write a script in TypeScript to deploy, that’s my favorite way, example: https://github.com/ton-defi-org/tonstarter-contracts/tree/main/build  2. Use toncli command line tool: https://github.com/disintar/toncli  3. Write a Fift deployment script, but then you need to learn Fift 😅 (reply to 8519)
 
-stablealt.hl: Is it too dangerous to use everscale compilators for TON?
+altoshi: Is it too dangerous to use everscale compilators for TON?
 
 talkol: Probably so, isn’t most of their dev done in Solidity-ish?
 
-stablealt.hl: Yes, Solidity and other popular languages (reply to 8523)
+altoshi: Yes, Solidity and other popular languages (reply to 8523)
 
-stablealt.hl: But their ecosystem is doing well, probably we can use it , then audite the code. (reply to 8523)
+altoshi: But their ecosystem is doing well, probably we can use it , then audite the code. (reply to 8523)
 
 RocketMan: > their ecosystem is doing well go there :)
 
@@ -8438,21 +8438,21 @@ talkol: In general, the EVM state of mind is very different from TON state of mi
 
 Nick: No, but it'll require additional knowledge. Also this compiler supports few EVER-only instructions which should be avoided. (reply to 8522)
 
-stablealt.hl: Oke, what about EVM workchain in 2023? (reply to 8527)
+altoshi: Oke, what about EVM workchain in 2023? (reply to 8527)
 
 talkol: It may exist but it won’t be scalable like native TON
 
 talkol: There are inherent things preventing EVM from scaling
 
-stablealt.hl: Why not? EVM chains like Avalanche are still fast (reply to 8530)
+altoshi: Why not? EVM chains like Avalanche are still fast (reply to 8530)
 
 talkol: Not really, they’re not sharded because all contracts assume all data is found on the same machine
 
-stablealt.hl: Avalanche is multichain :/ (reply to 8533)
+altoshi: Avalanche is multichain :/ (reply to 8533)
 
 talkol: Read this: https://society.ton.org/six-unique-aspects-of-ton-blockchain-that-will-surprise-solidity-developers  TON is different from every other L1 out there, to achieve its sharding the contract developer must implement sharded contracts (reply to 8534)
 
-stablealt.hl: Do you have some info about workchain communication? Will it work like Cosmos IBC and Polkadot XCMP? (reply to 8533)
+altoshi: Do you have some info about workchain communication? Will it work like Cosmos IBC and Polkadot XCMP? (reply to 8533)
 
 talkol: With Everscale, we can do a security analysis and I bet that we can show a problem with their native ERC20. Is their ERC20 Solidity-ish implementation sharded on a new contract per balance? I bet they hold all balances in one contract like the Ethereum way. This means an attacker can write keys to the map continuously until some poor account is so deep in the tree that it can’t be updated anymore since gas for updates costs in proportion to the height of the cell tree
 
@@ -8460,7 +8460,7 @@ talkol: This could be a very nice answer as to why we don’t try to force EVM n
 
 talkol: We should create a footstep for this 😂
 
-stablealt.hl: ? (reply to 8536)
+altoshi: ? (reply to 8536)
 
 Dario: > Its wrong   Done, its 20°000 TON. (reply to 8538)
 
@@ -8656,13 +8656,13 @@ Dario: makes sense since the address itself would verify the integrity (reply to
 
 Andrey: 1 smc = 1 big chunk
 
-stablealt.hl: Hey @rulon ! Can you help me with bridge oracle? We don’t know how to make a oracle for our ETH/TON bridge in the GitHub I only can see justification of oracle’ work. Thank you.
+altoshi: Hey @rulon ! Can you help me with bridge oracle? We don’t know how to make a oracle for our ETH/TON bridge in the GitHub I only can see justification of oracle’ work. Thank you.
 
-stablealt.hl: Is there any code of ton bridge’ oracle?
+altoshi: Is there any code of ton bridge’ oracle?
 
 Seitaro: Oracle software is not open-sourced. (reply to 8670)
 
-stablealt.hl: will it open source? (reply to 8672)
+altoshi: will it open source? (reply to 8672)
 
 talkol: If you're building a bridge Oracle, I believe you can find open source projects that implement this behavior and learn how they work. They will probably be EVM-EVM so you will have to translate one side to TON  For example Ronin is Axie Infinity's side chain which has an EVM-EVM bridge and is implemented mostly here and not too complicated: https://github.com/axieinfinity/ronin-smart-contracts  There is also this project: https://docs.tokenbridge.net/amb-bridge/about-amb-bridge  There should be literally dozens. All open source so you can review their implementation and understand the architecgture.
 
@@ -8876,7 +8876,7 @@ Daniil: Okay.  And by the way, if I don't need the minter contract, I can use on
 
 talkol: But try your best to avoid doing that, or maybe add this logic in separate contracts that interact with the Jetton. What logic change do you want to make?
 
-stablealt.hl: Why do you promote this service too much (reply to 8885)
+altoshi: Why do you promote this service too much (reply to 8885)
 
 talkol: No you need both (reply to 8893)
 
@@ -8984,7 +8984,7 @@ Daniil: what am I doing wrong in jetton transfering?
 
 Daniil: toAddress must be my jetton wallet address and payload.toAddress must be jetton wallet address to which I'm sending jettons, right?
 
-Lisa: Hi, contestants! Long time no see 😉  We are here to announce the next TON Smart Challenge with a total prize fund over 16,000 TON. The contest begins on August 4, 12:00 UTC and will last until 11 of August, 18:00 UTC.   TON Smart Challenge #2 is focused on giving opportunities to developers only starting their path of mastering FunC and smart contract development and will comprise five simple tasks, which will be automatically scored on submission. You can prepare for the contest by studying official docs and setting up a developer’s environment.  To participate and get more information go to the website.
+Lisa OOO: Hi, contestants! Long time no see 😉  We are here to announce the next TON Smart Challenge with a total prize fund over 16,000 TON. The contest begins on August 4, 12:00 UTC and will last until 11 of August, 18:00 UTC.   TON Smart Challenge #2 is focused on giving opportunities to developers only starting their path of mastering FunC and smart contract development and will comprise five simple tasks, which will be automatically scored on submission. You can prepare for the contest by studying official docs and setting up a developer’s environment.  To participate and get more information go to the website.
 
 ba5defghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijkl: oh (reply to 8993)
 
@@ -9076,11 +9076,11 @@ Amir: Thanks... And what are the best sources for funC? (reply to 9069)
 
 Anthony: https://ton.org/docs/#/func/overview (reply to 9070)
 
-stablealt.hl: It could apply, if you make solidity messages asynchronous (reply to 9069)
+altoshi: It could apply, if you make solidity messages asynchronous (reply to 9069)
 
 Amir: And where can I learn this method? (reply to 9072)
 
-stablealt.hl: You can try Free TON compilators for TVM and see the difference between Asynchronous Solidity and Synchronous one (reply to 9073)
+altoshi: You can try Free TON compilators for TVM and see the difference between Asynchronous Solidity and Synchronous one (reply to 9073)
 
 Yashar: To my understanding, in TVM you can not make a function call to another contract and wait for its response. If your contract requires communication with other contracts, it means they have to support a form of callback and in your contract you have to consider that by the time the response arrives, some environment variables might have changed. So the code you write will look completely different. Am I wrong? I have not written FunC I have only read about it and had a conversation about it with @talkol . (reply to 9072)
 
@@ -9090,7 +9090,7 @@ Yashar: Amir there is this tutorial which I think is your best bet for learning 
 
 Yashar: Cite this Amir and @enotdev (reply to 8283)
 
-stablealt.hl: @talkol where did you learn FunC?
+altoshi: @talkol where did you learn FunC?
 
 Yashar: He is more like the guy who has created it I think 😁 (reply to 9080)
 
@@ -9460,7 +9460,7 @@ Andrey: U need to go different folder. This is because python use dynamic import
 
 Andrey: I'm 100% sure that version from git is stable, pypi ~99%
 
-stablealt.hl: Is there any price oracles on TON?
+altoshi: Is there any price oracles on TON?
 
 aler.eth: Can I send DM to you? Or is it okay to continue in chat? (reply to 9344)
 
@@ -9550,7 +9550,7 @@ User<5227889238>: thankyou (reply to 9401)
 
 Emilia: Hello, I am analysing the documentation on TON Nominator. On github I found that the minimum stake for a validator is > 1k TON while on this article telegraph it is > 10k TON. Which of the two should be followed?
 
-.: Hey buddy’s!  Please help me figure out the launch of the pool of nominators: which wallet should be replenished by the validator who organized the pool, and how to subsequently withdraw funds from it? The mechanism for replenishment by nominators is clear, funds are sent to the created addresses with a comment.
+User<678515588>: Hey buddy’s!  Please help me figure out the launch of the pool of nominators: which wallet should be replenished by the validator who organized the pool, and how to subsequently withdraw funds from it? The mechanism for replenishment by nominators is clear, funds are sent to the created addresses with a comment.
 
 Abel: Hi, can someone help me out....how can you access individual elements of a tuple in func using a while loop
 
@@ -9628,13 +9628,13 @@ talkol: Yes, definitely feasible to implement the logic of your game as a smart 
 
 Danny: Nice (reply to 9470)
 
-30 Арсений: Does anybody know how a reference serialized?
+Арсений: Does anybody know how a reference serialized?
 
 Daniil: ref is not serialized as other data (reply to 9475)
 
 Daniil: Just use load_ref
 
-30 Арсений: it's been driving me crazy already. Thanks bud! (reply to 9476)
+Арсений: it's been driving me crazy already. Thanks bud! (reply to 9476)
 
 User<1398487233>: Hi Tal Kol. it runs and tests the deployed correctly but in your blog post you mentioned an address we could search to check if the app was active (reply to 9433)
 
@@ -9806,9 +9806,9 @@ Mark: wow You make cool stuff happens
 
 Mark: How do we can save an ordinary string as is in func? I'm reareading strings type for the 10th time and don't see such an options How to have "A" for example? without making it x{*}
 
-30 Арсений: think in terms of slices, bytes, and ascii codes (reply to 9609)
+Арсений: think in terms of slices, bytes, and ascii codes (reply to 9609)
 
-stablealt.hl: Which address is for burning?
+altoshi: Which address is for burning?
 
 /// Max: How much does it cost to deploy a contract to main net?
 
@@ -9838,7 +9838,7 @@ Tim: It's not abondoned, it's waiting for ledger to include ton app
 
 ZEEGFA: 14 months ago... (reply to 9654)
 
-stablealt.hl: You can use ERC-20 Toncoin for ledger (reply to 9649)
+altoshi: You can use ERC-20 Toncoin for ledger (reply to 9649)
 
 ZEEGFA: Yes but it's not a suitable solution for the majority . hope to see some planning for it. (reply to 9656)
 
@@ -9984,21 +9984,21 @@ Alexander: Could you give us at least the direction?) (reply to 9757)
 
 Alexander: Where to dig ? 🆘
 
-stablealt.hl: C- competition  O - The Open Network (reply to 9767)
+altoshi: C- competition  O - The Open Network (reply to 9767)
 
 Alexander: See you on the finish then)
 
-stablealt.hl: Can’t wait for SashaSwap
+altoshi: Can’t wait for SashaSwap
 
-stablealt.hl: SushiSwap, but on ton
+altoshi: SushiSwap, but on ton
 
 Alexander: Appreciate your support (reply to 9771)
 
-stablealt.hl: wen polygon (reply to 9773)
+altoshi: wen polygon (reply to 9773)
 
 Alexander: dude chill (reply to 9774)
 
-stablealt.hl: What is the name of your project? I want to make a little research on it :) (reply to 9775)
+altoshi: What is the name of your project? I want to make a little research on it :) (reply to 9775)
 
 — 2022-08-15 —
 
@@ -10006,7 +10006,7 @@ Alexander: A week ago I told you in DMs that it's not public yet.  Why are you a
 
 Amir: Based  on below repository we can write some nft's with funC.   https://github.com/ton-blockchain/token-contract  And we can write solidity smart contract for ton blockchain based on below repository.   https://github.com/tonlabs/TON-Solidity-Compiler  Is it possible to use solidity to wrire nft on ton blockchain?  Please give me any refrence if exist's
 
-stablealt.hl: Oh, it’s u. You just changed your avatar (reply to 9778)
+altoshi: Oh, it’s u. You just changed your avatar (reply to 9778)
 
 Alexander: Yes) (reply to 9781)
 
@@ -10258,13 +10258,13 @@ talkol: This is a good one created by @TrueCarry :  https://github.com/tondiamon
 
 talkol: If you want the fancy UI experience you can also create collections on the leading marketplaces like GetGems.io and disintar.io
 
-stablealt.hl: How do I know, you can’t create NFT collections on disintar (reply to 10066)
+altoshi: How do I know, you can’t create NFT collections on disintar (reply to 10066)
 
 talkol: I stand corrected then but I assume they’ll add at some point, I attended a zoom meet up of theirs a while ago and they talked about it (reply to 10067)
 
 Oleg: You could also do it using code  Examples in golang:  1. deploy collection - https://github.com/xssnick/tonutils-go/blob/master/example/deploy-nft-collection/main.go 2. mint - https://github.com/xssnick/tonutils-go/blob/master/example/nft-mint/main.go  for basic nft collection just change urls in collection to your website with json attributes. (reply to 10064)
 
-stablealt.hl: Hm, I only see just stand-alone NFTs creator on disintar, not collection (reply to 10068)
+altoshi: Hm, I only see just stand-alone NFTs creator on disintar, not collection (reply to 10068)
 
 Andrey: Yeah, that's true :)  But feature updates will be 🤯 (reply to 10070)
 
@@ -10360,15 +10360,15 @@ Andy: yeah, on 2 of them it literally says exactly that (reply to 10119)
 
 User<59608113>: that's true (reply to 10122)
 
-stablealt.hl: There is still no 100% working DEX on TON. (reply to 10091)
+altoshi: There is still no 100% working DEX on TON. (reply to 10091)
 
 talkol: they’re in various beta stages but several are already fully featured (reply to 10124)
 
-stablealt.hl: But they are still not live ;) (reply to 10125)
+altoshi: But they are still not live ;) (reply to 10125)
 
 talkol: What do you mean by a private network? What exactly are you trying to do? (reply to 10121)
 
-stablealt.hl: He means local chain (reply to 10127)
+altoshi: He means local chain (reply to 10127)
 
 talkol: For testing? What purpose?
 
@@ -10384,13 +10384,13 @@ talkol: toncli is a tool in Python that many people use and like, I’m a fan of
 
 Dario: Actually, there is (reply to 10126)
 
-stablealt.hl: You can use test network for it (reply to 10132)
+altoshi: You can use test network for it (reply to 10132)
 
-stablealt.hl: STON.Fi is not 100% working (reply to 10136)
+altoshi: STON.Fi is not 100% working (reply to 10136)
 
 talkol: If you’re talking about ganache, then ganache is not really a full Ethereum chain, it’s just bare bones EVM implemented in JS. We have something similar in TON called https://github.com/Naltox/ton-contract-executor which is very similar, it runs the TVM in web assembly and is an amazing tool for testing (reply to 10132)
 
-stablealt.hl: I recommend you Tonkeeper (reply to 10085)
+altoshi: I recommend you Tonkeeper (reply to 10085)
 
 talkol: If you want to see an example project working with it with live tests then look at https://github.com/ton-defi-org/tonstarter-contracts (reply to 10132)
 
@@ -10398,7 +10398,7 @@ blitzbyte: i want to create my own chain (reply to 10141)
 
 talkol: Like a private fork? (reply to 10142)
 
-stablealt.hl: You mean Workchain? (reply to 10142)
+altoshi: You mean Workchain? (reply to 10142)
 
 talkol: Can you give an example from Etheruem ecosystem so we better understand?
 
@@ -10426,7 +10426,7 @@ blitzbyte: polygon is a side chain
 
 blitzbyte: not connected to mainnet
 
-stablealt.hl: Orbs😁 (reply to 10152)
+altoshi: Orbs😁 (reply to 10152)
 
 talkol: If you just need a simulated environment for testing this is one thing, if you need production is something else
 
@@ -10472,7 +10472,7 @@ Dan: so at the beginning you can just try to find editor with TextMate support
 
 Eton: tonkeeper is for mobile phone. Maybe have some recommendation for web and phone? maybe have something same like metamask ? (reply to 10140)
 
-stablealt.hl: TON Wallet, but it doesn’t support NFTs, tokens (reply to 10182)
+altoshi: TON Wallet, but it doesn’t support NFTs, tokens (reply to 10182)
 
 Hemi: Hi! Our DEX, TonSwap (@TonSwapOfficialBot) is live on mainnet. Ping me to discuss your project (reply to 10092)
 
@@ -10854,7 +10854,7 @@ Andrew: https://translate.google.com/?sl=ru&tl=en&text=%D1%82%D0%BE%D0%BA%D0%B5%
 
 Mr. John: Jetton in russian is actually coin, that you put in something like arcade machine
 
-stablealt.hl: ERC-20 token at ton blockchain (reply to 10470)
+altoshi: ERC-20 token at ton blockchain (reply to 10470)
 
 Mr. John: Also in some cities jettons used as subway fare
 
@@ -11492,7 +11492,7 @@ O: Hello,  Do you have any ideas is that possible to organize some kind of eth�
 
 Arjun: What platform is TON Network used on?
 
-stablealt.hl: TON is independent blockchain (reply to 10835)
+altoshi: TON is independent blockchain (reply to 10835)
 
 Arjun: Discord    telegram  Twitter   YouTube (reply to 10836)
 
@@ -11534,7 +11534,7 @@ Andy: There is a bridge: ton.org/bridge (reply to 10857)
 
 Andrey: Here you can download the block's .boc file and check the size by yourself https://explorer.toncoin.org/last (reply to 10856)
 
-stablealt.hl: Sell eth buy ton  The easiest way (reply to 10857)
+altoshi: Sell eth buy ton  The easiest way (reply to 10857)
 
 User<609186178>: Hi!I have a problem with my wallet.What do I need to do for solved the problem?
 
@@ -11652,11 +11652,11 @@ talkol: :)
 
 defuera: put it in ur bank 😜
 
-stablealt.hl: You guys writing it on a paper? I’m just screenshotin it (reply to 10935)
+altoshi: You guys writing it on a paper? I’m just screenshotin it (reply to 10935)
 
 talkol: Screenshots end up in iCloud drives
 
-stablealt.hl: But if Wallet is important, I’m writing it on a paper haha (reply to 10943)
+altoshi: But if Wallet is important, I’m writing it on a paper haha (reply to 10943)
 
 talkol: Also ideally there should be a mnemonic (24 words) and a passphrase and you would use both to generate the wallet (I don’t think any of the wallets currently support this but not hard to support). And then the best practice is that the paper only holds the 24 words and the passphrase somewhere else like your password manager (where you store your bank password)
 
@@ -11716,15 +11716,15 @@ Daniel: Yup, which is why Solidity is always getting smashed. I found that worki
 
 talkol: tbh I’m not sure I agree that’s why Solidity is getting smashed (reply to 10975)
 
-stablealt.hl: Because Ethereum gonna use new virtual machine in 2.0 (reply to 10975)
+altoshi: Because Ethereum gonna use new virtual machine in 2.0 (reply to 10975)
 
-stablealt.hl: Ethereum WebAssembly Virtual Machine  So people will be able to use Rust, C++, C
+altoshi: Ethereum WebAssembly Virtual Machine  So people will be able to use Rust, C++, C
 
 Daniel: I mean, I love solidity - I audit EVM contracts every day but the functionality is so stretched and leaky it is just one thing after another
 
-stablealt.hl: EVM is pretty old for crypto sphere haha  EVM is not good for scalability (reply to 10979)
+altoshi: EVM is pretty old for crypto sphere haha  EVM is not good for scalability (reply to 10979)
 
-stablealt.hl: A lot of EVM chains like Avalanche , Polygon sometimes getting bugs with gas and speed
+altoshi: A lot of EVM chains like Avalanche , Polygon sometimes getting bugs with gas and speed
 
 Daniel: The new EVM model won't change how the contracts are deployed and exploited unfortunately. I love Avalanche but that isn't doing too well in terms of security right now.
 
@@ -11732,9 +11732,9 @@ Daniel: Rust is life haha
 
 Daniel: There's a reason MS are rewriting Windows in its entirety in Rust
 
-stablealt.hl: Another reason to learn FunC😄 (reply to 10982)
+altoshi: Another reason to learn FunC😄 (reply to 10982)
 
-stablealt.hl: I think, in the future many blockchains would use TVM
+altoshi: I think, in the future many blockchains would use TVM
 
 User<5111862779>: Is there the recommended version of openssl for compiling TON source? I am on MacOS Monteray and I am seeing an error compiling ton source:  Could NOT find OpenSSL, try to set the path to OpenSSL root folder in the Try setting path to openssl root folder in OPENSSL_ROOT_DIR
 
@@ -11756,7 +11756,7 @@ davide: on ton you can’t isn’t? (reply to 10978)
 
 — 2022-09-11 —
 
-stablealt.hl: FunC (reply to 11000)
+altoshi: FunC (reply to 11000)
 
 Mr. Milchik: Hey ton enthusiasts from Europe!    Let's meet in person!  let's take over some hackerspace!
 
@@ -11886,15 +11886,15 @@ Emerson: i like the micropayments pay per view idea, thats very cool (reply to 1
 
 Emerson: Why is TON so rarely used for payments? I just think even if stablecoins were out the volume would still not be high
 
-stablealt.hl: Too volatile, TON need stablecoin :) (reply to 11080)
+altoshi: Too volatile, TON need stablecoin :) (reply to 11080)
 
 Emerson: If people are not sending TON payments now (which can be quickly exchanged for $) I don't see why they would even with a Stablecoin
 
-stablealt.hl: Until transaction is confirmed (up to 1 minute) ton price can go up or down (reply to 11082)
+altoshi: Until transaction is confirmed (up to 1 minute) ton price can go up or down (reply to 11082)
 
 Emerson: But by how much in 1 minute? By like 5bps
 
-stablealt.hl: Ok, what about long-term contracts, loans?) (reply to 11084)
+altoshi: Ok, what about long-term contracts, loans?) (reply to 11084)
 
 Emerson: True, that would be great for us power users. But for regular telegram users it would make no difference
 
@@ -11982,7 +11982,7 @@ User<5633107531>: i.e. some API in the node you can call to find this out?
 
 Mr. Milchik: Are you going to visit Prague for the first physical TON hackathon at September?  If yes, DM me
 
-Trần Nhân Phẩm | Never DM First: i can't find ton's tokenomics
+TigerX: i can't find ton's tokenomics
 
 talkol: some of the key figures are here: https://ton.org/toncoin
 
@@ -12066,7 +12066,7 @@ Que: this is my github https://github.com/aabb0404/tonMakertTest
 
 Saken: can I create nft using Solidity? (reply to 11206)
 
-stablealt.hl: No (reply to 11209)
+altoshi: No (reply to 11209)
 
 alexandra: Hello, can someone tell me some open source projects in TON, please? It can be any. I want to comment on them at @PlanetaTON
 
@@ -12348,11 +12348,11 @@ Matthew: hm that’s a pretty general question, is there something more specific
 
 Dario: Onchain = stores everything in the Blockchain   Offchain = in the blockchain there is an URI that point to an external service to store data (reply to 11458)
 
-stablealt.hl: Offchain - smth is not on blockchain  Onchain - smth on blockchain  f.e when you make bitcoin transaction trough lightning network, it’s off bitcoin blockchain, so when you make a transaction trough Bitcoin mainnet it’s onchain (reply to 11458)
+altoshi: Offchain - smth is not on blockchain  Onchain - smth on blockchain  f.e when you make bitcoin transaction trough lightning network, it’s off bitcoin blockchain, so when you make a transaction trough Bitcoin mainnet it’s onchain (reply to 11458)
 
 Alex: I’m currently exploring the nft standard and there I see the function  get_nft_content Where we return cell with the following flag .store_uint(1, 8) ;; offchain tag  Does that mean that this cell won’t be stored in blockchain history/storage?
 
-stablealt.hl: NFT pics are mostly stored offchain (reply to 11462)
+altoshi: NFT pics are mostly stored offchain (reply to 11462)
 
 — 2022-09-26 —
 
@@ -12380,19 +12380,19 @@ Slava: HSTS is a good thing too. (reply to 11514)
 
 — 2022-09-28 —
 
-stablealt.hl: You don’t have redirect from http to https (reply to 11510)
+altoshi: You don’t have redirect from http to https (reply to 11510)
 
 Hemi: thanks all, fixed.
 
-Lisa: Hey, everyone! As a part of offline Hack-a-TONx Prague, today will be the lecture about Telegram Web Apps development. Join us to have fun and hacks. All the details in the post below ✌️
+Lisa OOO: Hey, everyone! As a part of offline Hack-a-TONx Prague, today will be the lecture about Telegram Web Apps development. Join us to have fun and hacks. All the details in the post below ✌️
 
-Lisa: Hey, everyone! We continue preparing for the Hack-a-TONx Prague — an independent offline event by the Czech blockchain community with the support of TON Foundation. The topic for today is highly anticipated — Telegram Web Apps: tips and hacks 🔥🔥🔥  Artur Stambultsian, frontend developer at @wallet will share his experience of creating TWAs. Telegram's new initiative makes it possible to significantly improve user interaction with bots. In addition to the documentation and SDK, provided by Telegram team, Artur will speak about the infrastructure that he has built with the team while working on @wallet.   Tools to greatly simplify the TWA are guaranteed.  🗓28 Sept, 17:00 UTC Telegram Web Apps: tips and hacks  Follow the translation on the Tonana team channel and don’t forget to ask your questions. We also provide the record after the live stream 🙌 (forwarded from TON Society)
+Lisa OOO: Hey, everyone! We continue preparing for the Hack-a-TONx Prague — an independent offline event by the Czech blockchain community with the support of TON Foundation. The topic for today is highly anticipated — Telegram Web Apps: tips and hacks 🔥🔥🔥  Artur Stambultsian, frontend developer at @wallet will share his experience of creating TWAs. Telegram's new initiative makes it possible to significantly improve user interaction with bots. In addition to the documentation and SDK, provided by Telegram team, Artur will speak about the infrastructure that he has built with the team while working on @wallet.   Tools to greatly simplify the TWA are guaranteed.  🗓28 Sept, 17:00 UTC Telegram Web Apps: tips and hacks  Follow the translation on the Tonana team channel and don’t forget to ask your questions. We also provide the record after the live stream 🙌 (forwarded from TON Society)
 
 Slava: Are you planning to publish the recording later on? I'm sure not everyone will be able to participate personally. Developers are busy people :) (reply to 11534)
 
-Lisa: Sure, the last sentence in the post claims exactly your suggestion) (reply to 11536)
+Lisa OOO: Sure, the last sentence in the post claims exactly your suggestion) (reply to 11536)
 
-Lisa: We have just started the stream, join us here. (reply to 11534)
+Lisa OOO: We have just started the stream, join us here. (reply to 11534)
 
 talkol: it's not officially launched yet (reply to 11540)
 
@@ -12422,13 +12422,13 @@ User<59608113>: Hello guys, I'm going to attend the Tonana Hack-A-TON x Prague  
 
 User<59608113>: Just in case here is the list of all guests:  ▫️Roman Krutovoy will talk about TON Blockchain and Telegram Ecosystem ▫️Artur Stambultsyan will talk about TWA, what to do with them and how ▫️Jakub Jedlinsky, Ph.D at VSE, will talk about Gaming DAOs ▫️Tamara Bizyuk from Tatum, will lead a workshop on understanding the product ▫️Vadim Keff from T7T lab, talks about how to conduct user research ▫️Eugen Anisey from Tonana will hold a master class on grants and networking ▫️Jan Silhavy from The Crypto Headhunter will talk about how to create a team ▫️Nikita Moskalenko from Hexit Capital will talk about how to start fundraising   ▫️Volodymyr Manoilo from Wargaming & Studentspeak will talk about Game Marketing ▫️TON Play team about gamification and general marketing in Web3.0  https://docs.google.com/forms/d/e/1FAIpQLSdG8YY1ixMb1m1STSj-eCLbmOy4VC_a4D3L9DhDRPTxvLm1xQ/viewform
 
-Lisa: Hi, everyone!  Don't miss the workshop on TWA template today at 13:00 UTC, read the info below 👇
+Lisa OOO: Hi, everyone!  Don't miss the workshop on TWA template today at 13:00 UTC, read the info below 👇
 
-Lisa: Good day, everyone!  Last, but not least lecture in the series of workshops during the Hack-a-TONx Prague preparation will focus on a template for a project that one may use for creating a TWA connected to TON.  The speaker for today is Shahar Yakir, jetton.live creator at Orbs. Shahar is a great technical expert of TON, he writes frontend, backend, and smart contracts.  Today on the stream Shahar will revolve around using the template and modifying the GitHub repo, that he has prepared for the community. It allows participants to fork it to add their own functionality, connect wallets and etc.   After the workshop one may do a basic operation against TON, f.e. transfer TON, work with Jettons and more 🙌  29 Sept, 13:00 UTC Jumpstart at TON ecosystem: dive to TWAs  See you soon at the live stream 👈 Don’t forget to ask questions, we will give 30 TON for the best one 😉 (forwarded from TON Society)
+Lisa OOO: Good day, everyone!  Last, but not least lecture in the series of workshops during the Hack-a-TONx Prague preparation will focus on a template for a project that one may use for creating a TWA connected to TON.  The speaker for today is Shahar Yakir, jetton.live creator at Orbs. Shahar is a great technical expert of TON, he writes frontend, backend, and smart contracts.  Today on the stream Shahar will revolve around using the template and modifying the GitHub repo, that he has prepared for the community. It allows participants to fork it to add their own functionality, connect wallets and etc.   After the workshop one may do a basic operation against TON, f.e. transfer TON, work with Jettons and more 🙌  29 Sept, 13:00 UTC Jumpstart at TON ecosystem: dive to TWAs  See you soon at the live stream 👈 Don’t forget to ask questions, we will give 30 TON for the best one 😉 (forwarded from TON Society)
 
 Slava: The default values are configured in systemd service as far as I know. (reply to 11552)
 
-Lisa: Starting in several minutes, tap to join us! ✌️ (reply to 11556)
+Lisa OOO: Starting in several minutes, tap to join us! ✌️ (reply to 11556)
 
 Артем: Hi everyone  Is there Ton design system(UI/UX)? In Figma, etc.
 
@@ -12436,17 +12436,17 @@ Roman: I'm not sure about figma, only could share something like this   https://
 
 Артем: Thank you! (reply to 11562)
 
-stablealt.hl: Hi everyone!  We (@qubedao) created the first decentralized oracle on the Ton blockchain, now protocols can take the price of a Toncoin safely and decentralized.  V1 works singlenode, but soon going to release v2 (multinode)  @qubedao is decentralised stablecoin, lending, bridge and DEX platform, soon we will announce our DEX and decentralised stablecoin - USDQ.
+altoshi: Hi everyone!  We (@qubedao) created the first decentralized oracle on the Ton blockchain, now protocols can take the price of a Toncoin safely and decentralized.  V1 works singlenode, but soon going to release v2 (multinode)  @qubedao is decentralised stablecoin, lending, bridge and DEX platform, soon we will announce our DEX and decentralised stablecoin - USDQ.
 
 — 2022-09-30 —
 
 davide: so they link an url onchain? (reply to 11463)
 
-stablealt.hl: Yes (reply to 11573)
+altoshi: Yes (reply to 11573)
 
 davide: where are usually stored ? (reply to 11574)
 
-stablealt.hl: Ipfs (reply to 11575)
+altoshi: Ipfs (reply to 11575)
 
 talkol: And soon Ton Storage that isn’t released yet but when it does it will make IPFS obsolete :)
 
@@ -12964,7 +12964,7 @@ Behrang: Okay, I must admit that I come to a conclusion too quickly, and I'm sor
 
 Slava: Be advised. People with fake profile verification checkmarks will be banned from the chat.
 
-stablealt.hl: Does TON Proxy work with Mobile Cellular on iPhone?
+altoshi: Does TON Proxy work with Mobile Cellular on iPhone?
 
 TON.SKI: Yeah, got u. Thanks for report) (reply to 11960)
 
@@ -12974,19 +12974,19 @@ Ilya: Ig he asked about the proxy setup in iOS settings. There is no option to s
 
 Slava: Gosh, that's awful. Yet another reason to dump the iPhone 😁 (reply to 11965)
 
-stablealt.hl: I know it, but how to setup proxy on iPhone cellular? (reply to 11964)
+altoshi: I know it, but how to setup proxy on iPhone cellular? (reply to 11964)
 
 Ilya: Yeah. Tbh I don't know how to get access to the ton network from cellular too) I am thinking about a VPN-like app that must be published on app store. I am not sure if is it a solution. Need to dive deeper (reply to 11966)
 
-stablealt.hl: Also, when using TON Proxy trough iPhone, other sites don’t open, but on my MacBook I can. (reply to 11967)
+altoshi: Also, when using TON Proxy trough iPhone, other sites don’t open, but on my MacBook I can. (reply to 11967)
 
 Ilya: It’s because on macos you can enable proxy only for http (reply to 11969)
 
 Ilya: The proxy setting of iOS also catch all https traffic. It doesn’t work at all with rldp http proxy
 
-stablealt.hl: I know, but can I enable it for iOS? (reply to 11970)
+altoshi: I know, but can I enable it for iOS? (reply to 11970)
 
-stablealt.hl: I hope, soon there will be .ton explorer without TON Proxy access, so user can browse TON Network without proxy easily (searching.ton don’t solve this problem)
+altoshi: I hope, soon there will be .ton explorer without TON Proxy access, so user can browse TON Network without proxy easily (searching.ton don’t solve this problem)
 
 Channel<1519271405>: Use Firefox and extension FoxyProxy (reply to 11969)
 
@@ -13388,9 +13388,9 @@ Vlad: I have a product, an online wallet, for content creators.  The authors hav
 
 Silvio: Send a request to the CoinMarketCap API for the TON price, and then divide the dollar amount by the TON price to get the TON amount. (reply to 12236)
 
-stablealt.hl: Very unsecure method to use CMC API, one bug and service will go bankrupt.  Few weeks ago we created the first TON oracle which is currently singlenode (for services it’s a good option to run its own node) (reply to 12237)
+altoshi: Very unsecure method to use CMC API, one bug and service will go bankrupt.  Few weeks ago we created the first TON oracle which is currently singlenode (for services it’s a good option to run its own node) (reply to 12237)
 
-stablealt.hl: https://t.me/tondev_eng/11564  If you need support ask me. (reply to 12236)
+altoshi: https://t.me/tondev_eng/11564  If you need support ask me. (reply to 12236)
 
 — 2022-10-17 —
 
@@ -13408,7 +13408,7 @@ Ruslan: You should host this service: https://github.com/toncenter/ton-indexer (
 
 Sajjad: Hi According to what I read, the Polkadot ecosystem has long wanted to be a blockchain to connect other blockchains, and Toncoin has the same plan. If you want to have a comparison between these that have the same function and style Which are the closest competitors to this system? What are your advantages over others? Im from Iran sajjad
 
-stablealt.hl: The main difference is that TON aims to develop an ecosystem around workchain and masterchain, while Polkadot's goal is to unite blockchains regardless of the hub. for example, the entire TON ecosystem revolves around the main workchain, while the Statemint parachain (analogous to workchain 0) doesnt have a major role in Polkadot ecosystem. Moreover, all developments are for the convenience of building projects on TON, while Polkadot / Cosmos has a goal to create blockchains on their core (Tendermint, Substrate) (reply to 12257)
+altoshi: The main difference is that TON aims to develop an ecosystem around workchain and masterchain, while Polkadot's goal is to unite blockchains regardless of the hub. for example, the entire TON ecosystem revolves around the main workchain, while the Statemint parachain (analogous to workchain 0) doesnt have a major role in Polkadot ecosystem. Moreover, all developments are for the convenience of building projects on TON, while Polkadot / Cosmos has a goal to create blockchains on their core (Tendermint, Substrate) (reply to 12257)
 
 Roman: TON is more than blockchain — it's more about decentralized internet with many services relying on the blockchain. See video here:  https://www.tonspace.co/participate/web3/overview (reply to 12257)
 
@@ -13678,7 +13678,7 @@ Dario: https://github.com/ton-community/ton-compiler
 
 — 2022-10-23 —
 
-stablealt.hl: tact-lang.org (reply to 12451)
+altoshi: tact-lang.org (reply to 12451)
 
 N: /Users/shendengdui/Library/Application Support/toncli/func-libs/tests-helpers.func:16:9: error: undefined function `now`, defining a global function of unknown type           now(),                ;; unixtime           ^ /Users/shendengdui/Library/Application Support/toncli/func-libs/tests-helpers.func:20:35: error: undefined function `null`, defining a global function of unknown type           unsafe_tuple([1000000000, null()]),  ;; balance_remaining                                     ^ /Users/shendengdui/Library/Application Support/toncli/func-libs/tests-helpers.func:21:9: error: undefined function `my_address`, defining a global function of unknown type           my_address(),         ;; myself           ^ /Users/shendengdui/Library/Application Support/toncli/func-libs/stdlib.func:29:22: error: function `null` was already declared as an ordinary function   forall X -> X null() asm "PUSHNULL";                        ^
 
@@ -13808,9 +13808,9 @@ Shawn: Hi all! Shawn again from Orbs! Just yesterday we (Orbs) published a TON g
 
 Silvio: Hello everyone. I would like to ask a technical question about the TON Bridge and the new possibility of transferring tokens:  The bridge fee is quite high for ordinary users, is there no way to reduce it? Is it created like this on purpose?  Note: I mean the main bridge, the token bridge has a low fee.
 
-Lisa: Don't miss such a livestream today ✌️
+Lisa OOO: Don't miss such a livestream today ✌️
 
-Lisa: Hack-TON-berfest livestream  Hacktoberfest is underway for open-source projects on TON and will close in a week.   More than 20 TON projects need help from contributors, so all developers are encouraged to join the festival!  Hack-TON-berfest is an excellent opportunity to make the first step toward building a reputation in the TON community, contribute to the development of the Web3 internet, and receive a limited-edition NFT.  Today, Oct. 24 at 16:00 (UTC), people will be able to join a livestream where they’ll learn how to make a quality Pull Request, the reasons why people should participate in such an event, and how open-source development influences the growth of the TON ecosystem.  The stream will be hosted by:  — Danila Volkov, creator of the first mining pool on TON and one of the developers at Whales Corp.  — Mark Okman, another member of the TonWhales team and creator of YouTube and Telegram channels on programming on TON and in the world of Web3.  The stream will be held on YouTube and on TON Society’s channel.  We recommend all beginners join the stream of open-source development who want to join the festival but don’t know where to start. (forwarded from TON Society)
+Lisa OOO: Hack-TON-berfest livestream  Hacktoberfest is underway for open-source projects on TON and will close in a week.   More than 20 TON projects need help from contributors, so all developers are encouraged to join the festival!  Hack-TON-berfest is an excellent opportunity to make the first step toward building a reputation in the TON community, contribute to the development of the Web3 internet, and receive a limited-edition NFT.  Today, Oct. 24 at 16:00 (UTC), people will be able to join a livestream where they’ll learn how to make a quality Pull Request, the reasons why people should participate in such an event, and how open-source development influences the growth of the TON ecosystem.  The stream will be hosted by:  — Danila Volkov, creator of the first mining pool on TON and one of the developers at Whales Corp.  — Mark Okman, another member of the TonWhales team and creator of YouTube and Telegram channels on programming on TON and in the world of Web3.  The stream will be held on YouTube and on TON Society’s channel.  We recommend all beginners join the stream of open-source development who want to join the festival but don’t know where to start. (forwarded from TON Society)
 
 rm -rf /*: Hi. Who has a node with a validator, write to me, I have a couple of questions. I am ready to pay your time $.
 
@@ -13986,7 +13986,7 @@ Nikita: Yes, you could create multiple wallets as well
 
 User<5468313187>: How can I parse block on TON ? Any help will be appreciated.
 
-stablealt.hl: Technical, or onchain analytics? (reply to 12717)
+altoshi: Technical, or onchain analytics? (reply to 12717)
 
 User<5420949891>: I’ll DM. (reply to 12718)
 
@@ -14010,13 +14010,13 @@ NekoSenpai: Tonhub does have this feature if I am not mistaken.
 
 Yura: Yes they do but apparently they think i should guess how to do it because i generated a qrcode according to the walletconnect example naf Tonhub does not want to scan it :-/
 
-stablealt.hl: Try PyQR to generate from tonconnect link, I’m not sure if it gonna work, but still😅 (reply to 12738)
+altoshi: Try PyQR to generate from tonconnect link, I’m not sure if it gonna work, but still😅 (reply to 12738)
 
 doni: you can look at the code of the webapp scaleton which implements the connect flow 👛 (reply to 12735)
 
 Yura: so you can provide me a link to? i can't fine it in google. (reply to 12740)
 
-stablealt.hl: scaleton.io (reply to 12741)
+altoshi: scaleton.io (reply to 12741)
 
 doni: https://github.com/scaleton-co/scaleton
 
@@ -14198,11 +14198,11 @@ Mehdi: Hello, please what does "Bitcoin & EVM Workchains" mean on the 2023 roadm
 
 Kon: what is WTON address on mainnet?
 
-stablealt.hl: Yes (reply to 12887)
+altoshi: Yes (reply to 12887)
 
-stablealt.hl: Whitepaper of TON is the best documentation for you😉 (reply to 12889)
+altoshi: Whitepaper of TON is the best documentation for you😉 (reply to 12889)
 
-stablealt.hl: Workchains (reply to 12891)
+altoshi: Workchains (reply to 12891)
 
 Daniil: workchains aren't released yet (reply to 12887)
 
@@ -14380,11 +14380,11 @@ doni: I guess that for the secondary market
 
 doni: you can create any nft marketplace , so people will trade in
 
-stablealt.hl: How will you accrue usernames? (reply to 13056)
+altoshi: How will you accrue usernames? (reply to 13056)
 
 𝐴𝑅𝐸𝐹 𝑆𝑆: Telegram said, in the next step, everyone can sell their username or buy other people's usernames (reply to 13059)
 
-stablealt.hl: Trough their marketplace. (reply to 13060)
+altoshi: Trough their marketplace. (reply to 13060)
 
 Yura: Hey guys! Trying to connect to tonwallet with this repo https://github.com/toncenter/tonweb/blob/master/src/utils/README.md and every time  got a different wallet address from const nonBounceableAddress = address.toString(true, true, false); Some one can explain me what i doing wrong?
 
@@ -14404,7 +14404,7 @@ Mr. John: Just save words from new Menmonic() and use them later (reply to 13069
 
 Tim: make Ton3Cell and TonCell to have same toBoc signature (reply to 13070)
 
-stablealt.hl: You just invented deferred transactions (reply to 13066)
+altoshi: You just invented deferred transactions (reply to 13066)
 
 Narek: Can you provide minimal example? (reply to 13071)
 
@@ -14434,13 +14434,13 @@ Tim: You can also trade nfts on getgems for example (reply to 13090)
 
 𝐴𝑅𝐸𝐹 𝑆𝑆: Yes, But they haven't added the ability to buy and use the username yet. Otherwise, we can plan from now on, before we can offer this capability. (reply to 13091)
 
-stablealt.hl: It’s impossible at the moment. (reply to 13092)
+altoshi: It’s impossible at the moment. (reply to 13092)
 
 𝐴𝑅𝐸𝐹 𝑆𝑆: A market for usernames only (reply to 13091)
 
 𝐴𝑅𝐸𝐹 𝑆𝑆: We can start with the development of UI. (reply to 13093)
 
-stablealt.hl: For secondary market, there is already getgems.io and disintar.io and you will be able to trade on fragment.com too. (reply to 13095)
+altoshi: For secondary market, there is already getgems.io and disintar.io and you will be able to trade on fragment.com too. (reply to 13095)
 
 𝐴𝑅𝐸𝐹 𝑆𝑆: For the most well-known username marketplace is fragment.com site. But we can be the second. (reply to 13096)
 
@@ -14454,15 +14454,15 @@ Kon: ok, cool
 
 Kon: Action Phase and Result Code 34 when I try to send jetton - What does it mean 34 code? from wallet v3 r2 Outgoing messages don't send.  Incoming message exists, Does there exist any way to decode and check that all is ok on this step? Decode cell, etc... I understand this flow, how to send jetton, so - from wallet v3 r2 sends to jetton wallet address the message with payload from  createTransferBody, but no luck. Just messages bounce and all..
 
-stablealt.hl: Because TON Bridge is a “small POS network” upon the TON blockchain, it has its own nodes with their oracle stake (multinode bridge) , that’s why fees are pretty high, they are going to these bridge nodes who are securing the bridge. (reply to 12596)
+altoshi: Because TON Bridge is a “small POS network” upon the TON blockchain, it has its own nodes with their oracle stake (multinode bridge) , that’s why fees are pretty high, they are going to these bridge nodes who are securing the bridge. (reply to 12596)
 
 Silvio: Thanks. ❤️  So isn't the token bridge a small PoS network too? (reply to 13107)
 
-stablealt.hl: I’m not sure since it doesn’t have tech docs, but I think it’s not a small network too, because it would be very not profitable to hold ur own oracle node to secure the token bridge, since transaction fees are pretty low. (reply to 13108)
+altoshi: I’m not sure since it doesn’t have tech docs, but I think it’s not a small network too, because it would be very not profitable to hold ur own oracle node to secure the token bridge, since transaction fees are pretty low. (reply to 13108)
 
 Silvio: So we get low fees at the expense of bridge safety? (reply to 13109)
 
-stablealt.hl: Yes (reply to 13110)
+altoshi: Yes (reply to 13110)
 
 Silvio: Thanks again. 👍  And Happy Halloween for all. 🎃 (reply to 13111)
 
@@ -14850,11 +14850,11 @@ Yang: Follow steps (reply to 13409)
 
 OrderK🧱: Is there TON-Network whitepaper?
 
-stablealt.hl: 126 pages😁 https://ton.org/whitepaper.pdf (reply to 13415)
+altoshi: 126 pages😁 https://ton.org/whitepaper.pdf (reply to 13415)
 
 OrderK🧱: sorry, my meaning is a detailed description of "Network" part, such as "Telegram Open Network Blockchain", which is intended for "blockchain"
 
-stablealt.hl: 5-74 page (reply to 13417)
+altoshi: 5-74 page (reply to 13417)
 
 OrderK🧱: anyway thank u in advance
 
@@ -15288,7 +15288,7 @@ User<382602131>: hi, where i can check ton mainnet config?
 
 Coalus: ton.org/global-config.json (reply to 13719)
 
-stablealt.hl: https://tonwhales.com/explorer/network (reply to 13719)
+altoshi: https://tonwhales.com/explorer/network (reply to 13719)
 
 User<382602131>: thanks guys
 
@@ -15955,4 +15955,6 @@ User<5607333070>: I think he’s trying to ask how to listen to transactions on 
 User<5607333070>: not history
 
 talkol: Lazy dev team is a good thing :) hardware wallet should not change. It’s a good wallet for Ethereum coins and Bitcoin (reply to 14279)
+
+talkol: Ledger has some insanely bad decisions too, it’s not perfect  For example, passphrase has to be typed on the device using only 2 buttons which make people either avoid passphrase or take a short 4-6 character one which can easily be brute forced. Passphrase should always be used so then device doesn’t hold the full private key and it should be at least 14-15 characters so brute forcing it becomes difficult
 

@@ -1,11 +1,3 @@
-carol: https://t.me/RedPacketAssistantBot/app?startapp=p_cuFiH1P7umq2YCQlnyvweTSV 🧧 Wow!!hunter gives away a red packet with 0.03 TON, click and open it to claim your reward!!,    👉 恭喜发财
-
-carol: 没TON了，只剩这点了。。😆
-
-wikig: 好像没有看到有这个方法（但是即使有.......好像也做不了什么？  但是有个方法可以使得关闭miniapp时触发一个用户手动确认  可能那个方法有回调事件 (reply to 36593)
-
-Lou: 我想在用户关闭的时候更新一次用户数据
-
 walker: ton上发交易时的seq，会像ethereum上一样有mempool去缓存未来的seq吗？比如钱包的seq现在是1，我发个seq是2的交易出去，这笔交易是会被节点丢弃掉，还是会等seq=1的交易被确认后，seq=2的交易会被节点确认？
 
 wikig: 使用telegram.expland()之后，好像关闭会触发一个确认。  如果没有关闭确认操作的话........ close的时间好像不足以让你发出request实现更新用户数据 (reply to 36597)
@@ -932,9 +924,9 @@ Eason: tonConnectUI.setConnectRequestParameters({           state: 'ready',     
 
 MEW: 这个一直有问题的 (reply to 37728)
 
-Navy | Ton.AI: 请教一下，the mini app支持embed到其他的the mini app上吗？
+Navy | Ads3(formerly Ton.AI): 请教一下，the mini app支持embed到其他的the mini app上吗？
 
-Navy | Ton.AI: 如果支持要怎么实现？
+Navy | Ads3(formerly Ton.AI): 如果支持要怎么实现？
 
 wikig: 可以考虑用一下iframe实现（？  但是auth用不了 (reply to 37742)
 
@@ -952,7 +944,7 @@ andy: 这个是那个token? (reply to 37762)
 
 Mavior: 有没有大佬帮忙看下，为什么转账给同一个钱包地址，有时候能正常收到，有时候显示交易确认但是金额又被回弹给付款钱包了..
 
-Navy | Ton.AI: 谢谢，auth问题有其他可能的解决方案吗？ (reply to 37749)
+Navy | Ads3(formerly Ton.AI): 谢谢，auth问题有其他可能的解决方案吗？ (reply to 37749)
 
 Tom: 有大佬能说下写合约func和tact怎么选嘛
 
@@ -1050,9 +1042,9 @@ Simon: 谁熟悉地形
 
 wikig: 照理说是没啥问题的。但是还是建议放在外部地址，不然可能会在游戏引擎编译的时候造成莫名其妙的冲突 (reply to 37982)
 
-Happy: 有人知道从dedust的factory获取poolAddress，参数应该怎么传吗
+Sheldon: 有人知道从dedust的factory获取poolAddress，参数应该怎么传吗
 
-Happy: 我这样子传一直返回错误
+Sheldon: 我这样子传一直返回错误
 
 zerefsong: 大佬们  有人遇到过这个错误吗  LITE_SERVER_UNKNOWN: cannot apply external message to current state : Failed to unpack account state
 
@@ -5546,7 +5538,7 @@ Ton: 写了一个分发合约，v5还在测试阶段啊 (reply to 43143)
 
 Alfred: 不是很好确认，使用 tonkeeper 发起时，会有 simulation，可以知道 gas 够不够 (reply to 43118)
 
-Navy | Ton.AI: 请教一下，TG mini app 上怎么获取 用户的 设备id 和 IP？
+Navy | Ads3(formerly Ton.AI): 请教一下，TG mini app 上怎么获取 用户的 设备id 和 IP？
 
 X RAY 🦴️️️️: 有团队招前端的吗，最好是ton方向的
 
@@ -6614,9 +6606,9 @@ Manta: 有人研究过 用合约调用 dudest 创建池子吗
 
 Manta: 有人研究过 用合约调用 dedust 创建池子吗
 
-Mavicas: 大家好
+Mavis: 大家好
 
-Mavicas: 大佬，哪里有ton  质押的合约示例代码吗？
+Mavis: 大佬，哪里有ton  质押的合约示例代码吗？
 
 wiwi: 想請問有沒有 ton testnet 可以領 jetton token 的地方呢? 想測試轉帳相關
 
@@ -6836,7 +6828,7 @@ Pangolin: ton正式链上jetton代币名称下面一行黄字【未验证的】�
 
 wikig: 诶，可能记错了，我记得.....现在可以做最小化操作的 (reply to 44277)
 
-Mavicas: 各位老师，好，ton jetton  token  质押的合约有可以参考的没有呢？ 感谢ton 这个大家族
+Mavis: 各位老师，好，ton jetton  token  质押的合约有可以参考的没有呢？ 感谢ton 这个大家族
 
 lin: 请问 截图是tonview func 源码 .store_dict(storage::pool_code); 我要如何使用ton/core sdk 组装数据， sdk 中的storeDict 和 func 中的 store_dict 使用方法好像不一样
 
@@ -6954,7 +6946,7 @@ Jackie: 我再试试
 
 wikig: 清缓存呗 (reply to 44343)
 
-Mavicas: doc.ton 需要多看呀，哈哈
+Mavis: doc.ton 需要多看呀，哈哈
 
 Jackie: 现在就是第一步选择了tonkeeper钱包，然后想换另一个钱包，每次都是自动连接到tonkeeper了 (reply to 44346)
 
@@ -8414,7 +8406,7 @@ User<7103317108>: It's smart contract. If you want to know more, please DM me. I
 
 Finch: 钱包怎么连测试网？
 
-lang: 有人做ton游戏后台吗
+bbb: 有人做ton游戏后台吗
 
 Chakra: 什么游戏后台
 
@@ -9288,7 +9280,7 @@ wyz: 现在coinmarketcap 这些网站都会监听吧
 
 Louis: 怎么在TON链监控链上的数据，就像EVM的事件一样。。。
 
-Yo🐾: 想请问下 我现在有message_hash 有什么办法可以直接推导出txid吗
+Yo: 想请问下 我现在有message_hash 有什么办法可以直接推导出txid吗
 
 rdyer chen: 谁可以做企业 代签
 
@@ -11736,7 +11728,7 @@ gavin: 又来一个😅 这个问题讨论一整天了 (reply to 49538)
 
 gavin: 看它的实现也是遍历地址下的交易列表然后去match
 
-Navy | Ton.AI: 请教一下，大家写Ton的智能合约，用什么语言来写？
+Navy | Ads3(formerly Ton.AI): 请教一下，大家写Ton的智能合约，用什么语言来写？
 
 Metas: 这不是没结果吗 (reply to 49540)
 
@@ -11750,7 +11742,7 @@ Metas: No bb，show code
 
 Metas: 这个逻辑都知道，没人把核心代码发一下呀
 
-Navy | Ton.AI: 感谢，有一些案例代码库发我参考吗？比如签到收gas fee功能 (reply to 49545)
+Navy | Ads3(formerly Ton.AI): 感谢，有一些案例代码库发我参考吗？比如签到收gas fee功能 (reply to 49545)
 
 Mike: 0:7dd8297a7734a140580493d9454831ded1e5a1bc46456344960ebdca4a3728a4 大佬们，这种是啥格式的
 
@@ -15468,7 +15460,7 @@ IIIllll: 好的非常感谢
 
 crimant: 请问代币如何认证，钱包显示未认证令牌
 
-黄鹤楼: 现在行情就这样，都在跌 (reply to 53549)
+鱼幼薇⛔️: 现在行情就这样，都在跌 (reply to 53549)
 
 M: 大佬，我在右边用ts解析交易的数据，是可以解析出来的，但是左边红框是tact合约中解析的，解析不出来，let forwardOp = stake.forward_payload.loadUint(32);都没过去，下面的信息都没打印。这会有哪些原因导致的呢？我是想在合约里做判断的。 (reply to 53538)
 
@@ -18892,7 +18884,7 @@ Kai: Hi Guys, is anyone here attending Token2049!
 
 ΞSoli|Waifush: 原来都没法交易啊。。。我还以为是我钱包出问题了
 
-zhixing: 请教一下,为什么我加了payload之后就会报错,无法验证的交易?是格式不对吗,如何发送交易的时候把订单号带过去😐
+账户异常提示: 请教一下,为什么我加了payload之后就会报错,无法验证的交易?是格式不对吗,如何发送交易的时候把订单号带过去😐
 
 Niu: 转USDT一直卡在这里是什么鬼
 
@@ -18918,13 +18910,13 @@ Niu: 看起来交易量也不大 (reply to 57204)
 
 Joe: 最近在监控测试网本地的验证者节点性能，有什么好的方式监控ton节点吗，质押是否正常，节点是否同步。有些问题想请教一下，非常谢谢！ 1.上面链接查询的是针对主网验证者的，有测试网的api吗？ https://elections.toncenter.com/docs  https://toncenter.com/api/qos/index.html#/ 2.本地验证者节点可以搭建链接中的api吗，这样服务更加稳定 3.本地验证者节点有查询本地节点数据和性能的api吗，我在官方api文档上没有看到。 https://toncenter.com/
 
-zhixing: 有大佬知道前端这块是什么问题吗😭 (reply to 57194)
+账户异常提示: 有大佬知道前端这块是什么问题吗😭 (reply to 57194)
 
 gavin: 我也觉得是 我今天用那个多签都私活不执行 (reply to 57214)
 
 Niu: 这个会影响USDT的交易确认？ (reply to 57216)
 
-zhixing: cell？什么意思😰 (reply to 57218)
+账户异常提示: cell？什么意思😰 (reply to 57218)
 
 Niu: 需要使用cell包装一下 (reply to 57194)
 
@@ -18934,11 +18926,11 @@ aier: 唉
 
 aier: 有个大概时间吗？
 
-zhixing: 开发文档完全没提及啊,大佬你是在哪学习的😁 (reply to 57224)
+账户异常提示: 开发文档完全没提及啊,大佬你是在哪学习的😁 (reply to 57224)
 
 Niu: https://docs.ton.org/ (reply to 57229)
 
-zhixing: 👍
+账户异常提示: 👍
 
 Niu: https://docs.ton.org/develop/data-formats/cell-boc
 
@@ -19040,7 +19032,7 @@ Niu: 我只卡了0.3U
 
 gavin: 从多签钱包转一笔钱 弄了一天都没弄好🥶🥶
 
-马正恩: 钱包被多签了就没用了 你还想转钱出来？ (reply to 57297)
+浅殇: 钱包被多签了就没用了 你还想转钱出来？ (reply to 57297)
 
 jay: ton多签反而容易实现。
 
@@ -19048,7 +19040,7 @@ Niu: 难道就废了钱就拿不出来了？ (reply to 57300)
 
 Niu: 本来就是合约，初始化的时候部署一个多签的合约？ (reply to 57303)
 
-马正恩: 对 、
+浅殇: 对 、
 
 Niu: 什么原理 (reply to 57306)
 
@@ -22866,19 +22858,19 @@ Ginta 🦴: 什么镜像，docker？ (reply to 62200)
 
 allen: 大佬们，linux服务器，builder tonlib的时候，这一句代码一直卡起是啥原因？大佬们遇到过吗？
 
-Crypto sniper: 有没有做后端的 一起学习啊，我是做游戏前端的
+暴走的加密博士: 有没有做后端的 一起学习啊，我是做游戏前端的
 
 Elizabeth: Okay (reply to 62211)
 
-Crypto sniper: 我是币安的博主，最近在学习ton开发，有没有兄弟一起啊，互相帮助
+暴走的加密博士: 我是币安的博主，最近在学习ton开发，有没有兄弟一起啊，互相帮助
 
-Crypto sniper: 自己研究有点不懂
+暴走的加密博士: 自己研究有点不懂
 
-Crypto sniper: hi (reply to 62212)
+暴走的加密博士: hi (reply to 62212)
 
-Crypto sniper: 有没有开发者教程啊
+暴走的加密博士: 有没有开发者教程啊
 
-Crypto sniper: 咱们有没有合作引擎 推荐 (reply to 62111)
+暴走的加密博士: 咱们有没有合作引擎 推荐 (reply to 62111)
 
 小鸡毛: @ginta_xx gpt镜像的 不需要翻墙
 
@@ -22982,9 +22974,9 @@ Mana: 节点问题吗
 
 Mana: 可以获取钱包的啊
 
-zhixing: 为什么我这个一直报错 Invalid address. Got UQDh    无效的地址,都是按文档来的,是还缺少什么吗
+账户异常提示: 为什么我这个一直报错 Invalid address. Got UQDh    无效的地址,都是按文档来的,是还缺少什么吗
 
-zhixing: 对接的  @wallet 接usdt 有懂的吗😥
+账户异常提示: 对接的  @wallet 接usdt 有懂的吗😥
 
 Na: wallet
 
@@ -23002,19 +22994,19 @@ EncryptPecker（-25s->100s）: 再想想，如果是https的问题，那本地�
 
 CICI: tonConnectUI.sendTransaction  界面一直在loading， 也不跳到钱包那边，是因为网络问题嘛
 
-Crypto sniper: 哈哈 (reply to 62361)
+暴走的加密博士: 哈哈 (reply to 62361)
 
-Crypto sniper: 这个不是开发群吗
+暴走的加密博士: 这个不是开发群吗
 
-Crypto sniper: 学习资料在哪里
+暴走的加密博士: 学习资料在哪里
 
-Crypto sniper: 我想学习一下 然后教我的粉丝们
+暴走的加密博士: 我想学习一下 然后教我的粉丝们
 
-Crypto sniper: 有没有大佬 交流交流
+暴走的加密博士: 有没有大佬 交流交流
 
-Crypto sniper: 我们可以在币安举办 TON开发者交流会
+暴走的加密博士: 我们可以在币安举办 TON开发者交流会
 
-Crypto sniper: 有感兴趣的嘛
+暴走的加密博士: 有感兴趣的嘛
 
 Wild: Hello! Is it possible to track closing TG app event? We need to sync user data wen user closing mini app
 
@@ -23072,7 +23064,7 @@ wikig: 一般这样都是payload构造有问题 (reply to 62483)
 
 EncryptPecker（-25s->100s）: 嗯？好的，我看看
 
-zhixing: 有好心人能帮我看看我这个payload构造有什么问题吗?我也是报错无法验证的交易😅
+账户异常提示: 有好心人能帮我看看我这个payload构造有什么问题吗?我也是报错无法验证的交易😅
 
 User<1496299585>: 请教下   bot怎么做事件推送呢？
 
@@ -23092,15 +23084,15 @@ User<1496299585>: 谢谢 (reply to 62499)
 
 EncryptPecker（-25s->100s）: 嗯，看了到这位兄弟的写法了 (reply to 62494)
 
-zhixing: 这个 (reply to 62503)
+账户异常提示: 这个 (reply to 62503)
 
-zhixing: 能帮忙看下我写的接USDT的payload有什么问题吗,完全按照文档来的啊😅 (reply to 62501)
+账户异常提示: 能帮忙看下我写的接USDT的payload有什么问题吗,完全按照文档来的啊😅 (reply to 62501)
 
 gavin: 看着也没啥问题呃。。。 (reply to 62505)
 
 allen: 大佬们，基于ton4j，怎么根据交易hash，去查询交易是否成功？
 
-zhixing: 这块是用原始地址还是友好地址?
+账户异常提示: 这块是用原始地址还是友好地址?
 
 gavin: 都行 (reply to 62509)
 
@@ -23458,7 +23450,7 @@ Vicki: 哦哦  我试试看先 (reply to 62887)
 
 zonh: 嗯，我算了一下。确实我计算出来的那个hex数组就不对。 (reply to 62885)
 
-zhixing: ios是不能唤起@wallet机器人进行支付吗🤔
+账户异常提示: ios是不能唤起@wallet机器人进行支付吗🤔
 
 Vicki: 图里面的这个，是用的哪个库？我是cocos 用的 ton/cocos-sdk (reply to 62887)
 
@@ -23470,7 +23462,7 @@ zonh: 😓
 
 zonh: 是的。我准备逐步对比了，看哪一步有问题🤣
 
-zhixing: 为什么ios发送usdt会出现这个问题？Windows电脑端却不会😅
+账户异常提示: 为什么ios发送usdt会出现这个问题？Windows电脑端却不会😅
 
 Vicki: 我是cocos3.x 只能用 ton/cocos-sdk，但是没找到这个东西.... (reply to 62894)
 
@@ -23650,13 +23642,13 @@ Abe.: 有人研究过ton的ledger的地址生成么
 
 Mana: 这种一般是什么原因导致的
 
-zhixing: 有人遇到过这种情况吗?就只会闪那么一瞬间后续还是正常的支付
+账户异常提示: 有人遇到过这种情况吗?就只会闪那么一瞬间后续还是正常的支付
 
 wikig: 有没有考虑过是proxy的问题？
 
-zhixing: 你是说我这个问题吗? (reply to 63117)
+账户异常提示: 你是说我这个问题吗? (reply to 63117)
 
-zhixing: VPN网速太慢了导致会闪一下是吧
+账户异常提示: VPN网速太慢了导致会闪一下是吧
 
 wikig: 我猜不是没可能？ (reply to 63119)
 
@@ -24209,4 +24201,8 @@ Chi: 主要是怕testnet上出错然后mainnet对的 这样非常浪费时间
 Chi: debug半天调了个寂寞
 
 gavin: 沙盒能~dump log
+
+备用: 为啥呢?我用沙盒感觉有点脱裤子放屁
+
+gavin: 但是testnet 有浏览器🤣
 

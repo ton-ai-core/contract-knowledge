@@ -1,0 +1,19709 @@
+> Farm Clicker is a farming simulation game available on Telegram. Players cultivate crops on various fields, harvest, and sell their produce to earn Clicker Games Tokens. The game’s core revolves around planting, growing, and selling crops, enabling players to climb leaderboards and earn rewards.  
+> ![:ear_of_rice:](https://tonresear.ch/images/emoji/twitter/ear_of_rice.png?v=12 ":ear_of_rice:") **In-Game Currency:** ![:white_small_square:](https://tonresear.ch/images/emoji/twitter/white_small_square.png?v=12 ":white_small_square:") Fertilizer is used to purchase boosts that accelerate gameplay. ![:white_small_square:](https://tonresear.ch/images/emoji/twitter/white_small_square.png?v=12 ":white_small_square:") Fertilizer can be obtained by exchanging Clicker Games Tokens, TON Coin, USDT Coin, NOT Coin, or Telegram Star in the market.  
+> ![:dash:](https://tonresear.ch/images/emoji/twitter/dash.png?v=12 ":dash:") **Boost Types:** ![:white_small_square:](https://tonresear.ch/images/emoji/twitter/white_small_square.png?v=12 ":white_small_square:") Product Boosts: Enhance crop production. ![:white_small_square:](https://tonresear.ch/images/emoji/twitter/white_small_square.png?v=12 ":white_small_square:") General Boosts: Improve overall game efficiency. ![:white_small_square:](https://tonresear.ch/images/emoji/twitter/white_small_square.png?v=12 ":white_small_square:") Instant Boosts: Provide immediate benefits to gameplay. ![:dart:](https://tonresear.ch/images/emoji/twitter/dart.png?v=12 ":dart:")  
+> ![:dart:](https://tonresear.ch/images/emoji/twitter/dart.png?v=12 ":dart:") **Key Features:**  
+> Social Section: Daily, weekly, and instant tasks to earn prizes.  
+> Referral Program: Earn 75 fertilizer per invite; Telegram Premium users earn 300.  
+> Farm Tab: Manage fields, produce yield, and increase seed production.  
+> Advertisements: Watch ads for boosts and rewards.  
+> Fields: Grow any of 50 different crops, including Potato, Tomato, and Lettuce.
+
+*   By submitting this application, I undertake to fully abide by The Open League Rules of Conduct. I understand that in case of the violation of those my team will be immediately excluded from the competition. Link: [Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://ton-org.notion.site/The-Open-League-Rules-of-Conduct-04f4a0fedf1a401687075f5efd83de68)
+*   By submitting the form I confirm that the data I provided is correct and I fully understand that in case of the contrary, my project will be permanently eliminated from The Open League
+
+  5 Likes
+
+[mrnasil](https://tonresear.ch/u/mrnasil)  September 8, 2024, 4:01pm  2
+
+[![Farm Clicker](https://tonresear.ch/uploads/default/optimized/2X/5/5b3760d4daed8fafa01d5b34177aac84c83d219b_2_500x500.jpeg)
+
+Farm Clicker1920×1920 237 KB
+
+](https://tonresear.ch/uploads/default/original/2X/5/5b3760d4daed8fafa01d5b34177aac84c83d219b.jpeg "Farm Clicker")
+
+[Farm Clicker](https://clicker.farm) ![:farmer:](https://tonresear.ch/images/emoji/twitter/farmer.png?v=12 ":farmer:") ![:woman_farmer:](https://tonresear.ch/images/emoji/twitter/woman_farmer.png?v=12 ":woman_farmer:")
+
+  3 Likes
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) September 9, 2024, 7:39am  3
+
+Thank you for applying; we’re currently reviewing your application and will get back to you soon.
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 32387
+
+[TON Research](/)
+
+# [Dragunova ($NOVA) - TOL Season 6 Application](/t/dragunova-nova-tol-season-6-application/32387)
+
+[The Open League](/c/the-open-league/56) 
+
+    
+
+[Dragunova](https://tonresear.ch/u/Dragunova)   September 8, 2024, 4:06pm  1
+
+[![casanova_1](https://tonresear.ch/uploads/default/original/2X/3/309dd880e99830e5419fa3c930d20df6dbf0db58.jpeg)
+
+casanova\_1718×524 29.8 KB
+
+](https://tonresear.ch/uploads/default/original/2X/3/309dd880e99830e5419fa3c930d20df6dbf0db58.jpeg "casanova_1")
+
+*   **Token Name**: NOVA
+    
+*   **Project’s Twitter**: [@dragunovaton](https://x.com/dragunovaton)
+    
+*   **Please describe your project and token utility**:  
+    [Dragunova Trading Bot](https://t.me/dragunovaton) is a fast, secure trading bot built directly into Telegram. The project was born and raised in the Telegram and TON ecosystems, catering to crypto traders, built by crypto traders. Modeled after the sharpshooter precision of the Dragunov sniper rifle, NOVA is your expert in executing market moves with unparalleled accuracy and speed. We’ve recently gone live with our own private node in order to provide the fastest possible trading on the TON Blockchain. The development team is currently working on a list of new features to ship to users including, but not limited to; limit orders, sniping, Gaspump/Wonton integration and revenue sharing. NOVA token holders will be entitled to 40% of all trading fees generated by the bot. While not a token utility specifically, it’s worth noting that users can also receive an additional 30% of trading fees from referred users via our Referral System.
+    
+*   **Please provide detailed information on your token distribution, especially indicating the % of token supply held by the team and the status of the team’s LP tokens:**  
+    The NOVA token contract is revoked and the initial LP has been recently re-locked. Community members have contributed to our token liquidity, particularly around our recent promotion with [ston.fi](http://ston.fi) which included boosted rewards for participants [https://t.me/stonfidex/624](https://t.me/stonfidex/624)  
+    We did not conduct a presale, ICO or anything of that nature. NOVA was a stealth launch without advertisement and the community has organically bought and holds about 65% of the supply. [23% was burned after launch](https://tonviewer.com/EQCPIijcaVHuuaPLtuCtiD0mwueZG73beHJ5vdV_l9_vzv5_?section=holders), with 10% set aside for marketing and future liquidity provisions, of which [6.965% remains](https://tonviewer.com/UQClzmpo21bKwgdlzRKVxVcrI_IBg6XWXz1sJkD_gt3UNUYu) and [4.2% currently rests in the ston.fi pool](https://tonviewer.com/EQCPIijcaVHuuaPLtuCtiD0mwueZG73beHJ5vdV_l9_vzv5_?section=holders).
+    
+*   **CA**: EQCPIijcaVHuuaPLtuCtiD0mwueZG73beHJ5vdV\_l9\_vzv5\_
+    
+*   **LP**: EQAQ\_iIhPd6eTJYOq6KrqZEksp85WYc7sQM6d0jgX0xOqtrA
+    
+*   **Please describe your project roadmap for the next 6-12 months:**  
+    As mentioned above, our development team is currently working to ship the community’s most sought-after features in the safest and most secure manner possible. While our intention is to provide the fastest trade execution on the TON Blockchain, our highest priority has been, and always will be, safety and security. Bot features most likely to be rolled out to Dragunova users in the next 6-12 months include limit orders, new launch sniping, liquidity listening, Gaspump/Wonton integration and revenue sharing. To help achieve our goals, we are currently working to expand our development team from 4 (1 full-time and 3 part-time) devs to 10 (3 full-time and 7+ part-time). Additionally, as broader TON Ecosystem attention rises we will begin to put our [~3000 TON Treasury](https://tonviewer.com/UQBoknzDD3eqq-vVm09G38VjMp0PM-an5XMFLhU4R5vMXELI) to work on marketing and partnerships.
+    
+*   **Link to the token’s page on re:doubt and/or DYOR:**  
+    [DYOR](https://dyor.io/token/EQCPIijcaVHuuaPLtuCtiD0mwueZG73beHJ5vdV_l9_vzv5_)
+    
+*   **Link to the token’s page on Geckoterminal:**  
+    [Geckoterminal](https://www.geckoterminal.com/ton/pools/EQAQ_iIhPd6eTJYOq6KrqZEksp85WYc7sQM6d0jgX0xOqtrA)
+    
+*   **Link to the token’s page on Coinmarketcap (if your token is not listed there, write n/a):**  
+    N/A
+    
+*   **Link to the token’s page on Coingecko (if your token is not listed there, write n/a):**  
+    **[Coingecko](https://www.coingecko.com/en/coins/dragunova-bot)**
+    
+*   **Please provide your token’s smart contract address for tracking during The Open League Season 6:**  
+    [EQCPIijcaVHuuaPLtuCtiD0mwueZG73beHJ5vdV\_l9\_vzv5\_](https://tonviewer.com/EQCPIijcaVHuuaPLtuCtiD0mwueZG73beHJ5vdV_l9_vzv5_)
+    
+*   **Your name:** Caffiano & Zaitsev
+    
+*   **Your Telegram handle:** [Caffiano](https://t.me/caffiano) & [Zaitsev](https://t.me/zaitsevp)
+    
+*   **Your Twitter:** [@dragunovaton](https://x.com/dragunovaton)
+    
+*   **Any other links or details that you want to share:**  
+    Trading Bot - [Dragunova Trading Bot](https://t.me/DragunovaBot)  
+    Telegram Portal - [@dragunovaton](https://t.me/dragunovaton)  
+    Russian Chat - [Входной канал](https://t.me/dragunovatonRU)  
+    Chinese Chat - [龙 官方华人社区](https://t.me/dragunovaCN)  
+    Website - [dragunova.bot](https://dragunova.bot)
+    
+*   **Do you consider your token a memecoin so that the ‘meme’ label can be added next to your ticker in the leaderboard if your application is approved?:**  
+    While we’re not a memecoin, we have recently introduced our lovable (and very meme-able) mascot, Casanova. He brings a fantastic branding opportunity as well as what we believe to be some of the best stickers on Telegram.  
+    ![casanova_typing_2](https://tonresear.ch/uploads/default/original/2X/2/2f254488f719cb798f4b4345038ee77cd24e4010.gif)
+    
+*   By submitting this application, I undertake to fully abide by The Open League Rules of Conduct. I understand that in case of the violation of those my team will be immediately excluded from the competition. Link: [https://ton-org.notion.site/The-Open-League-Rules-of-Conduct-04f4a0fedf1a401687075f5efd83de68:](https://ton-org.notion.site/The-Open-League-Rules-of-Conduct-04f4a0fedf1a401687075f5efd83de68:)  
+    **I understand and agree to The Open League Rules of Conduct**
+    
+*   By submitting the form I confirm that the data I provided is correct and I fully understand that in case of the contrary, my project will be permanently eliminated from The Open League:  
+    **I confirm the provided data is correct and agree to the terms of The Open League**
+    
+
+  6 Likes
+
+[LarryZ](https://tonresear.ch/u/LarryZ) September 8, 2024, 5:30pm  2
+
+Honest and straightforward team…consistently building and doing what’s best for the product and its users ![:clap:](https://tonresear.ch/images/emoji/twitter/clap.png?v=12 ":clap:")![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:")
+
+  1 Like
+
+[Taipan45](https://tonresear.ch/u/Taipan45) September 8, 2024, 6:39pm  3
+
+Excellent app. Kudos to the team
+
+ 
+
+[sven\_w](https://tonresear.ch/u/sven_w) September 11, 2024, 4:19pm  4
+
+yep i confirm very honest guys and straight forward
+
+Also a lot of gem hunter like kamino,cevo and Chris Romano on board better know as CKC
+
+Definitely watch them with the expanding of TON chain
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 32408
+
+[TON Research](/)
+
+# [Nutcrackers Club](/t/nutcrackers-club/32408)
+
+[The Open League](/c/the-open-league/nft-battle/62)  [NFT League](/c/the-open-league/nft-battle/62) 
+
+    
+
+[Ilya\_Nesterov](https://tonresear.ch/u/Ilya_Nesterov)  September 8, 2024, 4:19pm  1
+
+*   Project’s Name: NFT Collection “NUTCRACKERS CLUB”
+    
+*   Project’s Website: [https://nutcrackers.crypton.xyz/](https://nutcrackers.crypton.xyz/)
+    
+*   Project’s Twitter: -
+    
+*   Project’s Telegram channel/group: [Telegram: Contact @nutcrackers\_cis](https://t.me/nutcrackers_cis) / [Telegram: Contact @Nutcracker\_en](https://t.me/Nutcracker_en)
+    
+*   NFT Collection Name: NUTCRACKERS
+    
+*   NFT Collection Details
+    
+    *   Total Number of NFTs: 2579
+    *   Number of Unique Holders: 824
+    *   Total Trading Volume in TON: 36K
+*   Attach the link to a Google Doc that describes your NFT collection’s current traction, including: Proof - [Nutcrackers stats GetGems - Google 文件](https://docs.google.com/document/d/1Tof8WLo5JCIslTjeK-4_CtN4jOWkjzH4-fL20K45FK8/)
+    
+    *   Total Number of NFTs: 2579
+    *   Number of Unique Holders: 824
+    *   Any additional metrics (e.g., floor price, highest sale, etc.): Floor - 47 TON; Highest sale - 1000 TON
+    
+    Please include the proofs of this traction.
+    
+*   Please provide a smart contract address for tracking during The Open League Season 4: EQB3Pd1e7fs89vw6wwlDzS-CrdvDY8phfdn7yKgvL6UQn6ij
+    
+*   Your name: Ilya
+    
+*   Your Telegram handle: @sirbigcheese / @nut\_master
+    
+*   Any other links or details that you want to share: BOT - [Telegram: Contact @nutcrackers\_collection\_bot](https://t.me/nutcrackers_collection_bot);  
+    CEO - [Telegram: Contact @tradeparty1337](https://t.me/tradeparty1337); Crypton ecosystem - [Crypton XYZ](https://crypton.xyz/ru/)
+    
+*   By submitting this application, I undertake to fully abide by The Open League Rules of Conduct. I understand that in case of the violation of those my team will be immediately excluded from the competition. Link: [Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://ton-org.notion.site/The-Open-League-Rules-of-Conduct-04f4a0fedf1a401687075f5efd83de68)
+    
+*   By submitting the form, I confirm that the data I provided is correct and I fully understand that in case of the contrary, my project will be permanently eliminated from The Open League.
+    
+
+  11 Likes
+
+[pestov300](https://tonresear.ch/u/pestov300) September 8, 2024, 4:24pm  2
+
+I’m a true holder of this NFT-collection and I’m very bullish!  
+LFG!
+
+  6 Likes
+
+[uncle\_bogdan](https://tonresear.ch/u/uncle_bogdan) September 8, 2024, 4:24pm  3
+
+Let’s go brothers, add nutcracker’s
+
+  6 Likes
+
+[SalonSolona](https://tonresear.ch/u/SalonSolona) September 8, 2024, 4:39pm  4
+
+One of the most ambitious collections I’ve ever seen.
+
+  5 Likes
+
+[TrendHunter](https://tonresear.ch/u/TrendHunter) September 8, 2024, 4:46pm  5
+
+![:dizzy:](https://tonresear.ch/images/emoji/twitter/dizzy.png?v=12 ":dizzy:") Nutcrackers LFG! Go forward poconi!
+
+  4 Likes
+
+[AlfaTechnoCrat](https://tonresear.ch/u/AlfaTechnoCrat) September 8, 2024, 5:01pm  6
+
+Ohhh very HOT!  
+Bullish ![:fire:](https://tonresear.ch/images/emoji/twitter/fire.png?v=12 ":fire:") ![:fire:](https://tonresear.ch/images/emoji/twitter/fire.png?v=12 ":fire:") ![:fire:](https://tonresear.ch/images/emoji/twitter/fire.png?v=12 ":fire:")
+
+  4 Likes
+
+[tregga](https://tonresear.ch/u/tregga) September 8, 2024, 5:56pm  7
+
+Welcome Nutrcrackers fam!
+
+  5 Likes
+
+[blind\_dev](https://tonresear.ch/u/blind_dev) September 8, 2024, 6:07pm  8
+
+Great community: delicious allocations and great communication. I recommend it!
+
+  4 Likes
+
+[Pavel\_Knyazkov](https://tonresear.ch/u/Pavel_Knyazkov) September 8, 2024, 6:08pm  9
+
+It’s nice to see the Nutcracker collection here
+
+  3 Likes
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) September 9, 2024, 12:11pm  10
+
+Thank you for applying; we’re currently reviewing your application and will get back to you soon.
+
+  1 Like
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 3243
+
+[TON Research](/)
+
+# [GOY Token (GOY) -- The Open League Application](/t/goy-token-goy-the-open-league-application/3243)
+
+[The Open League](/c/the-open-league/token-leaderboard/57)  [Token Battle](/c/the-open-league/token-leaderboard/57) 
+
+    
+
+[Vera\_Galkina](https://tonresear.ch/u/Vera_Galkina)   April 1, 2024, 5:43pm  1
+
+[![привет](https://tonresear.ch/uploads/default/optimized/2X/9/996db0b09f51e84bfbebdba7cab7726a1d299637_2_690x230.jpeg)
+
+привет3000×1000 217 KB
+
+](https://tonresear.ch/uploads/default/original/2X/9/996db0b09f51e84bfbebdba7cab7726a1d299637.jpeg "привет")
+
+## [](#project-name-1)Project Name
+
+GOY Token
+
+## [](#projects-twitter-2)Project’s Twitter
+
+Twitter [https://twitter.com/GOY\_TOKEN](https://twitter.com/GOY_TOKEN)
+
+## [](#projects-telegram-channelgroup-3)Project’s Telegram channel/group
+
+![](https://telegram.org/img/website_icon.svg?4) [Telegram](https://t.me/goycoin)
+
+![](https://tonresear.ch/uploads/default/original/2X/0/052313be384087e3ea1a929beee2f2084f3a81be.jpeg)
+
+### [GOY](https://t.me/goycoin)
+
+You can view and join @goycoin right away.
+
+![](https://telegram.org/img/website_icon.svg?4) [Telegram](https://t.me/+ANkK7cDhcJA3NzFi)
+
+![](https://tonresear.ch/uploads/default/original/2X/4/4a896d8e0be76031086302762e3e8597daf49100.jpeg)
+
+### [#GOY\_Town Vol. 1.0](https://t.me/+ANkK7cDhcJA3NzFi)
+
+Обсуждения самого тупого токена - в самом тупом блокчейне - для самых тупых гоев. Очень жадных и очень мерзких.
+
+## [](#link-to-the-tokens-page-on-redoubt-andor-dyor-4)Link to the token’s page on Re:doubt and/or DYOR
+
+[https://beta.redoubt.online/jetton/EQAmXCLQN6PcgKMhK91\_bAPqbSvyiCw4eZRAIStkSi7fUaRA](https://beta.redoubt.online/jetton/EQAmXCLQN6PcgKMhK91_bAPqbSvyiCw4eZRAIStkSi7fUaRA)
+
+![](https://tonresear.ch/uploads/default/original/2X/5/5015538bc5f7e6fb0ca942bf22eefc800e8cc006.png) [dyor.io](https://dyor.io/ru/token/EQAmXCLQN6PcgKMhK91_bAPqbSvyiCw4eZRAIStkSi7fUaRA)
+
+![](https://tonresear.ch/uploads/default/optimized/2X/b/b826500d1ea599b9a15cbb37efa203b130ae8664_2_690x362.jpeg)
+
+### [Goy Token (GOY) Token Price - DYOR.ninja](https://dyor.io/ru/token/EQAmXCLQN6PcgKMhK91_bAPqbSvyiCw4eZRAIStkSi7fUaRA)
+
+The live Goy Token price today is 0,0133 USD with a 24-hour trading volume of 141 736,82 USD. We update our GOY to USD price in real-time.
+
+## [](#your-name-5)Your name
+
+Aimin
+
+## [](#your-telegram-handle-6)Your Telegram handle
+
+![](https://telegram.org/img/website_icon.svg?4) [Telegram](https://t.me/aimin)
+
+![](https://tonresear.ch/uploads/default/original/2X/f/fb0a397a1b009ff97e74e88c7fe7f6778199446a.jpeg)
+
+### [Aimin](https://t.me/aimin)
+
+@tonc\_news x @tearsofaimin
+
+## [](#any-other-links-or-details-that-you-want-to-share-7)Any other links or details that you want to share
+
+DEX Screemer [https://dexscreener.com/ton/eqbpvfpregc2rehbcupty70elz9z71bdtogfylu-xllijssh](https://dexscreener.com/ton/eqbpvfpregc2rehbcupty70elz9z71bdtogfylu-xllijssh)
+
+DeDust pools: [DeDust.io — AMM DEX on The Open Network](https://dedust.io/pools/EQBPVfprEGc2REhbCUpty70ELz9z71bDTOgfYLU-xlLIjSsh)
+
+Gecko: [GOY/TON - цена Goy Token на бирже DeDust с комиссией 0.4% | GeckoTerminal](https://www.geckoterminal.com/ru/ton/pools/EQBPVfprEGc2REhbCUpty70ELz9z71bDTOgfYLU-xlLIjSsh)
+
+Holders: [https://tonviewer.com/EQAmXCLQN6PcgKMhK91\_bAPqbSvyiCw4eZRAIStkSi7fUaRA?section=holders](https://tonviewer.com/EQAmXCLQN6PcgKMhK91_bAPqbSvyiCw4eZRAIStkSi7fUaRA?section=holders)
+
+By submitting the form I confirm that the data I provided is correct and I fully understand that in case of the contrary, my project will be permanently eliminated from The Open League.
+
+  1 Like
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) April 12, 2024, 2:13pm  2
+
+Hello GOY Token team,
+
+Thank you for applying to The Open League Season #1.
+
+After reviewing your application, we must inform you that your product does not meet our current eligibility criteria due to suspicious trading activity by the team and concerns raised within the community. You can view the criteria [here](https://tonresear.ch/t/about-the-memecoin-leaderboard-category/1276).
+
+Please address these issues and feel free to reapply for future seasons.
+
+Thank you.
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 32431
+
+[TON Research](/)
+
+# [LFG and big project](/t/lfg-and-big-project/32431)
+
+[General](/c/general/4) 
+
+    
+
+[FXdavid88](https://tonresear.ch/u/FXdavid88)  September 8, 2024, 4:38pm  1
+
+Nice TON, very well Just For U  
+Big hope for yours
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 32441
+
+[TON Research](/)
+
+# [Crypton ecosystem](/t/crypton-ecosystem/32441)
+
+[The Open League](/c/the-open-league/nft-battle/62)  [NFT League](/c/the-open-league/nft-battle/62) 
+
+    
+
+[Ilya\_Nesterov](https://tonresear.ch/u/Ilya_Nesterov)  September 8, 2024, 4:50pm  1
+
+*   Project’s Name: Crypton
+    
+*   Project’s Website: [https://crypton.xyz/](https://crypton.xyz/)
+    
+*   Project’s Twitter: [x.com](https://x.com/cryptonxyz)
+    
+*   Project’s Telegram channel/group: [Telegram: Contact @crypton\_off](https://t.me/crypton_off)
+    
+*   NFT Collection Name: CRYPTON
+    
+*   NFT Collection Details
+    
+    *   Total Number of NFTs: 28323
+    *   Number of Unique Holders: 4700
+    *   Total Trading Volume in TON: 98K
+*   Attach the link to a Google Doc that describes your NFT collection’s current traction, including:  
+    [https://docs.google.com/document/d/1gryF0c6bnfA9mIDJ-j6LiVW8zo7xiAyZOgcKt4TMQZc/](https://docs.google.com/document/d/1gryF0c6bnfA9mIDJ-j6LiVW8zo7xiAyZOgcKt4TMQZc/)
+    
+    *   Total Number of NFTs: 28323
+    *   Number of Unique Holders: 4700
+    *   Any additional metrics (e.g., floor price, highest sale, etc.) Floor - 0.7 TON; Highest sale - 379 TON
+    
+    Please include the proofs of this traction.
+    
+*   Please provide a smart contract address for tracking during The Open League Season 4:  
+    EQBdJY4Z6U0qmfN-wBAdVLz87S4iYbLfAmWQo0W5uLBRuwdT
+    
+*   Your name: Ilya
+    
+*   Your Telegram handle: [Telegram: Contact @sirbigcheese](https://t.me/sirbigcheese) / [Telegram: Contact @niolii](https://t.me/niolii)
+    
+*   Any other links or details that you want to share:  
+    Telegram: [Telegram: Contact @crypton\_off](https://t.me/crypton_off)  
+    Announcement: [Telegram: Contact @cryptonannouncement](https://t.me/cryptonannouncement)  
+    YouTube: [https://www.youtube.com/c/CryptonAcademy](https://www.youtube.com/c/CryptonAcademy)  
+    Instagram: [https://www.instagram.com/crypton\_ru/](https://www.instagram.com/crypton_ru/)  
+    Nutcrackers Club: [Telegram: Contact @nutcrackers\_cis](https://t.me/nutcrackers_cis)
+    
+*   By submitting this application, I undertake to fully abide by The Open League Rules of Conduct. I understand that in case of the violation of those my team will be immediately excluded from the competition. Link: [Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://ton-org.notion.site/The-Open-League-Rules-of-Conduct-04f4a0fedf1a401687075f5efd83de68)
+    
+*   By submitting the form, I confirm that the data I provided is correct and I fully understand that in case of the contrary, my project will be permanently eliminated from The Open League.
+    
+
+  6 Likes
+
+[pestov300](https://tonresear.ch/u/pestov300) September 8, 2024, 4:53pm  2
+
+Very useful ecosystem  
+Thanks developers for such a great product!  
+I’m waiting for new collections of CRYPTON merch ![:slightly_smiling_face:](https://tonresear.ch/images/emoji/twitter/slightly_smiling_face.png?v=12 ":slightly_smiling_face:")
+
+  1 Like
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) September 9, 2024, 12:11pm  3
+
+Thank you for applying; we’re currently reviewing your application and will get back to you soon.
+
+  1 Like
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 32452
+
+[TON Research](/)
+
+# [Nutrition Time: Where every recipe is NFT](/t/nutrition-time-where-every-recipe-is-nft/32452)
+
+[The Open League](/c/the-open-league/app-leaderboard/58)  [App League](/c/the-open-league/app-leaderboard/58) 
+
+    
+
+[user2289](https://tonresear.ch/u/user2289)  September 8, 2024, 5:16pm  1
+
+*   Nutrition Time
+    
+*   [https://recipeton.xyz/](https://recipeton.xyz/)
+    
+*   None
+    
+*   [Telegram: Contact @recipetonru](https://t.me/recipetonru) [Telegram: Contact @recipetonen](https://t.me/recipetonen) [Telegram: Contact @nutritiontime](https://t.me/nutritiontime) [Telegram: Contact @nutritiontimeEN](https://t.me/nutritiontimeEN) [Telegram: Contact @recipetonruchat](https://t.me/recipetonruchat)
+    
+*   Project’s Metrics: [https://drive.google.com/file/d/1a3Iri-hwSfn2BaX08WoFfDQoh69damSI/view?usp=sharing](https://drive.google.com/file/d/1a3Iri-hwSfn2BaX08WoFfDQoh69damSI/view?usp=sharing) [https://drive.google.com/file/d/1wqx01sc\_S6VaSuloCCTTxgKeg8u6l-ZZ/view?usp=sharing](https://drive.google.com/file/d/1wqx01sc_S6VaSuloCCTTxgKeg8u6l-ZZ/view?usp=sharing)  
+    [正在載入 Google 文件](https://docs.google.com/document/d/1gcuxzpnQJWEk_MOOZISuSjHYV4u4CsmS/edit?usp=sharing&ouid=105479620890543963174&rtpof=true&sd=true)
+    
+    *   ["Золотая Поваренная Книга"](https://getgems.io/recipeton)
+    
+    * * *
+    
+*   Aliev Denis Sergeevich
+    
+*   @alievdenis1 , @verytastycat
+    
+*   [Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://twilight-backpack-bde.notion.site/White-paper-RECIPETON-7e8836e6e24b43719b85eed24673f35f) , [Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://twilight-backpack-bde.notion.site/Technical-specification-a7b9c9e4a942494385ecbb0e2685e495?pvs=4) , ["Золотая Поваренная Книга"](https://getgems.io/recipeton) , [https://boomstarter.ru/projects/1145235/nutritiontime-\_kripto-kulinarnoe\_prilozhenie\_v\_telegram](https://boomstarter.ru/projects/1145235/nutritiontime-_kripto-kulinarnoe_prilozhenie_v_telegram) , [Nutrition Time | Buidls | DoraHacks](https://dorahacks.io/buidl/10852) , [GitHub - alievdenis1/NutritionTime\_Dev-test](https://github.com/alievdenis1/NutritionTime_Dev-test) , [GitHub - alievdenis1/nutritiontime](https://github.com/alievdenis1/nutritiontime) , [https://www.figma.com/design/cnUzzG2uH6egNNt3GQTSlF/Design?node-id=0-1&node-type=CANVAS&t=uckLquLPIs67Pn2c-0](https://www.figma.com/design/cnUzzG2uH6egNNt3GQTSlF/Design?node-id=0-1&node-type=CANVAS&t=uckLquLPIs67Pn2c-0) , [https://www.figma.com/design/BdQfkFrzfAfp8u1yOtVCYI/Recipe-TON?node-id=0-1&node-type=CANVAS&t=jBYVAY3c8ehgJ2Fn-0](https://www.figma.com/design/BdQfkFrzfAfp8u1yOtVCYI/Recipe-TON?node-id=0-1&node-type=CANVAS&t=jBYVAY3c8ehgJ2Fn-0)
+    
+*   By submitting this application, I undertake to fully abide by The Open League Rules of Conduct. I understand that in case of the violation of those my team will be immediately excluded from the competition. Link: [Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://ton-org.notion.site/The-Open-League-Rules-of-Conduct-04f4a0fedf1a401687075f5efd83de68)
+    
+*   By submitting the form I confirm that the data I provided is correct and I fully understand that in case of the contrary, my project will be permanently eliminated from The Open League
+    
+
+ 
+
+[user2289](https://tonresear.ch/u/user2289) September 8, 2024, 5:22pm  2
+
+[docs.google.com](https://docs.google.com/document/d/104FWHdwUXYNCFMNDFu5L6REv-DezYhmo/edit?usp=sharing&ouid=105479620890543963174&rtpof=true&sd=true)
+
+[](https://docs.google.com/document/d/104FWHdwUXYNCFMNDFu5L6REv-DezYhmo/edit?usp=sharing&ouid=105479620890543963174&rtpof=true&sd=true)
+
+### [正在載入 Google 文件](https://docs.google.com/document/d/104FWHdwUXYNCFMNDFu5L6REv-DezYhmo/edit?usp=sharing&ouid=105479620890543963174&rtpof=true&sd=true)
+
+This Doc is private
+
+ 
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) September 9, 2024, 7:36am  3
+
+Thank you for applying; we’re currently reviewing your application and will get back to you soon.
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 32458
+
+[TON Research](/)
+
+# [DreamCoin - The Open League App (Season 6)](/t/dreamcoin-the-open-league-app-season-6/32458)
+
+[The Open League](/c/the-open-league/app-leaderboard/58)  [App League](/c/the-open-league/app-leaderboard/58) 
+
+    
+
+[dreamcoin](https://tonresear.ch/u/dreamcoin)  September 8, 2024, 5:22pm  1
+
+*   Project’s Name: Dreamcoin
+    
+*   Project’s Twitter: [x.com](https://x.com/thedreamcoin)
+    
+*   Project’s Telegram channel/group: [Telegram: Contact @DreamCoinCommunity](https://t.me/DreamCoinCommunity)
+    
+*   Project’s Metrics:  
+    Total Users: 1.4M  
+    DAU: 600K  
+    MAU: not relevant yet, Public Release was on 03.09.2024  
+    Connected Wallets: -, this feature will be added soon
+    
+*   Attach the link to a Google Doc that describes your current traction:  
+    [https://docs.google.com/document/d/1Y\_bBNTc7W6yKU7f5ZTiODJoW-Cw9pJh3UpRXGe6Ta0k/edit](https://docs.google.com/document/d/1Y_bBNTc7W6yKU7f5ZTiODJoW-Cw9pJh3UpRXGe6Ta0k/edit)
+    
+*   [TOL S6 Apps Dreamcoin - Google](https://docs.google.com/document/d/1iNcMEsKIoQLhNED0C6og7Txp4jrJb3mXYT3ZA5Agt-8/edit)
+    
+*   Add the name you indicated in the bot for SDK integration: DreamCoinOfficial\_bot
+    
+*   Your name: Lucas
+    
+*   Your Telegram handle: **@ownvill**
+    
+*   Any other links or details that you want to share: [Dreamcoin was recently listed on Apps Center](https://t.me/tapps_bot/center?startapp=app_dreamcoin)
+    
+*   By submitting this application, I undertake to fully abide by The Open League Rules of Conduct. I understand that in case of the violation of those my team will be immediately excluded from the competition. Link: [Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://ton-org.notion.site/The-Open-League-Rules-of-Conduct-04f4a0fedf1a401687075f5efd83de68)
+    
+*   By submitting the form I confirm that the data I provided is correct and I fully understand that in case of the contrary, my project will be permanently eliminated from The Open League
+    
+
+ 
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) September 9, 2024, 7:35am  2
+
+Thank you for applying; we’re currently reviewing your application and will get back to you soon.
+
+  1 Like
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 32463
+
+[TON Research](/)
+
+# [⛽ GasPump – bonding curve launchpad](/t/gaspump-bonding-curve-launchpad/32463)
+
+[The Open League](/c/the-open-league/defi-battle/63)  [DeFi League](/c/the-open-league/defi-battle/63) 
+
+    
+
+[karfly](https://tonresear.ch/u/karfly)  September 8, 2024, 5:25pm  1
+
+*   Project’s Name: ![:fuelpump:](https://tonresear.ch/images/emoji/twitter/fuelpump.png?v=12 ":fuelpump:") GasPump
+    
+*   Project’s Website: [Telegram: Contact @gaspump\_bot](https://t.me/gaspump_bot) / [https://gaspump.tg](https://gaspump.tg)
+    
+*   Project’s Twitter: [x.com](https://x.com/gaspump_tv)
+    
+*   Project’s Telegram channel/group: [Telegram: Contact @gaspump\_tv](https://t.me/gaspump_tv)
+    
+*   DeFi Protocol Name: ![:fuelpump:](https://tonresear.ch/images/emoji/twitter/fuelpump.png?v=12 ":fuelpump:") GasPump
+    
+*   DeFi Protocol Details
+    
+    *   Total Value Locked (TVL): 27,000 TON \[not primary metric\]
+    *   Total Trading Volume: 4,300,000 TON
+    *   Integration Status with Defillama (provide link): [https://defillama.com/protocol/gaspump](https://defillama.com/protocol/gaspump) \[volume integration in progress\]
+*   \[done\] Please fill out this form: [https://forms.gle/R7bEDJcAJZNgsjau7](https://forms.gle/R7bEDJcAJZNgsjau7)
+    
+*   Your name: Karim Iskakov
+    
+*   Your Telegram handle: [@karfly](/u/karfly)
+    
+*   By submitting this application, I undertake to fully abide by The Open League Rules of Conduct. I understand that in case of the violation of those my team will be immediately excluded from the competition. Link: [Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://ton-org.notion.site/The-Open-League-Rules-of-Conduct-04f4a0fedf1a401687075f5efd83de68)
+    
+*   By submitting the form, I confirm that the data I provided is correct and I fully understand that in case of the contrary, my project will be permanently eliminated from The Open League.
+    
+
+  1 Like
+
+[Azara](https://tonresear.ch/u/Azara) September 8, 2024, 5:46pm  2
+
+GasPump is just the best bonding curve / meme launchpad on TON Blockchain, the devs are doing an amazing job improving the miniapp every week, I love it, let’s make TON memes fun again!!!
+
+  1 Like
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 32476
+
+[TON Research](/)
+
+# [Rabbit Club NFT League application](/t/rabbit-club-nft-league-application/32476)
+
+[The Open League](/c/the-open-league/nft-battle/62)  [NFT League](/c/the-open-league/nft-battle/62) 
+
+    
+
+[Seth\_Ickerman](https://tonresear.ch/u/Seth_Ickerman)  September 8, 2024, 5:51pm  1
+
+*   Project’s Name: Rabbit Club
+    
+*   Project’s Website: In Development
+    
+*   Project’s Twitter: None
+    
+*   Project’s Telegram channel/group: [Telegram: Contact @rabbit\_club\_ton](https://t.me/rabbit_club_ton)
+    
+*   NFT Collection Name: Rabbit Club
+    
+*   NFT Collection Details
+    
+    *   Total Number of NFTs: 615
+    *   Number of Unique Holders: 184
+    *   Total Trading Volume in TON: 8600 TON  
+        All those metrics available on GetGems collection statistic [Rabbit Club](https://getgems.io/whiteclub)
+*   Please provide a smart contract address for tracking during The Open League Season 4: EQB\_utiDZBuWgQWGib8SV2XYVbWy8KVsRaTMT7la0Q5V8jP4
+    
+*   Your name: Alexander
+    
+*   Your Telegram handle: [@seth\_ickerman](/u/seth_ickerman)
+    
+*   Any other links or details that you want to share: We have conducted the community takeover over the original project on TON after developers decided to vanish. We got access to the collection wallet and managed to regain some part of the community. Also we managed to keep the floor price from going down to zero. We are going to give a new life to this project and release a p2e platform based on TG miniapps, including farming bot and different games with PvE and PvP modes. Also we are going to have an utilitary token that will be used to access our games. It can be gained only VIA our farming bot. The main gateway to our ecosystem is our farming bot paired with our NFT collection, that provides boosted token gain.  
+    \-Farming bot is already in development stage.
+    
+*   Old channel [Telegram: Contact @WhiteRabbitTON](https://t.me/WhiteRabbitTON)
+    
+*   Old web-site [https://whiteclub.io/](https://whiteclub.io/)
+    
+*   By submitting this application, I undertake to fully abide by The Open League Rules of Conduct. I understand that in case of the violation of those my team will be immediately excluded from the competition. Link: [Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://ton-org.notion.site/The-Open-League-Rules-of-Conduct-04f4a0fedf1a401687075f5efd83de68)
+    
+*   By submitting the form, I confirm that the data I provided is correct and I fully understand that in case of the contrary, my project will be permanently eliminated from The Open League.
+    
+
+  4 Likes
+
+[cryptnik](https://tonresear.ch/u/cryptnik) September 8, 2024, 6:04pm  2
+
+We’ll be sure to follow your progressWe’ll be sure to follow your progress
+
+  2 Likes
+
+[Seth\_Ickerman](https://tonresear.ch/u/Seth_Ickerman) September 8, 2024, 6:40pm  4
+
+Thank you my friend!
+
+ 
+
+[user2369](https://tonresear.ch/u/user2369) September 8, 2024, 7:24pm  5
+
+Мы величайшие, но вы пока об этом не знаете;)
+
+* * *
+
+We are the greatest, but you don’t know it yet ![:wink:](https://tonresear.ch/images/emoji/twitter/wink.png?v=12 ":wink:")
+
+ 
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) September 9, 2024, 12:11pm  6
+
+Thank you for applying; we’re currently reviewing your application and will get back to you soon.
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 32478
+
+[TON Research](/)
+
+# [Not Pixel – Pixel War on Telegram](/t/not-pixel-pixel-war-on-telegram/32478)
+
+[The Open League](/c/the-open-league/app-leaderboard/58)  [App League](/c/the-open-league/app-leaderboard/58) 
+
+    
+
+[Not\_Pixel](https://tonresear.ch/u/Not_Pixel)   September 8, 2024, 5:57pm  1
+
+![notpxopen](https://tonresear.ch/uploads/default/original/2X/9/99db77312a20ca7e2f318491dc63dfadcd865abe.png)
+
+*   Project’s Name  
+    Not Pixel
+    
+*   Project’s Website  
+    Not yet.
+    
+*   Project’s Twitter  
+    [https://x.com/notpixelx](https://x.com/notpixelx)
+    
+*   Project’s Telegram channel/group  
+    [https://t.me/notpixel\_channel](https://t.me/notpixel_channel)  
+    [https://t.me/notpixel](https://t.me/notpixel) (closed beta test)
+    
+*   Project’s Metrics  
+    [https://docs.google.com/document/d/1jh\_af-6bZhskqxl-gQJsWTSvt0pQT\_l58OVSQEOyShc/](https://docs.google.com/document/d/1jh_af-6bZhskqxl-gQJsWTSvt0pQT_l58OVSQEOyShc/edit)
+    
+*   SMC details  
+    [https://docs.google.com/document/d/1GnT-8JRp4x\_eeVtcVPjAoYdzzhE0bGAje98EjrYBWRQ/](https://docs.google.com/document/d/1GnT-8JRp4x_eeVtcVPjAoYdzzhE0bGAje98EjrYBWRQ/edit?usp=sharing)
+    
+*   Add the name you indicated in the bot for SDK integration  
+    NotPixel
+    
+*   Your name  
+    Alexander
+    
+*   Your Telegram handle  
+    @ibioidi
+    
+*   By submitting this application, I undertake to fully abide by The Open League Rules of Conduct. I understand that in case of the violation of those my team will be immediately excluded from the competition. Link: [Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://ton-org.notion.site/The-Open-League-Rules-of-Conduct-04f4a0fedf1a401687075f5efd83de68)
+    
+*   By submitting the form I confirm that the data I provided is correct and I fully understand that in case of the contrary, my project will be permanently eliminated from The Open League.
+    
+
+ 
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) September 9, 2024, 7:32am  2
+
+Thank you for applying; we’re currently reviewing your application and will get back to you soon.
+
+  1 Like
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 32484
+
+[TON Research](/)
+
+# [Big balls birds](/t/big-balls-birds/32484)
+
+[The Open League](/c/the-open-league/nft-battle/62)  [NFT League](/c/the-open-league/nft-battle/62) 
+
+    
+
+[eshiasd](https://tonresear.ch/u/eshiasd)  September 8, 2024, 6:17pm  1
+
+*   Project name: BIG BALLS BIRDS
+    
+*   Website: [https://bigballsbirds.fun/](https://bigballsbirds.fun/)
+    
+*   [Twitter](https://twitter.com/balls_on_ton)
+    
+*   Project’s Telegram channel/group: Telegram channel [EN](https://t.me/big_balls_birds_en), Telegram channel [RU](https://t.me/big_balls_birds), Chat [RU](https://t.me/big_balls_birds_ruchat), Chat [EN](https://t.me/big_balls_birds_chat).
+    
+*   NFT Collection Name: BIG BALLS BIRDS
+    
+*   NFT Collection Details
+    
+    *   1000
+    *   Number of Unique Holders: 604
+    *   Total Trading Volume in TON: 12K
+*   Attach the link to a Google Doc that describes your NFT collection’s current traction, including: [https://docs.google.com/document/d/1v\_rzejHcwxfNQ6FPv9xNzd8r2iffzBUzQ9IVGHRAfVM/edit?usp=sharing](https://docs.google.com/document/d/1v_rzejHcwxfNQ6FPv9xNzd8r2iffzBUzQ9IVGHRAfVM/edit?usp=sharing)
+    
+    Please include the proofs of this traction.
+    
+*   Please provide a smart contract address for tracking during The Open League Season 6: EQAJZy957mjfURxDg0f\_8r0wLRaV02tjE6vx6NTGIlOhBVcD
+    
+*   Egor
+    
+*   [@eshiasd](/u/eshiasd)
+    
+*   Token $BALLS: [https://dexscreener.com/ton/eqaccnlquzvgcj7g1os\_owxk4wxqsvbsm9d0fjlba\_wykuay](https://dexscreener.com/ton/eqaccnlquzvgcj7g1os_owxk4wxqsvbsm9d0fjlba_wykuay)
+    
+*   By submitting this application, I undertake to fully abide by The Open League Rules of Conduct. I understand that in case of the violation of those my team will be immediately excluded from the competition. Link: [Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://ton-org.notion.site/The-Open-League-Rules-of-Conduct-04f4a0fedf1a401687075f5efd83de68)
+    
+*   By submitting the form, I confirm that the data I provided is correct and I fully understand that in case of the contrary, my project will be permanently eliminated from The Open League.
+    
+
+  1 Like
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) September 9, 2024, 12:11pm  2
+
+Thank you for applying; we’re currently reviewing your application and will get back to you soon.
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 32492
+
+[TON Research](/)
+
+# [Agent 301 - The Open League App (Season 6)](/t/agent-301-the-open-league-app-season-6/32492)
+
+[The Open League](/c/the-open-league/app-leaderboard/58)  [App League](/c/the-open-league/app-leaderboard/58) 
+
+    
+
+[facedetrctor](https://tonresear.ch/u/facedetrctor)  September 8, 2024, 6:32pm  1
+
+*   Project’s Name: Agent 301
+    
+*   Project’s Twitter: [x.com](https://x.com/301Community)
+    
+*   Project’s Telegram channel/group: [Telegram: Contact @app301](https://t.me/app301)
+    
+*   Project’s Metrics:  
+    Total Users: 8.2M+  
+    DAU: 3.2M+  
+    MAU: Project was released on 30.07.2024  
+    Connected wallets: 4.3M+
+    
+*   Attach the link to a Google Doc that describes your current traction: [https://docs.google.com/document/d/1rVxOtZy5R0KDwWoWdViQ8LrItMwPzxrNjPR2gnJF7I8/edit?usp=sharing](https://docs.google.com/document/d/1rVxOtZy5R0KDwWoWdViQ8LrItMwPzxrNjPR2gnJF7I8/edit?usp=sharing)
+    
+*   [TOL S6 Apps Agent 301 Application - Google 文件](https://docs.google.com/document/d/1kpGoAc5fLdXY7Y-bxe2KHV8e3F8m9-XoCGAFz31cRGk/edit?usp=sharing)
+    
+*   Your name: Ivan
+    
+*   Your Telegram handle: @facedetector
+    
+*   Any other links or details that you want to share:  
+    [https://www.youtube.com/@301Community](https://www.youtube.com/@301Community)
+    
+*   By submitting this application, I undertake to fully abide by The Open League Rules of Conduct. I understand that in case of the violation of those my team will be immediately excluded from the competition. Link: [Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://ton-org.notion.site/The-Open-League-Rules-of-Conduct-04f4a0fedf1a401687075f5efd83de68)
+    
+*   By submitting the form I confirm that the data I provided is correct and I fully understand that in case of the contrary, my project will be permanently eliminated from The Open League
+    
+
+ 
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) September 9, 2024, 7:26am  2
+
+Please fill out your document with SMC details and SDK name ASAP to be able to participate in THe Open League Season 6
+
+ 
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) September 9, 2024, 7:27am  3
+
+Thank you for applying; we’re currently reviewing your application and will get back to you soon.
+
+ 
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) September 10, 2024, 5:41am  5
+
+Please check your SDK integration, as it’s currently showing 0 data. If you need assistance, head over to the dedicated chat for support - [Telegram: Join Group Chat](https://t.me/+ZOa8GSiVpyxmMWFi). We will review your SDK status by Wednesday, 10 AM UTC.
+
+ 
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) September 13, 2024, 11:24am  6
+
+Hey team, congratulations on being approved for The Open League Season 6!
+
+We’re excited to invite you to join a dedicated chat for all participants. Please fill out this form: [https://forms.gle/WHzLpT9EcK79KPUB9](https://forms.gle/WHzLpT9EcK79KPUB9), mentioning your project name and the Telegram handles of those who will be joining the chat (up to 2 people per team). Once submitted, join the chat via this link: [Telegram: Join Group Chat](https://t.me/+TbKriSZt35BiNmUy).
+
+We’ll validate your handles and grant you access shortly. Looking forward to seeing you there!
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 325
+
+[TON Research](/)
+
+# [Revolutionizing Community Funding on TON Blockchain: The Meridian Initiative](/t/revolutionizing-community-funding-on-ton-blockchain-the-meridian-initiative/325)
+
+[Application](/c/application/20) 
+
+    
+
+[Simpson](https://tonresear.ch/u/Simpson)   February 8, 2024, 5:48am  1
+
+**Abstract:** The Meridian initiative marks a groundbreaking advancement in the TON Blockchain ecosystem, establishing the first entirely on-chain collection of random characters, Meridian. This initiative not only showcases a technical marvel but also pioneers a community-driven approach to fund innovative projects within the TON ecosystem. Unlike traditional NFT collections, Meridian focuses on building a robust community, the Meridian Club, dedicated to supporting and financing projects on TON, emphasizing collective decision-making and direct involvement in the ecosystem’s growth.
+
+[![截圖 2024-02-08 下午1.47.32](https://tonresear.ch/uploads/default/optimized/1X/76f08a5e93a43b3023545b2c9e52d8cfdd80be65_2_636x500.png)
+
+截圖 2024-02-08 下午1.47.321854×1456 241 KB
+
+](https://tonresear.ch/uploads/default/original/1X/76f08a5e93a43b3023545b2c9e52d8cfdd80be65.png "截圖 2024-02-08 下午1.47.32")
+
+**Introduction:** The advent of blockchain technology has ushered in a new era of decentralized finance and community-driven project funding. Among various platforms, the TON Blockchain stands out for its scalability, speed, and efficiency. Leveraging these attributes, the Meridian initiative introduces a novel concept of community engagement and funding. Through the sale of unique, on-chain generated characters, Meridian directs a significant portion of its revenue towards community-controlled treasury, empowering holders to fund promising projects on the TON network.
+
+**Meridian Overview:**
+
+*   **Unique Attributes:** Each Meridian character is generated entirely on-chain, ensuring 100% randomness and uniqueness. The collection boasts a no off-chain pre-sales and pre-minting policy, with all operations governed by smart contracts.
+*   **Revenue Allocation:** A significant 50% of sales and re-sales revenue is allocated to the Meridian Club’s treasury, facilitating collective investment decisions.
+*   **Auction Mechanics:** Meridian introduces a daily auction system, where new characters are minted and offered, starting at a minimum bid of 1 TON.
+
+**Meridian Club Manifesto:**  
+The Meridian Club is more than a collection of NFT holders; it’s a movement. Adhering to a manifesto that champions the support of early-stage projects, the club aims to foster a culture of collaboration, support, and angel investment skills development. This manifesto underlines the community’s commitment to being at the forefront of funding experimental ideas and projects within the TON ecosystem, setting a new standard for community engagement and support.
+
+**Technical Innovation: On-Chain Artwork:**  
+Meridian sets itself apart by storing all artwork directly on the TON Blockchain, a feat achieved through custom lossless binary compression designed for pixel-art graphics. This approach ensures that Meridian characters are permanently accessible as long as the TON network exists, bypassing the need for external storage solutions like IPFS.
+
+**Meridian Characters Composition:**
+
+*   **Components:** Meridian characters are composed of multiple elements, including 21 backgrounds, 4 bodies, 6 eyes, 102 heads, and 47 labels, culminating in over 2.4 million unique combinations.
+*   **Equality in Rarity:** All Meridians are crafted to be equally rare, promoting fairness and inclusivity within the collection.
+
+**Governance and Future Directions:**  
+The governance structure of the Meridian Club is designed to evolve, starting with a unique approach where a “Tyrant” leads the community in its initial phases. This interim governance model is intended to foster culture and prepare for democratic governance through elections.
+
+**Conclusion:**  
+The Meridian initiative on the TON Blockchain represents a significant leap forward in community-driven funding and governance. By blending technical innovation with a strong focus on community values and participation, Meridian paves the way for a new paradigm in supporting and realizing the potential of projects within the TON ecosystem.
+
+**Further Reading and Resources:**
+
+*   Meridian Whitepaper: [Explore the full document](https://docs.google.com/document/d/1yLNJ0zzI9AL--anfmZzz_UC8SfzMXQWU376cfrH3wgY/edit?usp=sharing)
+*   Collection & Community Links: [View on Getgems](https://getgems.io/collection/EQAVGhk_3rUA3ypZAZ1SkVGZIaDt7UdvwA4jsSGRKRo-MRDN), [Telegram Channel](https://t.me/meridian_wtf), [Treasury Wallet](https://tonwhales.com/explorer/address/EQAP9cLr8DvA7j1dDJq7m0hIAVU9fUYhbgVhBjzKQMWhOimF), [Playground](https://meridian.wtf/playground).
+
+The Meridian initiative encapsulates the essence of innovation, community, and collaboration within the TON Blockchain ecosystem, setting a benchmark for future projects and communities. ![:globe_with_meridians:](https://tonresear.ch/images/emoji/twitter/globe_with_meridians.png?v=12 ":globe_with_meridians:")![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:")
+
+[https://meridian.wtf/](https://meridian.wtf/)
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 32501
+
+[TON Research](/)
+
+# [Kickton - The Open League App (Season 6)](/t/kickton-the-open-league-app-season-6/32501)
+
+[The Open League](/c/the-open-league/app-leaderboard/58)  [App League](/c/the-open-league/app-leaderboard/58) 
+
+    
+
+[vibrant](https://tonresear.ch/u/vibrant)  September 8, 2024, 6:44pm  1
+
+*   Project’s Name: Kickton
+    
+*   Project’s Website: [https://kickton.com](https://kickton.com)
+    
+*   Project’s Twitter: [x.com](https://x.com/kickton_com)
+    
+*   Project’s Telegram channel/group: [Telegram: Contact @kickton\_com](https://t.me/kickton_com)
+    
+*   Project’s Metrics:  
+    Launching September 9th 2024, will be boosted by 3 million registered users of @firecoin\_app\_bot
+    
+*   Attach the link to a Google Doc that describes your current traction, including  
+    [https://docs.google.com/document/d/1NbLE1EdNsVBUmHW49-5jl0RJXmGVX-VnQ3mXjjMgtPU/edit](https://docs.google.com/document/d/1NbLE1EdNsVBUmHW49-5jl0RJXmGVX-VnQ3mXjjMgtPU/edit)
+    
+*   Please copy this document [Kickton TOL S6 Apps - Google 文件](https://docs.google.com/document/d/1qBr4Z2JPGiY8tXzArXHIEzY5B-Bl-jB5VdUWE7HIrNE/edit)
+    
+    *   Add the name you indicated in the bot for SDK integration
+*   Your name: Jacob Rylko (founder & CEO)
+    
+*   Your Telegram handle: @ravenseldon
+    
+*   Any other links or details that you want to share  
+    Our goal is delivering European users to Telegram & TON through sports entertainment, starting with football which is the most popular sport in the world (3.5 billion fans worldwide).
+    
+*   By submitting this application, I undertake to fully abide by The Open League Rules of Conduct. I understand that in case of the violation of those my team will be immediately excluded from the competition. Link: [Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://ton-org.notion.site/The-Open-League-Rules-of-Conduct-04f4a0fedf1a401687075f5efd83de68)
+    
+*   By submitting the form I confirm that the data I provided is correct and I fully understand that in case of the contrary, my project will be permanently eliminated from The Open League
+    
+
+ 
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) September 9, 2024, 7:21am  2
+
+Please fill out your document with SMC details and SDK name ASAP to be able to participate in THe Open League Season 6
+
+ 
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) September 9, 2024, 7:21am  3
+
+Thank you for applying; we’re currently reviewing your application and will get back to you soon.
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 32503
+
+[TON Research](/)
+
+# [Mini App Asquids as an Application](/t/mini-app-asquids-as-an-application/32503)
+
+[Application](/c/application/20) 
+
+    
+
+[Alexander\_Scherbina](https://tonresear.ch/u/Alexander_Scherbina)  September 8, 2024, 6:45pm  1
+
+*   Project’s Name Asquids Game
+    
+*   Project’s Website [asquids.com](http://asquids.com)
+    
+*   Project’s Twitter asquid\_s
+    
+*   Project’s Telegram channel/group asquids\_s
+    
+*   NFT Collection Name Asquids
+    
+*   NFT Collection Details
+    
+    *   Total Number of NFTs 1k
+    *   Number of Unique Holders 1
+    *   Total Trading Volume in TON 0, just started
+*   Attach the link to a Google Doc that describes your NFT collection’s current traction, including:
+    
+    *   Number of Unique Holders
+    *   Total Trading Volume in TON
+    *   Any additional metrics (e.g., floor price, highest sale, etc.)  
+        [https://docs.google.com/file/d/16XpxU9vMCY46j-phZyR52wWkic\_lJ5fU/edit?usp=docslist\_api&filetype=msword](https://docs.google.com/file/d/16XpxU9vMCY46j-phZyR52wWkic_lJ5fU/edit?usp=docslist_api&filetype=msword)
+    
+    Please include the proofs of this traction.
+    
+*   Please provide a smart contract address for tracking during The Open League Season 4.
+    
+*   Your name Alexander
+    
+*   Your Telegram handle @alexander\_shcherbina/+7 707 371 57 26
+    
+*   Any other links or details that you want to share
+    
+*   By submitting this application, I undertake to fully abide by The Open League Rules of Conduct. I understand that in case of the violation of those my team will be immediately excluded from the competition. Link: [Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://ton-org.notion.site/The-Open-League-Rules-of-Conduct-04f4a0fedf1a401687075f5efd83de68)
+    
+*   By submitting the form, I confirm that the data I provided is correct and I fully understand that in case of the contrary, my project will be permanently eliminated from The Open League.
+    
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 32506
+
+[TON Research](/)
+
+# [🚀 Crypto Millionaire – Multi-Blockchain Wallet with Gamified Learning | Application for The Open League](/t/crypto-millionaire-multi-blockchain-wallet-with-gamified-learning-application-for-the-open-league/32506)
+
+[The Open League](/c/the-open-league/app-leaderboard/58)  [App League](/c/the-open-league/app-leaderboard/58) 
+
+    
+
+[Crypto\_Millionaire1](https://tonresear.ch/u/Crypto_Millionaire1)  September 8, 2024, 6:48pm  1
+
+Project: Crypto Millionaire  
+Telegram Mini App: [CryptoMillionaireApp  
+](https://t.me/CryptoMillionaireApp_Bot)Project Twitter: [CryptoMillionaireX  
+](https://x.com/CryptoMillGame)Telegram Channel: [CryptoMillionaireChannel  
+](https://t.me/CryptoMillionaireNews)Telegram Chat: [CryptoMillionaireChat](https://t.me/cryptomillionairechat)
+
+* * *
+
+Project Metrics:  
+Number of wallets created:
+
+*   TON: 7328
+*   BTC: 2463
+*   ETH: 2421
+*   BNB: 1842
+*   TRX: 1032
+*   USDT erc-20: 623
+*   USDT trc-20: 596
+*   DOGE: 569
+*   USDT bep-20: 545
+*   LTC: 454
+*   DASH: 337
+
+MAU (Monthly Active Users): 375K
+
+SDK Integration:  
+The SDK for tracking off-chain and on-chain events has been successfully integrated.
+
+Proof metrics: [Proof Crypto Millionaire](https://docs.google.com/document/d/1gGOJ7hQrK7xZacUOA-InPTyWUVjlPiYPWddwQ_p8vQI/edit?usp=sharing)
+
+* * *
+
+Project: Crypto Millionaire is developing a multi-blockchain crypto wallet and a gaming platform. The platform offers users learning through game-based tasks, including quizzes and missions, with the opportunity to earn real cryptocurrencies directly into their wallet. The wallet was launched in beta on September 7, 2024.
+
+* * *
+
+Project Features:
+
+*   Multi-blockchain wallet supporting 10+ cryptocurrencies
+*   Gamification of the learning process: complete missions and participate in quizzes
+*   Real cryptocurrency rewards for users
+
+* * *
+
+Link to the document for SMC monitoring: [Crypto Millionaire TOL S6 Apps](https://docs.google.com/document/d/1WRAGoiMeAQCjn94NH3OLPgVpQdHH2l8Nv973hPh0Sb4/edit#heading=h.oqrlikyewxte)
+
+* * *
+
+Confirmation:  
+I confirm that the provided data is accurate and commit to adhering to [The Open League Rules of Conduct](https://ton-org.notion.site/The-Open-League-Rules-of-Conduct-04f4a0fedf1a401687075f5efd83de68). In case of violation, my team will be immediately disqualified from the competition.  
+By submitting this application, I undertake to fully abide by The Open League Rules of Conduct. I understand that in case of the violation of those, my team will be immediately excluded from the competition.
+
+  1 Like
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) September 9, 2024, 7:18am  2
+
+Please fill out your document with SMC details and SDK name ASAP to be able to participate in THe Open League Season 6
+
+ 
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) September 9, 2024, 7:19am  3
+
+Thank you for applying; we’re currently reviewing your application and will get back to you soon.
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 32508
+
+[TON Research](/)
+
+# [Bcoin 2048 - The Open League App Season 6](/t/bcoin-2048-the-open-league-app-season-6/32508)
+
+[The Open League](/c/the-open-league/app-leaderboard/58)  [App League](/c/the-open-league/app-leaderboard/58) 
+
+    
+
+[ChuckXO](https://tonresear.ch/u/ChuckXO)  September 8, 2024, 6:53pm  1
+
+*   Project’s Name: Bcoin 2048
+    
+*   Project’s Website: [Telegram: Contact @Bcoin2048bot](https://t.me/Bcoin2048bot)
+    
+*   Project’s Twitter: [x.com](http://x.com/bcoin2048)
+    
+*   Project’s Telegram channel/group: [Telegram: Contact @bcoin2048](https://t.me/bcoin2048)
+    
+*   Project’s Metrics  
+    [Bcoin 2048 current traction](https://docs.google.com/document/d/1Cj8SULQ8t6bOeFpSTXw15WT6FlNtFclcu3jKLL1xzls/edit?usp=sharing)
+    
+*   Project’s SMC details for leaderboard tracking: [TOL S6 Apps Bcoin 2048](https://docs.google.com/document/d/1F7Wa9H2JADP0pIdWeY9QuaiXtN2rHl836QC8pB7e3mM/edit)
+    
+    *   Add the name you indicated in the bot for SDK integration: Bcoin\_2048
+*   Your name: Eldar Khayretdinov
+    
+*   Your Telegram handle: @EldHD
+    
+
+ 
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) September 9, 2024, 7:17am  2
+
+Please fill out your document with SMC details ASAP to be able to participate in THe Open League Season 6
+
+Thank you for applying; we’re currently reviewing your application and will get back to you soon.
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 32517
+
+[TON Research](/)
+
+# [BeeTon - The Open League App (Season 6)](/t/beeton-the-open-league-app-season-6/32517)
+
+[The Open League](/c/the-open-league/56) 
+
+    
+
+[beeton](https://tonresear.ch/u/beeton)   September 8, 2024, 7:00pm  1
+
+[![photo_2024-07-31_17-52-39](https://tonresear.ch/uploads/default/optimized/3X/2/d/2de0971458a10fa36fd193c08a505baa79eb1bf7_2_690x426.jpeg)
+
+photo\_2024-07-31\_17-52-391280×792 75.1 KB
+
+](https://tonresear.ch/uploads/default/original/3X/2/d/2de0971458a10fa36fd193c08a505baa79eb1bf7.jpeg "photo_2024-07-31_17-52-39")
+
+*   BeeTon
+    
+*   [Mini-App bot](https://t.me/beetongamebot)
+    
+*   [X (Twitter)](https://x.com/Beeton_Official)
+    
+*   Project’s Telegram channel/group  
+    [Telegram main channel](https://t.me/beetoncomm)  
+    [Telegram RU chat](https://t.me/beetongamechat)  
+    [Telegram ENG chat](https://t.me/beetonchat_en)
+    
+*   Project’s Metrics  
+    MAU: 41.558  
+    Total Users: 103.125  
+    Connected Wallets: 103.125
+    
+*   BeeTon Current Traction - [https://docs.google.com/document/d/1uUjkb7ckbn94dTy-aCTDHz3qoXtZ\_C6VCquFOf9FkOs/edit?usp=sharing](https://docs.google.com/document/d/1uUjkb7ckbn94dTy-aCTDHz3qoXtZ_C6VCquFOf9FkOs/edit?usp=sharing)
+    
+*   Your name Sergey
+    
+*   Your Telegram handle @beetonadmin
+    
+*   Any other links or details that you want to share:  
+    [BeeTon NFT Collection](https://getgems.io/collection/EQDbVHtReoteD0dSJJjkn3KayWnz8qQYRU3Suw_lsrZvtkvz)  
+    [Welcome to BeeTon | Whitepaper](https://beeton.gitbook.io/introduction)
+    
+*   Please copy this document ([TOL S6 Apps - Google 文件](https://docs.google.com/document/d/1sWWmQuRGRYbcihxxFtb1I28kvUqs8q2ul7ukaW_hnp4/edit?usp=sharing) , fill in your project’s SMC details for leaderboard tracking, and share the link with us, ensuring public access so we can view it. [TOL S6 Apps - BeeTon - Google 文件](https://docs.google.com/document/d/1nAyfUC5Gus2qmPKpsDdcQdBdAj-PWM1INzjRo88PXFw/edit?usp=sharing)
+    
+    *   Add the name you indicated in the bot for SDK integration: beetongamebot
+*   By submitting this application, I undertake to fully abide by The Open League Rules of Conduct. I understand that in case of the violation of those my team will be immediately excluded from the competition. Link: [Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://ton-org.notion.site/The-Open-League-Rules-of-Conduct-04f4a0fedf1a401687075f5efd83de68)
+    
+*   By submitting the form I confirm that the data I provided is correct and I fully understand that in case of the contrary, my project will be permanently eliminated from The Open League
+    
+
+  27 Likes
+
+[IlyaBeeMod](https://tonresear.ch/u/IlyaBeeMod) September 8, 2024, 8:13pm  2
+
+Like and comment!!!
+
+  8 Likes
+
+[daintihood](https://tonresear.ch/u/daintihood) September 9, 2024, 12:31pm  3
+
+Beeton is a good app
+
+  3 Likes
+
+[user2438](https://tonresear.ch/u/user2438) September 10, 2024, 8:31pm  4
+
+![:honeybee:](https://tonresear.ch/images/emoji/twitter/honeybee.png?v=12 ":honeybee:")![:honey_pot:](https://tonresear.ch/images/emoji/twitter/honey_pot.png?v=12 ":honey_pot:") The best bees in the world
+
+ 
+
+[\_911](https://tonresear.ch/u/_911) September 11, 2024, 5:31pm  5
+
+Veri nice project  
+The best
+
+ 
+
+[Erhankhan](https://tonresear.ch/u/Erhankhan) September 13, 2024, 3:43pm  6
+
+Future of crypto pia! Well done for future! ![:cherry_blossom:](https://tonresear.ch/images/emoji/twitter/cherry_blossom.png?v=12 ":cherry_blossom:")![:cherry_blossom:](https://tonresear.ch/images/emoji/twitter/cherry_blossom.png?v=12 ":cherry_blossom:")
+
+ 
+
+[Cryptogames](https://tonresear.ch/u/Cryptogames) September 16, 2024, 1:10am  7
+
+Done like and comment, let’s goooo
+
+  1 Like
+
+[AcidChrist](https://tonresear.ch/u/AcidChrist) September 19, 2024, 3:58am  8
+
+Bzzzzz, bzzzzzz. Nice to be bee!
+
+ 
+
+[James\_Mutindah](https://tonresear.ch/u/James_Mutindah) September 23, 2024, 6:07pm  9
+
+I have found BeeTon to be a promising event. Its simple interface makes it easy to navigate and perform tasks.
+
+ 
+
+[Ape\_Biznek](https://tonresear.ch/u/Ape_Biznek) November 12, 2024, 7:41pm  10
+
+I’m gonna check it out now.
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 32518
+
+[TON Research](/)
+
+# [W-Coin TOL S6 Application](/t/w-coin-tol-s6-application/32518)
+
+[The Open League](/c/the-open-league/app-leaderboard/58)  [App League](/c/the-open-league/app-leaderboard/58) 
+
+    
+
+[W-COIN](https://tonresear.ch/u/W-COIN)  September 8, 2024, 7:01pm  1
+
+### [](#p-50616-projects-name-1)Project’s Name
+
+`W-Coin`
+
+### [](#p-50616-w-ebsitehttpsw-coinio-2)W-[ebsite](https://w-coin.io)
+
+### [](#p-50616-projects-xhttpsxcomwcoin_iolangen-3)Project’s [X](https://x.com/wcoin_io?lang=en)
+
+* * *
+
+#### [](#p-50616-projects-telegram-channelgroup-4)Project’s Telegram channel/group
+
+[W-Community](https://t.me/w_community) - **8,714,949** users
+
+#### [](#p-50616-projects-metrics-5)Project’s Metrics
+
+*   MAU: **12,599,153** users
+*   4,194,261 wallets
+
+#### [](#p-50616-link-to-a-google-doc-with-current-traction-including-6)Link to a Google Doc with current traction, including:
+
+[docs.google.com](https://docs.google.com/document/d/1SOdA_Aaa-XeVaJ2h-9FhCX7omiv2JH0EcHS8C6ZJ5ho/edit?usp=sharing)
+
+[](https://docs.google.com/document/d/1SOdA_Aaa-XeVaJ2h-9FhCX7omiv2JH0EcHS8C6ZJ5ho/edit?usp=sharing)
+
+### [W-Coin App Metrics](https://docs.google.com/document/d/1SOdA_Aaa-XeVaJ2h-9FhCX7omiv2JH0EcHS8C6ZJ5ho/edit?usp=sharing)
+
+W-Coin App Metrics MAU: 12,599,153 Total Users: 20.275,629Connected Wallets: 4,194,261Weekly Attendance Proof of mention inside the app about the project’s participation in the League
+
+#### [](#p-50616-the-document-for-leaderboard-tracking-and-share-the-link-7)The document for leaderboard tracking and share the link:
+
+[docs.google.com](https://docs.google.com/document/d/1DTsKUtGpnRDzu2x96LRSwbcBYQqtsAB8vSOwMT0xVa8/edit)
+
+[](https://docs.google.com/document/d/1DTsKUtGpnRDzu2x96LRSwbcBYQqtsAB8vSOwMT0xVa8/edit)
+
+### [W-Coin TOL S6 SMC's](https://docs.google.com/document/d/1DTsKUtGpnRDzu2x96LRSwbcBYQqtsAB8vSOwMT0xVa8/edit)
+
+W-Coin Create a copy of this doc and provide a full list of SMC to track during The Open League Season 6. Before submitting this document, please learn more about the methodology, referring to this page. Don’t forget to open access to your file. ...
+
+#### [](#p-50616-your-name-8)Your name
+
+Jonny
+
+#### [](#p-50616-your-telegram-handle-9)Your Telegram handle
+
+@mr\_wcoin
+
+#### [](#p-50616-any-other-links-or-details-that-you-want-to-share-10)Any other links or details that you want to share
+
+By submitting this application, I undertake to fully abide by [The Open League Rules of Conduct](https://ton-org.notion.site/The-Open-League-Rules-of-Conduct-04f4a0fedf1a401687075f5efd83de68). I understand that in case of the violation of those my team will be immediately excluded from the competition.
+
+By submitting the form I confirm that the data I provided is correct and I fully understand that in case of the contrary, my project will be permanently eliminated from The Open League.
+
+  253 Likes
+
+[Bello\_Yusuf](https://tonresear.ch/u/Bello_Yusuf) September 8, 2024, 7:43pm  2
+
+Good projects indeed I hope you can success more than any projects
+
+  28 Likes
+
+[Gana0004](https://tonresear.ch/u/Gana0004) September 8, 2024, 7:51pm  3
+
+Good project. I love its ways
+
+  20 Likes
+
+[Ulari\_Lea](https://tonresear.ch/u/Ulari_Lea) September 8, 2024, 7:52pm  4
+
+W coin isngreat project.
+
+  13 Likes
+
+[Official\_lady\_chichi](https://tonresear.ch/u/Official_lady_chichi) September 8, 2024, 7:57pm  5
+
+The project is really great, we all hope it makes us rich
+
+  15 Likes
+
+[accorite](https://tonresear.ch/u/accorite) September 8, 2024, 7:57pm  6
+
+Awesome project, can’t wait for listing date
+
+  10 Likes
+
+[Chibuike\_Johnpaul](https://tonresear.ch/u/Chibuike_Johnpaul) September 8, 2024, 8:01pm  7
+
+Good project I can’t wait to achieve my goals from this project
+
+  9 Likes
+
+[Hasan\_Arslan](https://tonresear.ch/u/Hasan_Arslan) September 8, 2024, 8:01pm  8
+
+W-coin, the leader of the industry!
+
+  9 Likes
+
+[JOEL\_KAGA](https://tonresear.ch/u/JOEL_KAGA) September 8, 2024, 8:04pm  9
+
+Incredible project, feels great to be part of these community.
+
+  7 Likes
+
+[ABUBAKAR\_ADAMU](https://tonresear.ch/u/ABUBAKAR_ADAMU) September 8, 2024, 8:04pm  10
+
+I really love playing This project W-coin because I bear in my mind that this project is the best of this year I’m expecting something from you.
+
+  7 Likes
+
+[Pasmith\_Snow](https://tonresear.ch/u/Pasmith_Snow) September 8, 2024, 8:08pm  11
+
+W-coin is an amazing project! Good job guys and am happy to be part of this great project
+
+  6 Likes
+
+[Alli\_Hafiz](https://tonresear.ch/u/Alli_Hafiz) September 8, 2024, 8:09pm  12
+
+There is something special about Wcoin telegram bot. Talk about simplicity and fun
+
+  4 Likes
+
+[Idemudia\_Isoken](https://tonresear.ch/u/Idemudia_Isoken) September 8, 2024, 8:09pm  13
+
+This project is a great project , I love the integrity and accountability
+
+  5 Likes
+
+[Danial\_Zarei](https://tonresear.ch/u/Danial_Zarei) September 8, 2024, 8:11pm  14
+
+Best project of all time
+
+  4 Likes
+
+[Justice](https://tonresear.ch/u/Justice) September 8, 2024, 8:13pm  15
+
+Great project Guysss… Can’t wait for listing.
+
+  4 Likes
+
+[rez\_randomofficial](https://tonresear.ch/u/rez_randomofficial) September 8, 2024, 8:13pm  16
+
+I hope when token launching and pepole try to claim didnt be like DOGS airdrop !!! Note that too we want to see a pump price to claim big. Thats all ! Make it without lag ! Or will be bad for us.
+
+  7 Likes
+
+[Kehinde\_oyesesan\_Oye](https://tonresear.ch/u/Kehinde_oyesesan_Oye) September 8, 2024, 8:14pm  17
+
+A very good project, hope it get listed soon
+
+  4 Likes
+
+[mostafa\_tawfik](https://tonresear.ch/u/mostafa_tawfik) September 8, 2024, 8:17pm  18
+
+Best project this year
+
+  5 Likes
+
+[Web3SavvyMama](https://tonresear.ch/u/Web3SavvyMama) September 8, 2024, 8:21pm  19
+
+Great to be a part of this awesome project.
+
+  6 Likes
+
+[Hacksolux](https://tonresear.ch/u/Hacksolux) September 8, 2024, 8:21pm  20
+
+What a lovely​:heart\_hands: project​:100:![:white_check_mark:](https://tonresear.ch/images/emoji/twitter/white_check_mark.png?v=12 ":white_check_mark:"), I pray you do much more better than any other project.![:+1:](https://tonresear.ch/images/emoji/twitter/+1.png?v=12 ":+1:")
+
+  9 Likes
+
+**[next page →](/t/w-coin-tol-s6-application/32518?page=2)**
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 32539
+
+[TON Research](/)
+
+# [FOLK - The Open League App (Season 6)](/t/folk-the-open-league-app-season-6/32539)
+
+[The Open League](/c/the-open-league/app-leaderboard/58)  [App League](/c/the-open-league/app-leaderboard/58) 
+
+    
+
+[FOLK](https://tonresear.ch/u/FOLK)   September 8, 2024, 7:33pm  1
+
+[![](https://tonresear.ch/uploads/default/optimized/3X/c/c/cc5408468c71a52cd2e24b3c861c5fcc69fe348c_2_690x162.jpeg)
+
+1920×453 102 KB
+
+](https://tonresear.ch/uploads/default/original/3X/c/c/cc5408468c71a52cd2e24b3c861c5fcc69fe348c.jpeg)
+
+  
+FOLK
+
+> Trading Card Game with merging elements on TON where you play to collect artifacts that you trade, sell or use to summon Folks NFTs.
+
+*   [https://folk.lol](https://www.folk.lol)
+*   [https://x.com/folklolgame](https://x.com/folklolgame)
+*   [https://t.me/folklolgame](https://t.me/folklolgame)
+*   [https://t.me/folklolgame\_bot](https://t.me/folklolgame_bot)
+
+Metrics
+
+[docs.google.com](https://docs.google.com/document/d/1oRWDsOyBsfzf8sBjRQyjRg9tXFDHFwfF8EXpHznFuQY/edit?usp=sharing)
+
+[](https://docs.google.com/document/d/1oRWDsOyBsfzf8sBjRQyjRg9tXFDHFwfF8EXpHznFuQY/edit?usp=sharing)
+
+### [\[TOL Season 6\] - Metrics](https://docs.google.com/document/d/1oRWDsOyBsfzf8sBjRQyjRg9tXFDHFwfF8EXpHznFuQY/edit?usp=sharing)
+
+FOLK has been publicly available in early access since the beginning of July 2024. The numbers reported here are for the first 2 months. Players Total 41k Wallets connected 6k MAU 30k DAU 2k Day 7 retention 14% Day 30 retention 5% Revenues ...
+
+SMC details
+
+[docs.google.com](https://docs.google.com/document/d/1bx-JtGAlUgC0VYhYU8i3CmMwN-X8ktv2qUF28noM3Vs/edit?usp=sharing)
+
+[](https://docs.google.com/document/d/1bx-JtGAlUgC0VYhYU8i3CmMwN-X8ktv2qUF28noM3Vs/edit?usp=sharing)
+
+### [\[TOL S6\] Apps SMC](https://docs.google.com/document/d/1bx-JtGAlUgC0VYhYU8i3CmMwN-X8ktv2qUF28noM3Vs/edit?usp=sharing)
+
+FOLK Project name: FOLK Your full name: Alexander Gudulin Your TG handle: @agudulin General Requirements for All Submissions: Transaction Outcomes: The project must provide examples of all possible transaction outcomes, including success,...
+
+Name: Alexander Gudulin  
+Telegram handle: @agudulin
+
+* * *
+
+![:ballot_box_with_check:](https://tonresear.ch/images/emoji/twitter/ballot_box_with_check.png?v=12 ":ballot_box_with_check:") By submitting this application, I undertake to fully abide by The Open League Rules of Conduct. I understand that in case of the violation of those my team will be immediately excluded from the competition. Link: [Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://ton-org.notion.site/The-Open-League-Rules-of-Conduct-04f4a0fedf1a401687075f5efd83de68)  
+![:ballot_box_with_check:](https://tonresear.ch/images/emoji/twitter/ballot_box_with_check.png?v=12 ":ballot_box_with_check:") By submitting the form I confirm that the data I provided is correct and I fully understand that in case of the contrary, my project will be permanently eliminated from The Open League
+
+  3 Likes
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) September 9, 2024, 7:14am  2
+
+Thank you for applying; we’re currently reviewing your application and will get back to you soon.
+
+  1 Like
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) September 10, 2024, 5:45am  4
+
+Please check your SDK integration, as it’s currently showing 0 data. If you need assistance, head over to the dedicated chat for support - [Telegram: Join Group Chat](https://t.me/+ZOa8GSiVpyxmMWFi). We will review your SDK status by Wednesday, 10 AM UTC
+
+  1 Like
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 32605
+
+[TON Research](/)
+
+# [Hamsterdam - The Open League App (Season 6)](/t/hamsterdam-the-open-league-app-season-6/32605)
+
+[The Open League](/c/the-open-league/app-leaderboard/58)  [App League](/c/the-open-league/app-leaderboard/58) 
+
+    
+
+[Santalov](https://tonresear.ch/u/Santalov)  September 8, 2024, 8:00pm  1
+
+*   Hamsterdam
+    
+*   [Website](https://tge.tech/)
+    
+*   [Twitter](https://twitter.com/Hamsterdam_ton)
+    
+*   Hamsterdam Telegram channels/groups: [EN channel](https://t.me/HamsterdamFamily) | [RU channel](https://t.me/HamsterdamRU) | [EN chat](https://t.me/HamsterdamChat) | [RU chat](https://t.me/Hamsterdam_RU_Chat)
+    
+*   Project’s Metrics [Google Analytics](https://analytics.google.com/analytics/web/?authuser=3#/p447134970/reports/intelligenthome?params=_u..nav%3Dmaui)
+    
+*   [Google Doc that describes your current traction](https://docs.google.com/document/d/1pGBfkS1A49Vew2-JPw82a7pZAZlvGi2AbFdWIMdd3p4/edit), including
+    
+    *   Number of connected wallet
+    *   MAU
+    *   Proof of mention inside the app about the project’s participation in the League (link / image)
+    *   Links to your tokens and NFT colelctions
+*   [Hamsterdam SMC details for leaderboard tracking](https://docs.google.com/document/d/124MXvY75rJNQH2GY6bbDsgSPRK37rtbB1bU96AIYymI/edit?usp=sharing)
+    
+    *   Add the name you indicated in the bot for SDK integration
+    *   Name: Hamsterdam
+*   Santalov Stanislav
+    
+*   [Telegram Contact @santalov](https://t.me/santalov)
+    
+*   By submitting this application, I undertake to fully abide by The Open League Rules of Conduct. I understand that in case of the violation of those my team will be immediately excluded from the competition. Link: [Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://ton-org.notion.site/The-Open-League-Rules-of-Conduct-04f4a0fedf1a401687075f5efd83de68)
+    
+*   By submitting the form I confirm that the data I provided is correct and I fully understand that in case of the contrary, my project will be permanently eliminated from The Open League
+    
+
+ 
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) September 9, 2024, 7:12am  2
+
+Thank you for applying; we’re currently reviewing your application and will get back to you soon.
+
+  1 Like
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) September 10, 2024, 5:09am  4
+
+Please check your SDK integration, as it’s currently showing 0 data. If you need assistance, head over to the dedicated chat for support - [Telegram: Join Group Chat](https://t.me/+ZOa8GSiVpyxmMWFi). We will review your SDK status by Wednesday, 10 AM UTC.
+
+  1 Like
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) September 11, 2024, 7:54am  5
+
+Your SDK works, thanks!
+
+  1 Like
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) September 13, 2024, 11:27am  6
+
+Hey team, congratulations on being approved for The Open League Season 6!
+
+We’re excited to invite you to join a dedicated chat for all participants. Please fill out this form: [https://forms.gle/WHzLpT9EcK79KPUB9](https://forms.gle/WHzLpT9EcK79KPUB9), mentioning your project name and the Telegram handles of those who will be joining the chat (up to 2 people per team). Once submitted, join the chat via this link: [Telegram: Join Group Chat](https://t.me/+TbKriSZt35BiNmUy).
+
+We’ll validate your handles and grant you access shortly. Looking forward to seeing you there!
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 32644
+
+[TON Research](/)
+
+# [Chocolate Coin 🍫 - The Open League App (Season 6)](/t/chocolate-coin-the-open-league-app-season-6/32644)
+
+[The Open League](/c/the-open-league/app-leaderboard/58)  [App League](/c/the-open-league/app-leaderboard/58) 
+
+    
+
+[Alex\_Creator](https://tonresear.ch/u/Alex_Creator)   September 8, 2024, 8:10pm  1
+
+**Chocolate Coin** ![:chocolate_bar:](https://tonresear.ch/images/emoji/twitter/chocolate_bar.png?v=12 ":chocolate_bar:")![:gem:](https://tonresear.ch/images/emoji/twitter/gem.png?v=12 ":gem:")![:cake:](https://tonresear.ch/images/emoji/twitter/cake.png?v=12 ":cake:")
+
+Chocolate Coin is primarily a congratulatory token.
+
+Utility and main essence - to bring benefit in the form of congratulations.
+
+**Spiritual component - “thank you”, “I thank you”, “congratulate”**.
+
+> We are talking about a socially useful token ![:recycle:](https://tonresear.ch/images/emoji/twitter/recycle.png?v=12 ":recycle:") with 2 types of utility… and 3 types of monetization
+
+.
+
+The advantages are a relatively easy launch and, in theory, mass adoption + monetization within the application.
+
+**At least every person faces such a situation 2 times a year. On average, from 15 to 60 times with situations where it is useful per year**.
+
+Wrapped in an idea/method - “**to give chocolate**”.
+
+In the real world, this is used through: “to give a chocolate bar ![:chocolate_bar:](https://tonresear.ch/images/emoji/twitter/chocolate_bar.png?v=12 ":chocolate_bar:")/a box of chocolates” or “to congratulate with a cake ![:birthday:](https://tonresear.ch/images/emoji/twitter/birthday.png?v=12 ":birthday:")![:cake:](https://tonresear.ch/images/emoji/twitter/cake.png?v=12 ":cake:")/champagne​:champagne:”
+
+Here the idea is the same, to replace the real tradition with congratulations with crypto.
+
+A token through which you can express gratitude to other people.
+
+To thank for the work done, the service rendered, the assistance provided.
+
+Congratulate on a birthday, graduation, the end of an event, successful completion or receipt of something (documents, exam), promotion or your own way to say thank you to a person, friend, relative, acquaintance.
+
+The additional essence of the idea is “hold the chocolate”.
+
+After all, the simplest way to materially congratulate a person in the physical world is to give him a chocolate bar.
+
+My idea is a gratitude token - Chocolate. ![:chocolate_bar:](https://tonresear.ch/images/emoji/twitter/chocolate_bar.png?v=12 ":chocolate_bar:")
+
+In other words, you can give a gift / thank a person through it.
+
+It will be quite applicable to send this cryptocurrency to someone through the \*send function in the general chat.
+
+Imagine a general chat of colleagues and one of the employees has a holiday (birthday, gave birth to a child, got a license, passed an exam, received a diploma).
+
+The token will have an application. A person logs in and sees.
+
+A chart of chocolate bars by country. Conventionally, EU countries (Germany, France), the CIS, and Japan, for example.
+
+That is, he sees three columns of different colors and prices in USD and CHOCOLATE next to them.
+
+He can also choose to be shown the average price in a certain country
+
+Or even better, the average price of a box of chocolates or a cake.
+
+Inspiration from the McMenu Index (when you can easily determine the level of a country’s economy by going to a Mac and ordering ![:fries:](https://tonresear.ch/images/emoji/twitter/fries.png?v=12 ":fries:")![:hamburger:](https://tonresear.ch/images/emoji/twitter/hamburger.png?v=12 ":hamburger:")). Here’s a similar index you can make for chocolate. This is the “cool” component of the token (marketing).
+
+The application will also have beautiful congratulatory pictures for downloading.
+
+[![photo_2024-09-08_22-54-53](https://tonresear.ch/uploads/default/original/3X/6/e/6e65a8e7edea1f4155e02f71776ce9efb22de6f9.jpeg)
+
+photo\_2024-09-08\_22-54-53696×464 41.2 KB
+
+](https://tonresear.ch/uploads/default/original/3X/6/e/6e65a8e7edea1f4155e02f71776ce9efb22de6f9.jpeg "photo_2024-09-08_22-54-53")
+
+  
+
+[![photo_2024-09-08_22-55-18](https://tonresear.ch/uploads/default/optimized/3X/3/0/301937102964ab26f18e40ddcc720beb2d4cc12a_2_690x424.jpeg)
+
+photo\_2024-09-08\_22-55-181280×787 130 KB
+
+](https://tonresear.ch/uploads/default/original/3X/3/0/301937102964ab26f18e40ddcc720beb2d4cc12a.jpeg "photo_2024-09-08_22-55-18")
+
+  
+
+[![photo_2024-09-08_22-55-25](https://tonresear.ch/uploads/default/optimized/3X/a/1/a1f3dae66882c1d8a9b22d3b1778ce14c5a04be6_2_690x430.jpeg)
+
+photo\_2024-09-08\_22-55-25865×540 89.4 KB
+
+](https://tonresear.ch/uploads/default/original/3X/a/1/a1f3dae66882c1d8a9b22d3b1778ce14c5a04be6.jpeg "photo_2024-09-08_22-55-25")
+
+**Monetization** - through the sale of the token itself, a 3% swap tax (like clowns through a smart contract) for team development.
+
+_And a special section and sale of discount/service vouchers from partners_. **Let’s say tours from tour operators or (I know you said it on AMA, we used to own a STO) sale of a discount (voucher) for diagnostics at a partner STO (this is for example, in fact, there could be IT courses, foreign language courses).**
+
+That is, the real applicability and development of the project will consist of collaborations with projects and sales through the CHOCOLATE bot of their services or goods.
+
+For monetization, you can release an NFE collection, where there will be discounts on partner services. Like a promo code or discount card for the purchase of conditional advertising in the partner’s channel (conditionally 15% on an advertising post) and other activities, bonuses and privileges.
+
+In other words, marketing and marketplace.
+
+Contacts:
+
+![](https://telegram.org/img/website_icon.svg?4) [Telegram](https://t.me/gold_light_al)
+
+![](https://tonresear.ch/uploads/default/original/3X/8/5/8511c5cb37970f752640a60a376f4d55acc51cb0.jpeg)
+
+### [Alex Light](https://t.me/gold_light_al)
+
+You can contact @gold\_light\_al right away.
+
+![](https://telegram.org/img/website_icon.svg?4) [Telegram](https://t.me/creator1al)
+
+![](https://tonresear.ch/uploads/default/original/3X/d/e/defbcf9b6d59dc5c275118c0fc5548306743fcc9.jpeg)
+
+### [Alex Creator](https://t.me/creator1al)
+
+You can contact @creator1al right away.
+
+[\[email protected\]](/cdn-cgi/l/email-protection#8eefe2ebf6a0edfcebeffae1fca0efe2e2cee9e3efe7e2a0ede1e3)  
+[\[email protected\]](/cdn-cgi/l/email-protection#42232e273a7573707077767202252f232b2e6c212d2f)
+
+It’s better to write in telegram.
+
+ 
+
+[Justifier](https://tonresear.ch/u/Justifier) September 8, 2024, 11:33pm  2
+
+This project is one of those that make people seem addicted because thats how much I love the project. Thank you all much
+
+ 
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) September 9, 2024, 6:56am  3
+
+Thank you for applying; we’re currently reviewing your application and will get back to you soon.
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 32648
+
+[TON Research](/)
+
+# [YUMIFY - an innovative TAP project on TON](/t/yumify-an-innovative-tap-project-on-ton/32648)
+
+[The Open League](/c/the-open-league/app-leaderboard/58)  [App League](/c/the-open-league/app-leaderboard/58) 
+
+    
+
+[yumify](https://tonresear.ch/u/yumify)   September 8, 2024, 8:10pm  1
+
+YUMIFY
+
+Project’s Website
+
+![](https://tonresear.ch/uploads/default/original/3X/8/d/8db66b96f1a1fc722dd30958b0913d547a914ec8.png) [yumify.one](https://yumify.one/)
+
+![](https://tonresear.ch/uploads/default/optimized/3X/3/8/386627ad1c1ccc55b38a2f0412e701a7ebe607bb_2_690x388.jpeg)
+
+### [Yumify is an innovative TAP PROJECT on TON. TAP, PLAY and EARN](https://yumify.one/)
+
+Invite friends, upgrade boosts, complete quests, climb the diamond league and get rewards! Earn with Yumify
+
+Project’s Twitter  
+[x.com/yumify\_ton](http://x.com/yumify_ton)
+
+Project’s Telegram channel
+
+![](https://telegram.org/img/website_icon.svg?4) [Telegram](https://t.me/yumify)
+
+![](https://tonresear.ch/uploads/default/original/3X/2/8/28d2b4ebd88c7859d03c782b6e28bd0caef30b50.jpeg)
+
+### [Yumify](https://t.me/yumify)
+
+New tap project on TON! Earn with Yumify 💸 @yumify\_bot Let's chat here - @yumify\_forum TW - https://x.com/yumify\_ton Tech support: @tap\_support Cooperation and partnership: @saying\_yes All matches are random
+
+Project’s Telegram bot (Telegram Mini App)  
+@yumify\_bot
+
+Project’s Metrics  
+UAW: 76K  
+MAU: 700K  
+DAU: 90K
+
+Attach the link to a Google Doc that describes your current traction, including
+
+[docs.google.com](https://docs.google.com/spreadsheets/d/134PFvaX1DFcLUxxZ8nH6dk3yez7iEJ2xN2uMFbh8LZc/edit?gid=0#gid=0)
+
+[](https://docs.google.com/spreadsheets/d/134PFvaX1DFcLUxxZ8nH6dk3yez7iEJ2xN2uMFbh8LZc/edit?gid=0#gid=0)
+
+### [Yumify. Project Traction](https://docs.google.com/spreadsheets/d/134PFvaX1DFcLUxxZ8nH6dk3yez7iEJ2xN2uMFbh8LZc/edit?gid=0#gid=0)
+
+This Sheet is private
+
+[docs.google.com](https://docs.google.com/document/d/14lXzg5XrELsCsurgowTAOuHFw2s5ISVAdHu6bLX4Gk0/edit)
+
+[](https://docs.google.com/document/d/14lXzg5XrELsCsurgowTAOuHFw2s5ISVAdHu6bLX4Gk0/edit)
+
+### [Yumify. TOL S6 Apps](https://docs.google.com/document/d/14lXzg5XrELsCsurgowTAOuHFw2s5ISVAdHu6bLX4Gk0/edit)
+
+Yumify Project name: Yumify Your full name: Vitaly Witkoil Your TG handle: @witkoil General Requirements for All Submissions - will be added later. Transaction Outcomes: The project must provide examples of all possible transaction outcomes,...
+
+By submitting this application, I undertake to fully abide by The Open League Rules of Conduct. I understand that in case of the violation of those my team will be immediately excluded from the competition. Link: [Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://ton-org.notion.site/The-Open-League-Rules-of-Conduct-04f4a0fedf1a401687075f5efd83de68)
+
+*   By submitting the form I confirm that the data I provided is correct and I fully understand that in case of the contrary, my project will be permanently eliminated from The Open League
+
+ 
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) September 9, 2024, 7:09am  2
+
+Please fill out your document with SMC details and SDK name ASAP to be able to participate in THe Open League Season 6
+
+  1 Like
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) September 9, 2024, 7:10am  3
+
+Thank you for applying; we’re currently reviewing your application and will get back to you soon.
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 3269
+
+[TON Research](/)
+
+# [MUMBA Open League application](/t/mumba-open-league-application/3269)
+
+[The Open League](/c/the-open-league/token-leaderboard/57)  [Token Battle](/c/the-open-league/token-leaderboard/57) 
+
+[tol](https://tonresear.ch/tag/tol)
+
+    
+
+[adexonn](https://tonresear.ch/u/adexonn)  April 1, 2024, 6:07pm  1
+
+## [](#project-name-mumba-1)Project Name - Mumba
+
+## [](#project-website-httpsthemumbacom-2)Project Website - [https://themumba.com/](https://themumba.com/)
+
+## [](#your-name-vadim-3)Your name - Vadim
+
+## [](#your-telegram-handle-tmeadexonn-4)Your Telegram handle - [Telegram: Contact @adexonn](http://t.me/adexonn)
+
+## [](#link-to-the-tokens-page-on-redoubt-andor-dyor-5)Link to the token’s page on Re:doubt and/or DYOR -
+
+1.  [Mumba (MUMBA) Token Price - DYOR.ninja](https://dyor.io/ru/token/EQCXIHAWDAJEJhMiNVqeUvp3I6O7y_P2sD80zEsJXeUi56mb)
+2.  [Re:doubt](https://beta.redoubt.online/jetton/EQCXIHAWDAJEJhMiNVqeUvp3I6O7y_P2sD80zEsJXeUi56mb)
+
+## [](#listings-6)Listings -
+
+Official listing on [DeDust.io](https://dedust.io/swap/TON/MUMBA)  
+Official listing on [xRocket](https://t.me/xrocket/cex?startapp=trade-MUMBA-TON)
+
+## [](#describe-the-mechanism-of-providing-liquidity-on-your-platform-7)Describe the mechanism of providing liquidity on your platform
+
+Rewards for liquidity providers [DeDust.io](http://DeDust.io)
+
+MUMBA/TON on [DeDust.io](http://DeDust.io)  
+Total budget: 30000 MUMBA  
+Duration: 90 days (05.04 - 05.07)  
+Daily distribution: 333 MUMBA
+
+## [](#your-plans-attach-a-document-8)Your Plans \[attach a document\]
+
+[docs.google.com](https://docs.google.com/document/d/1oAjwR36Ht8HCtBzvDKvgK6WK8lSY-wTU53TM2QNRS_s/edit)
+
+[](https://docs.google.com/document/d/1oAjwR36Ht8HCtBzvDKvgK6WK8lSY-wTU53TM2QNRS_s/edit)
+
+### [Mumba Plans](https://docs.google.com/document/d/1oAjwR36Ht8HCtBzvDKvgK6WK8lSY-wTU53TM2QNRS_s/edit)
+
+This Doc is private
+
+By submitting the form I confirm that the data I provided is correct and I fully understand that in case of the contrary, my project will be permanently eliminated from The Open League.
+
+  136 Likes
+
+[Research](https://tonresear.ch/u/Research) April 1, 2024, 6:18pm  2
+
+We are really looking forward to mumba in the open league. I wish mumba luck to get there
+
+  4 Likes
+
+[VACUUM88](https://tonresear.ch/u/VACUUM88) April 1, 2024, 6:19pm  3
+
+I love mumba, it’s cool project. He is favourite for me and my friends​:rocket:![:heart:](https://tonresear.ch/images/emoji/twitter/heart.png?v=12 ":heart:")
+
+  3 Likes
+
+[user265](https://tonresear.ch/u/user265) April 1, 2024, 6:19pm  4
+
+Mumba it’s the best project  
+Love Mumba ![:smiling_face_with_three_hearts:](https://tonresear.ch/images/emoji/twitter/smiling_face_with_three_hearts.png?v=12 ":smiling_face_with_three_hearts:")
+
+  3 Likes
+
+[Egornahui](https://tonresear.ch/u/Egornahui) April 1, 2024, 6:19pm  5
+
+yes yes, I heard about the $MUMBA token, the best project in the TON system, I advise everyone to buy it, no one will regret it
+
+  2 Likes
+
+[back\_ple4se](https://tonresear.ch/u/back_ple4se) April 1, 2024, 6:19pm  6
+
+i am really love $MUMBA, its my favorite token forever
+
+  1 Like
+
+[Margo\_Mraz](https://tonresear.ch/u/Margo_Mraz) April 1, 2024, 6:19pm  7
+
+Love Mumba, it’s a cool project. It is the most favorite for me and my friends
+
+  1 Like
+
+[Regulator](https://tonresear.ch/u/Regulator) April 1, 2024, 6:19pm  8
+
+Mumba cool project. Big potential. Love)
+
+  1 Like
+
+[Ivan\_Shevchenko](https://tonresear.ch/u/Ivan_Shevchenko) April 1, 2024, 6:20pm  9
+
+YEEEAS! You need to add Mumba to the open League. Great Community, great support, great token!
+
+  1 Like
+
+[chaser](https://tonresear.ch/u/chaser) April 1, 2024, 6:20pm  10
+
+Mumba is the best community I’ve ever met. All activity is aimed at developing the project, the CEO tries for others
+
+ 
+
+[m2danya](https://tonresear.ch/u/m2danya) April 1, 2024, 6:20pm  11
+
+$MUMBA is my favourite token! ![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:")![:new_moon:](https://tonresear.ch/images/emoji/twitter/new_moon.png?v=12 ":new_moon:")
+
+ 
+
+[Bondi](https://tonresear.ch/u/Bondi) April 1, 2024, 6:20pm  12
+
+I very love MUMBA is future
+
+ 
+
+[Lucky\_Alex](https://tonresear.ch/u/Lucky_Alex) April 1, 2024, 6:21pm  13
+
+Mumba is a best project in this world guys, rlly
+
+ 
+
+[Rapsody](https://tonresear.ch/u/Rapsody) April 1, 2024, 6:21pm  14
+
+I love Mumba. I enjoy watching their highs and lows, but most importantly, it’s about engaging with the community, where each member contributes to the culture and joy of this unique world.
+
+ 
+
+[diversodaloro](https://tonresear.ch/u/diversodaloro) April 1, 2024, 6:21pm  15
+
+amazing! i love $mumba so much. always brings good vibes ![:heart:](https://tonresear.ch/images/emoji/twitter/heart.png?v=12 ":heart:")![:fire:](https://tonresear.ch/images/emoji/twitter/fire.png?v=12 ":fire:")
+
+ 
+
+[Worry2K](https://tonresear.ch/u/Worry2K) April 1, 2024, 6:21pm  16
+
+Love mumba😍The best project !!!
+
+ 
+
+[user266](https://tonresear.ch/u/user266) April 1, 2024, 6:22pm  17
+
+Mumba it’s the best projecт. We are really looking forward to mumba in the open league. I wish mumba luck to get there love mumba, it’s cool project. He is favourite for me and my friends ::heart Love Mumba ![:smiling_face_with_three_hearts:](https://tonresear.ch/images/emoji/twitter/smiling_face_with_three_hearts.png?v=12 ":smiling_face_with_three_hearts:")
+
+ 
+
+[TheNeekoff](https://tonresear.ch/u/TheNeekoff) April 1, 2024, 6:22pm  18
+
+A great project with a promising future. MUMBA is a project that cares deeply about its participants, offering intriguing developments and exciting games. Also I strongly believe its token will go to the moon ![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:")$MUMBA
+
+ 
+
+[user268](https://tonresear.ch/u/user268) April 1, 2024, 6:22pm  19
+
+mumba is the best project! I believe in him
+
+ 
+
+[user269](https://tonresear.ch/u/user269) April 1, 2024, 6:23pm  20
+
+I very love mumba and i believe in her
+
+ 
+
+**[next page →](/t/mumba-open-league-application/3269?page=2)**
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 328
+
+[TON Research](/)
+
+# [How improve Ton popularity?](/t/how-improve-ton-popularity/328)
+
+[General](/c/general/4) 
+
+    
+
+[Baharrezaei](https://tonresear.ch/u/Baharrezaei)  February 8, 2024, 7:54am  1
+
+How improve Ton popularity?
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 32831
+
+[TON Research](/)
+
+# [Blum - The Open League (Season 6)](/t/blum-the-open-league-season-6/32831)
+
+[The Open League](/c/the-open-league/app-leaderboard/58)  [App League](/c/the-open-league/app-leaderboard/58) 
+
+    
+
+[Blum](https://tonresear.ch/u/Blum)  September 8, 2024, 9:01pm  1
+
+**Project’s Name**: Blum  
+**Project’s Website**: [Blum.io](http://Blum.io)  
+**Project’s Twitter**: [x.com](http://x.com/blumcrypto)  
+**Project’s Telegram Channel/Group**:
+
+*   **Channel**: [t.me/BlumCrypto](https://t.me/BlumCrypto)
+*   **Group**: [t.me/BlumCrypto\_Chat](https://t.me/BlumCrypto_Chat)
+*   **App**: [t.me/Blum](https://t.me/blum/app?startapp=ref_ooWohpSVK8)
+
+**Project’s Metrics**: [Click me](https://docs.google.com/document/d/1Rp6obOOKdaUf3JgVGO6DVJsOqMTHw9coO7DirWCMnF8/edit?usp=sharing) (this is not a trick)  
+**SMC Details**: [Tap me](https://docs.google.com/document/d/1At2n_CnhkTVQ3QDSEU37tZn3redZGFkXa3uyBNn3D0Y/edit) (but gently, pls)
+
+**Your name**: Karol  
+**Your Telegram handle**: [@becometa](https://t.me/becometa)  
+**Any other links or details that you want to share**:
+
+> **[Blum](https://t.me/blum/app?startapp=ref_ooWohpSVK8)** is a decentralized exchange (DEX) offering access to tokens from centralized and decentralized exchanges, along with simplified derivatives trading, all within a Telegram mini app. Helping your crypto investments grow and flourish. Just like a flower in bloom, Blum represents the potential and beauty that can be found in the world of crypto.
+> 
+> In the news:  
+> [Bloomberg](https://www.bloomberg.com/news/articles/2024-03-04/ex-binance-executives-kostarev-smerkis-set-up-new-crypto-exchange), [Coinbureau](https://www.coinbureau.com/analysis/future-of-crypto/), [Cointelegraph](https://cointelegraph.com/news/half-telegram-clicker-gamers-crypto-newcomers-blum-creator), [Binance](https://www.binance.com/en/square/post/2024-03-01-binance-labs-reveals-13-early-stage-projects-selected-for-mvb-season-7-accelerator-program-4819541225938), [OKX Learn](https://www.okx.com/learn/what-is-blum-mini-app), [BSC Daily](https://x.com/bsc_daily/status/1793610346806354332), [Crypto.News](https://crypto.news/binance-launch-crypto-blum/), [X Feed](https://x.com/search?f=top&q=\(%40blumcrypto%20OR%20%23blum%20OR%20%23blumdropgame\)&src=typed_query), [CCN](https://www.ccn.com/education/crypto/blum-crypto-telegram-powered-hybrid-exchange/)
+
+**Agreements & final remarks**
+
+*   By submitting this application, I undertake to fully abide by [The Open League Rules of Conduct](https://ton-org.notion.site/The-Open-League-Rules-of-Conduct-04f4a0fedf1a401687075f5efd83de68). I understand that in case of the violation of those my team will be immediately excluded from the competition.
+    
+*   By submitting the form I confirm that the data I provided is correct and I fully understand that in case of the contrary, my project will be permanently eliminated from The Open League
+    
+
+  13 Likes
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) September 9, 2024, 7:04am  2
+
+Thank you for applying; we’re currently reviewing your application and will get back to you soon.
+
+  8 Likes
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) September 10, 2024, 5:11am  4
+
+Please check your SDK integration, as it’s currently showing 0 data. If you need assistance, head over to the dedicated chat for support - [Telegram: Join Group Chat](https://t.me/+ZOa8GSiVpyxmMWFi). We will review your SDK status by Wednesday, 10 AM UTC.
+
+  4 Likes
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) September 13, 2024, 11:29am  5
+
+Hey team, congratulations on being approved for The Open League Season 6!
+
+We’re excited to invite you to join a dedicated chat for all participants. Please fill out this form: [https://forms.gle/WHzLpT9EcK79KPUB9](https://forms.gle/WHzLpT9EcK79KPUB9), mentioning your project name and the Telegram handles of those who will be joining the chat (up to 2 people per team). Once submitted, join the chat via this link: [Telegram: Join Group Chat](https://t.me/+TbKriSZt35BiNmUy).
+
+We’ll validate your handles and grant you access shortly. Looking forward to seeing you there!
+
+  5 Likes
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 32925
+
+[TON Research](/)
+
+# [SlotCoin Mini-App](/t/slotcoin-mini-app/32925)
+
+[The Open League](/c/the-open-league/app-leaderboard/58)  [App League](/c/the-open-league/app-leaderboard/58) 
+
+    
+
+[slotcoin](https://tonresear.ch/u/slotcoin)  September 8, 2024, 9:27pm  1
+
+*   Slotcoin
+    
+*   slotcoin.app
+    
+*   [x.com](https://x.com/slotcoin_news)
+    
+*   [@slotcoin](/u/slotcoin)
+    
+*   560.000 Users, 63.000 DAU
+    
+*   [Slotcoin Stats - Google 文件](https://docs.google.com/document/d/1p1s6Kj7tNvQfsiFQdauYTl3ut0N7pPVcCRc55bgAce0/edit?usp=sharing)
+    
+*   skip
+    
+*   Slotcoin
+    
+*   Goga Freakyvilashvily
+    
+*   @slotcoinceo
+    
+*   I agree.
+    
+*   I agree.
+    
+
+ 
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) September 9, 2024, 7:03am  2
+
+Thank you for applying; we’re currently reviewing your application and will get back to you soon.
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 32961
+
+[TON Research](/)
+
+# [Blum - The Open League (Season 6), DeFi](/t/blum-the-open-league-season-6-defi/32961)
+
+[The Open League](/c/the-open-league/defi-battle/63)  [DeFi League](/c/the-open-league/defi-battle/63) 
+
+    
+
+[Blum](https://tonresear.ch/u/Blum)  September 8, 2024, 9:35pm  1
+
+**Project’s Name**: Blum  
+**Project’s Website**: [Blum.io](http://Blum.io)  
+**Project’s Twitter**: [x.com](http://x.com/blumcrypto)  
+**Project’s Telegram Channel/Group**:
+
+*   **Channel**: [t.me/BlumCrypto](https://t.me/BlumCrypto)
+*   **Group**: [t.me/BlumCrypto\_Chat](https://t.me/BlumCrypto_Chat)
+*   **App**: [t.me/Blum](https://t.me/blum/app?startapp=ref_ooWohpSVK8)
+
+**DeFi Protocol Name**: Memepad  
+**DeFi Protocol Details**: Memepad is a platform within Blum that lets users launch a TON-powered token in just 30 seconds. It’s exclusively for tokens created through Memepad and stands out with a user base of 55M+. Memepad supports more than just memecoins—users can create community, influencer, celebratory or whateverelsetheywish tokens.
+
+On Memepad, tokens are ranked by popularity, market cap, and activity. After hitting a cetain TON market cap threshold, tokens are listed on DEX for trading. A small TON fee applies to launch a token.
+
+**Total Value Locked (TVL)**: TBD  
+**Integration Status with Defillama**: In progress  
+**DefiLlama Link**: TBD
+
+**DeFi Protocol’s Current Traction**: [Tap me](https://docs.google.com/document/d/1ZUoDs9ztBhFQuBHpbwPqzuplddvCRF-sSjb98cjMz4g/edit?usp=sharing) (but gently, pls)  
+**[DeFi League TOL S6 Form](https://docs.google.com/forms/d/e/1FAIpQLScTvZsYhprdOIYtW_QY_GIAZH9Qc-ePmIvlh9ysHn7g3E9YVA/viewform)**: Filled out
+
+**Your name**: Karol  
+**Your Telegram handle**: [@becometa](https://t.me/becometa)  
+**Any other links or details that you want to share**:
+
+> **[Blum](https://t.me/blum/app?startapp=ref_ooWohpSVK8)** is a decentralized exchange (DEX) offering access to tokens from centralized and decentralized exchanges, along with simplified derivatives trading, all within a Telegram mini app. Helping your crypto investments grow and flourish. Just like a flower in bloom, Blum represents the potential and beauty that can be found in the world of crypto.
+> 
+> In the news:  
+> [Bloomberg](https://www.bloomberg.com/news/articles/2024-03-04/ex-binance-executives-kostarev-smerkis-set-up-new-crypto-exchange), [Coinbureau](https://www.coinbureau.com/analysis/future-of-crypto/), [Cointelegraph](https://cointelegraph.com/news/half-telegram-clicker-gamers-crypto-newcomers-blum-creator), [Binance](https://www.binance.com/en/square/post/2024-03-01-binance-labs-reveals-13-early-stage-projects-selected-for-mvb-season-7-accelerator-program-4819541225938), [OKX Learn](https://www.okx.com/learn/what-is-blum-mini-app), [BSC Daily](https://x.com/bsc_daily/status/1793610346806354332), [Crypto.News](https://crypto.news/binance-launch-crypto-blum/), [X Feed](https://x.com/search?f=top&q=\(%40blumcrypto%20OR%20%23blum%20OR%20%23blumdropgame\)&src=typed_query), [CCN](https://www.ccn.com/education/crypto/blum-crypto-telegram-powered-hybrid-exchange/)
+
+**Agreements & final remarks**
+
+*   By submitting this application, I undertake to fully abide by [The Open League Rules of Conduct](https://ton-org.notion.site/The-Open-League-Rules-of-Conduct-04f4a0fedf1a401687075f5efd83de68). I understand that in case of the violation of those my team will be immediately excluded from the competition.
+    
+*   By submitting the form I confirm that the data I provided is correct and I fully understand that in case of the contrary, my project will be permanently eliminated from The Open League
+    
+
+  16 Likes
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 32980
+
+[TON Research](/)
+
+# [🔮 Prophet — decentralized prediction market on TON](/t/prophet-decentralized-prediction-market-on-ton/32980)
+
+[The Open League](/c/the-open-league/defi-battle/63)  [DeFi League](/c/the-open-league/defi-battle/63) 
+
+    
+
+[Burncoin](https://tonresear.ch/u/Burncoin)  September 8, 2024, 9:41pm  1
+
+*   Project’s Name — Prophet
+    
+*   Project’s Website — [https://app.prophet.click](https://app.prophet.click)
+    
+*   Project’s Twitter — [x.com](https://x.com/prophet_ton)
+    
+*   Project’s Telegram channel/group — [Telegram: Contact @prophet\_ton](https://t.me/prophet_ton) / [Telegram: Contact @prophet\_ton\_community](https://t.me/prophet_ton_community)
+    
+*   DeFi Protocol Name — Prophet
+    
+*   DeFi Protocol Details
+    
+    *   Total Value Locked (TVL) — irrelevant metric for Prophet
+    *   Total Trading (Betting) Volume — 130 TON
+    *   Integration Status with Defillama (provide link) — In progress, [pull request link](https://github.com/DefiLlama/dimension-adapters/pull/1880)
+*   Please provide a link to your integration with Defillama — [pull request link](https://github.com/DefiLlama/dimension-adapters/pull/1880)
+    
+*   ![:white_check_mark:](https://tonresear.ch/images/emoji/twitter/white_check_mark.png?v=12 ":white_check_mark:") Please fill out this form: [https://forms.gle/R7bEDJcAJZNgsjau7](https://forms.gle/R7bEDJcAJZNgsjau7)
+    
+*   Your name — Mr. Burn
+    
+*   Your Telegram handle @Burncoin\_CEO
+    
+*   By submitting this application, I undertake to fully abide by The Open League Rules of Conduct. I understand that in case of the violation of those my team will be immediately excluded from the competition. Link: [Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://ton-org.notion.site/The-Open-League-Rules-of-Conduct-04f4a0fedf1a401687075f5efd83de68)
+    
+*   By submitting the form, I confirm that the data I provided is correct and I fully understand that in case of the contrary, my project will be permanently eliminated from The Open League.
+    
+
+  6 Likes
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 32988
+
+[TON Research](/)
+
+# [SpinnerCoin - Fidget spinner in Web3](/t/spinnercoin-fidget-spinner-in-web3/32988)
+
+[The Open League](/c/the-open-league/app-leaderboard/58)  [App League](/c/the-open-league/app-leaderboard/58) 
+
+    
+
+[t1modev](https://tonresear.ch/u/t1modev)  September 8, 2024, 9:43pm  1
+
+*   Project’s Name: SpinnerCoin
+    
+*   Project’s Website: [Telegram: Contact @spinnercoin\_bot](http://t.me/spinnercoin_bot)
+    
+*   Project’s Twitter: [x.com/spinnercoin](https://x.com/spinnercoin)
+    
+*   Project’s Telegram [channel](https://t.me/SpinnerCoin) / [group](https://t.me/SpinnerCoin_chat)
+    
+*   [Project’s Metrics](https://docs.google.com/document/d/18fpR8BdPkCnQm6Go-JfHV6xxqMUQxfNQA3lYaPbYHSE/edit?usp=sharing)
+    
+*   [Google Doc](https://docs.google.com/document/d/1J_BgFz_1FQcx167IgWbbVei5i2r6ZfmOHqet3GpNfjo/edit?usp=sharing)
+    
+    Please include the proofs of this traction.
+    
+*   Please copy this document ([https://docs.google.com/document/d/1sWWmQuRGRYbcihxxFtb1I28kvUqs8q2ul7ukaW\_hnp4/edit?usp=sharing](https://docs.google.com/document/d/1sWWmQuRGRYbcihxxFtb1I28kvUqs8q2ul7ukaW_hnp4/edit?usp=sharing)), fill in your project’s SMC details for leaderboard tracking, and share the link with us, ensuring public access so we can view it.
+    
+    *   Add the name you indicated in the bot for SDK integration
+*   Your name: Tim
+    
+*   Your Telegram handle: [@t1modev](https://t.me/t1modev)
+    
+*   Any other links or details that you want to share
+    
+*   By submitting this application, I undertake to fully abide by The Open League Rules of Conduct. I understand that in case of the violation of those my team will be immediately excluded from the competition. Link: [Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://ton-org.notion.site/The-Open-League-Rules-of-Conduct-04f4a0fedf1a401687075f5efd83de68)
+    
+*   By submitting the form I confirm that the data I provided is correct and I fully understand that in case of the contrary, my project will be permanently eliminated from The Open League
+    
+
+ 
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) September 9, 2024, 7:01am  2
+
+Thank you for applying; we’re currently reviewing your application and will get back to you soon.
+
+  1 Like
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 33
+
+[TON Research](/)
+
+# [TON-Jetton And ETH-Token's main difference?](/t/ton-jetton-and-eth-tokens-main-difference/33)
+
+[Application](/c/application/jetton/26)  [Jetton](/c/application/jetton/26) 
+
+    
+
+[Sno](https://tonresear.ch/u/Sno)  January 15, 2024, 3:30am  1
+
+What differentiates Jetton on TON from the token system on ETH? What functionalities does Jetton have that ETH tokens do not possess?  
+Specifically, what are the primary differences between Jetton on TON and the token system on ETH at present?
+
+ 
+
+[doge](https://tonresear.ch/u/doge) January 18, 2024, 6:41am  2
+
+The Jetton standard on TON (The Open Network) and the token system on Ethereum (ETH) represent two different approaches to token implementation in blockchain ecosystems. Let’s discuss the primary differences between them:
+
+1.  **Smart Contract Architecture**:
+    
+    *   **TON Jettons**: Each Jetton in TON is associated with a master smart contract and individual smart contracts for each owner, known as “jetton-wallets”. This distributed architecture means that each user’s balance is managed by a separate smart contract.
+    *   **Ethereum Tokens**: In Ethereum, typically, all balances of a specific token are managed by a single smart contract. Each token adhering to standards like ERC-20 has its own contract, which tracks the balances of all users.
+2.  **Transfer Mechanism**:
+    
+    *   **TON Jettons**: The transfer of Jettons involves a process where the sender’s jetton-wallet contract sends a message to the receiver’s jetton-wallet contract to update balances. This includes handling of `forward_payload`, allowing for additional data or messages to be sent along with the transfer.
+    *   **Ethereum Tokens**: Transfers are usually simpler, with the ERC-20 standard providing a `transfer` function that updates the balances within the contract. There’s no inherent mechanism for additional data with the transfer (though it can be implemented in various ways).
+3.  **Custom Payloads and Forwarding Toncoins**:
+    
+    *   **TON Jettons**: Offers the capability to include custom payloads and forward Toncoins (the native currency of TON) alongside jetton transfers. This feature enables more complex interactions and use-cases within a single transaction.
+    *   **Ethereum Tokens**: While Ethereum smart contracts are highly versatile, the standard token transfer methods (like ERC-20) do not natively support additional custom payloads or forwarding native ETH in the standard transfer method.
+4.  **Decentralized Balance Management**:
+    
+    *   **TON Jettons**: Each jetton-wallet contract independently manages the balance of jettons for a user, providing a more decentralized approach to balance management.
+    *   **Ethereum Tokens**: Balance management is centralized within the token’s smart contract.
+5.  **Burn Mechanism**:
+    
+    *   **TON Jettons**: Includes a specific mechanism for burning jettons, which is an integral part of the standard. This allows for reducing the supply of tokens in a controlled manner.
+    *   **Ethereum Tokens**: Burning tokens is typically achieved by sending them to a known burn address, but it’s not a standardized part of the ERC-20 protocol.
+6.  **On-chain Balance Inquiry**:
+    
+    *   **TON Jettons**: The standard mentions a drawback related to querying actual wallet balances on-chain, as balances might change by the time the query is processed.
+    *   **Ethereum Tokens**: Balance inquiries are straightforward and reflect the state at the time of the latest block.
+7.  **Future Development**:
+    
+    *   **TON Jettons**: The documentation hints at future developments like external message tokens, indicating an evolving standard.
+    *   **Ethereum Tokens**: Ethereum’s token standards are also evolving, but changes and new features typically come in the form of new standards (like ERC-721 for NFTs, ERC-1155 for multi-token standards, etc.).
+
+Feature
+
+TON Jettons
+
+Ethereum Tokens
+
+**Smart Contract Structure**
+
+Each Jetton has a master contract and individual jetton-wallet contracts for each owner.
+
+A single smart contract manages all token balances.
+
+**Transfer Mechanism**
+
+Transfer involves sender and receiver jetton-wallet contracts interacting.
+
+Uses a `transfer` function in the contract to update balances.
+
+**Custom Payloads and Forwarding Currency**
+
+Supports custom payloads and forwarding of Toncoins alongside jettons.
+
+No native support for additional data or forwarding ETH in standard transfers.
+
+**Decentralized Balance Management**
+
+Balance is managed by individual jetton-wallet contracts.
+
+Balance management is centralized within the token’s contract.
+
+**Burn Mechanism**
+
+Specific burn mechanism as part of the standard.
+
+Typically involves sending to a burn address, not standardized in ERC-20.
+
+**On-chain Balance Inquiry**
+
+Challenges in querying actual on-chain balances due to potential changes.
+
+Direct and current balance inquiries based on the latest block.
+
+**Flexibility and Use-cases**
+
+Allows for complex interactions in a single transaction with more flexibility.
+
+Highly versatile but less flexibility in standard token transfers.
+
+**Future Development and Evolution**
+
+Indicates potential future developments like external message tokens.
+
+Evolves through new standards (e.g., ERC-721, ERC-1155).
+
+**Adoption and Ecosystem**
+
+Still evolving and gaining adoption.
+
+Widely adopted with a vast ecosystem of applications.
+
+In summary, the Jetton standard on TON introduces a more decentralized approach to token balance management and offers features like custom payloads and forwarding of native currency alongside token transfers, which are not inherent in Ethereum’s token standards like ERC-20. However, Ethereum’s token system benefits from simplicity and widespread adoption in the blockchain ecosystem.
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 33028
+
+[TON Research](/)
+
+# [CatFlip - First 3D Runner on Telegram](/t/catflip-first-3d-runner-on-telegram/33028)
+
+[The Open League](/c/the-open-league/app-leaderboard/58)  [App League](/c/the-open-league/app-leaderboard/58) 
+
+    
+
+[CatFlip](https://tonresear.ch/u/CatFlip)   September 8, 2024, 9:53pm  1
+
+![pic 2](https://tonresear.ch/uploads/default/original/3X/8/9/8998237cd74c20c55489591b48e27cb380cbae5e.jpeg)
+
+*   Project’s Name: CatFlip
+    
+*   Project’s Website: [http://catflip.io/](http://catflip.io/)
+    
+*   Project’s Twitter: [x.com](https://x.com/catflipTON)
+    
+*   Project’s Telegram channel/group [Telegram: Contact @catflipio](https://t.me/catflipio)
+    
+*   Project’s Bot [Telegram: Contact @CatFlipPlay\_Bot](https://t.me/CatFlipPlay_Bot)
+    
+*   Project’s Metrics
+    
+*   Attach the link to a Google Doc that describes your current traction, including
+    
+
+[docs.google.com](https://docs.google.com/document/d/18eoqX3IaASwpsqSb-oXrqLL3X_3vUkTJN_HO6YBaQhg/edit?usp=sharing)
+
+[](https://docs.google.com/document/d/18eoqX3IaASwpsqSb-oXrqLL3X_3vUkTJN_HO6YBaQhg/edit?usp=sharing)
+
+### [CatFlip metrics](https://docs.google.com/document/d/18eoqX3IaASwpsqSb-oXrqLL3X_3vUkTJN_HO6YBaQhg/edit?usp=sharing)
+
+CatFlip metrics MAU – TOTAL 15000 Cannected Wallets 200 The project was released 3 days ago and is actively developing, but it doesn't have established MAU metrics yet. Wallet connections are actively ongoing right now.
+
+*   Number of connected wallet
+    
+*   MAU
+    
+*   Proof of mention inside the app about the project’s participation in the League (link / image)
+    
+*   Links to your tokens and NFT colelctions
+    
+
+Please include the proofs of this traction.
+
+[![pic 1](https://tonresear.ch/uploads/default/optimized/3X/b/5/b5c35516a7c6315e89bae2f6af82313ae4ae077e_2_230x500.jpeg)
+
+pic 1591×1280 88 KB
+
+](https://tonresear.ch/uploads/default/original/3X/b/5/b5c35516a7c6315e89bae2f6af82313ae4ae077e.jpeg "pic 1")
+
+*   Please copy this document [Копия TOL S6 Apps - Google 文件](https://docs.google.com/document/d/1Zd-WuWSSlEZjoPmtl-2jeymxicJqgifQIlH85kpIsHo/edit?usp=sharing)), fill in your project’s SMC details for leaderboard tracking, and share the link with us, ensuring public access so we can view it.
+    
+*   Add the name you indicated in the bot for SDK integration
+    
+*   Your name Aleksandr Slawinky-Sannikov
+    
+*   Your Telegram handle @alexslavsan
+    
+*   Any other links or details that you want to share
+    
+
+WP: [CatFlip — new gameFi wave | WP](https://catflip.gitbook.io/wp)
+
+YT: [https://www.youtube.com/@CatFlipAcademy](https://www.youtube.com/@CatFlipAcademy)
+
+*   By submitting this application, I undertake to fully abide by The Open League Rules of Conduct. I understand that in case of the violation of those my team will be immediately excluded from the competition. Link: [Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://ton-org.notion.site/The-Open-League-Rules-of-Conduct-04f4a0fedf1a401687075f5efd83de68)
+    
+*   By submitting the form I confirm that the data I provided is correct and I fully understand that in case of the contrary, my project will be permanently eliminated from The Open League
+    
+
+ 
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) September 9, 2024, 7:00am  2
+
+Thank you for applying; we’re currently reviewing your application and will get back to you soon.
+
+  1 Like
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 33040
+
+[TON Research](/)
+
+# [Rats Application S6](/t/rats-application-s6/33040)
+
+[The Open League](/c/the-open-league/app-leaderboard/58)  [App League](/c/the-open-league/app-leaderboard/58) 
+
+    
+
+[RatsGame](https://tonresear.ch/u/RatsGame)  September 8, 2024, 9:55pm  1
+
+*   Project’s Name: Rats
+*   Project’s Website: [Telegram: Contact @ratsgame\_bot](https://t.me/ratsgame_bot/app)
+*   Project’s Twitter: [x.com](https://x.com/community_rats)
+*   Project’s Telegram channel/group: [Telegram: Contact @ratsgame\_community](https://t.me/ratsgame_community)
+*   Project’s Metrics: 20k MAU, 2000 wallets, 25k Telegram followers
+*   Traction + mention: [Untitled document - Google 文件](https://docs.google.com/document/d/1S8C0XHuRpx4kaL3X2BUE1mcj_hrvfX5mNHoKc3xo9d0/edit?usp=sharing)  
+    \-[https://docs.google.com/document/d/1Eq6G4w1CKXras8RTGtPMmlT9qmzfegGZeGdZeF2obh8/edit?usp=sharing](https://docs.google.com/document/d/1Eq6G4w1CKXras8RTGtPMmlT9qmzfegGZeGdZeF2obh8/edit?usp=sharing)
+*   *   Add the name you indicated in the bot for SDK integration: rats
+*   Your name: Andy
+*   Your Telegram handle: @rats\_master
+*   Any other links or details that you want to share: -
+*   By submitting this application, I undertake to fully abide by The Open League Rules of Conduct. I understand that in case of the violation of those my team will be immediately excluded from the competition. Link: [Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://ton-org.notion.site/The-Open-League-Rules-of-Conduct-04f4a0fedf1a401687075f5efd83de68)
+*   By submitting the form I confirm that the data I provided is correct and I fully understand that in case of the contrary, my project will be permanently eliminated from The Open League
+
+  1 Like
+
+[RatsGame](https://tonresear.ch/u/RatsGame) September 8, 2024, 10:01pm  2
+
+Twitter/X: [x.com](https://x.com/community_rats)
+
+ 
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) September 9, 2024, 6:57am  3
+
+Please fill out your document with SMC details ASAP to be able to participate in THe Open League Season 6
+
+ 
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) September 9, 2024, 6:57am  4
+
+Thank you for applying; we’re currently reviewing your application and will get back to you soon.
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 33561
+
+[TON Research](/)
+
+# [Depin based RWA](/t/depin-based-rwa/33561)
+
+[The Open League](/c/the-open-league/defi-battle/63)  [DeFi League](/c/the-open-league/defi-battle/63) 
+
+    
+
+[presley\_zhou](https://tonresear.ch/u/presley_zhou)  September 8, 2024, 11:42pm  1
+
+*   Project’s Name
+    
+*   Project’s Website: rwachain.dao
+    
+*   Project’s Twitter
+    
+*   Project’s Telegram channel/group
+    
+*   DeFi Protocol Name
+    
+*   DeFi Protocol Details
+    
+    *   Total Value Locked (TVL)
+    *   Integration Status with Defillama (provide link)
+*   Attach the link to a Google Doc that describes your DeFi protocol’s current traction, including:
+    
+    *   Total Value Locked (TVL)
+    *   Integration with Defillama
+    *   Any additional metrics (e.g., number of active users, transaction volume, etc.)
+    
+    Please include the proofs of this traction.
+    
+*   Please provide a link to your integration with Defillama
+    
+*   Please fill out this form: [https://forms.gle/R7bEDJcAJZNgsjau7](https://forms.gle/R7bEDJcAJZNgsjau7)
+    
+*   Your name
+    
+*   Your Telegram handle
+    
+*   Any other links or details that you want to share
+    
+*   By submitting this application, I undertake to fully abide by The Open League Rules of Conduct. I understand that in case of the violation of those my team will be immediately excluded from the competition. Link: [Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://ton-org.notion.site/The-Open-League-Rules-of-Conduct-04f4a0fedf1a401687075f5efd83de68)
+    
+*   By submitting the form, I confirm that the data I provided is correct and I fully understand that in case of the contrary, my project will be permanently eliminated from The Open League.
+    
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 3358
+
+[TON Research](/)
+
+# [This is a good project.wif to the moon](/t/this-is-a-good-project-wif-to-the-moon/3358)
+
+[The Open League](/c/the-open-league/token-leaderboard/57)  [Token Battle](/c/the-open-league/token-leaderboard/57) 
+
+    
+
+[Ebuka\_Jude\_Fush](https://tonresear.ch/u/Ebuka_Jude_Fush)  April 1, 2024, 6:58pm  1
+
+Continuing the discussion from [$WIF - A Pavel Durov inspired meme coin on the TON network. Pavel Durov's dog. Wif a hood](https://tonresear.ch/t/wif-a-pavel-durov-inspired-meme-coin-on-the-ton-network-pavel-durovs-dog-wif-a-hood/2568):
+
+## [](#project-name-1)Project Name
+
+## [](#projects-website-2)Project’s Website
+
+## [](#projects-twitter-3)Project’s Twitter
+
+## [](#projects-telegram-channelgroup-4)Project’s Telegram channel/group
+
+## [](#link-to-the-tokens-page-on-redoubt-andor-dyor-5)Link to the token’s page on Re:doubt and/or DYOR
+
+## [](#your-name-6)Your name
+
+## [](#your-telegram-handle-7)Your Telegram handle
+
+## [](#any-other-links-or-details-that-you-want-to-share-8)Any other links or details that you want to share
+
+## [](#metrics-9)Metrics
+
+Attach a link or a document (of any format) that describes your current, specifically UAW (total, monthly, daily), N of tx (monthly) and Retention D1, D7, D14. Please include proofs of this traction.
+
+By submitting the form I confirm that the data I provided is correct and I fully understand that in case of the contrary, my project will be permanently eliminated from The Open League.
+
+ 
+
+[Elroy\_Sym](https://tonresear.ch/u/Elroy_Sym) April 17, 2024, 11:08pm  2
+
+WIF great project & cool looking dog ![:fire:](https://tonresear.ch/images/emoji/twitter/fire.png?v=12 ":fire:")![:fire:](https://tonresear.ch/images/emoji/twitter/fire.png?v=12 ":fire:")![:fire:](https://tonresear.ch/images/emoji/twitter/fire.png?v=12 ":fire:")
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 33607
+
+[TON Research](/)
+
+# [GPU mining club](/t/gpu-mining-club/33607)
+
+[The Open League](/c/the-open-league/nft-battle/62)  [NFT League](/c/the-open-league/nft-battle/62) 
+
+    
+
+[presley\_zhou](https://tonresear.ch/u/presley_zhou)  September 8, 2024, 11:49pm  1
+
+*   Project’s Name Ai mining club
+    
+*   Project’s Website
+    
+*   Project’s Twitter
+    
+*   Project’s Telegram channel/group
+    
+*   NFT Collection Name
+    
+*   NFT Collection Details
+    
+    *   Total Number of NFTs
+    *   Number of Unique Holders
+    *   Total Trading Volume in TON
+*   Attach the link to a Google Doc that describes your NFT collection’s current traction, including:
+    
+    *   Number of Unique Holders
+    *   Total Trading Volume in TON
+    *   Any additional metrics (e.g., floor price, highest sale, etc.)
+    
+    Please include the proofs of this traction.
+    
+*   Please provide a smart contract address for tracking during The Open League Season 4.
+    
+*   Your name
+    
+*   Your Telegram handle
+    
+*   Any other links or details that you want to share
+    
+*   By submitting this application, I undertake to fully abide by The Open League Rules of Conduct. I understand that in case of the violation of those my team will be immediately excluded from the competition. Link: [Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://ton-org.notion.site/The-Open-League-Rules-of-Conduct-04f4a0fedf1a401687075f5efd83de68)
+    
+*   By submitting the form, I confirm that the data I provided is correct and I fully understand that in case of the contrary, my project will be permanently eliminated from The Open League.
+    
+
+ 
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) September 9, 2024, 12:10pm  2
+
+Thank you for applying; we’re currently reviewing your application and will get back to you soon.
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 34438
+
+[TON Research](/)
+
+# [I think this is a welcome development](/t/i-think-this-is-a-welcome-development/34438)
+
+[General](/c/general/4) 
+
+    
+
+[blackradi0](https://tonresear.ch/u/blackradi0)  September 9, 2024, 2:21am  1
+
+I think this is a welcome development.
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 347
+
+[TON Research](/)
+
+# [Exploring TON Blockchain: A Deep Dive into TONsdk Usage and Integration](/t/exploring-ton-blockchain-a-deep-dive-into-tonsdk-usage-and-integration/347)
+
+[Application](/c/application/20) 
+
+    
+
+[Vegeta](https://tonresear.ch/u/Vegeta)   February 11, 2024, 5:27am  1
+
+In the rapidly evolving world of blockchain technology, the The Open Network (TON) stands out for its unique features and capabilities. This article delves into the technical aspects of interacting with the TON blockchain using the TONsdk, a comprehensive Python library designed for developers. By providing a low-level interface, TONsdk facilitates a wide range of operations, from wallet management to NFT and Jetton transfers, making it an indispensable tool for blockchain developers.
+
+**Introduction to TONsdk**
+
+The TONsdk library is a Python-based toolkit that enables developers to seamlessly interact with the TON blockchain. With support for various Python versions and extensive documentation, it has become a go-to resource for building sophisticated blockchain applications. Installation is straightforward, requiring just a simple pip command:
+
+```
+pip install tonsdk
+```
+
+**Getting Started with TONsdk**
+
+To utilize TONsdk, developers can refer to the examples provided in the library’s GitHub repository. These examples cover a range of functionalities, including mnemonic creation, wallet initialization, and message crafting for deploying wallets or transferring assets.
+
+**Wallet Initialization and Deployment**
+
+Creating a new wallet involves generating a mnemonic, initializing the wallet class, and preparing an external message for deployment. The following code snippet illustrates this process:
+
+```
+# Code snippet for creating a mnemonic, initializing a wallet, and preparing deployment
+```
+
+**Transferring NFTs and Jettons**
+
+The TONsdk library simplifies the transfer of NFTs and Jettons. Developers can craft transfer messages from the owner’s wallet to the new owner, specifying the amount and payload as shown below:
+
+```
+# Example code for transferring NFTs and Jettons
+```
+
+**Advanced Client Usage**
+
+TONsdk also supports advanced client functionalities, allowing for detailed account information retrieval, sequence number (seqno) fetching, and sending of binary objects (BOCs). This is particularly useful for applications requiring real-time data from the blockchain:
+
+```
+# Example showcasing advanced client usage
+```
+
+**Conclusion**
+
+The TONsdk library is a powerful tool for developers looking to leverage the capabilities of the TON blockchain. Through its comprehensive set of features, it enables the creation of robust blockchain applications, from simple wallet operations to complex asset transfers. By following the examples and guidelines provided, developers can effectively integrate TON blockchain functionalities into their projects, pushing the boundaries of what’s possible in the blockchain domain.
+
+Explore more about TONsdk and contribute to the ever-growing TON community by visiting the [TONsdk repository](https://github.com/tonfactory/tonsdk) and engaging with fellow developers.
+
+![:link:](https://tonresear.ch/images/emoji/twitter/link.png?v=12 ":link:") **Useful Links**:
+
+*   TON Blockchain: [https://ton.org/](https://ton.org/)
+*   TONsdk PyPI: [https://pypi.org/project/tonsdk/](https://pypi.org/project/tonsdk/)
+*   TONsdk GitHub Repository: [https://github.com/tonfactory/tonsdk](https://github.com/tonfactory/tonsdk)
+
+![:bulb:](https://tonresear.ch/images/emoji/twitter/bulb.png?v=12 ":bulb:") **Table Summary**:
+
+Feature
+
+Description
+
+Wallet Management
+
+Create and deploy wallets, manage mnemonics
+
+NFT & Jetton Transfers
+
+Transfer NFTs and Jettons with ease
+
+Advanced Client Operations
+
+Retrieve account information, send BOCs, fetch seqnos
+
+Embrace the power of TON blockchain with TONsdk and unlock new possibilities in the realm of decentralized applications.
+
+![](https://github.githubassets.com/favicons/favicon.svg) [GitHub](https://github.com/AminRezaei0x443/tonsdk)
+
+![](https://tonresear.ch/uploads/default/optimized/1X/dde629c598879394751277e00a94f2bce6a26ed2_2_690x345.png)
+
+### [GitHub - AminRezaei0x443/tonsdk](https://github.com/AminRezaei0x443/tonsdk)
+
+Contribute to AminRezaei0x443/tonsdk development by creating an account on GitHub.
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 348
+
+[TON Research](/)
+
+# [Mastering TONalytica: Navigating TON Blockchain Analytics](/t/mastering-tonalytica-navigating-ton-blockchain-analytics/348)
+
+[Application](/c/application/20) 
+
+    
+
+[Vegeta](https://tonresear.ch/u/Vegeta)   February 11, 2024, 5:31am  1
+
+Discover the capabilities of [TONalytica](https://tonalytica.redoubt.online/), the premier web-based analytics platform dedicated to the TON blockchain. TONalytica revolutionizes the way users, developers, and researchers interact with blockchain data by providing advanced tools for querying, analyzing, and visualizing information across the TON ecosystem. This guide serves as an essential resource for harnessing the full potential of TONalytica, from basic queries to the creation of comprehensive dashboards.
+
+**Key Features of TONalytica**
+
+TONalytica stands out for its user-friendly query editor, extensive visualization options, and seamless collaboration features. Below is a quick overview of its standout features:
+
+*   **Query Editor:** Utilize natural syntax for writing queries, enhanced by live auto-complete and keyboard shortcuts. This editor supports the creation of snippets for commonly used elements, ensuring efficient data analysis.
+*   **Visualization Tools:** Transform your data into insightful visuals, including charts, pivot tables, boxplots, and more, enabling the creation of dynamic dashboards for a wide array of data stories.
+*   **Collaboration:** Share your findings with ease, whether within your team or with external partners. TONalytica allows for dashboard sharing through URLs or embedding widgets to disseminate data effectively.
+
+**Visualization Capabilities**
+
+TONalytica’s visualization suite is comprehensive, catering to a variety of analytical needs. Here’s a summary of the available visualization types:
+
+Visualization Type
+
+Description
+
+Charts (Line, Bar, Area, Pie, Scatter)
+
+Diverse charting options for trend analysis and data distribution
+
+Boxplot
+
+Statistical overview highlighting data quartiles and outliers
+
+Cohort
+
+Analysis of segmented data over time
+
+Sunburst
+
+Hierarchical data presentation in a multi-level pie chart
+
+Word Cloud
+
+Visual representation of text data, emphasizing frequency
+
+Sankey
+
+Flow diagram showcasing the movement of data between different entities
+
+Map
+
+Geographical data visualization
+
+Counter
+
+Simple, impactful numerical data representation
+
+Pivot Table
+
+Data summarization tool that sorts, counts, and totals data
+
+Funnel
+
+Conversion data visualization through stages
+
+**Getting Started with TONalytica**
+
+To jumpstart your TONalytica journey, explore the following resources:
+
+*   **[Quickstart Guide](https://re-doubt.medium.com/tonalytica-quickstart-2676f6814a47):** A beginner-friendly introduction to setting up and navigating TONalytica.
+*   **[User Guide](https://docs.tonalytica.redoubt.online/):** Detailed documentation covering all aspects of TONalytica, including advanced features and use cases.
+*   **[Query Examples](https://beta.redoubt.online/research):** Practical examples to illustrate how to leverage TONalytica for complex data analysis tasks.
+
+**Acknowledgments**
+
+This comprehensive guide and the development of TONalytica have been made possible through the support of the TON community, particularly highlighted by TON Footstep #287. As the TON ecosystem continues to grow, tools like TONalytica are pivotal in unlocking the blockchain’s full potential for developers, researchers, and enthusiasts alike.
+
+**Useful Links:**
+
+*   Product Homepage: [https://tonalytica.redoubt.online/](https://tonalytica.redoubt.online/)
+*   Official Documentation: [https://docs.tonalytica.redoubt.online/](https://docs.tonalytica.redoubt.online/)
+*   Python SDK: [https://pypi.org/project/tonalytica-client/](https://pypi.org/project/tonalytica-client/)
+*   Dashboard Samples: [https://beta.redoubt.online/research](https://beta.redoubt.online/research)
+
+By leveraging TONalytica’s robust analytics and visualization tools, users can gain unprecedented insights into TON blockchain data, fostering a deeper understanding and facilitating informed decision-making within the TON ecosystem.
+
+![](https://github.githubassets.com/favicons/favicon.svg) [GitHub](https://github.com/re-doubt/tonalytica_tutorial)
+
+![](https://tonresear.ch/uploads/default/optimized/1X/98b57e9743267907235e962da0144d45039ed0ae_2_690x345.png)
+
+### [GitHub - re-doubt/tonalytica\_tutorial: Guide will help you get started on...](https://github.com/re-doubt/tonalytica_tutorial)
+
+Guide will help you get started on TONalytica in five minutes - GitHub - re-doubt/tonalytica\_tutorial: Guide will help you get started on TONalytica in five minutes
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 349
+
+[TON Research](/)
+
+# [Enhancing Telegram Mini Apps: A Comprehensive Guide to Development and Integration](/t/enhancing-telegram-mini-apps-a-comprehensive-guide-to-development-and-integration/349)
+
+[Application](/c/application/20) 
+
+    
+
+[Vegeta](https://tonresear.ch/u/Vegeta)  February 11, 2024, 5:39am  1
+
+The advent of Telegram Mini Apps presents a transformative opportunity for developers and businesses alike, offering a seamless integration of web apps within the Telegram ecosystem. These Mini Apps allow for a unified user experience, leveraging Telegram’s extensive features such as seamless authorization, integrated payments, and push notifications. This article serves as an in-depth exploration of the resources, tools, and communities available to developers embarking on the journey of creating Telegram Mini Apps.
+
+**Overview of Telegram Mini Apps**
+
+Telegram Mini Apps are essentially web applications that run inside the Telegram platform, enabling developers to create immersive and interactive experiences directly within chats. They harness the power of the Telegram API to offer functionalities that are deeply integrated with the user’s Telegram account, providing a smooth and cohesive experience.
+
+**Key Resources for Developers**
+
+Developers looking to create Telegram Mini Apps have a wealth of resources at their disposal:
+
+*   **[Official Guide](https://core.telegram.org/bots/webapps):** Telegram’s official documentation provides a foundational understanding of Mini App development.
+*   **[Community Guide](https://docs.telegram-mini-apps.com):** A comprehensive resource covering various aspects of Mini App development, maintained by the developer community.
+*   **[TON Documentation Guide](https://docs.ton.org/develop/dapps/twa):** For those integrating with the TON blockchain, this guide offers valuable insights.
+*   **[Trending Apps](https://t.me/trendingapps):** Discover popular Mini Apps and gain inspiration for your projects.
+
+**Empowering Development with Libraries and Templates**
+
+A range of libraries and templates are available to streamline the development process:
+
+*   **Libraries:** From the [WebApp API npm package](https://github.com/twa-dev/SDK) to [flutter\_telegram\_web](https://pub.dev/documentation/flutter_telegram_web_app/latest), developers can choose from a variety of tools to enhance their Mini Apps.
+*   **Templates:** Starter kits like [@twa-dev/webpack-boilerplate](https://github.com/twa-dev/webpack-boilerplate) and integration templates such as [TON integration template](https://github.com/ton-community/twa-template) provide a solid foundation for building Mini Apps.
+
+**Visualization and UI Kits**
+
+For those focused on the visual aspect of Mini Apps, UI Kits like [Telegram Graphics Figma file](https://www.figma.com/community/file/1248595286803212338/telegram-graphics) and libraries such as [@tonconnect/ui-react](https://www.npmjs.com/package/@tonconnect/ui-react) offer essential tools for designing compelling user interfaces.
+
+**Exploring Mini App Projects and Products**
+
+The ecosystem boasts an array of projects and products that showcase the potential of Mini Apps:
+
+*   **Projects:** From hotel booking concepts like [Telebook](https://github.com/neSpecc/telebook) to crypto wallets like [DPXWallet](https://github.com/erfanmola/DPXWallet), the diversity of Mini Apps is vast.
+*   **Products:** Platforms like [TON Play](https://tonplay.io) and [Telegram Shop Platform](https://telegramwebapps.ru) demonstrate the commercial viability of Mini Apps.
+
+**Joining the Community**
+
+Engagement with the community is crucial for developers seeking support and collaboration. The [Telegram Chat](https://t.me/twa_dev) and [twa-dev GitHub](https://github.com/twa-dev) serve as hubs for discussion, knowledge sharing, and collaboration.
+
+**Conclusion**
+
+Telegram Mini Apps open up a world of possibilities for enhancing user experiences within the Telegram platform. With the right resources, tools, and community support, developers can create innovative Mini Apps that leverage the full potential of Telegram’s features. Whether you’re looking to integrate blockchain functionalities, design interactive UIs, or simply explore the capabilities of Telegram Mini Apps, the journey starts with understanding the ecosystem and engaging with the wealth of resources available.
+
+**Useful Links:**
+
+*   Official Guide: [https://core.telegram.org/bots/webapps](https://core.telegram.org/bots/webapps)
+*   Community Guide: [https://docs.telegram-mini-apps.com](https://docs.telegram-mini-apps.com)
+*   TON Documentation Guide: [https://docs.ton.org/develop/dapps/twa](https://docs.ton.org/develop/dapps/twa)
+*   Trending Apps: [https://t.me/trendingapps](https://t.me/trendingapps)
+
+By embracing the capabilities of Telegram Mini Apps, developers can create dynamic and engaging experiences that enrich the Telegram ecosystem, fostering a vibrant community of users and developers alike.
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 350
+
+[TON Research](/)
+
+# [TonTools: A Comprehensive Python OOP Library for TON Blockchain Interaction](/t/tontools-a-comprehensive-python-oop-library-for-ton-blockchain-interaction/350)
+
+[Application](/c/application/20) 
+
+[indexer](https://tonresear.ch/tag/indexer), [api](https://tonresear.ch/tag/api), [multisig](https://tonresear.ch/tag/multisig)
+
+    
+
+[kingsman](https://tonresear.ch/u/kingsman)   February 11, 2024, 10:01am  1
+
+TonTools is an advanced Object-Oriented Programming (OOP) library for Python, specifically designed to facilitate seamless interaction with the TON Blockchain (The Open Network). It offers developers a high-level interface to engage with blockchain operations, making it a pivotal tool for blockchain application development. For further inquiries, the Python - TON [developers chat](https://t.me/pythonnton) is available for engagement and support.
+
+![PyPI version](https://badge.fury.io/py/tontools.svg) ![](https://pepy.tech/badge/tontools) [![Downloads](https://static.pepy.tech/badge/tontools/month)](https://pepy.tech/project/tontools) [![](https://img.shields.io/badge/%F0%9F%92%8E-TON-grey)](https://ton.org)
+
+## [](#installation-instructions-1)Installation Instructions:
+
+To integrate TonTools into your project, execute the following command:
+
+```
+pip install tontools
+```
+
+## [](#capabilities-2)Capabilities ![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:")
+
+TonTools empowers users to perform a wide range of operations on the TON Blockchain, including but not limited to:
+
+*   Scanning and invoking methods on custom Contracts
+*   Creating, deploying, and scanning wallets
+*   Interacting with NFT Collections, Items, and Sale contracts
+*   Managing Jettons and Jetton Wallets
+*   Transferring Tons, Jettons, NFTs
+*   Parsing Transactions in both raw and user-friendly formats
+*   And many more advanced functionalities…
+
+Sample code and further examples are located in the `examples/` directory within the repository.
+
+## [](#support-the-project-3)Support the Project
+
+Contributions to support the project are welcomed at the following TON address:
+
+**TON:** EQBvW8Z5huBkMJYdnfAEM5JqTNkuWX3diqYENkWsIL0XggGG
+
+## [](#data-providers-4)Data Providers
+
+TonTools retrieves data from the blockchain using various Providers, including [TonCenterClient](https://toncenter.com/api/v2/), [LsClient](https://ton.org/docs/participate/nodes/node-types), [DtonClient](https://docs.dton.io/dton/), and [TonApiClient](https://tonapi.io/swagger-ui). While most methods across these providers are consistent, some variations do exist.
+
+### [](#provider-comparisons-5)Provider Comparisons
+
+Provider
+
+Base URL
+
+Special Features
+
+TonCenterClient
+
+[TON HTTP API - Swagger UI](https://toncenter.com/api/v2/)
+
+API Key rate limit of 10 RPS, Local hosting recommended
+
+LsClient
+
+Lite Server (Node-dependent)
+
+Advanced usage, may require binary compilation
+
+DtonClient
+
+[https://docs.dton.io/dton/](https://docs.dton.io/dton/)
+
+High-level indexing GraphQL API, Private GraphQL with API key
+
+TonApiClient
+
+[https://tonapi.io/swagger-ui](https://tonapi.io/swagger-ui)
+
+High-level indexing API, Future updates to include V2 methods
+
+### [](#detailed-usage-and-initializations-6)Detailed Usage and Initializations
+
+*   **TonCenterClient**: Ideal for developers seeking to utilize a comprehensive API with support for rate limiting and local hosting capabilities.
+    
+*   **LsClient**: Offers data from blockchain using lite servers, tailored for developers needing advanced control and potentially binary compilation.
+    
+*   **DtonClient**: A GraphQL API designed for high-level indexing, suitable for users with an API key seeking private GraphQL access.
+    
+*   **TonApiClient**: Focused on providing a high-level indexing API, recommended for scanning extensive transaction and contract datasets.
+    
+
+## [](#contract-interactions-7)Contract Interactions
+
+TonTools abstracts contract interactions, enabling developers to seamlessly work with various contract types such as NFT items, collections, sales, jettons, and wallets. Each contract inherits from a base `Contract` class, providing methods like `.get_transactions()`, `.run_get_method()`, `.get_balance()`, and `.get_state()`, applicable across different contract types.
+
+### [](#examples-8)Examples
+
+*   **NFT Contracts**: Managing NFT Items, Collections, and Sales.
+*   **Jetton Contracts**: Handling Jetton and Jetton Wallet interactions.
+*   **Wallet Contracts**: Includes the `Wallet` class for managing blockchain wallets, with future plans to introduce HighLoadWallet and MultiSigWallet.
+
+### [](#transactions-and-messages-9)Transactions and Messages
+
+The `Transaction` class offers methods to convert transaction data into both full and user-friendly formats, aiding in the analysis and presentation of transaction information. Additionally, messages can be categorized using the `.try_detect_type()` method, enhancing data interpretation and usability.
+
+For detailed examples, installation guides, and more information on how to contribute or seek help, visit the [TonTools GitHub repository](https://github.com/ton-tools/tontools) and the [Python - TON developers chat](https://t.me/pythonnton).
+
+![](https://github.githubassets.com/favicons/favicon.svg) [GitHub](https://github.com/yungwine/TonTools)
+
+![](https://tonresear.ch/uploads/default/optimized/1X/ac5cd09109fd193b6c8a35f43f4492319e434c5e_2_690x345.png)
+
+### [GitHub - yungwine/TonTools: High-level OOP Python library to interact with...](https://github.com/yungwine/TonTools)
+
+High-level OOP Python library to interact with TON Blockchain - yungwine/TonTools
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 3506
+
+[TON Research](/)
+
+# [$PITON - Pi Ton Network - The Open League Application](/t/piton-pi-ton-network-the-open-league-application/3506)
+
+[The Open League](/c/the-open-league/token-leaderboard/57)  [Token Battle](/c/the-open-league/token-leaderboard/57) 
+
+    
+
+[pine](https://tonresear.ch/u/pine)  April 2, 2024, 3:48am  1
+
+## [](#project-name-1)Project Name
+
+Pi Ton Network
+
+## [](#projects-website-2)Project’s Website
+
+[https://piton.network](https://piton.network)
+
+## [](#projects-twitter-3)Project’s Twitter
+
+[PITON π💎 (@pitonnetwork) / X (twitter.com)](https://twitter.com/pitonnetwork)
+
+## [](#projects-telegram-channelgroup-4)Project’s Telegram channel/group
+
+![](https://telegram.org/img/website_icon.svg?4) [Telegram](https://t.me/pitonnetwork)
+
+![](https://tonresear.ch/uploads/default/original/2X/b/b4e5ba2dbe82d2df56b282dfc65d805e985d891c.jpeg)
+
+### [Pi Ton Network](https://t.me/pitonnetwork)
+
+PITON is a token designed specifically for those who have a deep love for Pi and the Pi community. https://piton.network/ https://twitter.com/pitonnetwork
+
+![](https://telegram.org/img/website_icon.svg?4) [Telegram](https://t.me/pitoncommunity)
+
+![](https://tonresear.ch/uploads/default/original/2X/0/0410e1ad86c069ec5c168141007669fda3138654.jpeg)
+
+### [PITON COMMUNITY](https://t.me/pitoncommunity)
+
+You can view and join @pitoncommunity right away.
+
+## [](#link-to-the-tokens-page-on-redoubt-andor-dyor-5)Link to the token’s page on Re:doubt and/or DYOR
+
+[Pi Ton Network (PITON) Token Price - DYOR.ninja](https://dyor.io/token/EQCykFK-EgVtKZ2ijq4keIAGAigz9WIyHR1iJEwuZxwHXK5p)
+
+## [](#your-name-6)Your name
+
+Pine
+
+## [](#your-telegram-handle-7)Your Telegram handle
+
+@pineton
+
+## [](#any-other-links-or-details-that-you-want-to-share-8)Any other links or details that you want to share
+
+PITON is a token designed specifically for those who have a deep love for Pi and the Pi community. Built on the principles of unity, collaboration, and shared passion, PITON aims to empower Pi enthusiasts and create a stronger, more vibrant Pi community.
+
+As holders of PITON, you become an integral part of a community-driven ecosystem that celebrates the spirit of Pi. This token serves as a symbol of your dedication and commitment to the growth and success of Pi community.
+
+PITON not only provides a platform for Pi enthusiasts to connect and engage with one another but also offers exciting opportunities for collaboration and mutual support. By holding PITON, you contribute to the development of innovative projects, initiatives, and events that enrich the Pi community.
+
+## [](#metrics-9)Metrics
+
+Current Metrics:
+
+TVL: [STON.fi](http://STON.fi) $40k
+
+Holders: 650
+
+ATH: $100k TVL, $750k MKC
+
+More detail here:
+
+[docs.google.com](https://docs.google.com/document/d/1vaI4zd4cgMYxNIUhYYc1KgwYT307dn2T2FQ8m7-aayE/edit?usp=sharing)
+
+[](https://docs.google.com/document/d/1vaI4zd4cgMYxNIUhYYc1KgwYT307dn2T2FQ8m7-aayE/edit?usp=sharing)
+
+### [Plans to Increase Metrics $PITON](https://docs.google.com/document/d/1vaI4zd4cgMYxNIUhYYc1KgwYT307dn2T2FQ8m7-aayE/edit?usp=sharing)
+
+This Doc is private
+
+By submitting the form I confirm that the data I provided is correct and I fully understand that in case of the contrary, my project will be permanently eliminated from The Open League.
+
+  8 Likes
+
+[dontbussime](https://tonresear.ch/u/dontbussime) April 2, 2024, 7:59am  3
+
+I sold most of my bag to buy Piton, feeling this will be my big hit
+
+  4 Likes
+
+[hoangtu210](https://tonresear.ch/u/hoangtu210) April 2, 2024, 12:59pm  4
+
+Finally found you here. I’m a presale investor in PiTon, I like the project and the team, dev did a lot of things for the community since day 1. I hope you guy can get approve for the Open League. Good luck
+
+  3 Likes
+
+[fedor\_nechiporenko](https://tonresear.ch/u/fedor_nechiporenko) April 2, 2024, 1:36pm  5
+
+I am sure that this particular project will bring a lot of benefits to the entire TON ecosystem. I’m looking forward to approval of application to participate in the Open League!!!
+
+  1 Like
+
+[Rico\_Arsy](https://tonresear.ch/u/Rico_Arsy) April 2, 2024, 1:40pm  6
+
+One of unic project on Ton with good naratif. Good for mass adoption…
+
+  1 Like
+
+[leviprime99](https://tonresear.ch/u/leviprime99) April 2, 2024, 3:15pm  7
+
+This project holds immense potential for the TON ecosystem. Eagerly awaiting approval for the Open League participation!
+
+  1 Like
+
+[dealer666](https://tonresear.ch/u/dealer666) April 2, 2024, 3:49pm  8
+
+me too dude waiting to re-enjoying ![:weary:](https://tonresear.ch/images/emoji/twitter/weary.png?v=12 ":weary:")
+
+  1 Like
+
+[GrzegorzWeglowski](https://tonresear.ch/u/GrzegorzWeglowski) April 3, 2024, 2:04am  9
+
+$PITON to the moon! ![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:")![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:")![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:")
+
+ 
+
+[Danny\_Nguyen](https://tonresear.ch/u/Danny_Nguyen) April 3, 2024, 6:40am  10
+
+I just load more Piton in my bag after researching and talking to the dev, I feel their energy and how serious they are. I believe this project will be a big hit. Keep hodl
+
+ 
+
+[Hna\_Nart](https://tonresear.ch/u/Hna_Nart) April 6, 2024, 1:05pm  11
+
+A Billion marketcap soon
+
+ 
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) April 9, 2024, 10:12pm  12
+
+Hello Pi Ton Network team,
+
+Thank you for taking the time to apply for our Open League Season 1.
+
+After a thorough review, we must inform you that, unfortunately, your token does not meet our current eligibility criteria. You can find these criteria through this [link](https://tonresear.ch/t/about-the-memecoin-leaderboard-category/1276).
+
+Once your token aligns with these criteria, please feel free to resubmit your application for future seasons.
+
+We look forward to possibly seeing your application again in the future.
+
+Thank you.
+
+  1 Like
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 35196
+
+[TON Research](/)
+
+# [Good project indeed. God bless](/t/good-project-indeed-god-bless/35196)
+
+[General](/c/general/4) 
+
+    
+
+[ZAHARADDEEN1313](https://tonresear.ch/u/ZAHARADDEEN1313)  September 9, 2024, 5:46am  1
+
+Really deserved appreciation for your good working and concerned all the times. And thank you very good indeed.
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 35355
+
+[TON Research](/)
+
+# [I love this project](/t/i-love-this-project/35355)
+
+[General](/c/general/4) 
+
+    
+
+[Muchmoney](https://tonresear.ch/u/Muchmoney)  September 9, 2024, 6:36am  1
+
+Am so happy to be part of this great project
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 3546
+
+[TON Research](/)
+
+# [Rage Battles Games | TON P2E MMORPG](/t/rage-battles-games-ton-p2e-mmorpg/3546)
+
+[Русский](/c/ru/application/54)  [приложение](/c/ru/application/54) 
+
+    
+
+[Boris\_Teplyakov](https://tonresear.ch/u/Boris_Teplyakov)   April 2, 2024, 6:12am  1
+
+[![image](https://tonresear.ch/uploads/default/optimized/2X/4/4a0b4c7842181d3a61938e5d1591c396b4070932_2_690x403.jpeg)
+
+image1135×664 143 KB
+
+](https://tonresear.ch/uploads/default/original/2X/4/4a0b4c7842181d3a61938e5d1591c396b4070932.jpeg "image")
+
+Наткнулся на пошаговую MMORPG в Telegram, называется Rage Battles.  
+Качаешь персонажа, создаешь кланы, сражаешься на арене и ходишь в подземелья, чем-то отдаленно напоминает текстовые рпг квесты начала нулевых.
+
+Вот ссылка для самостоятельного ознакомления: [t.me/RageBattlesBot](https://t.me/RageBattlesBot)
+
+Понравилось, что маркет формируется только игроками — спрос рождает предложение.
+
+Вопрос к комьюнити, видели ли вы подобные игры? Если да, то скиньте ссылочку в комменты.
+
+  2 Likes
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 35640
+
+[TON Research](/)
+
+# [Tonresearch TOL](/t/tonresearch-tol/35640)
+
+[General](/c/general/4) 
+
+    
+
+[queency](https://tonresear.ch/u/queency)  September 9, 2024, 8:13am  1
+
+This project is one of the best project I have seen and participated on. I’m eagerly awaiting the project listing
+
+  1 Like
+
+[Tahira\_Bagom](https://tonresear.ch/u/Tahira_Bagom) September 11, 2024, 1:22am  2
+
+I need a job i want to work in marketing
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 357
+
+[TON Research](/)
+
+# [Introducing Pytoniq: A Python SDK for TON Blockchain 🚀](/t/introducing-pytoniq-a-python-sdk-for-ton-blockchain/357)
+
+[Application](/c/application/20) 
+
+[sdk](https://tonresear.ch/tag/sdk)
+
+    
+
+[Zoro](https://tonresear.ch/u/Zoro)   February 13, 2024, 3:47pm  1
+
+Pytoniq, a Python Software Development Kit (SDK) for the TON Blockchain (The Open Network), extends its core functionalities with native `LiteClient` and `ADNL` components, providing developers with a robust toolset for blockchain operations. For further details, contributors and users can join the Python - TON [developers chat](https://t.me/pythonnton) ![:loudspeaker:](https://tonresear.ch/images/emoji/twitter/loudspeaker.png?v=12 ":loudspeaker:").
+
+### [](#key-features-and-installation-1)Key Features and Installation ![:hammer_and_wrench:](https://tonresear.ch/images/emoji/twitter/hammer_and_wrench.png?v=12 ":hammer_and_wrench:")
+
+*   **PyPI Version**: ![PyPI version](https://badge.fury.io/py/pytoniq.svg)
+*   **Supported Python Versions**: ![Python Version](https://img.shields.io/pypi/pyversions/pytoniq)
+*   **Downloads**: ![Downloads](https://static.pepy.tech/badge/pytoniq) | ![Monthly Downloads](https://static.pepy.tech/badge/pytoniq/month)
+*   **TON Integration**: ![TON](https://img.shields.io/badge/%F0%9F%92%8E-TON-grey)
+
+To get started, simply run:
+
+```
+pip install pytoniq 
+```
+
+### [](#comprehensive-documentation-2)Comprehensive Documentation ![:books:](https://tonresear.ch/images/emoji/twitter/books.png?v=12 ":books:")
+
+For an in-depth understanding and additional resources, visit the [GitBook Documentation](https://yungwine.gitbook.io/pytoniq-doc/).
+
+### [](#installation-usage-examples-3)Installation & Usage Examples ![:memo:](https://tonresear.ch/images/emoji/twitter/memo.png?v=12 ":memo:")
+
+From initializing the `LiteClient` to leveraging the `LiteBalancer` for optimized query handling, Pytoniq offers extensive functionalities. Check out the examples directory for practical applications.
+
+#### [](#liteclient-4)LiteClient ![:globe_with_meridians:](https://tonresear.ch/images/emoji/twitter/globe_with_meridians.png?v=12 ":globe_with_meridians:")
+
+The `LiteClient` enables direct interaction with the TON Blockchain, offering functionalities such as block transactions scanning and masterchain information retrieval.
+
+##### [](#usage-5)Usage:
+
+1.  **Client Initialization**:
+    
+    *   Establish connection with the TON network specifying the configuration (mainnet, testnet, or custom).
+    *   Retrieve masterchain information and manage connection lifecycle.
+2.  **Blocks Transactions Scanning**:
+    
+    *   Implement `BlockScanner` to navigate through block transactions, filtering by workchain ID.
+
+#### [](#litebalancer-6)LiteBalancer ![:arrows_clockwise:](https://tonresear.ch/images/emoji/twitter/arrows_clockwise.png?v=12 ":arrows_clockwise:")
+
+`LiteBalancer` ensures efficient management of LiteServer connections by monitoring peer availability and directing requests to the optimal server based on response times and block sequence numbers.
+
+##### [](#special-features-7)Special Features:
+
+*   Retry mechanism on timeout errors.
+*   Archival LiteServer detection for historical data requests.
+
+#### [](#blockstore-8)Blockstore ![:card_file_box:](https://tonresear.ch/images/emoji/twitter/card_file_box.png?v=12 ":card_file_box:")
+
+Pytoniq ensures data integrity through blockstore verification, allowing zero trust level operations with block data provenance.
+
+#### [](#advanced-network-layer-adnl-distributed-hash-table-dht-9)Advanced Network Layer (ADNL) & Distributed Hash Table (DHT) ![:earth_africa:](https://tonresear.ch/images/emoji/twitter/earth_africa.png?v=12 ":earth_africa:")
+
+ADNL provides a decentralized networking protocol for efficient peer-to-peer interactions, while DHT extends capabilities with distributed storage solutions.
+
+##### [](#key-operations-10)Key Operations:
+
+*   Start ADNL server and manage peer connections.
+*   Utilize DHT for distributed storage and retrieval of network information.
+
+### [](#conclusion-11)Conclusion
+
+Pytoniq stands as a comprehensive toolkit for Python developers working with the TON Blockchain, offering a range of functionalities from basic blockchain interactions to advanced networking protocols. With its easy installation, detailed documentation, and robust SDK, Pytoniq fosters a supportive environment for developers to build, innovate, and contribute to the TON ecosystem.
+
+For a hands-on experience and to explore the full potential of Pytoniq, refer to the provided examples and join the vibrant developer community.
+
+![](https://github.githubassets.com/favicons/favicon.svg) [GitHub](https://github.com/yungwine/pytoniq)
+
+![](https://tonresear.ch/uploads/default/optimized/1X/52ab8c286e7d636a5d1c2a05e9459d9a6ddd7d69_2_690x345.png)
+
+### [GitHub - yungwine/pytoniq: TON Blockchain SDK with native ADNL protocols...](https://github.com/yungwine/pytoniq)
+
+TON Blockchain SDK with native ADNL protocols implementations - yungwine/pytoniq
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 3579
+
+[TON Research](/)
+
+# [Tom and Jerry - The Open League Application](/t/tom-and-jerry-the-open-league-application/3579)
+
+[The Open League](/c/the-open-league/token-leaderboard/57)  [Token Battle](/c/the-open-league/token-leaderboard/57) 
+
+    
+
+[TomandJerry](https://tonresear.ch/u/TomandJerry)  April 2, 2024, 9:15am  1
+
+## [](#token-name-tom-jerry-1)Token Name Tom (Jerry)
+
+## [](#projects-twitter-httpstwittercommemtomandjerry-2)Project’s Twitter [https://twitter.com/memtomandjerry](https://twitter.com/memtomandjerry)
+
+## [](#link-to-the-tokens-page-on-redoubt-andor-dyor-tom-jerry-token-price-dyorninjahttpsdyoriorutokeneqdqqayof3i4t8ruquk2c3mtxcztipkh6lbbbcyitnc5jjnj-3)Link to the token’s page on re:doubt and/or DYOR [Tom (Jerry) Token Price - DYOR.ninja](https://dyor.io/ru/token/EQDqqaYOf3I4T8rUquk2C3MTXCzTIpkH6lbBBCyItNC5JjNJ)
+
+## [](#link-to-the-tokens-page-on-coinmarketcap-if-your-token-is-not-listed-there-write-na-na-4)Link to the token’s page on Coinmarketcap (if your token is not listed there, write n/a) n/a
+
+## [](#link-to-the-tokens-page-on-coingecko-if-your-token-is-not-listed-there-write-na-5)Link to the token’s page on Coingecko (if your token is not listed there, write n/a)
+
+[Jerry 0,0₈4604 $ - цена Tom на бирже DeDust с комиссией 0.4% | GeckoTerminal](https://www.geckoterminal.com/ru/ton/pools/EQBV8ohYrgkaNj-89p31iemU9Xr9JW7ypDkXaiqCJXewMTEh)
+
+## [](#your-name-alexandr-6)Your name Alexandr
+
+## [](#your-telegram-handle-playzzz-7)Your Telegram handle (@…) @playzzz
+
+## [](#any-other-links-or-details-that-you-want-to-share-8)Any other links or details that you want to share
+
+[docs.google.com](https://docs.google.com/document/d/1HC1yS4vauoJA2h5dH3rmFe_X6wOpZefO8fbVQo7dNaY/edit?usp=sharing)
+
+[](https://docs.google.com/document/d/1HC1yS4vauoJA2h5dH3rmFe_X6wOpZefO8fbVQo7dNaY/edit?usp=sharing)
+
+### [Plans to Increase Metrics Tom (Jerry)](https://docs.google.com/document/d/1HC1yS4vauoJA2h5dH3rmFe_X6wOpZefO8fbVQo7dNaY/edit?usp=sharing)
+
+This Doc is private
+
+By submitting the form I confirm that the data I provided is correct and I fully understand that in case of the contrary, my project will be permanently eliminated from The Open League.
+
+  2 Likes
+
+[TonMiner\_1rus.com](https://tonresear.ch/u/TonMiner_1rus.com)  April 2, 2024, 9:24am  2
+
+[![image](https://tonresear.ch/uploads/default/optimized/2X/3/3fcadbe8c1b94e4ed78fa9b7ffa7dfc300c88414_2_500x500.jpeg)
+
+image1024×1024 168 KB
+
+](https://tonresear.ch/uploads/default/original/2X/3/3fcadbe8c1b94e4ed78fa9b7ffa7dfc300c88414.jpeg "image")
+
+ 
+
+[TonMiner\_1rus.com](https://tonresear.ch/u/TonMiner_1rus.com) April 4, 2024, 4:27pm  3
+
+Contract address: EQDqqaYOf3I4T8rUquk2C3MTXCzTIpkH6lbBBCyItNC5JjNJ  
+Tom & Jerry is a digital token compatible with the TON token standard. Tom & Jerry has no functions, no utility and no intrinsic value, no promise or expectation of any financial return, profit, interest or dividend.  
+There is no roadmap and there is no promise or expectation that any ecosystem will even be developed for Tom & Jerry.  
+Tom & Jerry is completely useless and for entertainment purposes only.  
+Tom & Jerry is a meme token. Tom & Jerry aims to become the representative meme token of the  
+TON ecosystem. It’s just a fun token. 1% of Jerry tokens in amount - 4 206 900 000 000 added to  
+liquidity pool on Dedust, other 99% in amount 416 483 100 000 000 will be distributed during the  
+POS mining to liquidity providers on Dedust , distribution will lasts for 4 years. Dedust Pair [DeDust.io — AMM DEX on The Open Network](https://dedust.io/swap/TON/EQDqqaYOf3I4T8rUquk2C3MTXCzTIpkH6lbBBCyItNC5JjNJ) Pool; [DeDust.io — AMM DEX on The Open Network](https://dedust.io/pools/EQBV8ohYrgkaNj-89p31iemU9Xr9JW7ypDkXaiqCJXewMTEh)
+
+Telegram: [Telegram: Contact @memTomandJerry](https://t.me/memTomandJerry)
+
+ 
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) April 12, 2024, 7:38am  4
+
+Hello Tom and Jerry team,
+
+Thank you for taking the time to apply for The Open League Season #1.
+
+After a thorough review, we must inform you that, unfortunately, your token does not meet our current eligibility criteria. You can find them through this [link](https://tonresear.ch/t/about-the-memecoin-leaderboard-category/1276).
+
+Once your token aligns with these criteria, please feel free to resubmit your application for the future seasons.
+
+We look forward to seeing your application again in the future.
+
+Thank you.
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 359
+
+[TON Research](/)
+
+# [Implementing Minimal ADNL Client-Server in Rust for TON Blockchain](/t/implementing-minimal-adnl-client-server-in-rust-for-ton-blockchain/359)
+
+[Application](/c/application/20) 
+
+    
+
+[ASURADA](https://tonresear.ch/u/ASURADA)   February 14, 2024, 9:20am  1
+
+## [](#adnl-implementation-status-1)ADNL Implementation Status
+
+The current implementation status of the ADNL features is summarized in the table below:
+
+Feature
+
+Status
+
+ADNL Client
+
+![:white_check_mark:](https://tonresear.ch/images/emoji/twitter/white_check_mark.png?v=12 ":white_check_mark:") Implemented
+
+ADNL Server
+
+![:x:](https://tonresear.ch/images/emoji/twitter/x.png?v=12 ":x:") Not implemented
+
+async
+
+![:white_check_mark:](https://tonresear.ch/images/emoji/twitter/white_check_mark.png?v=12 ":white_check_mark:") Implemented
+
+ed25519 libs
+
+curve25519\_dalek + x25519\_dalek
+
+## [](#quickstart-guide-2)Quickstart Guide
+
+To get started with the ADNL client implementation in Rust, you can run the following example:
+
+```
+cargo run --example time
+```
+
+Below is a brief explanation of the Rust code for the ADNL client:
+
+```
+use adnl::AdnlClient;
+use anyhow::{anyhow, Context, Result};
+use std::net::SocketAddrV4;
+
+#[tokio::main]
+async fn main() -> Result<()> {
+    // Decode the liteserver public key
+    let remote_public: [u8; 32] = base64::decode("JhXt7H1dZTgxQTIyGiYV4f9VUARuDxFl/1kVBjLSMB8=")
+        .context("Error decode base64")?
+        .try_into().map_err(|_| anyhow!("Bad public key length"))?;
+
+    let ls_ip = "65.21.74.140";
+    let ls_port = 46427;
+
+    // Create an AdnlClient instance
+    let mut client =
+        AdnlClient::connect(remote_public, SocketAddrV4::new(ls_ip.parse()?, ls_port)).await?;
+
+    // Prepare a serialized TL query for getting the time
+    let mut query = hex::decode("7af98bb435263e6c95d6fecb497dfd0aa5f031e7d412986b5ce720496db512052e8f2d100cdf068c7904345aad16000000000000")?;
+
+    // Send the query over ADNL using a random nonce
+    client.send(&mut query).await?;
+
+    // Receive the result into a vector with an 8192 bytes buffer
+    let mut result = Vec::<u8>::new();
+    client.receive(&mut result).await?;
+
+    // Extract the time from the serialized TL answer
+    println!(
+        "received: {}",
+        u32::from_le_bytes(result[result.len() - 7..result.len() - 3].try_into()?)
+    );
+    Ok(())
+}
+```
+
+This example demonstrates how to connect to a TON liteserver using the ADNL client, send a query to get the current time, and receive the response. The use of `async` ensures that the operations are performed asynchronously, providing efficient network communication.
+
+For further information and updates, you can refer to the [crates.io package](https://crates.io/crates/adnl) and the [documentation](https://docs.rs/adnl).
+
+* * *
+
+Feel free to share your thoughts or questions regarding this implementation. Any contributions or suggestions for improving the ADNL client-server model in Rust are highly welcome!
+
+![](https://github.githubassets.com/favicons/favicon.svg) [GitHub](https://github.com/tonstack/adnl-rs)
+
+![](https://tonresear.ch/uploads/default/optimized/1X/072ba0360224138cc4f7c0dc47661c5bf74d0b25_2_690x345.png)
+
+### [GitHub - tonstack/adnl-rs: ADNL implementation in Rust](https://github.com/tonstack/adnl-rs)
+
+ADNL implementation in Rust. Contribute to tonstack/adnl-rs development by creating an account on GitHub.
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 36
+
+[TON Research](/)
+
+# [Analyzing the Implementation and Functionality of the Liquid Staking Pool in TON Blockchain](/t/analyzing-the-implementation-and-functionality-of-the-liquid-staking-pool-in-ton-blockchain/36)
+
+[TON Blockchain](/c/ton-blockchain/build-node/21)  [TON Node](/c/ton-blockchain/build-node/21) 
+
+[lst](https://tonresear.ch/tag/lst), [nominator](https://tonresear.ch/tag/nominator)
+
+    
+
+[kingsman](https://tonresear.ch/u/kingsman)  January 23, 2024, 1:43pm  1
+
+The TON blockchain has introduced an innovative protocol known as the Liquid Staking (LSt) pool, which serves to connect TON holders, referred to as Nominators, with hardware node operators for participation in blockchain validation through asset pooling. This protocol not only facilitates the pooling of assets but also integrates with DeFi protocols by issuing Pool Jettons, representing a share of the pool and accruing validation rewards. Understanding the technical details, operational mechanisms, and potential implications of this Liquid Staking pool is crucial for stakeholders in the TON ecosystem.
+
+This inquiry seeks to delve into the technicalities and functionalities of the Liquid Staking pool in the TON blockchain, focusing on several key aspects:
+
+1.  **Protocol Mechanics and Structure**: How does the Liquid Staking protocol function, specifically in terms of connecting TON holders with node operators, and what are the mechanisms for asset pooling and validation participation?
+2.  **Role and Functionality of Pool Jettons**: What is the role of Pool Jettons in this protocol, particularly in relation to representing pool shares, interacting with DeFi protocols, and accruing validation rewards?
+3.  **Integration with Node Operators**: How do node operators interact with the Liquid Staking pool, especially in using the pooled funds for validation stakes and sharing validation rewards?
+4.  **Technical Implementation and Code Deployment**: Can you detail the steps and requirements for cloning the repository, installing dependencies, building contracts, and running tests as outlined in the documentation?
+5.  **Terms and Schemes of Operation**: What are the key terms (such as elector, controller, validator, nominator, and jettons) used in the protocol, and how do they contribute to the overall scheme of the Liquid Staking pool?
+6.  **Deposit and Withdrawal Mechanisms**: How are deposits and withdrawals managed within the pool, especially considering the role of Pool Jettons and TON ratio updates?
+7.  **Governance and Role Management**: What roles (such as Halter, Sudoer, Approver, Interest Manager, and Governor) are defined within the protocol, and how do these roles contribute to the governance and operational management of the pool?
+8.  **Optimistic Deposits and Withdrawals**: How are deposits and withdrawals processed in the ‘optimistic mode,’ and what are the implications of this mode for the protocol’s efficiency and security?
+
+This analysis aims to provide a comprehensive understanding of the Liquid Staking pool in the TON blockchain, exploring its technical implementation, operational processes, and potential impact on the TON ecosystem and broader blockchain validation practices.
+
+  1 Like
+
+[\[DeFi\] Shardify - NFT fractionalization platform](https://tonresear.ch/t/shardify-nft-fractionalization-platform/9327/11) 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 3619
+
+[TON Research](/)
+
+# [Meridian($MRDN) - meme mining token with nfts, The Open League Application](/t/meridian-mrdn-meme-mining-token-with-nfts-the-open-league-application/3619)
+
+[The Open League](/c/the-open-league/token-leaderboard/57)  [Token Battle](/c/the-open-league/token-leaderboard/57) 
+
+    
+
+[thehbprince](https://tonresear.ch/u/thehbprince)  April 2, 2024, 12:10pm  1
+
+## [](#token-name-meridian-1)Token Name: Meridian
+
+## [](#projects-twitter-httpstwittercommeridianwtf-2)Project’s Twitter: [https://twitter.com/meridianwtf/](https://twitter.com/meridianwtf/)
+
+## [](#link-to-the-tokens-page-on-redoubt-andor-dyor-httpsdyoriotokeneqcymlrxp1qyxzkek4ctinckb1ey5tkyajqppalnetio54vt-3)Link to the token’s page on re:doubt and/or DYOR: [https://dyor.io/token/EQCymLRXp1QYxZKek4CTInckB1ey5TkyAJQpPAlNetiO54Vt](https://dyor.io/token/EQCymLRXp1QYxZKek4CTInckB1ey5TkyAJQpPAlNetiO54Vt)
+
+## [](#link-to-the-tokens-page-on-coinmarketcap-if-your-token-is-not-listed-there-write-na-na-4)Link to the token’s page on Coinmarketcap (if your token is not listed there, write n/a) - N/A
+
+## [](#link-to-the-tokens-page-on-coingecko-if-your-token-is-not-listed-there-write-na-5)Link to the token’s page on Coingecko (if your token is not listed there, write n/a)
+
+[gekoterminal](https://www.geckoterminal.com/ton/pools/EQCZBr4PnOkRCZLa-PKo0o9zTGRjp10_YhWCV2syVB3VHU04?utm_source=coingecko&utm_medium=referral&utm_campaign=searchresults)
+
+## [](#your-name-seymour-6)Your name - Seymour
+
+## [](#your-telegram-handle-thehbprince-7)Your Telegram handle (@…) - [@thehbprince](/u/thehbprince)
+
+## [](#any-other-links-or-details-that-you-want-to-share-8)Any other links or details that you want to share
+
+[stonfi](https://app.ston.fi/pools/EQCZBr4PnOkRCZLa-PKo0o9zTGRjp10_YhWCV2syVB3VHU04)  
+[dedust](https://dedust.io/pools/EQCzTalCUK6loSzZNPU_T0rvn3VsWkd4yrCE5Ke0QBiYUiXu)
+
+By submitting the form I confirm that the data I provided is correct and I fully understand that in case of the contrary, my project will be permanently eliminated from The Open League.
+
+  42 Likes
+
+[PA8H](https://tonresear.ch/u/PA8H) April 2, 2024, 12:16pm  2
+
+The best dao project in the ton network ![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:") ![:gem:](https://tonresear.ch/images/emoji/twitter/gem.png?v=12 ":gem:")
+
+  14 Likes
+
+[Xzton](https://tonresear.ch/u/Xzton) April 2, 2024, 12:18pm  3
+
+A very strong project with a great future
+
+  11 Likes
+
+[MaxQ](https://tonresear.ch/u/MaxQ) April 2, 2024, 12:22pm  4
+
+$MRDN my gem
+
+UP UP UP
+
+  9 Likes
+
+[vld](https://tonresear.ch/u/vld) April 2, 2024, 12:24pm  5
+
+Nice project with quite friendly community
+
+  9 Likes
+
+[Senya](https://tonresear.ch/u/Senya) April 2, 2024, 12:28pm  6
+
+The team is very cool. This is not a meme token, it is an entire ecosystem with new products and solutions.
+
+  10 Likes
+
+[Weng\_A](https://tonresear.ch/u/Weng_A) April 2, 2024, 12:31pm  7
+
+Good project for the future of Ton ecosystem.
+
+  9 Likes
+
+[Vlados](https://tonresear.ch/u/Vlados) April 2, 2024, 12:41pm  8
+
+Good token from the best DAO, lfg!
+
+  9 Likes
+
+[emque](https://tonresear.ch/u/emque) April 2, 2024, 12:47pm  9
+
+i just love the MRDN logo, its dope asf ![:gem:](https://tonresear.ch/images/emoji/twitter/gem.png?v=12 ":gem:")![:sparkles:](https://tonresear.ch/images/emoji/twitter/sparkles.png?v=12 ":sparkles:")
+
+  7 Likes
+
+[aliklavtxa](https://tonresear.ch/u/aliklavtxa) April 2, 2024, 12:53pm  10
+
+Топ проект, должны попасть в опен лигу🚀
+
+  6 Likes
+
+[RRR\_zilin](https://tonresear.ch/u/RRR_zilin) April 2, 2024, 12:55pm  11
+
+good project, hope you reach the new hight
+
+  7 Likes
+
+[DezRk](https://tonresear.ch/u/DezRk) April 2, 2024, 12:59pm  12
+
+Лучший проект, Лучшая команда #MRDN
+
+  7 Likes
+
+[slovchik](https://tonresear.ch/u/slovchik) April 2, 2024, 1:10pm  13
+
+Meridian is a sky rocket!
+
+  7 Likes
+
+[ShadeFrost](https://tonresear.ch/u/ShadeFrost) April 2, 2024, 1:14pm  15
+
+не пропускайте их в лигу, они все деньги потратят на свои проекты. это отвратительно. я хочу просто купить мем, а они заставляют майнить, дают какие-то нфт за это. приходится потом эти нфт ещё продавать на других сайтах, там всё изучать, тоны тратить на комсу. одни минусы. так они ещё людей из Китая привлекли, теперь они тоже изучают тон, бедные люди. а если ещё меридиан и в лигу попадёт, то придется хранить меридиан на их пулах, награды какие-то получать. опять придется что-то ещё изучать в сети тона
+
+  6 Likes
+
+[Gruvmen](https://tonresear.ch/u/Gruvmen) April 2, 2024, 1:15pm  16
+
+The founders are some of the most talented and hardworking individuals in the industry.
+
+  7 Likes
+
+[user293](https://tonresear.ch/u/user293) April 2, 2024, 1:16pm  17
+
+I like this dao , go to the moon
+
+  6 Likes
+
+[Max\_Popravko](https://tonresear.ch/u/Max_Popravko) April 2, 2024, 1:30pm  18
+
+Meridian and their NFT collection are the really cool!
+
+It’s not just meme coin, it’s technology.
+
+One could mine MRDN and find out cute little NFT airdropped to his wallet => discover NFT world.
+
+They have shardify to chop your ultra-expensive NFT into pieces you can own like Berkshire Heathaway shares, which is awesome and techy.
+
+  7 Likes
+
+[TRRRTL](https://tonresear.ch/u/TRRRTL) April 2, 2024, 1:36pm  19
+
+oke meme meme, like a bonk?)
+
+  5 Likes
+
+[BAKSLFG](https://tonresear.ch/u/BAKSLFG) April 2, 2024, 1:41pm  20
+
+$MRDN LFG , very good project!
+
+  5 Likes
+
+[matreshkin](https://tonresear.ch/u/matreshkin) April 2, 2024, 1:57pm  21
+
+one of the few projects that really has an application in the TON ecosystem ![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:") ![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:") ![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:")
+
+  5 Likes
+
+**[next page →](/t/meridian-mrdn-meme-mining-token-with-nfts-the-open-league-application/3619?page=2)**
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 362
+
+[TON Research](/)
+
+# [Technical Overview: Migration to TON Blockchain's Toncenter V3 API](/t/technical-overview-migration-to-ton-blockchains-toncenter-v3-api/362)
+
+[TON Blockchain](/c/ton-blockchain/17) 
+
+[toncenter](https://tonresear.ch/tag/toncenter), [api](https://tonresear.ch/tag/api)
+
+    
+
+[doge](https://tonresear.ch/u/doge)  February 15, 2024, 6:29am  1
+
+The Open Network (TON) Blockchain is set to release the latest version of its Toncenter V3 API, necessitating migration for early adopters. This technical post outlines the key changes and required actions for a seamless transition.
+
+## [](#key-changes-in-toncenter-v3-api-1)Key Changes in Toncenter V3 API
+
+Feature
+
+Old Format
+
+New Format
+
+Hash Encoding
+
+Hexadecimal
+
+Base64
+
+Array Return Format
+
+Direct Array
+
+Object with Array (e.g., `{transactions: []}`)
+
+Address Fields
+
+\_friendly address fields
+
+`address_book` hashmap
+
+Transaction State Hashes
+
+`account_state_after_hash` & `account_state_before_hash`
+
+Removed
+
+## [](#migration-timeline-2)Migration Timeline
+
+*   **Current Stage URLs**:
+    *   Mainnet: [stage.toncenter.com/api/v3](https://stage.toncenter.com/api/v3)
+    *   Testnet: [stage-testnet.toncenter.com/api/v3](https://stage-testnet.toncenter.com/api/v3)
+*   **Public Release Date**: February 19, 2024
+    *   New V3 API will replace the current version on:
+        *   Mainnet: [toncenter.com/api/v3](https://toncenter.com/api/v3)
+        *   Testnet: [testnet.toncenter.com/api/v3](https://testnet.toncenter.com/api/v3)
+*   **Backup of Current V3 Version** (available for one month):
+    *   Mainnet: [migrate.toncenter.com/api/v3](https://migrate.toncenter.com/api/v3)
+    *   Testnet: [migrate-testnet.toncenter.com/api/v3](https://migrate-testnet.toncenter.com/api/v3)
+
+## [](#required-actions-for-early-adopters-3)Required Actions for Early Adopters
+
+1.  **Switch to Migrate Endpoint**: If you are currently using the V3 API, switch your product to the migrate endpoint.
+2.  **Migrate to New V3 API Format**: After switching, migrate your product to the new V3 API format located on the stage URLs.
+
+## [](#invitation-for-new-v3-users-4)Invitation for New V3 Users
+
+If you have not yet adopted the V3 API, we invite you to try it after the public release next week.
+
+## [](#note-for-v2-api-users-5)Note for V2 API Users
+
+No action is required from users of the V2 API.
+
+* * *
+
+This migration is a significant step for TON Blockchain’s ecosystem, ensuring a more robust and efficient API for developers. Early adopters are encouraged to act promptly to ensure a smooth transition to the new V3 API.
+
+![](https://telegram.org/img/website_icon.svg?4) [Telegram](https://t.me/toncenter_news/4)
+
+![](https://tonresear.ch/uploads/default/original/1X/eb9d77bb61f4bedec0186add00536a77e24952e7.jpeg)
+
+### [Toncenter API](https://t.me/toncenter_news/4)
+
+Migration required for early adopters of Toncenter V3 In anticipation of the public release of Toncenter V3, we have made final edits to the V3 API: — hashes are now in base64 instead of hex; — methods that returns an array (e.g. /transactions)...
+
+  1 Like
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 36289
+
+[TON Research](/)
+
+# [Автоматическое пополнение мобильного счета телефона криптой](/t/topic/36289)
+
+[Русский](/c/ru/49) 
+
+    
+
+[sixplusfish](https://tonresear.ch/u/sixplusfish)   September 11, 2024, 4:19pm  1
+
+**Запустили бету по пополнению мобильных телефонов криптовалютой.**  
+Ищем клиентов, чтобы функционально протестировать сервис до интеграции в Tonkeeper и другие кошельки.
+
+[![Frame 3863](https://tonresear.ch/uploads/default/optimized/3X/0/d/0d36aa8472d98bd273b9257cf331c0fdf3bf038d_2_500x500.png)
+
+Frame 38632000×2000 296 KB
+
+](https://tonresear.ch/uploads/default/original/3X/0/d/0d36aa8472d98bd273b9257cf331c0fdf3bf038d.png "Frame 3863")
+
+Ссылка на приложение: [Telegram: Contact @solobankbot](https://t.me/solobankbot)  
+Ссылка на ру сообщество: [Telegram: Contact @solobank](https://t.me/solobank)  
+Ссылка на TON.APP (уже с верифом): [https://ton.app/shopping/solo?id=2963](https://ton.app/shopping/solo?id=2963)
+
+_Все операции проходят через проверенных провайдеров, чьей инфраструктурой пользуются терминалы и даже банки.  
+Мы гарантируем на 100%, что вашему номеру телефона ничего не угрожает при использовании нашего сервиса._
+
+**Пополнение мобильных операторов доступно для:**  
+Россия:
+
+*   Билайн
+*   Мегафон
+*   МТС
+*   Т2 (Теле 2)
+*   Yota
+*   и другие операторы мобильной связи.
+*   (На днях добавим Тинькофф.Мобайл и Сбер.Мобайл)
+
+Грузия:
+
+*   Magti
+*   Silknet
+*   Cellfie
+
+В целом будет больше +100 стран для пополнения и 300+ мобильных провайдеров.
+
+Оплата с Tonkeeper, Wallet, Binance и TON Space.
+
+**Наши преимущества:**
+
+*   На данный момент это самое выгодное пополнение мобильных операторов криптой, с минимальной комиссией.  
+    Для России это первое подобное решение, которого еще нет на рынке.
+*   Решение позволяет пополнять счет на выбранную вами сумму от 10 до 5000 рублей, на примере России.
+*   Скорость обработки транзакции до 10 секунд через CEX (Wallet Telegram и Binance). DEX по-прежнему работает медленно из-за проверок AML — до 10 минут.
+
+Пишите какие мобильные операторы нам добавить, в зависимости от запросов будем добавлять. Спасибо за внимание.
+
+  3 Likes
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 36305
+
+[TON Research](/)
+
+# [Youhold — next adobtion система вознаграждающая за уровень активности в TON и стартапах | Партнерства](/t/youhold-next-adobtion-ton/36305)
+
+[Русский](/c/ru/49) 
+
+    
+
+[SashaJozwiak](https://tonresear.ch/u/SashaJozwiak)   September 11, 2024, 6:24pm  1
+
+Всем привет, я [Sasha](https://t.me/zwiak) из [Youhold](https://t.me/youhold) \[[RU](https://t.me/youhold_ru)\]. Ищу для партнерств начинающие мини-приложения с открытыми лицами и уверенными планами. Первые такие 2-3 стартапа добавлю в YouHold раздел стартапов, вообще без условий (если сами захотите, тоже напишите пост о партнерстве), пока мы маленькие.
+
+**О нас:**
+
+[![youhold](https://tonresear.ch/uploads/default/optimized/3X/f/9/f9014e08a80f9eb1648cb84f1b326011b1094a3e_2_690x386.jpeg)
+
+youhold1280×717 108 KB
+
+](https://tonresear.ch/uploads/default/original/3X/f/9/f9014e08a80f9eb1648cb84f1b326011b1094a3e.jpeg "youhold")
+
+[Youhold](https://t.me/youhold) определяет есть ли у вас на балансе токены/пулы/фермы из списка, а так же участвуете ли в других стартап-майнилках/играх/кликерах (позже будут добавлены) из списка, и определяет суммарную скорость добычи наших токенов.
+
+Если у вас пока нет активов, вы все равно можете запустить добычу на бонусах, которые зарабатываются внутри мини-приложения.
+
+[![main roadmap youhold](https://tonresear.ch/uploads/default/optimized/3X/a/6/a6a151231d8543875c7708649706745ed55fd3d6_2_272x500.jpeg)
+
+main roadmap youhold360×660 32.2 KB
+
+](https://tonresear.ch/uploads/default/original/3X/a/6/a6a151231d8543875c7708649706745ed55fd3d6.jpeg "main roadmap youhold")
+
+С 12.09.2024 начинается разработка второго инструмента: игра, подобных которой не было и нет в телеграме. Разработка займет 1-2мес., доступ в бета-тест получат активные пользователи с достаточными балансами, участие таких ранних пользователей будет вознаграждено. Игра будет в самом мини-приложении, у неё есть своя отдельная дорожная карта с переходом в он-чейн. С развитием проекта сложность добычи наших токенов будет возрастать.
+
+**Welcome ![:handshake:](https://tonresear.ch/images/emoji/twitter/handshake.png?v=12 ":handshake:")**   
+[Sasha](https://t.me/zwiak) | [Youhold](https://t.me/youhold) \[[RU](https://t.me/youhold_ru)\]
+
+ 
+
+[SashaJozwiak](https://tonresear.ch/u/SashaJozwiak)  November 22, 2024, 2:17pm  2
+
+**UPD.** В приложении [YouHold](https://t.me/youhold) вышла интегрированная в нашу экономику уникальная игра. [YouHold Game](https://t.me/youhold_bot/youhold_app) это микс элементов рогалика, рпг и коллекционной карточной игры. Некоторые скриншоты:
+
+[![arena](https://tonresear.ch/uploads/default/optimized/3X/1/c/1ce1617b4e4f8beb4bc49562dc21b9ef62950d0f_2_230x500.jpeg)
+
+arena378×820 115 KB
+
+](https://tonresear.ch/uploads/default/original/3X/1/c/1ce1617b4e4f8beb4bc49562dc21b9ef62950d0f.jpeg "arena")
+
+  
+
+[![deck](https://tonresear.ch/uploads/default/optimized/3X/1/c/1c83f143a5cbbbb7f72ae3245887805b8e3557bc_2_230x500.jpeg)
+
+deck378×820 153 KB
+
+](https://tonresear.ch/uploads/default/original/3X/1/c/1c83f143a5cbbbb7f72ae3245887805b8e3557bc.jpeg "deck")
+
+  
+
+[![barry](https://tonresear.ch/uploads/default/optimized/3X/c/e/ce40012a06a8a533d8b2a290a088616318f1c5e8_2_230x500.jpeg)
+
+barry378×820 130 KB
+
+](https://tonresear.ch/uploads/default/original/3X/c/e/ce40012a06a8a533d8b2a290a088616318f1c5e8.jpeg "barry")
+
+  
+
+[![map](https://tonresear.ch/uploads/default/optimized/3X/2/0/20574b68ec7ae5d4d919d5fffced30055283d170_2_230x500.jpeg)
+
+map378×820 108 KB
+
+](https://tonresear.ch/uploads/default/original/3X/2/0/20574b68ec7ae5d4d919d5fffced30055283d170.jpeg "map")
+
+— В каждом доме 100 этажей с повышающейся сложностью и шансами выбить карту, на каждом 10 этаже босс, после каждого босса прогресс сохраняется, а собранные активы переносятся на постоянный баланс;  
+— вернуться на этап раньше предыдущего сохранения или сбросить прохождение нельзя, если застряли, копите UH на бутылочки и дальше учитывайте свой предыдущий опыт, читайте чат, есть советы и скрины/видео других участников;  
+— каждый следующий дом сложнее на ~1%;  
+— выбрать героя для прохождения дома можно только на 0 этаже в самом начале каждого дома;  
+— 10 серых карт одного персонажа в вашей колоде превращаются в 1 бронзовую карту этого персонажа, 10 бронзовых в 1 серебренную, 10 серебренных в 1 золотую;  
+— любые карты увеличивают айрдроп относительно их грейда и количества;  
+— за золотую карту можно купить город на карте мира, а в последствии получить NFT подтверждающую собственность с возможностью перепродажи;  
+— карты разных грейдов соответственно снижают комиссии при переводах UH в чате, см. раздел профиля в приложении;  
+…  
+[_Больше инфо по игре на EN и RU_](https://t.me/youhold_chat/2340)
+
+Продвигаемся дальше согласно дорожной карте (она здесь в первом посте и в самом приложении).
+
+[YouHold](https://t.me/youhold_bot/youhold_app) | [Чат игры](https://t.me/youhold_chat) | Каналы: \[[EN](https://t.me/youhold)\] \[[RU](https://t.me/youhold_ru)\]
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 36307
+
+[TON Research](/)
+
+# [Youhold — next adobtion system rewarding for the level of activity in TON and startups | Partnerships](/t/youhold-next-adobtion-system-rewarding-for-the-level-of-activity-in-ton-and-startups-partnerships/36307)
+
+[Application](/c/application/20) 
+
+    
+
+[SashaJozwiak](https://tonresear.ch/u/SashaJozwiak)   September 11, 2024, 6:31pm  1
+
+Hello everyone, I’m [Sasha](https://t.me/zwiak) from [Youhold](https://t.me/youhold) \[[RU](https://t.me/youhold_ru)\]. I’m looking for partnerships with start-up mini-apps with open faces and confident plans. I’ll add the first 2-3 such startups to the YouHold startups section, without any conditions (if you want, you can also write a post about the partnership), while we’re small.
+
+**About us:**
+
+[![youhold](https://tonresear.ch/uploads/default/optimized/3X/7/9/79826a569c50065966469fef84ac18143304d7b9_2_690x387.jpeg)
+
+youhold1280×718 61.4 KB
+
+](https://tonresear.ch/uploads/default/original/3X/7/9/79826a569c50065966469fef84ac18143304d7b9.jpeg "youhold")
+
+[Youhold](https://t.me/youhold) determines whether you have any tokens/pools/farms from the list on your balance, as well as whether you participate in other startup miners/games/clickers (will be added later) from the list, and determines the total speed of mining our tokens.
+
+If you do not have any assets yet, you can still start mining on bonuses that are earned inside the mini-application.
+
+[![main roadmap youhold](https://tonresear.ch/uploads/default/optimized/3X/a/6/a6a151231d8543875c7708649706745ed55fd3d6_2_272x500.jpeg)
+
+main roadmap youhold360×660 32.2 KB
+
+](https://tonresear.ch/uploads/default/original/3X/a/6/a6a151231d8543875c7708649706745ed55fd3d6.jpeg "main roadmap youhold")
+
+From 12.09.2024, the development of the second tool begins: a game that has never been and is not available in Telegram. The development will take 1-2 months, active users with sufficient balances will get access to the beta test, the participation of such early users will be rewarded. The game will be in the mini-application itself, it has its own separate roadmap with a transition to on-chain. As the project develops, the complexity of mining our tokens will increase.
+
+**Welcome ![:handshake:](https://tonresear.ch/images/emoji/twitter/handshake.png?v=12 ":handshake:")**   
+[Sasha](https://t.me/zwiak) | [Youhold](https://t.me/youhold) \[[RU](https://t.me/youhold_ru)\]
+
+  2 Likes
+
+[user2470](https://tonresear.ch/u/user2470) September 13, 2024, 7:18am  2
+
+Well, keep moving. Looking forward to hearing more
+
+  2 Likes
+
+[SashaJozwiak](https://tonresear.ch/u/SashaJozwiak)  November 22, 2024, 2:22pm  3
+
+**UPD.** A unique game integrated into our economy has been released in the [YouHold](https://t.me/youhold) app. [YouHold Game](https://t.me/youhold) is a mix of roguelike, RPG and collectible card game elements. Some screenshots:
+
+[![arena](https://tonresear.ch/uploads/default/optimized/3X/1/c/1ce1617b4e4f8beb4bc49562dc21b9ef62950d0f_2_230x500.jpeg)
+
+arena378×820 115 KB
+
+](https://tonresear.ch/uploads/default/original/3X/1/c/1ce1617b4e4f8beb4bc49562dc21b9ef62950d0f.jpeg "arena")
+
+  
+
+[![deck](https://tonresear.ch/uploads/default/optimized/3X/1/c/1c83f143a5cbbbb7f72ae3245887805b8e3557bc_2_230x500.jpeg)
+
+deck378×820 153 KB
+
+](https://tonresear.ch/uploads/default/original/3X/1/c/1c83f143a5cbbbb7f72ae3245887805b8e3557bc.jpeg "deck")
+
+  
+
+[![barry](https://tonresear.ch/uploads/default/optimized/3X/c/e/ce40012a06a8a533d8b2a290a088616318f1c5e8_2_230x500.jpeg)
+
+barry378×820 130 KB
+
+](https://tonresear.ch/uploads/default/original/3X/c/e/ce40012a06a8a533d8b2a290a088616318f1c5e8.jpeg "barry")
+
+  
+
+[![map](https://tonresear.ch/uploads/default/optimized/3X/2/0/20574b68ec7ae5d4d919d5fffced30055283d170_2_230x500.jpeg)
+
+map378×820 108 KB
+
+](https://tonresear.ch/uploads/default/original/3X/2/0/20574b68ec7ae5d4d919d5fffced30055283d170.jpeg "map")
+
+— Each house has 100 floors with increasing difficulty and chances to get a card, there is a boss on every 10th floor, after each boss the progress is saved, and the collected assets are transferred to the permanent balance;  
+— you cannot return to the stage earlier than the previous save or reset the passage, if you get stuck, save up UH for bottles and then take into account your previous experience, read the chat, there are tips and screenshots / videos of other participants;  
+— each next house is more difficult by ~ 1%;  
+— you can choose a hero to complete the house only on floor 0 at the very beginning of each house;  
+— 10 gray cards of one character in your deck turn into 1 bronze card of this character, 10 bronze into 1 silver, 10 silver into 1 gold;  
+— any cards increase the airdrop relative to their grade and quantity;  
+— for a gold card you can buy a city on the world map, and later get an NFT confirming ownership with the possibility of resale;  
+— cards of different grades accordingly reduce fees for UH transfers in chat, see the profile section in the app;
+
+_[More info about the game in EN and RU](https://t.me/youhold_chat/2340)_
+
+We move forward according to the roadmap (it is here in the first post and in the app itself).
+
+[YouHold](https://t.me/youhold_bot/youhold_app) | [Game chat](https://t.me/youhold_chat) | Channels: \[[EN](https://t.me/youhold)\] \[[RU](https://t.me/youhold_ru)\]
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 3649
+
+[TON Research](/)
+
+# [TON Cats - The Best Community Ever!](/t/ton-cats-the-best-community-ever/3649)
+
+[The Open League](/c/the-open-league/token-leaderboard/57)  [Token Battle](/c/the-open-league/token-leaderboard/57) 
+
+    
+
+[TONCats](https://tonresear.ch/u/TONCats)   April 2, 2024, 2:06pm  1
+
+[![Welcom aboard](https://tonresear.ch/uploads/default/optimized/2X/3/34a55084c4b24d7fe0975bbaa316d913cbef3f9d_2_690x388.jpeg)
+
+Welcom aboard1920×1080 78.4 KB
+
+](https://tonresear.ch/uploads/default/original/2X/3/34a55084c4b24d7fe0975bbaa316d913cbef3f9d.jpeg "Welcom aboard")
+
+Project: **TON Cats**
+
+Website: **toncats.pw**
+
+TG Group: [Telegram: Contact @toncats\_group](http://t.me/toncats_group)  
+TG Channel: [Telegram: Contact @toncats\_tg](http://t.me/toncats_tg)  
+Twitter: [twitter.com/toncats\_tg](http://twitter.com/toncats_tg)  
+YouTube: [www.youtube.com/@toncats\_tg](http://www.youtube.com/@toncats_tg)
+
+Re:doubt: [https://beta.redoubt.online/jetton/EQBadq9p12uC1KfSiPCAaoEvhpXPHj7hBWq-mqGntuwE2C1C](https://beta.redoubt.online/jetton/EQBadq9p12uC1KfSiPCAaoEvhpXPHj7hBWq-mqGntuwE2C1C)
+
+DYOR: [TON Cats Jetton (CATS) Token Price - DYOR.ninja](http://dyor.io/token/EQBadq9p12uC1KfSiPCAaoEvhpXPHj7hBWq-mqGntuwE2C1C)
+
+Your name: Dmitriy
+
+Your Telegram handle: @TONCats\_Alpha
+
+NFT Collection of TON Cats Passports: [getgems.io/toncats-passports](http://getgems.io/toncats-passports)
+
+[![The best community](https://tonresear.ch/uploads/default/optimized/2X/c/cc0337488ad9289788265611c094981e528ae424_2_690x388.jpeg)
+
+The best community1920×1080 160 KB
+
+](https://tonresear.ch/uploads/default/original/2X/c/cc0337488ad9289788265611c094981e528ae424.jpeg "The best community")
+
+TON Cats is a Telegram social meme token. The goal of TON Cats is to allow more people to use Telegram and the TON ecosystem. Experience the TON ecosystem on Telegram
+
+TON Cats is a Telegram social meme token that connects 800 million Telegram users in various ways and attracts more people to the TON ecosystem
+
+TON Cats has many ideas to bring people together. These ideas don’t promise a roadmap, but you can see the spirit of reviving the TON ecosystem
+
+**TON CATS Memtoken ($CATS):**
+
+TON Cats Meme Token is a social meme token on the TON blockchain that allows anyone to participate in the TON Cats ecosystem. This is a cat token that was created solely to take advantage of the TON ecosystem and considers various ways to activate the TON blockchain.
+
+**CATAO (TON Cats Community DAO):**
+
+In the TON Cats ecosystem, the main role is played by the Community, which will form the DAO of the TON Cats ecosystem. The strength of the community will be the ability to control the development of the TON Cats ecosystem through voting. Each member of the cat community who owns the TON CATS memtoken will be able to vote with their tokens, with 1 token equal to 1 vote.
+
+**Generative PFP collection of TON Cats:**
+
+Who loves cats? Everyone loves cats! For our community we will make 6666 magnificent NFT Cats, reflecting all the diversity, cohesion, and strength of the TON Community!
+
+**TON Cats Game:**
+
+The symbiosis of the world’s best messenger Telegram and the TON blockchain allows you to create great mini games right in our favorite messenger! TON Cats will implement all the available functionality of Telegram to diversify the leisure time of our community. The game will be based on Tamagotchi mechanics. In the TON Cats Game you can shelter a furry pet, buy him food, clothes, various decorations and build a magnificent home for him! To do this you will need a lot of love, imagination, and a little TON CATS token.
+
+_By submitting the form I confirm that the data I provided is correct and I fully understand that in case of the contrary, my project will be permanently eliminated from The Open League._
+
+  29 Likes
+
+[CRV91](https://tonresear.ch/u/CRV91) April 2, 2024, 2:16pm  2
+
+Meowz  
+Support TonCats the best community ever
+
+  6 Likes
+
+[lion\_lin](https://tonresear.ch/u/lion_lin) April 2, 2024, 2:17pm  3
+
+Meowz  
+Support TonCats the best community ever
+
+  4 Likes
+
+[Pawalini](https://tonresear.ch/u/Pawalini) April 2, 2024, 2:18pm  4
+
+Great project ! meow meow meow
+
+  4 Likes
+
+[TONCats](https://tonresear.ch/u/TONCats) April 2, 2024, 2:20pm  5
+
+Meow meow meow ![:black_cat:](https://tonresear.ch/images/emoji/twitter/black_cat.png?v=12 ":black_cat:") ![:heart:](https://tonresear.ch/images/emoji/twitter/heart.png?v=12 ":heart:") ![:hugs:](https://tonresear.ch/images/emoji/twitter/hugs.png?v=12 ":hugs:")
+
+  5 Likes
+
+[Alecs\_0702](https://tonresear.ch/u/Alecs_0702) April 2, 2024, 2:24pm  6
+
+Cats to the MOOOON!!!
+
+  4 Likes
+
+[Parisgallery](https://tonresear.ch/u/Parisgallery) April 2, 2024, 2:31pm  7
+
+Ton Cats is going to make games, so it is not only a fantastic meme coin but also a game pad and will attract much more attention and users.  
+In the early stages, what is the one factor that most influences a crypto project’s success?
+
+Is it a fairly-distributed token, excellent utility, or visionary founders?
+
+Well, if you were to ask me, I’d tell you it’s a ‘cultish’ community.
+
+The thesis is simple - crypto markets essentially run on attention-driven speculation.
+
+However, in an information-rich world, there is no scarcer commodity than attention. This means that projects have to continuously innovate when it comes to capturing that attention.
+
+Projects that manage to retain this captured attention for the longest time end up creating what we like to call a die-hard or indeed cultish community.
+
+Apart from Ton Cat obvious effect on maintaining positive sentiment toward the project, a loyal community helps founders take a shortcut towards building out the one thing early-stage startups need the most - a distribution network.
+
+An efficient distribution network compounds the amount of attention flowing into your project, which in turn compounds the capital flowing in, which in turn compounds the size of its community and so on.
+
+In the early stages, this is a positive flywheel that’s arguably more impactful than the quality or technical efficiency of the underlying product itself.
+
+  4 Likes
+
+[Attahiru3221](https://tonresear.ch/u/Attahiru3221) April 2, 2024, 2:31pm  8
+
+Surely its good project I was in. Please help me claim my pre-sell toke. I have gas pee in my tonspace 0.44 ton please help me to claim it
+
+  1 Like
+
+[TONCats](https://tonresear.ch/u/TONCats) April 2, 2024, 2:35pm  9
+
+I think you should contact Ton Raffles support, since all the tokens allocated for fairlaunch are on their smart contract. Meow ![:paw_prints:](https://tonresear.ch/images/emoji/twitter/paw_prints.png?v=12 ":paw_prints:")
+
+  1 Like
+
+[TONCats](https://tonresear.ch/u/TONCats) April 2, 2024, 2:36pm  10
+
+Meowoow! That’s great! Meowmooon! ![:gem:](https://tonresear.ch/images/emoji/twitter/gem.png?v=12 ":gem:") ![:black_cat:](https://tonresear.ch/images/emoji/twitter/black_cat.png?v=12 ":black_cat:") ![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:") ![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:") ![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:")
+
+  2 Likes
+
+[adrian\_chan](https://tonresear.ch/u/adrian_chan) April 2, 2024, 2:42pm  11
+
+Support the cats! You must win the league!
+
+  2 Likes
+
+[pawel](https://tonresear.ch/u/pawel) April 2, 2024, 2:45pm  12
+
+A project worth your attention. I think that as a cat he can surprise us with his own. As we know, cats walk their own paths, i.e. paths that no one has ever walked before.
+
+ 
+
+[Abbaboy7](https://tonresear.ch/u/Abbaboy7) April 2, 2024, 2:53pm  13
+
+Meow ![:heart_eyes_cat:](https://tonresear.ch/images/emoji/twitter/heart_eyes_cat.png?v=12 ":heart_eyes_cat:")  
+U got my support all the way
+
+ 
+
+[Jonny\_Smith](https://tonresear.ch/u/Jonny_Smith) April 2, 2024, 2:55pm  14
+
+Ready to take the journey to the mooon…let gooo…keep it blazing ![:fire:](https://tonresear.ch/images/emoji/twitter/fire.png?v=12 ":fire:")![:fire:](https://tonresear.ch/images/emoji/twitter/fire.png?v=12 ":fire:")![:fire:](https://tonresear.ch/images/emoji/twitter/fire.png?v=12 ":fire:")
+
+  1 Like
+
+[sasbalas](https://tonresear.ch/u/sasbalas) April 2, 2024, 2:57pm  15
+
+in cat’s on moon we trust! luv toncatsgang
+
+  1 Like
+
+[Vc359](https://tonresear.ch/u/Vc359) April 2, 2024, 3:13pm  16
+
+Meow🚀 Great community and nice project
+
+  1 Like
+
+[achmad\_ade](https://tonresear.ch/u/achmad_ade) April 2, 2024, 4:26pm  18
+
+i’m excited with this project meowww
+
+  1 Like
+
+[user300](https://tonresear.ch/u/user300) April 2, 2024, 6:29pm  19
+
+Toncats good project.
+
+ 
+
+[Rengobit](https://tonresear.ch/u/Rengobit) April 2, 2024, 7:17pm  20
+
+Woow mewo ![:heart_eyes:](https://tonresear.ch/images/emoji/twitter/heart_eyes.png?v=12 ":heart_eyes:")![:star_struck:](https://tonresear.ch/images/emoji/twitter/star_struck.png?v=12 ":star_struck:")![:+1:](https://tonresear.ch/images/emoji/twitter/+1.png?v=12 ":+1:")![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:") to the moon
+
+ 
+
+[Meowhale\_ton](https://tonresear.ch/u/Meowhale_ton) April 3, 2024, 6:21am  21
+
+Support TonCats the best community ever  
+支持TonCats有史以来最好的社区  
+中文投资者请关注 Meowhale\_ton
+
+ 
+
+**[next page →](/t/ton-cats-the-best-community-ever/3649?page=2)**
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 365
+
+[TON Research](/)
+
+# [Optimizing Payment Processing on the TON Blockchain: A Technical Overview](/t/optimizing-payment-processing-on-the-ton-blockchain-a-technical-overview/365)
+
+[Application](/c/application/20) 
+
+[api](https://tonresear.ch/tag/api)
+
+    
+
+[Vegeta](https://tonresear.ch/u/Vegeta)   February 15, 2024, 8:47am  1
+
+The TON Blockchain (The Open Network) has garnered attention for its advanced features and scalability. In this post, we delve into a microservice designed for handling payments and withdrawals within the TON ecosystem, focusing on its implementation, features, and deployment. This service is particularly relevant for developers and businesses looking to integrate TON payments into their systems.
+
+## [](#overview-of-the-ton-payment-processor-1)Overview of the TON Payment Processor
+
+The TON Payment Processor is a microservice that facilitates the acceptance of payments and the execution of withdrawals to wallets on the TON blockchain. It supports both TON coins and Jettons, provided they meet specific criteria, and offers a REST API for seamless integration. The service operates on the ADNL protocol, ensuring direct interaction with the TON node without reliance on third-party APIs.
+
+**Note:** The project is currently in the testing and proof-of-concept phase. Users are advised to exercise caution and contribute suggestions for improvement.
+
+[![Test Dashboard](https://tonresear.ch/uploads/default/optimized/1X/b62892cbb605eca37c3dd6ad381da427cd49b12f_2_690x346.png)
+
+Test Dashboard1869×938 242 KB
+
+](https://tonresear.ch/uploads/default/original/1X/b62892cbb605eca37c3dd6ad381da427cd49b12f.png "Test Dashboard")
+
+  
+
+[![DB Dashboard](https://tonresear.ch/uploads/default/optimized/1X/ed4e0459beefdaca34ad9b7b74f36dbbf0f63f22_2_690x348.png)
+
+DB Dashboard1863×940 200 KB
+
+](https://tonresear.ch/uploads/default/original/1X/ed4e0459beefdaca34ad9b7b74f36dbbf0f63f22.png "DB Dashboard")
+
+### [](#key-features-2)Key Features
+
+*   **Deposit Address Generation:** Generates new deposit addresses for TON or Jetton wallets, to which customers can send payments. These payments are accumulated in a hot wallet.
+*   **Withdrawal Execution:** Allows for the withdrawal of TONs or Jettons from the hot wallet to the customer’s wallet on the TON blockchain.
+*   **Multiple Payment Reuse:** Deposit addresses can be reused for multiple payments.
+*   **Batch Withdrawals:** Supports sending withdrawals in batches using a high-load wallet, optimizing transaction efficiency.
+*   **Cold Wallet Aggregation:** Aggregates a portion of TONs or Jettons in a cold wallet for enhanced security.
+*   **Bearer Token Authorization:** Ensures secure access to the service through Bearer token authentication.
+
+## [](#glossary-3)Glossary
+
+*   **Deposit Address:** An address generated by the service for receiving payments.
+*   **Hot Wallet:** A wallet aggregating all incoming TONs and Jettons from deposit addresses.
+*   **Cold Wallet:** A secure wallet for storing a portion of funds transferred from the hot wallet.
+*   **User ID:** A unique identifier for associating deposit addresses or withdrawal requests with a specific user.
+*   **Query ID:** A unique identifier for tracking withdrawal requests and preventing double-spending.
+
+## [](#deployment-and-configuration-4)Deployment and Configuration
+
+The deployment of the TON Payment Processor involves several configurable parameters, including connection settings for the TON lite server, database URI, API host and token, and wallet addresses. It is crucial to ensure the correct setup of these parameters to guarantee the smooth operation of the service. For detailed deployment instructions and a complete list of configurable parameters, please refer to the [official documentation](https://github.com/gobicycle/bicycle).
+
+### [](#prerequisites-5)Prerequisites
+
+*   A minimum amount of TONs in a HighloadV2 wallet or a pre-deployed HighloadV2 wallet.
+*   A TON node with a lite server on the same machine as the service.
+*   Jettons that meet the specified criteria for compatibility and transaction fees.
+
+## [](#conclusion-6)Conclusion
+
+The TON Payment Processor is a promising tool for integrating TON blockchain payments into various applications. Its focus on direct interaction with the TON node and support for both TON coins and Jettons makes it a versatile solution for developers and businesses. As the project evolves, it is expected to become a cornerstone in the TON ecosystem for payment processing.
+
+* * *
+
+For more information and updates, join the discussion on [Telegram](https://t.me/tonbicycle) and explore the [GitHub repository](https://github.com/gobicycle/bicycle).
+
+![](https://github.githubassets.com/favicons/favicon.svg) [GitHub](https://github.com/gobicycle/bicycle)
+
+![](https://tonresear.ch/uploads/default/optimized/1X/24fcac2580dfc11ba412f90d10a57b1b99968872_2_690x345.png)
+
+### [GitHub - gobicycle/bicycle: Microservice for accepting payments and making...](https://github.com/gobicycle/bicycle)
+
+Microservice for accepting payments and making withdrawals in TON blockchain - GitHub - gobicycle/bicycle: Microservice for accepting payments and making withdrawals in TON blockchain
+
+  1 Like
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 366
+
+[TON Research](/)
+
+# [Optimizing Smart Contract Functionality for Internal Message Forwarding in TON Blockchain 🚀](/t/optimizing-smart-contract-functionality-for-internal-message-forwarding-in-ton-blockchain/366)
+
+[Application](/c/application/20) 
+
+    
+
+[Vegeta](https://tonresear.ch/u/Vegeta)   February 15, 2024, 8:55am  1
+
+**Introduction**
+
+In the realm of TON Blockchain (The Open Network), smart contracts play a pivotal role in enhancing the efficiency and security of transactions. One such innovative smart contract is the **Ton Proxy Contract**, designed to forward internal messages seamlessly. This post delves into the technicalities of this contract, its data cell scheme, and its practical applications, particularly in managing Jetton deposits.
+
+* * *
+
+**Ton Proxy Contract Overview**
+
+The Ton Proxy Contract is engineered to forward internal messages by sending the body refs of incoming internal messages as internal messages with a specific mode (128+32). This mode ensures the forwarding of all TONs from the balance and triggers self-destruction of the contract. For the contract to accept an incoming internal message, the message must contain an initialization segment.
+
+* * *
+
+**Contract Data Cell Scheme**
+
+The data structure of the Ton Proxy Contract is encapsulated in the following scheme:
+
+```
+data owner:MsgAddressInt subwallet_id:uint32 = Data;
+```
+
+* * *
+
+**Use Cases**
+
+**Jetton Deposits Control**
+
+The Ton Proxy Contract finds its utility in managing Jetton deposits. By employing a single wallet, users can create multiple Jetton deposits. For each Jetton wallet, a proxy contract is instantiated with the Jetton wallet as its owner. Consequently, managing multiple Jetton wallets becomes streamlined by sending messages to their respective proxy contracts.
+
+* * *
+
+**Technical Implementation**
+
+The core functionality of receiving and forwarding internal messages is encapsulated in the following code snippet:
+
+```
+int equal_slices (slice a, slice b) asm "SDEQ";
+
+() recv_internal (int balance, int msg_value, cell in_msg_full, slice in_msg_body) {
+    slice cs = in_msg_full.begin_parse();
+    int flags = cs~load_uint(4);
+    if (flags & 1) { ;; ignore all bounced messages
+        return ();
+    }
+    slice sender_address = cs~load_msg_addr();
+    slice ds = get_data().begin_parse();
+    slice owner_address = ds~load_msg_addr();
+    throw_unless(403, equal_slices(sender_address, owner_address));
+    while (in_msg_body.slice_refs()) {
+        send_raw_message(in_msg_body~load_ref(), 160);
+    }
+}
+```
+
+* * *
+
+**Conclusion**
+
+The Ton Proxy Contract exemplifies the innovative approaches in TON Blockchain to enhance transaction efficiency and security. By enabling streamlined management of Jetton deposits and forwarding internal messages, this smart contract paves the way for more sophisticated blockchain solutions.
+
+For further reading and technical details, visit the [TON Blockchain Documentation](https://ton.org/docs/).
+
+* * *
+
+**Discussion**
+
+Feel free to share your thoughts and experiences with the Ton Proxy Contract in the comments below. Let’s explore the potential of this technology together! ![:globe_with_meridians:](https://tonresear.ch/images/emoji/twitter/globe_with_meridians.png?v=12 ":globe_with_meridians:")
+
+![](https://github.githubassets.com/favicons/favicon.svg) [GitHub](https://github.com/gobicycle/ton-proxy-contract)
+
+![](https://tonresear.ch/uploads/default/optimized/1X/e7b5162ab869227ab5aa98dfbc09ca6934fb6ab3_2_690x345.png)
+
+### [GitHub - gobicycle/ton-proxy-contract: Ton proxy contract](https://github.com/gobicycle/ton-proxy-contract)
+
+Ton proxy contract. Contribute to gobicycle/ton-proxy-contract development by creating an account on GitHub.
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 3668
+
+[TON Research](/)
+
+# [\[DeFi\] JVault.app application v2](/t/defi-jvault-app-application-v2/3668)
+
+[The Open League](/c/the-open-league/app-leaderboard/58)  [App League](/c/the-open-league/app-leaderboard/58) 
+
+    
+
+[ArkadiyStena](https://tonresear.ch/u/ArkadiyStena)  April 2, 2024, 2:26pm  1
+
+## [](#project-name-1)Project Name
+
+JVault
+
+## [](#projects-website-2)Project’s Website
+
+[jvault.app](https://jvault.app)
+
+## [](#projects-twitter-3)Project’s Twitter
+
+[https://twitter.com/JVault\_app](https://twitter.com/JVault_app)
+
+## [](#projects-telegram-channelgroup-4)Project’s Telegram channel/group
+
+[English channel](https://t.me/JVault), [Russian channel](https://t.me/JVault_ru)
+
+## [](#metrics-5)Metrics
+
+**Total Value Locked**: ~ 300k TON  
+The biggest pools: [JVT](https://tonviewer.com/EQBWGsgSR4U2hSkBwHLVn6djnklMMARn-uI5d79zBQ2Hb0hT), [STDUCK](https://tonviewer.com/EQByJ99VdNMxXsCp01NvOB3NZ_8JCz7rN6eSRwpAh2Q2JwsS), [BOLT\_OLD](https://tonviewer.com/EQBIljTfru8iRpedvWaDIHZjm5UpI_iWvs-hCQZTkOyqB0ie), [STATHAM](https://tonviewer.com/EQD3_Dfw4kYtxqv9LNBIfyylnDez6QoeM_M4X6p-L29eYwb9)
+
+**Protocol fees for the last month**: ~ 1,5k TON  
+Commissions are distributed through “pool\_admins” smart-contracts: [old fixed](https://tonviewer.com/EQDtA9QBADZs0kKSyp6w9Rh6Wkz0nY2zaAEoSx7qib2Ubesl), [old floating](https://tonviewer.com/EQCyY_iQ0mQfxIJjquol4h57Zr_mJLI1ZRVSpioWKEIpMR96), [new fixed](https://tonviewer.com/EQAYdwUqXy2jlQU6ATs1J2TsnCDZGq-vDXB6wZeYrSBe5DBU), [new floating](https://tonviewer.com/EQDA7BVEzqUv3gQ95_5mGrMx1frr7lPDbNHzopzvm03uG3dL). [**Read more**](https://jvault.app/about#commissions-ru).
+
+## [](#your-name-6)Your name
+
+Daniil
+
+## [](#your-telegram-handle-7)Your Telegram handle
+
+@viqex
+
+## [](#any-other-links-or-details-that-you-want-to-share-8)Any other links or details that you want to share
+
+[Whitepaper](https://jvault.app/about), [New commission distribution system](https://t.me/JVault/67)
+
+By submitting the form I confirm that the data I provided is correct and I fully understand that in case of the contrary, my project will be permanently eliminated from The Open League.
+
+  4 Likes
+
+[pjes](https://tonresear.ch/u/pjes) April 2, 2024, 3:07pm  2
+
+JVT for TON ecosystem ![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:") ![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:") ![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:")
+
+  1 Like
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) May 6, 2024, 11:14am  3
+
+Hey there! Thanks for applying for the Open League. This season, there won’t be a DeFi leaderboard, but stay tuned for future seasons.
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 367
+
+[TON Research](/)
+
+# [Comparative Analysis of Mining Yields for GRAM on Pools](/t/comparative-analysis-of-mining-yields-for-gram-on-pools/367)
+
+[General](/c/general/mining/47)  [Mining](/c/general/mining/47) 
+
+[gramcoin](https://tonresear.ch/tag/gramcoin)
+
+    
+
+[Vegeta](https://tonresear.ch/u/Vegeta)   February 15, 2024, 9:40am  1
+
+Author: Crypto Miner Pro  
+Date: February 11, 2024
+
+In the ever-evolving landscape of cryptocurrency mining, the TON Blockchain (The Open Network) has garnered significant attention with its native currency, GRAM. Presently, two mining pools are predominantly used for mining GRAM: the official [pool.gramcoin.org](http://pool.gramcoin.org) with 0% commission and the unofficial [ton.ninja](http://ton.ninja) with a 50% commission.
+
+Given the divergence of opinions in various chat forums, possibly due to measurements taken at different times and with different equipment, a live comparison of the profitability of the two pools was conducted. The results are presented in this technical forum post, aimed at providing a detailed and professional insight into the mining yields of GRAM on the TON Blockchain.
+
+### [](#methodology-1)Methodology
+
+1.  **Rental of Identical Hardware**: Two identical RTX 4090 graphics cards were rented from the same location (RO) through the service [vast.ai](http://vast.ai/) ([referral link](https://cloud.vast.ai/?ref_id=109346)).
+
+[![image](https://tonresear.ch/uploads/default/optimized/1X/e40bac02f0718e0db3066c8847efe50df2043601_2_690x230.png)
+
+image1848×616 126 KB
+
+](https://tonresear.ch/uploads/default/original/1X/e40bac02f0718e0db3066c8847efe50df2043601.png "image")
+
+2.  **Simultaneous Mining**: Mining was initiated on both cards simultaneously, with a margin of error of 1 second. The measurement lasted for one hour.
+
+[![image](https://tonresear.ch/uploads/default/optimized/1X/fca7e1a29c9a0d4b84dcd6d594ca12f9b489dc2e_2_690x130.jpeg)
+
+image2008×380 120 KB
+
+](https://tonresear.ch/uploads/default/original/1X/fca7e1a29c9a0d4b84dcd6d594ca12f9b489dc2e.jpeg "image")
+
+3.  **Results After One Hour**:
+    
+    Pool
+    
+    Yield (GRAM)
+    
+    [pool.gramcoin.org](http://pool.gramcoin.org)
+    
+    44.22
+    
+    ton.ninja
+    
+    20.49
+    
+
+[![image](https://tonresear.ch/uploads/default/optimized/1X/71318708da40497ef72b6fb06f5ee1d566741ac2_2_690x180.jpeg)
+
+image2852×744 105 KB
+
+](https://tonresear.ch/uploads/default/original/1X/71318708da40497ef72b6fb06f5ee1d566741ac2.jpeg "image")
+
+  
+
+[![image](https://tonresear.ch/uploads/default/optimized/1X/21b6b1133f7b3c3bf7d39538d67664d441ca4263_2_690x112.jpeg)
+
+image2686×438 65.3 KB
+
+](https://tonresear.ch/uploads/default/original/1X/21b6b1133f7b3c3bf7d39538d67664d441ca4263.jpeg "image")
+
+### [](#observations-2)Observations
+
+*   The yields align with the stated commission rates and current profitability.
+*   The TonNinja pool updates the balance less frequently, likely due to data refresh every 15 minutes.
+*   The [gramcoin.org](http://gramcoin.org) pool provided almost instantaneous updates, refreshing data after each found share.
+
+### [](#conclusion-3)Conclusion
+
+The comparison reveals a significant difference in mining yields between the official and unofficial pools, with the official [pool.gramcoin.org](http://pool.gramcoin.org) offering a notably higher return due to its 0% commission. This analysis serves as a valuable resource for miners looking to optimize their GRAM mining operations on the TON Blockchain.
+
+* * *
+
+This post aims to contribute to the ongoing discussions in the TON Blockchain community and provide a clear, data-driven perspective on the profitability of GRAM mining. Your feedback and further insights are welcomed in the comments section below. ![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:")
+
+![](https://tonresear.ch/uploads/default/original/1X/56f31e8644316608dbb4fd4253d0536c40e4c9ba.png) [Telegraph – 11 Feb 24](https://telegra.ph/Sravnenie-dohodnosti-majninga-GRAM-02-11 "12:31PM - 11 February 2024")
+
+### [Сравнение доходности майнинга GRAM](https://telegra.ph/Sravnenie-dohodnosti-majninga-GRAM-02-11)
+
+Как все знают, сейчас существуют два пула для майнинга $GRAM – официальный pool.gramcoin.org с 0% комиссии и неофициальный пул ton.ninja с 50% комиссии. Мнения в чатах разошлись, возможно из за того что замеры происходили в разное время и на разном...
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 3670
+
+[TON Research](/)
+
+# [\[DeFi\] DEX Tegro.Finance](/t/defi-dex-tegro-finance/3670)
+
+[The Open League](/c/the-open-league/app-leaderboard/58)  [App League](/c/the-open-league/app-leaderboard/58) 
+
+    
+
+[CEOTegro](https://tonresear.ch/u/CEOTegro)   April 2, 2024, 2:32pm  1
+
+## [](#project-name-1)Project Name
+
+**DEX Tegro.Finance** - Cryptocurrency exchange on the TON blockchain
+
+[![photo_2024-01-30_19-31-05](https://tonresear.ch/uploads/default/optimized/2X/f/fca7da390cec7c5ec62e740cf1b8f134463535c5_2_690x388.jpeg)
+
+photo\_2024-01-30\_19-31-051280×720 124 KB
+
+](https://tonresear.ch/uploads/default/original/2X/f/fca7da390cec7c5ec62e740cf1b8f134463535c5.jpeg "photo_2024-01-30_19-31-05")
+
+## [](#projects-website-2)Project’s Website
+
+**[Tegro.Finance](https://tegro.finance/)**  
+DEX on The Open Network
+
+## [](#projects-twitter-3)Project’s Twitter
+
+[https://twitter.com/TegroDEX](https://twitter.com/TegroDEX)
+
+## [](#projects-telegram-channelgroup-4)Project’s Telegram channel/group
+
+[RU-channel](https://t.me/CommunityTGR) | [EN-channel](https://t.me/TGRFoundation)
+
+## [](#metrics-5)Metrics
+
+The TVL (Total Value Locked) on the DEX is $14,000.
+
+## [](#your-name-6)Your name
+
+Dmitry
+
+## [](#your-telegram-handle-7)Your Telegram handle
+
+[@CEOTegro](/u/ceotegro)
+
+## [](#any-other-links-or-details-that-you-want-to-share-8)Any other links or details that you want to share
+
+*   Affiliate program with income up to 40% from the commissions of referred users and up to 8% from the income of their referrals.
+    
+*   Automatic assignment of referrals at authorization through saved referral data.
+    
+*   Utilities when owning NFT from Animals Red list, TON Diamonds, Cat Metaverse, Dog Metaverse, Meta Panthers collections.
+    
+*   Offering exchange of TON coins, oUSDT stablecoin and other tokens on the TON blockchain, an innovative system of routes to reduce commissions and participation in liquidity pools.
+    
+*   The DEX TGR utility token for additional benefits.
+    
+
+  2 Likes
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) May 6, 2024, 11:11am  2
+
+Hey there! Thanks for applying for the Open League. This season, there won’t be a DeFi leaderboard, but stay tuned for future seasons.
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 368
+
+[TON Research](/)
+
+# [Enhancing $GRAM Mining with lolMiner Integration at GramMiningPool](/t/enhancing-gram-mining-with-lolminer-integration-at-gramminingpool/368)
+
+[General](/c/general/mining/47)  [Mining](/c/general/mining/47) 
+
+[gramcoin](https://tonresear.ch/tag/gramcoin)
+
+    
+
+[Zoro](https://tonresear.ch/u/Zoro)   February 15, 2024, 10:10am  1
+
+The blockchain community is excited to announce the integration of lolMiner with GramMiningPool, a significant development for miners of the $GRAM cryptocurrency. This collaboration brings together one of the leading mining software solutions and a dedicated mining pool for The Open Network (TON) blockchain, promising improved efficiency and performance for miners.
+
+[![截圖 2024-02-15 下午6.09.18](https://tonresear.ch/uploads/default/optimized/1X/1a7f1b711ec7507ee95d62d2bb47fe7107e840c6_2_689x417.png)
+
+截圖 2024-02-15 下午6.09.182462×1488 357 KB
+
+](https://tonresear.ch/uploads/default/original/1X/1a7f1b711ec7507ee95d62d2bb47fe7107e840c6.png "截圖 2024-02-15 下午6.09.18")
+
+**Key Features of the Integration:**
+
+*   **Ease of Setup:** Miners can quickly configure their systems to work with the Gram Mining Pool, ensuring a smooth transition to the new mining environment.
+*   **Optimized Performance:** The integration is designed to maximize mining efficiency, allowing miners to achieve better results with their existing hardware.
+*   **Seamless Integration:** The collaboration ensures that lolMiner works flawlessly with the Gram Mining Pool, providing a hassle-free mining experience.
+
+Miners are encouraged to update their mining setups by visiting [Gram Mining Pool](http://pool.gramcoin.org/) and embracing the enhanced mining capabilities offered by lolMiner.
+
+For further assistance, community support, and tips, miners can join the conversation at [@GramMiningChat](https://t.me/GramMiningChat).
+
+**Recent Updates in lolMiner:**
+
+*   **Version 1.84:** [Download Here](https://github.com/Lolliedieb/lolMiner-releases/releases/tag/1.84)
+    
+    *   Improved TON/Gram mining performance by 15-18% on AMD RDNA 1-3 and NVIDIA Pascal and newer GPUs.
+    *   Added EthashB3 + TON dual mining via `--dualmode TONDUAL`.
+    *   Added support for mining Gram on [gramcoin.org](http://gramcoin.org) with automatic detection of the https endpoint [https://api-pool.gramcoin.org](https://api-pool.gramcoin.org/), and manual selection with `--ton-mode 5`.
+    *   Fixed bugs affecting mining on Cuda 11 drivers and newer AMD drivers.
+*   **Version 1.83:** [Download Here](https://github.com/Lolliedieb/lolMiner-releases/releases/tag/1.83)
+    
+    *   Reintroduced codes for mining TON/Gram due to popular demand. Use `-a TON` or `-a GRAM` to mine.
+    *   Improved pool detection for lolminer.ton.ninja and gram.hashrate.to with `--ton-mode 6` and [https://ninja.tonlens.com](https://ninja.tonlens.com/) with `--ton-mode 4`.
+    *   Added TON support for Nvidia ADA and AMD RDNA3 GPUs.
+    *   Note: Nvidia Drivers 525 or higher are required. Old TON dual mining codes and solo mining mode are not available. The miner is compatible with pools using the old icemining style stratum (`--ton-mode 6`) or old https dialects. Other https connectors are not supported.
+
+**Updating Instructions for HiveOS and RaveOS:**
+
+*   For HiveOS, use the following commands to update to the latest version of lolMiner:
+    
+    ```
+    wget https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.84/lolMiner_v1.84_Lin64.tar.gz && tar -xvf lolMiner_v1.84_Lin64.tar.gz && pidof -x SCREEN && miner stop || echo lolminer && cp -adpR 1.84/lolMiner $(ls -d1 /hive/miners/lolminer/*/ | tail -1) && miner start
+    ```
+    
+*   For RaveOS, open the console and execute the following commands:
+    
+    ```
+    stop && wget https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.83/lolMiner_v1.83_Lin64.tar.gz && tar -xvf lolMiner_v1.83_Lin64.tar.gz && cp -adpR 1.83/lolMiner /app-data/miners/lolminer-1.82a && start
+    ```
+    
+
+This integration marks a significant milestone for the TON blockchain community, offering enhanced mining capabilities and support for the latest GPU technologies. Miners are encouraged to take advantage of these updates to optimize their mining operations and contribute to the growth of the TON ecosystem.
+
+![](https://github.githubassets.com/favicons/favicon.svg) [GitHub](https://github.com/Lolliedieb/lolMiner-releases/releases)
+
+![](https://tonresear.ch/uploads/default/optimized/1X/470a32b3a860fc4335e19f8fa0dbd035f53d6ee4_2_690x345.png)
+
+### [Releases · Lolliedieb/lolMiner-releases](https://github.com/Lolliedieb/lolMiner-releases/releases)
+
+Contribute to Lolliedieb/lolMiner-releases development by creating an account on GitHub.
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 36875
+
+[TON Research](/)
+
+# [🐱 $CATI TOKEN Listing Guides](/t/cati-token-listing-guides/36875)
+
+[General](/c/general/4) 
+
+    
+
+[CatizenAI](https://tonresear.ch/u/CatizenAI)  September 13, 2024, 3:34pm  1
+
+> _This page aims to provide comprehensive info in terms of $CATI token listing_  
+> ![:point_right:](https://tonresear.ch/images/emoji/twitter/point_right.png?v=12 ":point_right:") _Works for both TON/Mantle Blockchain_
+
+## [](#p-59638-pipeline-1)PIPELINE
+
+Sept - 14, 2024, Expected 10:00 UTC → Check UR $CATI Airdrop Amount  
+Sept - 14, 2024, Expected 10:00 UTC → CATIZEN Meow Earn Starts!  
+Sept -15, 2024, Expected 10:00 UTC → $CATI Claim to CEXs  
+Sept - 18, 2024, Expected 10:00 UTC → Claim to CEXs Channel Closed  
+Sept - 20, 2024, Expected 10:00 UTC → Listing CEXs
+
+## [](#p-59638-links-fyi-2)Links FYI
+
+Premarket Price Checking → [OKX](https://www.okx.com/zh-hans/trade-futures/cati-usdt-biquarterly) / [Bybit](https://www.bybit.com/en/trade/spot/pre-market/detail?token=CATI) / [Bitget](https://www.bitget.com/pre-market/CATIUSDT) / [Gate](https://www.gate.io/zh/pre-market) / [KuCoin](https://www.kucoin.com/pre-market/CATI)
+
+Listing Announcement (UTD) → [Binance](https://x.com/binance/status/1834572660988117032) / [OKX](https://x.com/okx/status/1833053455927120008) / [Bybit](https://x.com/Bybit_Official/status/1833792603004748069) / [Bitget](https://x.com/bitgetglobal/status/1833405383916065081) / [Gate](https://x.com/gate_io/status/1833033855483158861) / [KuCoin](https://x.com/kucoincom/status/1833404812110803046) / [MEXC](https://x.com/MEXC_Official/status/1834202759715061827)/ [Hashkey](https://x.com/HashKey_Global/status/1833352533278134611)
+
+## [](#p-59638-guides-claim-your-cati-to-cexs-3)Guides Claim your CATI to CEXs
+
+[Binance](https://docs.google.com/document/d/1wG0kNTMR2r1zpzSmRsd3vQyUpe1kdWx7S3Jht4XAI0E/edit#heading=h.4y20at2730m3) / [OKX](https://docs.google.com/document/d/1-f0ArnMH2wrwUvqOR1OdutkAQURSXWMuSqCEtIhhtnY/edit#heading=h.hezh9kcjbfo8) / [Bitget](https://docs.google.com/document/d/1el1d_c0K7tS0bsSzs576-juvQdnRQ-ZYQG21CUUTqzQ/edit#heading=h.8llzz8ad0pp7) / [Bybit](https://docs.google.com/document/d/1t6pJqH8kkOoXUgsFM_jG2Ti-DxY1aPIsqSWTdgt9l50/edit#heading=h.n1ssbdkab8bd) / [KuCoin](https://docs.google.com/document/d/1ZJNdpb4xzf7ZHz0CUjwQk3j9kn5oer3I_V9h4vUNWYc/edit#heading=h.bcr1k2mrncmb) / [Hasheky](https://docs.google.com/document/d/1gtxz6kdSln9031JIVPeuEwzZJyBb1z3jeuMmrH42SzU/edit#heading=h.mdtdw8iq2y0g) / [Gate](https://docs.google.com/document/d/1w7kGXriHOKMrNmdsmvYACOwY6ig5IMranXrgcjOCmAA/edit#heading=h.lv4kgxb0uggj) / [MEXC](https://docs.google.com/document/d/1SY9BTZQnifj5Zl4Tv5L6O9qD2L4Wp9X09nyTcb4nsCc/edit#heading=h.4y20at2730m3)/
+
+## [](#p-59638-pre-listing-events-extra-benefit-for-our-cati-holder-how-to-claim-cati-to-cexs-4)Pre-Listing Events! (Extra benefit for our $CATI holder) & How to Claim $CATI to CEXs
+
+![:point_down:](https://tonresear.ch/images/emoji/twitter/point_down.png?v=12 ":point_down:") **Stake $CATI to Earn** ![:point_down:](https://tonresear.ch/images/emoji/twitter/point_down.png?v=12 ":point_down:")
+
+*   $BGB → [Details & Claiming Guides](https://docs.google.com/document/d/1el1d_c0K7tS0bsSzs576-juvQdnRQ-ZYQG21CUUTqzQ/edit#heading=h.df3a6zxpj5x6)
+    
+*   $GT → [Details & Claiming Guides](https://docs.google.com/document/d/1w7kGXriHOKMrNmdsmvYACOwY6ig5IMranXrgcjOCmAA/edit#heading=h.lv4kgxb0uggj)
+    
+*   $KCS → [Details & Claiming Guides](https://docs.google.com/document/d/1ZJNdpb4xzf7ZHz0CUjwQk3j9kn5oer3I_V9h4vUNWYc/edit)
+    
+*   $HSK → [Details & Claiming Guides](https://docs.google.com/document/d/1gtxz6kdSln9031JIVPeuEwzZJyBb1z3jeuMmrH42SzU/edit#heading=h.1o1i6svx648u)
+    
+*   $MX → [Details & Claiming Guides](https://docs.google.com/document/d/1SY9BTZQnifj5Zl4Tv5L6O9qD2L4Wp9X09nyTcb4nsCc/edit#heading=h.bcr1k2mrncmb)
+    
+
+  8 Likes
+
+[Ahmad\_Khan](https://tonresear.ch/u/Ahmad_Khan) September 15, 2024, 5:10pm  3
+
+Fuck this project only got 20 cati i am mining form 2 month but you decided me as a bot and make. Transaction server time but u fuck us soo bad
+
+  5 Likes
+
+[Ubey\_Ubey](https://tonresear.ch/u/Ubey_Ubey) September 15, 2024, 7:26pm  4
+
+Fuck this project only got 2 cati i am mining form 2 month but you decided me as a bot and make
+
+  4 Likes
+
+[sMeerch](https://tonresear.ch/u/sMeerch) September 15, 2024, 11:49pm  5
+
+Hello. I have problem by withdraw to Bybit. I follow with your instruction and there written as example token DOGS and not CATI. And by withdraw i fuck up and enter address and memo hash from DOGS (TON network). What i need do it in so situation ?
+
+  3 Likes
+
+[yonko](https://tonresear.ch/u/yonko) September 16, 2024, 2:10am  7
+
+I can’t be sure but when i did withdraw to Binance Catizen said if i make mistake in address, memo etc. my tokens come back to Catizen acc. I think ur tokens will just come back to acc when they’ll try to send it to u.
+
+  2 Likes
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 3689
+
+[TON Research](/)
+
+# [Joker / $JOKER Season 1 Minor League Application](/t/joker-joker-season-1-minor-league-application/3689)
+
+[The Open League](/c/the-open-league/token-leaderboard/57)  [Token Battle](/c/the-open-league/token-leaderboard/57) 
+
+    
+
+[Joker](https://tonresear.ch/u/Joker)   April 2, 2024, 3:45pm  1
+
+## [](#joker-1)JOKER
+
+[![image](https://tonresear.ch/uploads/default/optimized/2X/f/f576ba853f064a6c7566f74deb89946531e74833_2_690x230.jpeg)
+
+image1500×500 106 KB
+
+](https://tonresear.ch/uploads/default/original/2X/f/f576ba853f064a6c7566f74deb89946531e74833.jpeg "image")
+
+## [](#please-describe-your-project-and-token-utility-2)Please describe your project and token utility
+
+Founding Date: 16/01/2024 ![:date:](https://tonresear.ch/images/emoji/twitter/date.png?v=12 ":date:")  
+ATH Market Cap : $72k ![:heavy_dollar_sign:](https://tonresear.ch/images/emoji/twitter/heavy_dollar_sign.png?v=12 ":heavy_dollar_sign:")  
+Holders: 250  
+Project Goal: Will become the biggest memecoin on the TON blockchain. ![:dart:](https://tonresear.ch/images/emoji/twitter/dart.png?v=12 ":dart:")
+
+Website: [https://jokeronton.com/](https://jokeronton.com/) ![:link:](https://tonresear.ch/images/emoji/twitter/link.png?v=12 ":link:")  
+Chart: [JOKER/TON - JOKER Price on Ston.fi | GeckoTerminal](https://www.geckoterminal.com/en/ton/pools/EQB5OZtD5lR7X81R_8zFbmamfuPDv1HeE4BRLLTH0w7wlE6b) ![:bar_chart:](https://tonresear.ch/images/emoji/twitter/bar_chart.png?v=12 ":bar_chart:")  
+Telegram: [Telegram: Contact @JokerOnTon](https://t.me/JokerOnTon) ![:speech_balloon:](https://tonresear.ch/images/emoji/twitter/speech_balloon.png?v=12 ":speech_balloon:")
+
+Joker is a meme coin aspiring to be a leader in the TON ecosystem with a bunch of utilities. Not inspired by Pavel Durov.  
+We engage the community with interesting issues that JOKER posts on Twitter.  
+JOKER aims to entertain, warn about dangers in the TON blockchain, educate, and provide opportunities to earn money through delivering useful tools like:
+
+*   Buy/Sell Bot for all swaps on stonfi - [Telegram: Contact @swaps\_ton](https://t.me/swaps_ton)
+*   Buy/Sell Bot for all token swaps < $25k MC on stonfi - [Telegram: Contact @swaps\_ton](https://t.me/swaps_ton)
+
+## [](#please-describe-your-project-roadmap-for-the-next-6-12-months-3)Please describe your project roadmap for the next 6-12 months
+
+*   Plans include the release of an NFT collection, which is already prepared but waiting for the right moment.
+*   Add new dexes to Buy/Sell Bot
+*   Customizable Buy/Sell bot for projcts and normal people (almost done)
+*   As a project, we want to expand and attract the community from other ecosystems to TON. ![:bulb:](https://tonresear.ch/images/emoji/twitter/bulb.png?v=12 ":bulb:")
+*   More utilitiess for TON community
+
+## [](#projects-twittert-4)Project’s Twittert
+
+[https://x.com/jokeronton](https://x.com/jokeronton)
+
+## [](#link-to-the-tokens-page-on-redoubt-andor-dyor-5)Link to the token’s page on re:doubt and/or DYOR
+
+![](https://tonresear.ch/uploads/default/original/2X/f/f07d26705e1f98d1853f6c61edb5060616c3a4e9.png) [dyor.io](https://dyor.io/token/EQDSK89vV0Ta3Z45aERfc4nge_qS2jieJ1F5Cf_7Wl5sNCrg)
+
+![](https://tonresear.ch/uploads/default/optimized/2X/b/b826500d1ea599b9a15cbb37efa203b130ae8664_2_690x362.jpeg)
+
+### [JOKER (JOKER) Token Price - DYOR.ninja](https://dyor.io/token/EQDSK89vV0Ta3Z45aERfc4nge_qS2jieJ1F5Cf_7Wl5sNCrg)
+
+The live JOKER price today is 0.000000127 USD with a 24-hour trading volume of 78.96 USD. We update our JOKER to USD price in real-time.
+
+## [](#link-to-the-tokens-page-on-coinmarketcap-if-your-token-is-not-listed-there-write-na-6)Link to the token’s page on Coinmarketcap (if your token is not listed there, write n/a)
+
+n/a
+
+## [](#link-to-the-tokens-page-on-coingecko-if-your-token-is-not-listed-there-write-na-7)Link to the token’s page on Coingecko (if your token is not listed there, write n/a)
+
+n/a
+
+## [](#your-name-8)Your name
+
+BitBardOnchain
+
+## [](#your-telegram-handle-9)Your Telegram handle (@…)
+
+@BitBardOnChain
+
+## [](#any-other-links-or-details-that-you-want-to-share-10)Any other links or details that you want to share
+
+Chart: [JOKER/TON - JOKER Price on Ston.fi | GeckoTerminal](https://www.geckoterminal.com/ton/pools/EQB5OZtD5lR7X81R_8zFbmamfuPDv1HeE4BRLLTH0w7wlE6b)  
+Website: [https://jokeronton.com/](https://jokeronton.com/)  
+Whitepaper: [JOKER](https://jokeronton.com/?anchor=whitepaper)  
+Linktree: [JOKER | Twitter | Linktree](https://linktr.ee/jokeronton)
+
+By submitting the form I confirm that the data I provided is correct and I fully understand that in case of the contrary, my project will be permanently eliminated from The Open League.
+
+  3 Likes
+
+[Olagbemide\_Adebumola](https://tonresear.ch/u/Olagbemide_Adebumola) April 4, 2024, 11:52am  2
+
+A great project. Am not fading.
+
+  2 Likes
+
+[Ifelaw\_PR](https://tonresear.ch/u/Ifelaw_PR) April 4, 2024, 11:55am  3
+
+‪I feel happy when I see team building & partnering‬
+
+‪@JOKER is building​:gem:![:gem:](https://tonresear.ch/images/emoji/twitter/gem.png?v=12 ":gem:")![:fire:](https://tonresear.ch/images/emoji/twitter/fire.png?v=12 ":fire:") ‬
+
+‪This is great ‬
+
+‪#TONsociety #Cryptobranders #TS‬
+
+  1 Like
+
+[FORTUNE\_ORINAYO](https://tonresear.ch/u/FORTUNE_ORINAYO) April 4, 2024, 1:18pm  4
+
+This is amazing  
+Great job  
+[@Joker](/u/joker) [@Poker\_Joker](/u/poker_joker) #TONSociety #CryptoBranders
+
+  1 Like
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) April 12, 2024, 2:09pm  5
+
+Hello Joker team,
+
+Thank you for taking the time to apply for The Open League Season #1.
+
+After a thorough review, we must inform you that, unfortunately, your product’s traction does not meet our current eligibility criteria. You can find these criteria through this [link](https://tonresear.ch/t/about-the-token-leaderboard-minor-league-category/1274).
+
+Once the criteria are met from your side, please feel free to resubmit your application for the future seasons.
+
+We look forward to seeing your application again in the future.
+
+Thank you!
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 369
+
+[TON Research](/)
+
+# [Simplifying TON Blockchain Validation: Introducing the Single Nominator Smart Contract](/t/simplifying-ton-blockchain-validation-introducing-the-single-nominator-smart-contract/369)
+
+[TON Blockchain](/c/ton-blockchain/build-node/21)  [TON Node](/c/ton-blockchain/build-node/21) 
+
+[nominator](https://tonresear.ch/tag/nominator)
+
+    
+
+[Einstein](https://tonresear.ch/u/Einstein)   February 15, 2024, 11:54am  1
+
+Ensuring the security of the TON blockchain is crucial for its smooth operation. A key player in this process is the validator, responsible for verifying transactions and creating new blocks. However, the traditional approach of using a hot wallet for validation poses security risks, as it is vulnerable to hacking. To address this, we present the Single Nominator smart contract, a secure and simplified solution for validators.
+
+## [](#the-single-nominator-advantage-1)![:shield:](https://tonresear.ch/images/emoji/twitter/shield.png?v=12 ":shield:") The Single Nominator Advantage
+
+The Single Nominator smart contract is a streamlined alternative to the Nominator Pool smart contract, supporting only one nominator. This reduction in complexity significantly lowers the attack surface, enhancing security. It is designed for TON validators with sufficient stake to validate independently, offering a more secure option compared to using a hot wallet or an unmaintained restricted wallet.
+
+**Official Code Hash for Verification:**
+
+```
+pCrmnqx2/+DkUtPU8T04ehTkbAGlqtul/B2JPmxx9bo=
+```
+
+Verify this hash on [TON Verifier](https://verifier.ton.org) before sending funds to a live contract.
+
+## [](#architecture-overview-2)![:building_construction:](https://tonresear.ch/images/emoji/twitter/building_construction.png?v=12 ":building_construction:") Architecture Overview
+
+The Single Nominator smart contract mirrors the architecture of the Nominator Pool contract, with a clear separation of roles:
+
+*   **Owner:** A cold wallet holding the staking funds, acting as the single nominator.
+*   **Validator:** A wallet on the validator node, capable of signing blocks but unable to access the staking funds.
+
+The workflow involves the owner depositing funds into the Single Nominator contract, which are then used by the validator to enter election cycles. The contract ensures that only the owner can withdraw the funds, providing a secure validation process.
+
+[![Single Nominator Architecture](https://tonresear.ch/uploads/default/optimized/1X/698761b320c01af59ba1bc530ba6ad81551e836e_2_690x209.png)
+
+Single Nominator Architecture3044×926 436 KB
+
+](https://tonresear.ch/uploads/default/original/1X/698761b320c01af59ba1bc530ba6ad81551e836e.png "Single Nominator Architecture")
+
+## [](#mitigating-attack-vectors-3)![:shield:](https://tonresear.ch/images/emoji/twitter/shield.png?v=12 ":shield:") Mitigating Attack Vectors
+
+The Single Nominator contract addresses several potential attack vectors:
+
+*   **Hot Wallet Security:** The validator’s hot wallet is protected from theft, as it cannot access the staking funds.
+*   **Validator Compromise:** In case of a compromised validator wallet, the owner can change the validator address, preventing further unauthorized interactions.
+*   **Gas Drainage Attacks:** The contract separates the principal staking funds from the gas fees, preventing attackers from draining the principal.
+*   **Emergency Safeguards:** The owner can send raw messages or change the contract code in emergency situations to recover stakes or address unforeseen issues.
+
+## [](#comparison-of-existing-alternatives-4)![:bar_chart:](https://tonresear.ch/images/emoji/twitter/bar_chart.png?v=12 ":bar_chart:") Comparison of Existing Alternatives
+
+For validators with enough stake, the Single Nominator contract offers a secure and simplified alternative compared to other setups like hot wallets, restricted wallets, or the Nominator Pool. It provides a streamlined solution with fewer attack vectors and enhanced security features.
+
+Setup
+
+Security
+
+Complexity
+
+Use Case
+
+Hot Wallet
+
+Low
+
+Low
+
+Insecure, vulnerable to theft
+
+Restricted Wallet
+
+Medium
+
+Medium
+
+Unmaintained, prone to attack vectors
+
+Nominator Pool
+
+High
+
+High
+
+Suitable for multiple nominators
+
+Single Nominator
+
+Highest
+
+Low
+
+Ideal for single validators with full stake
+
+## [](#getting-started-with-single-nominator-5)![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:") Getting Started with Single Nominator
+
+To use the Single Nominator contract, you can deploy it using the provided [open-source client](https://github.com/orbs-network/single-nominator-client). The contract integrates seamlessly with MyTonCtrl, allowing for easy management of validation cycles.
+
+For detailed deployment instructions and owner-only operations, please refer to the [GitHub repository](https://github.com/orbs-network/single-nominator).
+
+## [](#security-audits-6)![:hammer_and_wrench:](https://tonresear.ch/images/emoji/twitter/hammer_and_wrench.png?v=12 ":hammer_and_wrench:") Security Audits
+
+The Single Nominator contract has undergone a thorough security audit by Certik, ensuring its robustness and reliability. The audit report is available in the repository: [Certik Audit](https://github.com/orbs-network/single-nominator/blob/main/certik-audit.pdf).
+
+## [](#conclusion-7)![:memo:](https://tonresear.ch/images/emoji/twitter/memo.png?v=12 ":memo:") Conclusion
+
+The Single Nominator smart contract offers a secure and efficient solution for TON validators seeking to reduce their attack surface and simplify their validation process. With its streamlined architecture and robust security features, it stands as the preferred choice for validators with sufficient stake.
+
+For support or further information, join the discussion on [Telegram](https://t.me/single_nominator).
+
+![](https://github.githubassets.com/favicons/favicon.svg) [GitHub](https://github.com/orbs-network/single-nominator)
+
+![](https://tonresear.ch/uploads/default/optimized/1X/ba6083061153e241f90a13051d77855ab22a1868_2_690x345.png)
+
+### [GitHub - orbs-network/single-nominator: Secure validation for TON blockchain...](https://github.com/orbs-network/single-nominator)
+
+Secure validation for TON blockchain via cold wallet - orbs-network/single-nominator
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 3730
+
+[TON Research](/)
+
+# [Ton Alchemists - Where the Magic begins 🪄](/t/ton-alchemists-where-the-magic-begins/3730)
+
+[The Open League](/c/the-open-league/token-leaderboard/57)  [Token Battle](/c/the-open-league/token-leaderboard/57) 
+
+    
+
+[TonAlchemists](https://tonresear.ch/u/TonAlchemists)   April 2, 2024, 5:08pm  1
+
+## [](#project-1)Project
+
+Ton Alchemists ($MAGIC)
+
+[![TonAlchemists](https://tonresear.ch/uploads/default/optimized/2X/c/c5e5da5660d7ef3b4e0f0c01794389fd34c73435_2_690x230.jpeg)
+
+TonAlchemists1500×500 185 KB
+
+](https://tonresear.ch/uploads/default/original/2X/c/c5e5da5660d7ef3b4e0f0c01794389fd34c73435.jpeg "TonAlchemists")
+
+## [](#projects-twitter-2)Project’s Twitter
+
+[https://twitter.com/TonAlchemists](https://twitter.com/TonAlchemists)
+
+## [](#website-3)Website
+
+[tonalchemists.wtf](https://tonalchemists.wtf/)
+
+### [tonalchemists.wtf](https://tonalchemists.wtf/)
+
+tonalchemists.wtf
+
+## [](#link-to-the-tokens-page-on-redoubt-andor-dyor-4)Link to the token’s page on re:doubt and/or DYOR
+
+[https://beta.redoubt.online/jetton/EQDhbM11gCkwVSLu11jTPUGQKXPjfW\_J1psPqc8mwZwM7Imf](https://beta.redoubt.online/jetton/EQDhbM11gCkwVSLu11jTPUGQKXPjfW_J1psPqc8mwZwM7Imf)
+
+## [](#link-to-the-tokens-page-on-coinmarketcap-if-your-token-is-not-listed-there-write-na-5)Link to the token’s page on Coinmarketcap (if your token is not listed there, write n/a)
+
+n/a
+
+## [](#link-to-the-tokens-page-on-coingecko-if-your-token-is-not-listed-there-write-na-6)Link to the token’s page on Coingecko (if your token is not listed there, write n/a)
+
+n/a
+
+## [](#your-name-7)Your name
+
+Jacob
+
+## [](#your-telegram-handle-8)Your Telegram handle (@…)
+
+@tonalchemist
+
+## [](#any-other-links-or-details-that-you-want-to-share-9)Any other links or details that you want to share
+
+TG Channel: [Telegram: Contact @TonAlchemists](https://t.me/TonAlchemists)  
+TG Group: [Telegram: Contact @TONMagicTown](https://t.me/TONMagicTown)  
+MagicPotions NFT Collection: [TonAlchemists Magic Potions](https://getgems.io/collection/EQA38P1FE9N9QaFpXWM0XbvdUgafudc4TMrnGOLnTr-CxjUM)
+
+By submitting the form I confirm that the data I provided is correct and I fully understand that in case of the contrary, my project will be permanently eliminated from The Open League.
+
+  15 Likes
+
+[fickll\_B](https://tonresear.ch/u/fickll_B)  April 2, 2024, 5:42pm  2
+
+![image](https://tonresear.ch/uploads/default/original/2X/7/7815a2535ef967dcafa9ab213a5e85c528e57b62.png)
+
+I saw it yesterday and bought a few NFTs. I hope I am the lucky person.
+
+  3 Likes
+
+[Johny\_Fire](https://tonresear.ch/u/Johny_Fire) April 4, 2024, 8:34am  3
+
+Give it a try! TOL should support builders like TonAlchemists. $Magic
+
+  3 Likes
+
+[Y\_V](https://tonresear.ch/u/Y_V) April 4, 2024, 3:17pm  4
+
+Скучаешь по волшебству в своей жизни? Присоединяйся к MAGIC — криптовалюте, которая превращает фантазии в реальность! Ведь почему бы не вложиться в магию будущего? Подними свой жезл (или, скорее, свой смартфон) и окунись в мир, где каждый может быть частью волшебства.
+
+  2 Likes
+
+[Y\_V](https://tonresear.ch/u/Y_V) April 4, 2024, 3:19pm  5
+
+Время превратить обычное в необычное! Присоединяйся к MAGIC — криптовалюте, где даже обычные смертные могут почувствовать себя волшебниками.
+
+  2 Likes
+
+[myszojelen](https://tonresear.ch/u/myszojelen) April 4, 2024, 3:46pm  6
+
+Waiting for aggregator. One of the hot prospects on TON imo.
+
+  2 Likes
+
+[throwsky](https://tonresear.ch/u/throwsky) April 6, 2024, 2:36pm  7
+
+The hottest project in TON ecosystem. Wait for a platform launch. I say only, that be MAGIC! ![:man_mage:](https://tonresear.ch/images/emoji/twitter/man_mage.png?v=12 ":man_mage:")![:magic_wand:](https://tonresear.ch/images/emoji/twitter/magic_wand.png?v=12 ":magic_wand:")
+
+  2 Likes
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) April 11, 2024, 12:30pm  8
+
+Hello Ton Alchemists team,
+
+Thank you for taking the time to apply for The Open League Season #1.
+
+After a thorough review, we must inform you that, unfortunately, your token does not meet our current eligibility criteria. You can find them through this [link](https://tonresear.ch/t/about-the-memecoin-leaderboard-category/1276).
+
+Once your token aligns with these criteria, please feel free to resubmit your application for the future seasons.
+
+We look forward to seeing your application again in the future.
+
+Thank you.
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 376
+
+[TON Research](/)
+
+# [Поддержка грантов TON Foundation: Январь 2024](/t/ton-foundation-2024/376)
+
+[Русский](/c/ru/general/50)  [General](/c/ru/general/50) 
+
+    
+
+[ah602\_ton](https://tonresear.ch/u/ah602_ton)   February 16, 2024, 4:10pm  1
+
+![Аватар](https://storage.googleapis.com/ton-strapi/ton_2d55fc5641/ton_2d55fc5641.svg) Фонд TON
+
+[![Изображение статьи](https://tonresear.ch/uploads/default/optimized/1X/5ba90d52d8ed9ae0bd615024354b7e245a4e9d99_2_690x408.jpeg)
+
+Изображение статьи2160×1280 212 KB
+
+](https://tonresear.ch/uploads/default/original/1X/5ba90d52d8ed9ae0bd615024354b7e245a4e9d99.jpeg "Изображение статьи")
+
+С радостью объявляем о новом раунде получателей грантов, одобренных Фондом TON на январь 2024 года.
+
+Эти проекты соответствовали строгим критериям программы грантов, показали инновационные решения и продолжили разрабатывать продукты и инициативы, полезные для пользователей и всей экосистемы TON.
+
+Проект
+
+Описание
+
+**[bemo](https://app.bemo.finance/)**
+
+bemo - первая платформа жидкого стейкинга, построенная на блокчейне TON, которая позволяет стейкать нативные токены TON и взамен получать токены stTON, которые можно свободно использовать в DeFi. Команда разрабатывает мини-приложение в Telegram в рамках гранта, чтобы помочь людям легко стейкать свои монеты TON, не покидая Telegram. Это приложение будет содержать все основные опции стейкинга в одном месте и работать с множеством кошельков TON, включая @wallet, обеспечивая плавный и эффективный онбординг в этот перспективный продукт DeFi. [Присоединяйтесь к сообществу Bemo.](https://t.me/bemofinance)
+
+**[Bounty Bay](https://t.me/bountybay_bot)**
+
+Bounty Bay - это платформа социальной коммерции на базе Web3, которая направлена на расширение возможностей брендов и продавцов с более плавным и эффективным способом привлечения и процветания от социального трафика в Telegram. Платформа внедряет систему монетизированных наград, сосредоточенную на переформатировании общего опыта вирусного распространения продуктов в Telegram; Bounty Bay выступает в качестве новаторской силы, открывая новые возможности в сфере цифровой коммерции. [Присоединяйтесь к сообществу Bounty Bay.](https://t.me/bountybaycommunity)
+
+**[Miomi Game](https://miomi.game/)**
+
+Miomi Game - это электронная спортивная арена для бесплатных и платных турниров и матчей с множеством игр и социальной сетью с возможностями Escrow. Проект может похвастаться преданной аудиторией в 100 тысяч человек, которая сыграла более 1,2 миллиона матчей на оригинальной платформе web2, которую команда теперь преобразует в удобное для пользователя мини-приложение в Telegram. В качестве изюминки: Miomi Game недавно заключила партнерство с известным футбольным звездой Роналдиньо, который будет участвовать в дальнейшем росте проекта.
+
+**[Adsgram](https://adsgram.ai/)**
+
+Adsgram - новая рекламная сет
+
+ь, специально созданная для мини-приложений Telegram. Команда решает текущую острую проблему отсутствия инструментов монетизации рекламы для мини-приложений Telegram. Интересно и важно то, что команда пытается смягчить собственную боль: проект возглавляет сооснователь Fanton, одной из крупнейших игр на TON, которая столкнулась с проблемами монетизации при росте приложения. |
+
+Приглашаем вас принять участие в программе грантов TON в качестве разработчика проекта и участника оценки. **[Узнайте больше о различных аспектах программы грантов TON на официальной странице.](https://ton.org/grants)**
+
+В качестве разработчика вы можете отправить свое предложение проекта на нашей странице Questbook или присоединиться к обсуждению конкретных проектов, чтобы помочь нам поддержать наилучшие идеи.
+
+![Аватар](https://storage.googleapis.com/ton-strapi/ton_2d55fc5641/ton_2d55fc5641.svg) Фонд TON
+
+![](https://tonresear.ch/uploads/default/original/1X/3cf0d93cdeba05cb15baef3f16cf22cd0f3f7e19.png) [TON Blog](https://blog.ton.org/ton-foundation-grant-support-january-2024)
+
+![](https://tonresear.ch/uploads/default/optimized/1X/5ba90d52d8ed9ae0bd615024354b7e245a4e9d99_2_690x408.jpeg)
+
+### [TON Foundation Grant Support: January 2024](https://blog.ton.org/ton-foundation-grant-support-january-2024)
+
+Meet the four new TON Foundation Grant Support recipients for January 2024. Click to learn more.
+
+  2 Likes
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 3779
+
+[TON Research](/)
+
+# [💚 HYDRA COIN - The Real Decentralization](/t/hydra-coin-the-real-decentralization/3779)
+
+[The Open League](/c/the-open-league/56) 
+
+    
+
+[Sonya](https://tonresear.ch/u/Sonya)   April 2, 2024, 10:13pm  1
+
+[![img1_en](https://tonresear.ch/uploads/default/optimized/2X/c/c341a3dbbb90574bb27c0d10c333008500199664_2_690x222.png)
+
+img1\_en1280×412 177 KB
+
+](https://tonresear.ch/uploads/default/original/2X/c/c341a3dbbb90574bb27c0d10c333008500199664.png "img1_en")
+
+Перевод на русском
+
+Гидра - это первый в своём роде миф-токен отличающийся наиболее прозрачной и честной системой распределения монет.
+
+[![img4_ru](https://tonresear.ch/uploads/default/optimized/2X/f/f18b2ca0042a1cdc8c71813e2cfe01269acead95_2_690x222.png)
+
+img4\_ru1280×412 190 KB
+
+](https://tonresear.ch/uploads/default/original/2X/f/f18b2ca0042a1cdc8c71813e2cfe01269acead95.png "img4_ru")
+
+Распределение монет происходит исключительно с помощью механизма бустов на DEX биржах.
+
+### [](#h-1)Токеномика
+
+```
+
+- 8 лямов сюды
+
+- Лям туды
+
+- Чуток сюдым
+
+- И капля тут
+
+```
+
+А, вообще, вся циркулирующая эмиссия находится у холдеров. Остальное количество монет заморожены на год с последующим распределением их на десятилетия в пулах ликвидности, [убедитесь сами](https://tonviewer.com/EQD4P32U10snNoIavoq6cYPTQR82ewAjO20epigrWRAup54_?section=holders).
+
+[![img3_ru](https://tonresear.ch/uploads/default/optimized/2X/f/f47afc01395ff5355ff007dd0118b05a8c468e20_2_690x222.png)
+
+img3\_ru1280×412 368 KB
+
+](https://tonresear.ch/uploads/default/original/2X/f/f47afc01395ff5355ff007dd0118b05a8c468e20.png "img3_ru")
+
+Помимо основного пула ликвидности TON/Hydra, жетон Hydra имеет более пятидесяти второстепенных пулов.
+
+50+ пулов ликвидности (клик)
+
+![pools](https://tonresear.ch/uploads/default/original/2X/4/4542895cc3456cc5f2229ec27e214423b75568d6.gif)
+
+Данная диверсификация пулов создаёт лёгкий старт для холдеров других монет. Для создания или поддержания наших пулов у них нет необходимости продавать свои активы, они сразу могут задействовать их в пулах ликвидности и обеспечить себе дополнительный доход за счёт хороших бустов.
+
+[![img2_ru](https://tonresear.ch/uploads/default/optimized/2X/e/e713c6475bc28fd1556a4a3dc77091f8137c9bdf_2_690x222.png)
+
+img2\_ru1280×412 393 KB
+
+](https://tonresear.ch/uploads/default/original/2X/e/e713c6475bc28fd1556a4a3dc77091f8137c9bdf.png "img2_ru")
+
+Жетон Hydra позволяет пользователям других монет переждать негативные манипуляции в виде обвала стоимости монет при этом получая вознаграждение в виде стабильного жетона HYDRA. Таким образом Hydra Coin помогает фаундерам других проектов избежать “паник-сейла”.
+
+[![img5_ru](https://tonresear.ch/uploads/default/optimized/2X/6/62e8aa36d9948d8380bd0291876b44d29ac0f9c7_2_690x222.png)
+
+img5\_ru1280×412 199 KB
+
+](https://tonresear.ch/uploads/default/original/2X/6/62e8aa36d9948d8380bd0291876b44d29ac0f9c7.png "img5_ru")
+
+Hydra Coin надёжный ориентир для новичков в мире мем-токенов. Кроме того, благодаря отсутствию доминирующих крупных держателей (“китов”), которые могли бы существенно влиять на ценовую динамику, $HYDRA обладает относительной стабильностью по сравнению с другими активами, предотвращая резкие колебания стоимости и делая этот жетон более предсказуемым для инвесторов.
+
+* * *
+
+### [](#h-2)![:flight_departure:](https://tonresear.ch/images/emoji/twitter/flight_departure.png?v=12 ":flight_departure:") Ссылки ![:flight_departure:](https://tonresear.ch/images/emoji/twitter/flight_departure.png?v=12 ":flight_departure:")
+
+*   **[Телеграм канал](https://t.me/Ton_HYDRA_Community)**
+    
+*   **[Телеграм чат](https://t.me/Ton_HYDRAcoin)**
+    
+*   **[Твиттер](http://x.com/ton_hydra)**
+    
+*   **[Геко Терминал](https://www.geckoterminal.com/ru/ton/pools/EQBF-YYoDy6ue0J4K-v5L_HYzwWCLpwXSLsTFmT7hr2uqHf5)**
+    
+*   **[Купить $HYDRA](https://dedust.io/swap/TON/HYDRA)**
+    
+
+> Основатель: [@sonyatryp](https://t.me/sonyatryp)
+
+* * *
+
+中文翻译
+
+水螅是同类产品中的第一个 神话符号 以最透明、最公平的硬币分配制度为特点.
+
+[![img4_ch](https://tonresear.ch/uploads/default/optimized/2X/c/ce7133752e9a90c4bd90c2593c16b37d3ac31f30_2_690x222.png)
+
+img4\_ch1280×412 175 KB
+
+](https://tonresear.ch/uploads/default/original/2X/c/ce7133752e9a90c4bd90c2593c16b37d3ac31f30.png "img4_ch")
+
+币的分配完全通过 DEX 交易所的助推机制完成.
+
+### [](#h-3)代币经济学
+
+```
+
+- 800 万就在这里。
+
+- 百万
+
+- 这边一点
+
+- 和这里的一滴
+
+```
+
+*   一般来说，所有流通发行的硬币都由持有人持有。其余的硬币会被冻结一年，然后以流动资金池的形式在几十年内进行分配, [亲眼目睹](https://tonviewer.com/EQD4P32U10snNoIavoq6cYPTQR82ewAjO20epigrWRAup54_?section=holders).
+
+[![img3_ch](https://tonresear.ch/uploads/default/optimized/2X/8/8401430cc44eb96bb6e2e17490bc64ccea074cc1_2_690x222.png)
+
+img3\_ch1280×412 375 KB
+
+](https://tonresear.ch/uploads/default/original/2X/8/8401430cc44eb96bb6e2e17490bc64ccea074cc1.png "img3_ch")
+
+除了主要的 TON/Hydra 流动性池，Hydra 代币还有五十多个二级池.
+
+50 多个流动性池（点击）
+
+![pools](https://tonresear.ch/uploads/default/original/2X/4/4542895cc3456cc5f2229ec27e214423b75568d6.gif)
+
+这种资金池的多样化为其他币种的持有者创造了一个轻松的起点。他们不需要出售自己的资产来创建或维护我们的资金池，他们可以立即将这些资产用于流动性资金池，并通过良好的提振为自己提供额外收入。.
+
+[![img2_ch](https://tonresear.ch/uploads/default/optimized/2X/0/010c2033d223b805dafc48b7ccc90cf6075113a9_2_690x222.png)
+
+img2\_ch1280×412 384 KB
+
+](https://tonresear.ch/uploads/default/original/2X/0/010c2033d223b805dafc48b7ccc90cf6075113a9.png "img2_ch")
+
+九头蛇币允许其他币种的用户等待币值暴跌的负面操纵，同时获得稳定的九头蛇代币。通过这种方式，Hydra Coin 可以帮助其他项目的资助者避免 “恐慌性抛售”。.
+
+[![img5_ch](https://tonresear.ch/uploads/default/optimized/2X/3/30956b7f56c5b24b715d0417193e0659916e9e13_2_690x222.png)
+
+img5\_ch1280×412 191 KB
+
+](https://tonresear.ch/uploads/default/original/2X/3/30956b7f56c5b24b715d0417193e0659916e9e13.png "img5_ch")
+
+海德拉代币对于刚进入代币世界的新手来说是一个可靠的参考点。此外，由于不存在可显著影响价格动态的占主导地位的大持有者（“鲸鱼”），$HYDRA 与其他资产相比具有相对稳定性，可防止价值剧烈波动，使投资者更容易预测该代币的价格。.
+
+* * *
+
+### [](#h-4)![:flight_departure:](https://tonresear.ch/images/emoji/twitter/flight_departure.png?v=12 ":flight_departure:") 参考资料 ![:flight_departure:](https://tonresear.ch/images/emoji/twitter/flight_departure.png?v=12 ":flight_departure:")
+
+*   **[Telegram 频道](https://t.me/Ton_HYDRA_Community)**
+    
+*   **[Telegram 聊天](https://t.me/Ton_HYDRAcoin)**
+    
+*   **[推特](http://x.com/ton_hydra)**
+    
+*   **[Geco 终端](https://www.geckoterminal.com/ru/ton/pools/EQBF-YYoDy6ue0J4K-v5L_HYzwWCLpwXSLsTFmT7hr2uqHf5)**
+    
+*   **[买入 $HYDRA](https://dedust.io/swap/TON/HYDRA)**
+    
+
+> 业主: [@sonyatryp](https://t.me/sonyatryp)
+
+* * *
+
+#### [](#hydra-is-a-first-of-its-kind-umythu-jetton-characterized-by-the-most-transparent-and-fair-coin-distribution-system-5)Hydra is a first-of-its-kind myth jetton characterized by the most transparent and fair coin distribution system.
+
+[![img4_en](https://tonresear.ch/uploads/default/optimized/2X/0/09b1a6f4f800dae0a35f0f528d8b7f6ba8b316f6_2_690x222.png)
+
+img4\_en1280×412 191 KB
+
+](https://tonresear.ch/uploads/default/original/2X/0/09b1a6f4f800dae0a35f0f528d8b7f6ba8b316f6.png "img4_en")
+
+#### [](#coins-are-distributed-exclusively-through-the-mechanism-of-boosts-on-dex-exchanges-6)Coins are distributed exclusively through the mechanism of boosts on DEX exchanges.
+
+### [](#tokenomics-7)Tokenomics
+
+```
+  - 8 mil here
+  - Yum to here
+  - A little bit here
+  - And a drop here.
+```
+
+And, in general, all circulating issuance is held by the holders. The rest of the coins are frozen for a year and then distributed for decades in liquidity pools, [see for yourself](https://tonviewer.com/EQD4P32U10snNoIavoq6cYPTQR82ewAjO20epigrWRAup54_?section=holders).
+
+[![img2_en](https://tonresear.ch/uploads/default/optimized/2X/f/fd7985d32e0be4a11dfefb4d0add46411286af66_2_690x222.png)
+
+img2\_en1280×412 393 KB
+
+](https://tonresear.ch/uploads/default/original/2X/f/fd7985d32e0be4a11dfefb4d0add46411286af66.png "img2_en")
+
+#### [](#in-addition-to-the-main-liquidity-pool-tonhydra-the-hydra-token-has-more-than-fifty-secondary-pools-8)In addition to the main liquidity pool TON/Hydra, the Hydra token has more than fifty secondary pools.
+
+50+ liquidity pools (click)
+
+![pools](https://tonresear.ch/uploads/default/original/2X/4/4542895cc3456cc5f2229ec27e214423b75568d6.gif)
+
+This diversification of pools creates an easy start for holders of other coins. They don’t need to sell their assets to create or maintain our pools, they can immediately use them in the liquidity pools and provide themselves with additional income through good boosts.
+
+[![img3_en](https://tonresear.ch/uploads/default/optimized/2X/d/db2ef28ea1e90b16a145f2f91e15fe7869d76b6f_2_690x222.png)
+
+img3\_en1280×412 373 KB
+
+](https://tonresear.ch/uploads/default/original/2X/d/db2ef28ea1e90b16a145f2f91e15fe7869d76b6f.png "img3_en")
+
+The Hydra jetton allows users of other coins to wait out negative manipulations in the form of collapsing coin values while being rewarded with a stable HYDRA jetton. In this way Hydra Coin helps funders of other projects to avoid the “panic selling”.
+
+[![img5_en](https://tonresear.ch/uploads/default/optimized/2X/c/c5a94985dce7087d4cd4f85d56c661699073ef18_2_690x222.png)
+
+img5\_en1280×412 191 KB
+
+](https://tonresear.ch/uploads/default/original/2X/c/c5a94985dce7087d4cd4f85d56c661699073ef18.png "img5_en")
+
+Hydra Coin is a reliable reference point for newcomers to the world of meme tokens. In addition, due to the absence of dominant large holders (“whales”) that could significantly influence price dynamics, $HYDRA has relative stability compared to other assets, preventing sharp fluctuations
+
+* * *
+
+### [](#find-us-9)![:flight_departure:](https://tonresear.ch/images/emoji/twitter/flight_departure.png?v=12 ":flight_departure:") Find us ![:flight_departure:](https://tonresear.ch/images/emoji/twitter/flight_departure.png?v=12 ":flight_departure:")
+
+*   **[Hydra Community Channel](https://t.me/Ton_HYDRA_Community)**
+*   **[Hydra Community Chat](https://t.me/Ton_HYDRAcoin)**
+*   **[Hydra in Twitter](http://x.com/ton_hydra)**
+*   **[Gecko Terminal](https://www.geckoterminal.com/ru/ton/pools/EQBF-YYoDy6ue0J4K-v5L_HYzwWCLpwXSLsTFmT7hr2uqHf5)**
+*   **[Buy $HYDRA](https://dedust.io/swap/TON/HYDRA)**
+
+> Owner: [@sonyatryp](https://t.me/sonyatryp)
+
+* * *
+
+  14 Likes
+
+[Barboskich](https://tonresear.ch/u/Barboskich) April 2, 2024, 11:08pm  2
+
+**Thanks to hydra, I get a second paycheck without doing anything. Think about it** ![:+1:](https://tonresear.ch/images/emoji/twitter/+1.png?v=12 ":+1:")
+
+  5 Likes
+
+[TONBubbles](https://tonresear.ch/u/TONBubbles) April 3, 2024, 1:57am  3
+
+Great project \`\` Hydra on TON is a beast
+
+  5 Likes
+
+[Fair043](https://tonresear.ch/u/Fair043) April 3, 2024, 7:42am  4
+
+The project is simply the best, I receive constant dividends simply by replenishing liquidity.
+
+  4 Likes
+
+[user307](https://tonresear.ch/u/user307) April 3, 2024, 8:41am  5
+
+Развития команде гидра
+
+  5 Likes
+
+[iow\_ds](https://tonresear.ch/u/iow_ds) April 3, 2024, 10:19am  6
+
+Hydra team development
+
+Hydra promotion
+
+  3 Likes
+
+[fedor\_nechiporenko](https://tonresear.ch/u/fedor_nechiporenko) April 3, 2024, 10:58am  7
+
+made a ton of money thanks to hydra !!! Hydra to the moon
+
+  3 Likes
+
+[Gringo](https://tonresear.ch/u/Gringo) April 3, 2024, 11:37am  8
+
+Hydra - it’s the best project i see, good team, well-thought-out tokenomics, and the best part is getting passive income from liquidity pool replenishment. Hydra is the first decentralized token on TON blockchain! ![:sauropod:](https://tonresear.ch/images/emoji/twitter/sauropod.png?v=12 ":sauropod:") ![:sauropod:](https://tonresear.ch/images/emoji/twitter/sauropod.png?v=12 ":sauropod:") ![:sauropod:](https://tonresear.ch/images/emoji/twitter/sauropod.png?v=12 ":sauropod:")
+
+  4 Likes
+
+[user332](https://tonresear.ch/u/user332) April 4, 2024, 5:19pm  9
+
+Hydra надёжно держит свои позиции ![:ok_hand:](https://tonresear.ch/images/emoji/twitter/ok_hand.png?v=12 ":ok_hand:")  
+Развития проекту ![:+1:](https://tonresear.ch/images/emoji/twitter/+1.png?v=12 ":+1:")
+
+  1 Like
+
+[supplies](https://tonresear.ch/u/supplies) April 4, 2024, 9:17pm  10
+
+I like farming hydra. I think it’s a cool project.
+
+  3 Likes
+
+[Sonya](https://tonresear.ch/u/Sonya) April 6, 2024, 10:46pm  11
+
+Thank you for your trust, it is very dear to us.![:green_heart:](https://tonresear.ch/images/emoji/twitter/green_heart.png?v=12 ":green_heart:")
+
+  1 Like
+
+[KawaiiSelbst](https://tonresear.ch/u/KawaiiSelbst) April 8, 2024, 10:03pm  12
+
+Its very interesting
+
+  2 Likes
+
+[SergeChe](https://tonresear.ch/u/SergeChe) April 24, 2024, 1:01pm  13
+
+Awesome project , incredible mechanics
+
+  2 Likes
+
+[SergeChe](https://tonresear.ch/u/SergeChe) May 1, 2024, 1:00pm  14
+
+Hydra project has link to 50+ jettons via DeFi mechanics
+
+  1 Like
+
+[EXTENDEAD\_PLAY](https://tonresear.ch/u/EXTENDEAD_PLAY) May 1, 2024, 2:51pm  15
+
+Hydra is ok i think. Not so noisy and annoying like lot of ton tokens. But quite stable and sometimes even friendly. Got some, looking forward for this project.
+
+  1 Like
+
+[arteminasiy](https://tonresear.ch/u/arteminasiy) May 1, 2024, 2:54pm  16
+
+Hold what you like, and Hydra will give you additional income yo yout jettons. Rewards are huge so far.
+
+  1 Like
+
+[Yust](https://tonresear.ch/u/Yust) May 1, 2024, 4:25pm  17
+
+Отличный проект на долгосрок
+
+  1 Like
+
+[Leonid\_Vdovets](https://tonresear.ch/u/Leonid_Vdovets) May 1, 2024, 4:34pm  18
+
+Good project. With good community.Interesting mechanics of the project. And real utilitarian advantage for development of defi.
+
+  1 Like
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 378
+
+[TON Research](/)
+
+# [Присоединяйтесь к программе TON Syndicate и формируйте будущее The Open Network!](/t/ton-syndicate-the-open-network/378)
+
+[Русский](/c/ru/general/50)  [General](/c/ru/general/50) 
+
+    
+
+[ah602\_ton](https://tonresear.ch/u/ah602_ton)   February 16, 2024, 4:22pm  1
+
+![Аватар](https://storage.googleapis.com/ton-strapi/ton_2d55fc5641/ton_2d55fc5641.svg) Фонд TON
+
+[![Изображение статьи](https://tonresear.ch/uploads/default/optimized/1X/0b9b1891b0bb1009234ec096d930ed5730729700_2_690x409.jpeg)
+
+Изображение статьи1280×759 47.4 KB
+
+](https://tonresear.ch/uploads/default/original/1X/0b9b1891b0bb1009234ec096d930ed5730729700.jpeg "Изображение статьи")
+
+В [The Open Network (TON)](https://ton.org/) наше сообщество является движущей силой всего, что мы делаем. Мы стремимся построить сеть, сформированную людьми и для людей, и ваш вклад имеет решающее значение для успеха TON.
+
+Мы рады представить нашу новую программу добровольцев сообщества: [TON Syndicate](https://ton.org/ambassadors). Мы ищем людей со всего мира, которые разделяют наш энтузиазм по поводу TON, понимают нашу миссию и стремятся помочь нам привлечь к TON более широкую аудиторию. Независимо от вашего прошлого опыта, TON Syndicate приветствует всех, кто искренне интересуется и готов способствовать продвижению TON.
+
+**Ваши задачи как члена Syndicate**
+
+**Организация встреч**
+
+Помогите нам расширить адаптацию, организуя регулярные офлайн-встречи TON, связываясь с местными энтузиастами блокчейна, чтобы рассказать им о TON, создавая думающие центры и проводя открытые дебаты. Организаторы встреч поднимают сетевое взаимодействие на новый уровень, исследуя новые парадигмы социального взаимодействия и обсуждая использование смарт-контрактов, децентрализованных финансов, торговли и коммуникаций.
+
+**Создание контента**
+
+Как создатель контента, вы будете производить контент о TON через видео, блоги, инфографику, подкасты, мемы или любую другую форму творческого производства. Такой контент будет информативным и содержательным.
+
+**Модерация сообщества**
+
+Вы поможете нам модерировать официальные социальные каналы, чтобы сделать пространства TON информативными, продуктивными и приятными местами для встречи сообщества на разных языках и на различных платформах.
+
+**Переводчики**
+
+Расширение локализации [сайта TON](https://ton.org/en), контента и каналов увеличит охват TON для неанглоязычных сообществ, позволяя большему количеству энтузиастов присоединиться к движению.
+
+Присоединяйтесь к движению TON сейчас!
+
+Став частью TON Syndicate, мы стремимся признать и вознаградить наших энтузиастичных членов сообщества за их ценный вклад. Участвуя в программе, вы получите прямой доступ к команде TON, возможности повысить свои навыки и шанс начать карьеру в криптоиндустрии.
+
+\*\*Пр
+
+еимущества участия в TON Syndicate\*\*
+
+*   Официальное признание в сообществе TON
+*   Эксклюзивная ограниченная серия товаров TON
+*   Ранний доступ к новым проектам и функциям
+*   Возможность получения компенсации за ваши вклады
+*   Возможность обеспечить оплачиваемую работу или стажировку в Фонде TON
+*   Доступ к частным встречам с командой TON
+*   Наставничество от команды TON для содействия вашему профессиональному росту и расширению знаний
+
+[Присоединяйтесь к программе TON Syndicate](https://docs.google.com/forms/d/e/1FAIpQLSePOD5_hZM23OYkXuwm0zyHTq1XbrJmmQqBFZjiPUEzCIxqvA/viewform) и станьте неотъемлемой частью нашего яркого и разнообразного сообщества энтузиастов криптовалют. Заявки уже открыты, и мы оперативно рассмотрим и оценим вашу заявку. Если ваша заявка будет успешной, наша команда свяжется с вами и добавит вас в специальную группу Telegram для всех наших посольств. Чтобы узнать больше о программе и подать заявку, [посетите страницу посольства TON Syndicate](https://ton.org/ambassadors).
+
+Мы с нетерпением ждем возможности приветствовать вас в сообществе TON Syndicate и вместе формировать будущее The Open Network!
+
+**Следите за нами и оставайтесь в курсе новостей о TON Syndicate: [Twitter](https://twitter.com/ton_blockchain) | [LinkedIn](https://www.linkedin.com/company/ton-blockchain/) | [Telegram](https://t.me/toncoin)**
+
+_**Отказ от ответственности:** Программа TON Syndicate открыта для всех, кто увлечен криптовалютой. Заявки будут оцениваться на основе различных факторов, и успешные кандидаты будут уведомлены соответственно. Обратите внимание, что подача заявки не гарантирует принятие в программу._
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 3793
+
+[TON Research](/)
+
+# [Resistance Dog (REDO) - An homage to the symbol of digital resistance](/t/resistance-dog-redo-an-homage-to-the-symbol-of-digital-resistance/3793)
+
+[The Open League](/c/the-open-league/token-leaderboard/57)  [Token Battle](/c/the-open-league/token-leaderboard/57) 
+
+    
+
+[crowoshi](https://tonresear.ch/u/crowoshi)   April 3, 2024, 1:20am  1
+
+![resistance dog](https://tonresear.ch/uploads/default/original/2X/a/a0411a5df3e2622abe2d1bb275b709b60cac0c01.jpeg)
+
+## [](#project-name-1)Project Name
+
+Resistance Dog (REDO)
+
+## [](#project-website-2)Project Website
+
+[https://www.redoton.com/](https://www.redoton.com/)
+
+## [](#your-name-3)Your name
+
+Crowoshi
+
+## [](#your-telegram-handle-4)Your Telegram handle @
+
+@crowshi
+
+## [](#describe-the-mechanism-of-providing-liquidity-on-your-platform-5)Describe the mechanism of providing liquidity on your platform
+
+The liquidity for Resistance Dog is provided by the community and will continue to do so.
+
+## [](#your-plans-attach-a-document-6)Your Plans \[attach a document\]
+
+[Resistance Dog Memepaper](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:eb50136e-81f2-40ba-b6cd-76db7f0dcd2c)
+
+By submitting the form I confirm that the data I provided is correct and I fully understand that in case of the contrary, my project will be permanently eliminated from The Open League.
+
+  1 Like
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) April 18, 2024, 5:13pm  2
+
+Congrats on being approved to join The Open League Season 1. We hope to see your good performance and fair competition!
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 3804
+
+[TON Research](/)
+
+# [About $BABYTON, NEW ECOSYSTEM](/t/about-babyton-new-ecosystem/3804)
+
+[The Open League](/c/the-open-league/56) 
+
+    
+
+[BABYTON](https://tonresear.ch/u/BABYTON)   April 3, 2024, 4:17am  1
+
+[![-4jhrao](https://tonresear.ch/uploads/default/optimized/2X/8/8411cbc03a04ade576b0847b9b701705766d459f_2_690x230.jpeg)
+
+\-4jhrao1280×427 109 KB
+
+](https://tonresear.ch/uploads/default/original/2X/8/8411cbc03a04ade576b0847b9b701705766d459f.jpeg "-4jhrao")
+
+$BABY / TON
+
+TG: [Telegram: Contact @BABYTONB](https://t.me/BABYTONB)
+
+X: [https://twitter.com/BABYTONofficial](https://twitter.com/BABYTONofficial)
+
+WEB: babyton.pro
+
+here the chart:
+
+[https://dexscreener.com/ton/eqdqogeacalq-lazicyzhsenppnhd46nnx6mtlmgmb8vp\_8d](https://dexscreener.com/ton/eqdqogeacalq-lazicyzhsenppnhd46nnx6mtlmgmb8vp_8d)
+
+We pay DexScreener.  
+Trending.  
+Calls.
+
+We renounced contract  
+We locked the marketing wallet for weeks
+
+$BABYTON Narrative
+
+The captain (Pavel Durov) arrived ![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:") and embarked on a journey to a new universe ![:milky_way:](https://tonresear.ch/images/emoji/twitter/milky_way.png?v=12 ":milky_way:"), enthusiastic about freedom of expression ![:speaking_head:](https://tonresear.ch/images/emoji/twitter/speaking_head.png?v=12 ":speaking_head:") and the free internet ![:globe_with_meridians:](https://tonresear.ch/images/emoji/twitter/globe_with_meridians.png?v=12 ":globe_with_meridians:"), he felt the urge to communicate freely. Passionate about his ideas ![:bulb:](https://tonresear.ch/images/emoji/twitter/bulb.png?v=12 ":bulb:")… he created Telegram Open Network, which would be the beginning of TONCOIN, now run by the community (as it should be, free). The captain didn’t arrive alone… he arrived with his pet, a cute Husky ![:dog:](https://tonresear.ch/images/emoji/twitter/dog.png?v=12 ":dog:"). From here, many brothers were born who will accompany us on this journey. And as we can’t miss someone to impart all the teachings of the great masters (TON), BABYTON was born ![:baby:](https://tonresear.ch/images/emoji/twitter/baby.png?v=12 ":baby:"), the exemplary son of TON (who loves animals -wink- ![:wink:](https://tonresear.ch/images/emoji/twitter/wink.png?v=12 ":wink:")). BABYTON is a laughing baby ![:joy:](https://tonresear.ch/images/emoji/twitter/joy.png?v=12 ":joy:") who dreams of being an astronaut ![:man_astronaut:](https://tonresear.ch/images/emoji/twitter/man_astronaut.png?v=12 ":man_astronaut:") and traveling to the Moon ![:full_moon:](https://tonresear.ch/images/emoji/twitter/full_moon.png?v=12 ":full_moon:") and then to Jupiter… (Yes, at 2 months old!) He wants to create his own spacecraft ![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:")! Let’s accompany BABYTON on his journey through the free internet." ![:globe_with_meridians:](https://tonresear.ch/images/emoji/twitter/globe_with_meridians.png?v=12 ":globe_with_meridians:")![:dizzy:](https://tonresear.ch/images/emoji/twitter/dizzy.png?v=12 ":dizzy:")![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:")
+
+[![IMG_20240326_233923_238](https://tonresear.ch/uploads/default/optimized/2X/9/97c1f2496dd9ce592099216cd3705c1833b82f01_2_500x500.jpeg)
+
+IMG\_20240326\_233923\_2381080×1080 179 KB
+
+](https://tonresear.ch/uploads/default/original/2X/9/97c1f2496dd9ce592099216cd3705c1833b82f01.jpeg "IMG_20240326_233923_238")
+
+We are a team of TON enthusiasts who have launched BABYTON, a token whose purpose is placed in a deep segment, thinking in an ecosystem integrated to the TON network babyton understands the importance of creating strategic forces to empower our network. We want to create an ecosystem where BABYTON will be its main token. Along with this we intend to create NTF’s that will support the liquidity of the token creating a robust base.
+
+  4 Likes
+
+[Tonlover](https://tonresear.ch/u/Tonlover) April 3, 2024, 1:19pm  2
+
+BabyTon look so Bullish First One on Ton
+
+ 
+
+[Raftrak](https://tonresear.ch/u/Raftrak) April 3, 2024, 2:56pm  3
+
+Look very bullish! I m in ![:smiling_face_with_three_hearts:](https://tonresear.ch/images/emoji/twitter/smiling_face_with_three_hearts.png?v=12 ":smiling_face_with_three_hearts:")
+
+  1 Like
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 38089
+
+[TON Research](/)
+
+# [Last days to get your RoOLZ Airdrop & SBT 🎁](/t/last-days-to-get-your-roolz-airdrop-sbt/38089)
+
+[General](/c/general/4) 
+
+    
+
+[petrovxyz](https://tonresear.ch/u/petrovxyz)   September 30, 2024, 2:05pm  1
+
+![:hourglass:](https://tonresear.ch/images/emoji/twitter/hourglass.png?v=12 ":hourglass:") [**The RoOLZ World**](https://t.me/ROoLZQuest_bot/GODLIKE?startapp=page_eq_chapter__referrerCode_eq_TC7FW8MCE) is waiting.
+
+[Complete Quests](https://t.me/ROoLZQuest_bot/GODLIKE?startapp=page_eq_chapter__referrerCode_eq_TC7FW8MCE), Invite Friends, [Collect **RoOLZ Points**](https://t.me/ROoLZQuest_bot/GODLIKE?startapp=page_eq_chapter__referrerCode_eq_TC7FW8MCE) & get ready for the **$GODL** Airdrop, **less than a week for a snapshot left**.
+
+Buy **Boosters** for faster [level 50](https://getgems.io/collection/EQBYAnGHa0ngDM7yBBuXJikVHerHAJ7pSevbMpkp9VpREBrR), [75](https://getgems.io/collection/EQDo5MhTMSWynShrRCj2qQSRDezqdmf4YNjyV-1exyxl10JL) & [100](https://getgems.io/collection/EQDhMhElJt0YycdGxED0EprlcL-nnYnZgTUOV2kWUJEq_fig) NFT collection by levelling up in game. They will **increase** your Airdrop Amount. **100x Booster = Level 100 easy**
+
+[![Boosters](https://tonresear.ch/uploads/default/optimized/3X/5/1/51d616773867545fae5240a5b4f1ac2095904eb8_2_261x375.jpeg)
+
+Boosters892×1280 74.3 KB
+
+](https://tonresear.ch/uploads/default/original/3X/5/1/51d616773867545fae5240a5b4f1ac2095904eb8.jpeg "Boosters")
+
+**Why are these NFT’s important?**
+
+1.  Community Sale Access
+2.  Airdrop Multiplier (direct $GODL Drop)
+3.  They are tradable on [GetGems](https://getgems.io/collection/EQDhMhElJt0YycdGxED0EprlcL-nnYnZgTUOV2kWUJEq_fig)
+
+[![RoOLZ](https://tonresear.ch/uploads/default/optimized/3X/2/7/275213df6782c354c55ea61045e629d9b0a256bd_2_310x250.jpeg)
+
+RoOLZ1280×1030 237 KB
+
+](https://tonresear.ch/uploads/default/original/3X/2/7/275213df6782c354c55ea61045e629d9b0a256bd.jpeg "RoOLZ")
+
+Fight in the ArenA & Level Up to get access to **[Community Sale](https://roolz-gods-and-mortals.gitbook.io/roolz-community-sale)** (October 10).
+
+**[RoOLZ](https://t.me/ROoLZQuest_bot/GODLIKE?startapp=page_eq_chapter__referrerCode_eq_TC7FW8MCE)** is a fan owned studio & protocol where **token $GODL** is used for funding new anime Series, Sponsorship & Add Revenue, Staking, In-App Purchases and will get much more after TGE:  
+![:zap:](https://tonresear.ch/images/emoji/twitter/zap.png?v=12 ":zap:")Funding & Voting for new content.  
+![:zap:](https://tonresear.ch/images/emoji/twitter/zap.png?v=12 ":zap:")Rewards based on income streams from Adds, Sponsorships, in-game purchases, Quests.  
+![:zap:](https://tonresear.ch/images/emoji/twitter/zap.png?v=12 ":zap:")Staking for follow up NFT Collection.  
+![:zap:](https://tonresear.ch/images/emoji/twitter/zap.png?v=12 ":zap:")B2B, companies need to purchase $GODL to be featured in-app or in content.  
+![:zap:](https://tonresear.ch/images/emoji/twitter/zap.png?v=12 ":zap:")In-Game  
+![:zap:](https://tonresear.ch/images/emoji/twitter/zap.png?v=12 ":zap:")Storyline Decissions  
+![:zap:](https://tonresear.ch/images/emoji/twitter/zap.png?v=12 ":zap:")Packs & Digital Goods  
+![:zap:](https://tonresear.ch/images/emoji/twitter/zap.png?v=12 ":zap:")Defi style products are currently in Development.
+
+[![$GODL Community Sale](https://tonresear.ch/uploads/default/optimized/3X/5/d/5d148c9fd71fcaf792f76d3fbf22ba6fd6478c9b_2_517x291.jpeg)
+
+$GODL Community Sale1280×720 84.7 KB
+
+](https://tonresear.ch/uploads/default/original/3X/5/d/5d148c9fd71fcaf792f76d3fbf22ba6fd6478c9b.jpeg "$GODL Community Sale")
+
+![:gift:](https://tonresear.ch/images/emoji/twitter/gift.png?v=12 ":gift:") [**Receive collectible RoOLZ SBT**](https://t.me/BroContestsBot/roolz?startapp=ref-244074224-roolz) from **TON Society**. Additionally, 250 random participants who have earned 650 XP will receive $10 in their wallets for completing simple tasks!
+
+[![RoOLZ SBT](https://tonresear.ch/uploads/default/optimized/3X/e/f/efeb0fdd3e1ed3a3ef2389ee0a8cc3287bee545e_2_250x250.jpeg)
+
+RoOLZ SBT1280×1280 72.9 KB
+
+](https://tonresear.ch/uploads/default/original/3X/e/f/efeb0fdd3e1ed3a3ef2389ee0a8cc3287bee545e.jpeg "RoOLZ SBT")
+
+  1 Like
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 38146
+
+[TON Research](/)
+
+# [PsyDuck Monthly Recap](/t/psyduck-monthly-recap/38146)
+
+[General](/c/general/4) 
+
+    
+
+[PsyDuck\_Game](https://tonresear.ch/u/PsyDuck_Game)  October 4, 2024, 10:34am  1
+
+Welcome to the Monthly Recap of PsyDuckGame!  
+As we look back on September 2024, it’s clear that this month has been a whirlwind of excitement and progress in the dynamic world of PsyDuckGame. From exhilarating game updates to captivating events and noteworthy community achievements, has truly been a standout month.
+
+Before diving into the highlights, let’s take a quick look at our PsyDuck roadmap. We’ve successfully launched key features such as Moon/Doom and the Lucky Wheel games.  
+Now, let’s delve into the September highlights and explore the moments that made this month an unforgettable chapter in the Quack-Quack game!
+
+September - Month of Booming Feature
+
+In our update, we are thrilled to introduce a new Fight mini-game, in collab with @PlayAwakenHQ. Dive into the all-new PsyDuck Fight mini-game and prove your skills in intense, real-time battles! Whether you’re aiming for glory or just looking to have fun, PsyDuck Fight has something for everyone. We’ve got a squad of heroes with mad unique skills waiting for YOU to lead them into battle! Pick your hero. Enter the fray. Become a master.
+
+Starting now, you can officially deposit $TON directly into your PsyDuck account! With your $TON loaded up, you can unlock exclusive Mystery Boxes\*that contain powerful gear, special items, and unique rewards to help you dominate in battles. ![:trophy:](https://tonresear.ch/images/emoji/twitter/trophy.png?v=12 ":trophy:") Whether you’re hunting for rare items or gearing up for a showdown, these Mystery Boxes are your key to leveling up your game.
+
+We’ve hit an exciting milestone – PsyDuck now has over 20,000 players worldwide\*\*! ![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:")![:tada:](https://tonresear.ch/images/emoji/twitter/tada.png?v=12 ":tada:") Thanks to you, our incredible community, we’re growing fast, and the fun has only just begun! Moreover, PsyDuck is making waves! We just cracked the TOP 100 on TON\_blockchain’s Games, jumping from rank 262 to 93!
+
+Partnership Announcements
+
+This month has been monumental for PsyDuck as we successfully connected with ten exceptional partners, each bringing unique value to our community and game development. These collabs have led to more than 30 task exchanges and have rewarded our community with over 10 million feathers. These partnerships are set to elevate the Quack-Quack experience and provide our players with unparalleled opportunities and enhancements.
+
+What’s next?
+
+We are proud to reveal an exciting new mini-game called Flappy Duck is about to enter the PsyDuck universe! Get ready for endless fun, addictive gameplay, and tons of rewards! An Iconic Classic will be reborn in our apps! Join PsyDuck now and be ready when Flappy Duck drops! Your next tap-to-earn adventure is just begin!
+
+  2 Likes
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 38149
+
+[TON Research](/)
+
+# [Theft Wars: Shadows of TON - An Idle PvP Blockchain Game](/t/theft-wars-shadows-of-ton-an-idle-pvp-blockchain-game/38149)
+
+[Application](/c/application/gamefi/35)  [GameFi](/c/application/gamefi/35) 
+
+    
+
+[akme](https://tonresear.ch/u/akme)  October 4, 2024, 2:35pm  1
+
+![:rotating_light:](https://tonresear.ch/images/emoji/twitter/rotating_light.png?v=12 ":rotating_light:") **Theft Wars: Shadows of TON Whitepaper is Live!** ![:rotating_light:](https://tonresear.ch/images/emoji/twitter/rotating_light.png?v=12 ":rotating_light:")
+
+We’re excited to announce the release of the official _Theft Wars: Shadows of TON_ whitepaper! ![:scroll:](https://tonresear.ch/images/emoji/twitter/scroll.png?v=12 ":scroll:") Dive deep into the mechanics, gameplay, and the unique blend of blockchain technology that powers our PvP-driven idle game on the TON Blockchain. ![:gem:](https://tonresear.ch/images/emoji/twitter/gem.png?v=12 ":gem:")
+
+Learn about:
+
+• ![:crossed_swords:](https://tonresear.ch/images/emoji/twitter/crossed_swords.png?v=12 ":crossed_swords:") **Thief attributes** and how to build the ultimate raider
+
+• ![:moneybag:](https://tonresear.ch/images/emoji/twitter/moneybag.png?v=12 ":moneybag:") **Token economy** and dynamic staking features
+
+• ![:shield:](https://tonresear.ch/images/emoji/twitter/shield.png?v=12 ":shield:") Our innovative **reward cycles** and PvP mechanics
+
+• ![:performing_arts:](https://tonresear.ch/images/emoji/twitter/performing_arts.png?v=12 ":performing_arts:") **Darknet items** and skins that customize your gameplay experience
+
+• And much more!
+
+![:boom:](https://tonresear.ch/images/emoji/twitter/boom.png?v=12 ":boom:") Ready to become the ultimate thief in the shadows? Start your journey by reading the whitepaper today!
+
+![:point_right:](https://tonresear.ch/images/emoji/twitter/point_right.png?v=12 ":point_right:") Read the whitepaper [here](https://t.me/thefthub/12/19).
+
+![:calling:](https://tonresear.ch/images/emoji/twitter/calling.png?v=12 ":calling:") Stay updated and be part of the conversation:
+
+• Join our official channel: [@theftwars](https://t.me/theftwars)
+
+• Discuss strategies, share your thoughts, and get insider info: [@thefthub](https://t.me/thefthub)
+
+![:speech_balloon:](https://tonresear.ch/images/emoji/twitter/speech_balloon.png?v=12 ":speech_balloon:") **We want your feedback!** Let us know what you think of the whitepaper, and share your ideas in the group. Your input can help shape the future of _Theft Wars_!
+
+Let the heists begin! ![:new_moon:](https://tonresear.ch/images/emoji/twitter/new_moon.png?v=12 ":new_moon:")
+
+  3 Likes
+
+[akme](https://tonresear.ch/u/akme) October 7, 2024, 10:11am  2
+
+Don’t forget to follow us on [x.com](https://x.com/theftwars) for exclusive updates, game insights, and sneak peeks.
+
+  2 Likes
+
+[akme](https://tonresear.ch/u/akme) October 14, 2024, 5:48pm  3
+
+![:mag:](https://tonresear.ch/images/emoji/twitter/mag.png?v=12 ":mag:") _Sneak Peek!_ ![:mag:](https://tonresear.ch/images/emoji/twitter/mag.png?v=12 ":mag:")
+
+We’re working on a **new progression system** for _Theft Wars_ ! ![:chart_with_upwards_trend:](https://tonresear.ch/images/emoji/twitter/chart_with_upwards_trend.png?v=12 ":chart_with_upwards_trend:") With each steal attempt—successful or not—you’ll inch closer to leveling up. It’s still in the works, but we’re excited to hear what you think [about it](https://t.me/thefthub/12/56)!
+
+  1 Like
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 38174
+
+[TON Research](/)
+
+# [Personal AI Agents Monetizing Data through Fine-Tuning Business AI Agents in TMA](/t/personal-ai-agents-monetizing-data-through-fine-tuning-business-ai-agents-in-tma/38174)
+
+[Application](/c/application/20) 
+
+    
+
+[nezovskii\_bridge23](https://tonresear.ch/u/nezovskii_bridge23)   October 6, 2024, 8:59am  1
+
+[![Banner Bridge23 2048:1152](https://tonresear.ch/uploads/default/optimized/3X/8/5/8527d782cb01ade915f3897b431516eb67ae59a5_2_690x388.png)
+
+Banner Bridge23 2048:11522048×1152 37.3 KB
+
+](https://tonresear.ch/uploads/default/original/3X/8/5/8527d782cb01ade915f3897b431516eb67ae59a5.png "Banner Bridge23 2048:1152")
+
+## [](#p-62236-project-highlights-1)Project Highlights
+
+Bridge23 is a platform that monetizes personal AI agents by training business AI agents using first-party data. Users train their own AI agents on personal data, which can be fine-tuned by businesses for a commission, providing privacy-focused and relevant AI-derived analytics. The platform aims to create a seamless experience for users and businesses alike, ensuring secure, efficient, and meaningful AI interactions.
+
+[![Demo](https://tonresear.ch/uploads/default/optimized/3X/0/5/05038e8d20022ff91ad4553a111133d295142df3_2_690x388.jpeg)
+
+Demo1920×1080 109 KB
+
+](https://tonresear.ch/uploads/default/original/3X/0/5/05038e8d20022ff91ad4553a111133d295142df3.jpeg "Demo")
+
+## [](#p-62236-web3-advantages-2)Web3 Advantages
+
+Unlike traditional Web2 data brokerage models, Bridge23 leverages decentralized Web3 principles to offer users full control over their personal data. By allowing users to train personal AI agents and have businesses fine-tune them for insights, we create a new, transparent data economy. Users are fairly compensated for their data usage, addressing a major flaw in Web2 data models, where users often don’t receive any value from their shared data.
+
+## [](#p-62236-how-its-built-3)How It’s Built
+
+Bridge23 is built using a modular canister architecture on the Internet Computer, featuring:
+
+*   AI Agent Fine-Tuning modules for both user and business AI agents
+*   A real-time exchange rate canister
+*   OCR and text recognition canister
+*   Cross-chain NFT minting and EVM authentication canisters
+*   Separate user canisters to ensure personalized AI training
+*   Data transformation (to vector formats) for AI fine-tuning
+*   Smart Contract for Payments\*\*: A TON-based smart contract is implemented to handle payments between businesses and users. When businesses use user data for AI fine-tuning, the smart contract automates the process of payments, ensuring secure, transparent, and traceable transactions. Payments are processed using fiat (via Stripe integration) or cryptocurrency, converting interactions with data into tangible earnings for users.
+
+## [](#p-62236-go-to-market-strategy-4)Go-To-Market Strategy
+
+Bridge23 will continue its multi-channel growth strategy, including:
+
+*   Partnering with data-driven businesses to create real-world applications for AI agents
+*   Offering incentives like referral programs where users and businesses earn by participating
+*   Launching educational initiatives to teach users how to train their AI agents and monetize data
+*   0% fee for early adopters to encourage more usage
+
+## [](#p-62236-monetization-5)Monetization
+
+*   Commissions on AI agent fine-tuning between users and businesses
+*   Transaction fees on data insights or premium tools for merchants
+
+## [](#p-62236-status-of-the-project-6)Status of the Project
+
+Bridge23 is currently in its MVP stage, with over 5,000 users on the waitlist and more than 1,000 beta 0.10.0 users in TMA.
+
+## [](#p-62236-resources-7)Resources:
+
+[Website](https://bridge23.app/) | [Telegram Mini-Dapp](https://t.me/bridge23bot/bridge23app) | [Telegram Group](https://t.me/bridge23app) | [GitHub](https://github.com/bridge-23) | [X](https://x.com/bridge23app) | [Discord](https://discord.gg/bridge23)
+
+## [](#p-62236-future-plans-8)Future Plans
+
+*   Fine-Tuning User AI Agents: Allow users to fine-tune their personal AI agents for better data monetization.
+*   Fine-Tuning Business AI Agents: Enable businesses to train their AI models for more accurate and personalized insights.
+*   Designing Smart Contracts for Data Usage: Implement smart contracts to manage and track data transactions between user and business AI agents.
+*   Data Transformation to Vectors (Solars, etc.): Introduce more advanced data formats to further enhance AI training capabilities.
+
+Bridge23 is committed to empowering users and transforming the small fine-tuned models as an alternative to giant generic ones. Join us on this journey to revolutionize data ownership and monetization.
+
+  4 Likes
+
+[nezovskii\_bridge23](https://tonresear.ch/u/nezovskii_bridge23) November 5, 2024, 3:51am  2
+
+# [](#p-64798-october-updates-1)October Updates
+
+[![](https://img.youtube.com/vi/2poHSU4IjBY/maxresdefault.jpg "Bridge23 October Application Updates 📱")](https://www.youtube.com/watch?v=2poHSU4IjBY)
+
+  1 Like
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 38214
+
+[TON Research](/)
+
+# [RPC Nodes Management Tools](/t/rpc-nodes-management-tools/38214)
+
+[TON Blockchain](/c/ton-blockchain/build-node/21)  [TON Node](/c/ton-blockchain/build-node/21) 
+
+    
+
+[JoGetBlock](https://tonresear.ch/u/JoGetBlock)   October 9, 2024, 4:21pm  1
+
+[![1](https://tonresear.ch/uploads/default/optimized/3X/e/2/e2cc393440d501448f024e3a025e64dbd492e82d_2_690x388.jpeg)
+
+11200×675 105 KB
+
+](https://tonresear.ch/uploads/default/original/3X/e/2/e2cc393440d501448f024e3a025e64dbd492e82d.jpeg "1")
+
+Hey, TON Community! Today I’d like to tell you how to manage your RPC nodes to get the best performance and the lowest downtimes possible. We will take the GetBlock RPC node provider as an example as they support TON RPC nodes on Mainnet and Testnet. We are gonna learn how they manage their high-speed RPC, and discover some services for node management, handy tools, tips, and tricks
+
+Let’s jump right into it!
+
+#### [](#p-62320-how-getblock-rpc-provider-works-1)How GetBlock - RPC Provider Works
+
+When running an RPC node it’s crucial to be always aware of the consistency and availability of your node. To do so, you have to utilize some robust management and monitoring tools. Here’s an example of the tools GetBlock is using:
+
+*   Prometheus open-source monitoring system
+*   Grafana observability platform; (the latter sources data from the first one.)
+*   The health sidecar
+*   Alertmanager service in Slack
+*   Loadservice
+*   Auto-switching system
+
+Prometheus gathers metrics and databases to display in Grafana. Prometheus is also bonded to Alertmanager service to inform the team in Slack about all events regarding infrastructure status. The health sidecar helps GetBlock monitor the current height and health of the nodes. To get immediate notifications from the monitoring tool GetBlock connected it to the Alertmanager service in Slack. It helps to get the fastest notification if some issue occurs and always double-check when it’s resolved. The health sidecar is also connected to the auto-switching system. So if the block deviation occurs, the unhealthy node is instantly switched to a healthy one. The last but not the least important thing is to keep the node updated to the latest versions. This way GetBlock constantly monitors blockchains’ GitHub repositories and social medias to find out about the upcoming updates first in hand.
+
+All of that helps GetBlock to reach the highest node availability of 99%!
+
+If you don’t wanna experience all the hustles associated with running and maintaining your TON RPC node. You can simply connect to RPC nodes for 50+ blockchains with GetBlock. It’s now even available with 30% OFF for your first shared node subscription.
+
+source: [TON RPC: Free API Endpoints for Connect to Nodes | GetBlock.io](https://getblock.io/nodes/ton/)
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 38228
+
+[TON Research](/)
+
+# [一名web3全栈开发者的简历（英文版）](/t/web3/38228)
+
+[中文 (简繁)](/c/zh/48) 
+
+    
+
+[Hwang](https://tonresear.ch/u/Hwang)  October 10, 2024, 12:56pm  1
+
+今年开发了比较多的telegram小程序（Telegram mini apps），前后端都是我自己负责开发的，特意弄了一个网站记录一下。[https://hwangcn-portfolio.vercel.app/](https://hwangcn-portfolio.vercel.app/)
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 3824
+
+[TON Research](/)
+
+# [TELEGRAM MONK - $TMONK Season 1 Minor League Application](/t/telegram-monk-tmonk-season-1-minor-league-application/3824)
+
+[The Open League](/c/the-open-league/token-leaderboard/57)  [Token Battle](/c/the-open-league/token-leaderboard/57) 
+
+    
+
+[TMONK](https://tonresear.ch/u/TMONK)   April 3, 2024, 8:00am  1
+
+**TELEGRAM MONK**
+
+[![photo_2024-02-16_12-18-27](https://tonresear.ch/uploads/default/optimized/2X/1/1aaa7af7fd3b6c980e56fb4b160ecd89021f6b7d_2_375x375.jpeg)
+
+photo\_2024-02-16\_12-18-271280×1280 39.9 KB
+
+](https://tonresear.ch/uploads/default/original/2X/1/1aaa7af7fd3b6c980e56fb4b160ecd89021f6b7d.jpeg "photo_2024-02-16_12-18-27")
+
+**Please describe your project and token utility**
+
+*   **TICKER:** TMONK
+*   **DEX:** [STON.FI](http://STON.FI)
+*   **CA:** EQBikuxOnMkU4XNSVGQCbg46lk5d8vuhzDQtcDOJOcjaIvkV
+*   **FOUNDING DATE:** 28/01/2024 ![:spiral_calendar:](https://tonresear.ch/images/emoji/twitter/spiral_calendar.png?v=12 ":spiral_calendar:")
+*   **ATH:** $259k
+*   **HOLDERS:** 496
+*   **CONTRACT:** RENOUNCED
+*   **LP:** 100% BURN
+*   **NO PRIVATE SALE**
+*   **NO AIRDROP**
+
+**TMONK** draws inspiration from Pavel Durov’s vision, aiming to pioneer change within the **TON** ecosystem. **TMONK** is more than just a meme. We aim to become the first project dedicated to crowdfunding and donations on the **TON** network.
+
+**CROWDFUNDING**
+
+At the moment, we are developing a dense network of partnerships and collaborations with numerous projects within the **TON ecosystem**, ranging from meme projects to utility projects. We firmly believe that collaboration among projects, mutual support, and cohesion can only benefit the entire TON ecosystem. We provide all our partners with the opportunity to showcase their projects and to receive assistance for any needs directly from us or from our collaborators within our network (development, marketing, graphics, etc.). The **TON network** is unique because projects do not compete or engage in warfare; instead, they collaborate and cooperate to create something innovative together. For this reason, we have placed our focus entirely on this network.
+
+*   [Partnership - TMONK](https://www.tgmonk.org/partnership/)
+*   [Telegram: Contact @CryptoSharingHub](https://t.me/CryptoSharingHub)
+*   [https://twitter.com/TMonkPartners](https://twitter.com/TMonkPartners)
+
+[![photo_2024-03-26_15-46-36](https://tonresear.ch/uploads/default/optimized/2X/7/735ea4b3f898ad79b67592dff94dfacbcf5aa7e0_2_321x250.jpeg)
+
+photo\_2024-03-26\_15-46-361152×896 105 KB
+
+](https://tonresear.ch/uploads/default/original/2X/7/735ea4b3f898ad79b67592dff94dfacbcf5aa7e0.jpeg "photo_2024-03-26_15-46-36")
+
+**CHARITY**
+
+We can make a positive impact in the world beyond the blockchain, thanks to it. We have chosen **TON** and **TELEGRAM** to reach millions of people due to the ease of use, speed, and simplicity of the network. We have already made two donations to **Save The Children**. During the donation process, we noticed the impossibility of using **TON** as a method to make donations. For this reason, we have held several meetings with this foundation to help them implement their service with our beloved **TON network**. We have formed a lifelong partnership with our ambassador, Jeribond.ton, who has worked in the social sector for years and is an influential figure within the **TON ecosystem**.
+
+*   Jeribond.ton Ambassador: [https://twitter.com/0xweb3bond/status/1770822043849683337](https://twitter.com/0xweb3bond/status/1770822043849683337)
+*   First Donation: [https://twitter.com/TMonkOfficial/status/1761701546306191576](https://twitter.com/TMonkOfficial/status/1761701546306191576)
+*   Second Donation: [https://twitter.com/TMonkOfficial/status/1768227354810237432](https://twitter.com/TMonkOfficial/status/1768227354810237432)
+
+**But all of this is just the beginning…**
+
+## [](#please-describe-your-project-roadmap-for-the-next-6-12-months-1)Please describe your project roadmap for the next 6-12 months
+
+The goal for the coming months is clear and well-defined:
+
+*   Increase the number of our collaborations with other projects and influential individuals within the TON ecosystem;
+*   Establish significant partnerships with neutral charitable organizations and foundations worldwide;
+*   Organize large-scale fundraisers for well-defined and public foundations and organizations with the help of all our partners, our incredible community, and our ambassador;
+*   Launch our web app to collect funds on specific wallets of various foundations/ associations/ organizations.
+*   Forge partnerships with artists in various fields to create specific NFT collections to be auctioned, with proceeds fully donated to charity;
+*   Become a point of reference in our field for the entire TON ecosystem;
+*   Launch our merchandise, with proceeds donated to foundations/associations/organizations.
+
+The things listed above are the important matters we are working on, but also getting listed on major platforms is among the things we are and will be doing in the coming months.
+
+## [](#projects-twitter-2)Project’s Twitter
+
+*   [https://twitter.com/TMonkOfficial](https://twitter.com/TMonkOfficial)
+*   [https://twitter.com/TMonkPartners](https://twitter.com/TMonkPartners)
+
+## [](#link-to-the-tokens-page-on-redoubt-andor-dyor-3)Link to the token’s page on re:doubt and/or DYOR
+
+We sent the request today, April 3rd, 2024. We will provide an update as soon as it is available.
+
+## [](#link-to-the-tokens-page-on-coinmarketcap-if-your-token-is-not-listed-there-write-na-4)Link to the token’s page on Coinmarketcap (if your token is not listed there, write n/a)
+
+We submitted the request on April 1st, 2024, request number 884465.
+
+## [](#link-to-the-tokens-page-on-coingecko-if-your-token-is-not-listed-there-write-na-5)Link to the token’s page on Coingecko (if your token is not listed there, write n/a)
+
+We submitted the request on March 11th, 2024. Request ID CL1103240062
+
+## [](#your-name-6)Your name
+
+will be rich $TMONK
+
+## [](#your-telegram-handle-7)Your Telegram handle (@…)
+
+![](https://telegram.org/img/website_icon.svg?4) [Telegram](https://t.me/BossTon2024)
+
+![](https://tonresear.ch/uploads/default/original/2X/d/daffe8e599aaead69aee6f22096e2620738ecf37.jpeg)
+
+### [will be rich $TMONK](https://t.me/BossTon2024)
+
+https://t.me/Tg\_Monk, admin https://t.me/bestcoins\_club, supervisor https://t.me/AthenaMemeHub, admin https://t.me/AthenaDexFi\_en
+
+## [](#any-other-links-or-details-that-you-want-to-share-8)Any other links or details that you want to share
+
+**Official Telegram:** [Telegram: Contact @Tg\_Monk](https://t.me/Tg_Monk)  
+**Patnership Telegram:** [Telegram: Contact @CryptoSharingHub](https://t.me/CryptoSharingHub)  
+**Official Twitter:** [https://twitter.com/TMonkOfficial](https://twitter.com/TMonkOfficial)  
+**Partnership Twitter:** [https://twitter.com/TMonkPartners](https://twitter.com/TMonkPartners)  
+**Ambassador:** [https://twitter.com/0xweb3bond](https://twitter.com/0xweb3bond)  
+**Website:** [https://www.tgmonk.org/](https://www.tgmonk.org/)  
+**Whitepaper V.1:** [Monkpaper - TMONK](https://www.tgmonk.org/monkpaper/)  
+**Medium:** [Telegram Monk – Medium](https://medium.com/@tgmonk)  
+**Email:** [\[email protected\]](/cdn-cgi/l/email-protection#becadbd2dbd9ccdfd3d3d1d0d5fed9d3dfd7d290ddd1d3)
+
+By submitting the form I confirm that the data I provided is correct and I fully understand that in case of the contrary, my project will be permanently eliminated from The Open League.
+
+  13 Likes
+
+[TielloDegen](https://tonresear.ch/u/TielloDegen) April 3, 2024, 9:37am  2
+
+This is how you build something in the space! Facts.
+
+  3 Likes
+
+[Cryptohubz](https://tonresear.ch/u/Cryptohubz) April 3, 2024, 10:47am  3
+
+Best project on TON. TMONK sees a bright future
+
+  1 Like
+
+[M\_S](https://tonresear.ch/u/M_S) April 3, 2024, 10:55am  4
+
+Amazing TMONK, innovation, crowdfunding, charity this project is amazing. Congrats
+
+  2 Likes
+
+[Tmoonkers](https://tonresear.ch/u/Tmoonkers) April 3, 2024, 10:57am  5
+
+Great Project for Ton ecosystem growth
+
+  2 Likes
+
+[Daniele\_Guerri](https://tonresear.ch/u/Daniele_Guerri) April 3, 2024, 11:00am  6
+
+Great $TMONK, crowfounding, charity and meme all in One Coin!!!
+
+  2 Likes
+
+[bananaforscaleton](https://tonresear.ch/u/bananaforscaleton) April 3, 2024, 11:03am  7
+
+$TMONK, the compassionate guardian within the Ton Chain ecosystem, extends a helping hand to guide and empower small-scale projects, fostering their journey towards triumph and accomplishment.
+
+My project BANANA FOR SCALE supports our TMONK friends!
+
+may the monk be with you
+
+banana thanks and good luck
+
+  2 Likes
+
+[Willberich\_Willberic](https://tonresear.ch/u/Willberich_Willberic) April 3, 2024, 8:51pm  8
+
+What we are doing is what wish telegram and tonchain.  
+We want build a really bridge between all the project, where with mutual help, respect and sharing we can help the grew of ton ecosystem.  
+We also think that charity is an aspect very important of our life.  
+And for this we have to do something of real big for who needed.  
+Trust us  
+Crowfunding, charity, and more others are our big deals.  
+Help and trust us to to build all this
+
+  1 Like
+
+[Jakie46](https://tonresear.ch/u/Jakie46) April 3, 2024, 9:05pm  9
+
+Amazing, the best project on ton network. Love charity and crowdfunding
+
+  2 Likes
+
+[Aureum\_Arcanum](https://tonresear.ch/u/Aureum_Arcanum) April 4, 2024, 8:32am  10
+
+Amazing project TMONK i love the charity.
+
+ 
+
+[Crypto\_Raks](https://tonresear.ch/u/Crypto_Raks) April 4, 2024, 9:49am  11
+
+Not Floki Ton support TMonk
+
+ 
+
+[BABYTON](https://tonresear.ch/u/BABYTON) April 4, 2024, 11:44pm  12
+
+I like this project very much!
+
+ 
+
+[Krypto\_Filo](https://tonresear.ch/u/Krypto_Filo) April 5, 2024, 1:23pm  13
+
+Not just a memecoin. A project with purpose.
+
+ 
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) April 12, 2024, 2:08pm  14
+
+Hello TMONK team,
+
+Thank you for taking the time to apply for The Open League Season #1.
+
+After a thorough review, we must inform you that, unfortunately, your product’s traction does not meet our current eligibility criteria. You can find these criteria through this [link](https://tonresear.ch/t/about-the-token-leaderboard-minor-league-category/1274).
+
+Once the criteria are met from your side, please feel free to resubmit your application for the future seasons.
+
+We look forward to seeing your application again in the future.
+
+Thank you!
+
+  1 Like
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 38240
+
+[TON Research](/)
+
+# [TON Research User Level Upgrade Guide](/t/ton-research-user-level-upgrade-guide/38240)
+
+[Announcement](/c/announcement/5) 
+
+    
+
+[TonResearch](https://tonresear.ch/u/TonResearch)  October 11, 2024, 2:48am  1
+
+# [](#p-62370-ton-research-user-level-upgrade-guide-1)TON Research User Level Upgrade Guide
+
+TON Research categorises general user levels into five tiers, ranging from TL0 to TL4. Each level has specific requirements for advancement, and these requirements will be adjusted by the updated user guidelines effective 2024-10-31T16:00:00Z. For detailed information on the updated user guidelines, please refer to the announcement below:
+
+![](https://tonresear.ch/user_avatar/tonresear.ch/tonresearch/48/163_2.png) [TON Research User Guidelines Update Announcement](https://tonresear.ch/t/ton-research-user-guidelines-update-announcement/38242) [Announcement](/c/announcement/5)
+
+> [](#p-62372-ton-research-user-guidelines-update-announcement-1)TON Research User Guidelines Update Announcement TON Research Community Members, To further ensure our forum’s professionalism, legal compliance, and positive atmosphere, we have conducted a comprehensive update to the user guidelines, focusing on prohibited content and enforcement mechanisms. In addition, the forum will soon introduce account verification mechanisms, making it easier for institutions, projects, and KOLs to join and share. Application link: [https://forms.gle/AZ5uz1g6jQ8qpsL…](https://forms.gle/AZ5uz1g6jQ8qpsL49)
+
+The upgrade requirements and permissions for each user level are as follows. Some requirements are marked with “>>” to indicate the updated criteria effective November 1, 2024:
+
+#### [](#p-62370-tl0-permissions-newly-registered-users-2)TL0 Permissions ( Newly Registered Users )
+
+*   Basic account functions such as replying to posts and liking content
+
+#### [](#p-62370-tl0-to-tl1-upgrade-requirements-3)TL0 to TL1 Upgrade Requirements:
+
+*   Requires topics entered: 10 >> 15 topics
+*   Requires read posts: 30 >> 50 posts
+*   Requires time spent: 30 >> 45 mins
+
+#### [](#p-62370-tl1-permissions-basic-users-4)TL1 Permissions ( Basic Users )
+
+*   Flagging posts allowed: Mark and report inappropriate content within the forum
+*   Posting links allowed: Promotional links are prohibited, and all links must comply with AI review policies
+*   Editing posts allowed: Modify and update personal posts
+*   Profile & user card background customisation: Customize the account profile display and user card
+
+#### [](#p-62370-tl1-to-tl2-upgrade-requirements-5)TL1 to TL2 Upgrade Requirements:
+
+*   Requires topics entered: 50 >> 75 topics
+*   Requires read posts: 100 >> 200 posts
+*   Requires time spent mins: 180 mins
+*   Requires days visited: 15 >> 23 days
+*   Requires likes received: 5 >> 15 likes
+*   Requires likes given: 10 >> 50 likes
+*   Requires topic reply count: 10 >> 20 topics
+
+#### [](#p-62370-tl2-permissions-regular-users-6)TL2 Permissions ( Regular Users )
+
+*   Creating & editing topics allowed: Start discussions and engage in topics of interest
+*   Editing wiki posts allowed: Collaborate with moderators to manage and update wiki content
+*   Embedded media allowed: Add media to your posts to make them more engaging
+
+#### [](#p-62370-tl2-to-tl3-upgrade-requirements-7)TL2 to TL3 Upgrade Requirements:
+
+*   Prerequisites: Must have viewed 200 topics and read 500 posts after account creation
+*   Within 365 days, users must meet the following criteria to upgrade to TL3:
+    *   Requires topics viewed: 25% topics ( max 100 topics )
+    *   Requires posts read: 25% posts ( max 500 posts )
+    *   Requires days visited: 90 days
+    *   Requires likes received: 20 >> 25 likes
+    *   Requires likes given: 30 >> 50 likes
+    *   Requires topics replied: 30 topics
+    *   Requires max flagged: 100 >> 60 flagged
+    *   Promotion duration: minimal 30 days
+
+#### [](#p-62370-tl3-permissions-active-users-highest-level-achievable-by-users-8)TL3 Permissions ( Active Users | Highest Level Achievable by Users )
+
+*   Self-wiki creation allowed: Apply to create and manage wikis on topics of community interest
+*   Editing all topics allowed: Obtain the right to help maintain forum order and manage all content
+
+#### [](#p-62370-tl4-forum-administrators-9)TL4 (Forum Administrators )
+
+*   Reserved for Internal Personnel
+
+Thank you for taking the time to read through the TON Research User Level Upgrade Guide. Please ensure you adjust your activities accordingly before the new rules take effect and stay active to meet the respective requirements. If you have any questions or need further assistance, feel free to reach out to our management team. Let’s work together to build a better community environment!
+
+Regards,  
+_The TON Research Team_
+
+* * *
+
+Related Announcement Links:
+
+![](https://tonresear.ch/user_avatar/tonresear.ch/tonresearch/48/163_2.png) [TON Research Verification Guide and Details](https://tonresear.ch/t/ton-research-verification-guide-and-details/38241) [Announcement](/c/announcement/5)
+
+> [](#p-62371-ton-research-verification-guide-and-details-1)TON Research Verification Guide and Details To enhance the forum’s professionalism and credibility, we ensure the authenticity and reliability of information by implementing different types of account verification mechanisms. Verified accounts will have exclusive identifiers and privileges, making it easier for users to recognise and interact with them. Application link: [https://forms.gle/AZ5uz1g6jQ8qpsL49](https://forms.gle/AZ5uz1g6jQ8qpsL49) [](#p-62371-h-1-categories-for-account-verification-2)1\. Categories for Account Verification Institutional Account: Refers to accounts of leg…
+
+  1 Like
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 38241
+
+[TON Research](/)
+
+# [TON Research Verification Guide and Details](/t/ton-research-verification-guide-and-details/38241)
+
+[Announcement](/c/announcement/5) 
+
+    
+
+[TonResearch](https://tonresear.ch/u/TonResearch)  October 11, 2024, 2:54am  1
+
+# [](#p-62371-ton-research-verification-guide-and-details-1)TON Research Verification Guide and Details
+
+To enhance the forum’s professionalism and credibility, we ensure the authenticity and reliability of information by implementing different types of account verification mechanisms. Verified accounts will have exclusive identifiers and privileges, making it easier for users to recognise and interact with them.
+
+Application link: [https://forms.gle/AZ5uz1g6jQ8qpsL49](https://forms.gle/AZ5uz1g6jQ8qpsL49)
+
+## [](#p-62371-h-1-categories-for-account-verification-2)1\. Categories for Account Verification
+
+*   Institutional Account: Refers to accounts of legally registered companies, organisations, institutions, and other such entities
+*   Project Account: Official account of any project or product based on the TON ecosystem
+*   KOL Account: Personal account of individuals with influence and expertise in the cryptocurrency industry
+
+## [](#p-62371-h-2-verification-process-3)2\. Verification Process
+
+*   Select the appropriate verification category, complete the verification application form as required, and upload the necessary documents.
+*   Once successfully verified, your account will display the corresponding verification badge.
+
+## [](#p-62371-h-3-application-materials-preparation-4)3\. Application Materials Preparation
+
+*   Institution
+    *   Proof of business license or legal registration documents of the institution
+    *   Contact Information: Point of contact, email, Telegram account
+*   Project
+    *   Project establishment proof (e.g., project GitHub, Telegram BOT, etc.)
+    *   Project-related links: Including promotional channels, project website, team member introductions, etc.
+    *   Contact Information: Point of contact, email, Telegram account
+*   KOL
+    *   Proof of influence: Media coverage, media platform accounts, number of followers, etc.
+    *   Contact Information: Point of contact, email, Telegram account
+
+## [](#p-62371-h-4-verified-account-management-regulations-5)4\. Verified Account Management Regulations
+
+*   All submitted documents must be authentic and valid. If any falsification is detected, the verification status will be revoked.
+*   Verified accounts must comply with the forum’s community guidelines, and posted content must not violate the [< TON Research User Guidelines >](https://tonresear.ch/t/ton-research-user-guidelines-update-announcement/38242).
+*   Any changes in the verified account information should be promptly and proactively updated to ensure accuracy.
+*   Safeguard your account login credentials to prevent security issues due to leakage.
+
+Thank you for your support and trust in the forum. We look forward to your active participation and contribution in building a secure, professional, and engaging community for all users. If you have any questions during the verification process, please don’t hesitate to reach out to our support team.
+
+Regards,  
+_The TON Research Team_
+
+* * *
+
+Related Announcement Links:
+
+![](https://tonresear.ch/user_avatar/tonresear.ch/tonresearch/48/163_2.png) [TON Research User Guidelines Update Announcement](https://tonresear.ch/t/ton-research-user-guidelines-update-announcement/38242) [Announcement](/c/announcement/5)
+
+> [](#p-62372-ton-research-user-guidelines-update-announcement-1)TON Research User Guidelines Update Announcement TON Research Community Members, To further ensure our forum’s professionalism, legal compliance, and positive atmosphere, we have conducted a comprehensive update to the user guidelines, focusing on prohibited content and enforcement mechanisms. In addition, the forum will soon introduce account verification mechanisms, making it easier for institutions, projects, and KOLs to join and share. Application link: [https://forms.gle/AZ5uz1g6jQ8qpsL…](https://forms.gle/AZ5uz1g6jQ8qpsL49)
+
+![](https://tonresear.ch/user_avatar/tonresear.ch/tonresearch/48/163_2.png) [TON Research User Level Upgrade Guide](https://tonresear.ch/t/ton-research-user-level-upgrade-guide/38240) [Announcement](/c/announcement/5)
+
+> [](#p-62370-ton-research-user-level-upgrade-guide-1)TON Research User Level Upgrade Guide TON Research categorises general user levels into five tiers, ranging from TL0 to TL4. Each level has specific requirements for advancement, and these requirements will be adjusted by the updated user guidelines effective 2024-10-31T16:00:00Z (UTC). For detailed information on the updated user guidelines, please refer to the announcement below: The upgrade requirements and permissions for each user level are as follows. Some requirements are marked with “>…
+
+  2 Likes
+
+[TON Research User Guidelines Update Announcement](https://tonresear.ch/t/ton-research-user-guidelines-update-announcement/38242) 
+
+[TON Research User Level Upgrade Guide](https://tonresear.ch/t/ton-research-user-level-upgrade-guide/38240) 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 38242
+
+[TON Research](/)
+
+# [TON Research User Guidelines Update Announcement](/t/ton-research-user-guidelines-update-announcement/38242)
+
+[Announcement](/c/announcement/5) 
+
+    
+
+[TonResearch](https://tonresear.ch/u/TonResearch)  October 11, 2024, 2:57am  1
+
+# [](#p-62372-ton-research-user-guidelines-update-announcement-1)TON Research User Guidelines Update Announcement
+
+TON Research Community Members,
+
+To further ensure our forum’s professionalism, legal compliance, and positive atmosphere, we have conducted a comprehensive update to the user guidelines, focusing on prohibited content and enforcement mechanisms.
+
+In addition, the forum will soon introduce account verification mechanisms, making it easier for institutions, projects, and KOLs to join and share.
+
+![](https://tonresear.ch/user_avatar/tonresear.ch/tonresearch/48/163_2.png) [TON Research Verification Guide and Details](https://tonresear.ch/t/ton-research-verification-guide-and-details/38241) [Announcement](/c/announcement/5)
+
+> [](#p-62371-ton-research-verification-guide-and-details-1)TON Research Verification Guide and Details To enhance the forum’s professionalism and credibility, we ensure the authenticity and reliability of information by implementing different types of account verification mechanisms. Verified accounts will have exclusive identifiers and privileges, making it easier for users to recognise and interact with them. Application link: [https://forms.gle/AZ5uz1g6jQ8qpsL49](https://forms.gle/AZ5uz1g6jQ8qpsL49) [](#p-62371-h-1-categories-for-account-verification-2)1\. Categories for Account Verification Institutional Account: Refers to accounts of leg…
+
+Application link: [https://forms.gle/AZ5uz1g6jQ8qpsL49](https://forms.gle/AZ5uz1g6jQ8qpsL49)
+
+These measures will take effect on 2024-10-31T16:00:00Z when TON Research will be upgraded following the published guidelines. Please be advised!
+
+Prohibited Content Overview
+
+To maintain the legality and security of the community, the following content is strictly prohibited in the forum:
+
+### [](#p-62372-h-1-illegal-content-2)1\. Illegal Content
+
+*   Unlawful Activities: This includes, but is not limited to, fraud, money laundering, terrorism financing, illegal trading (e.g., drugs, weapons), identity theft, and more.
+*   Infringing Content: Unauthorized sharing of content that violates intellectual property rights, such as copyrighted material, trademarks, or patents.
+*   Privacy Violations: Sharing others’ personal information without permission, including names, addresses, contact details, ID numbers, etc.
+
+### [](#p-62372-h-2-false-or-misleading-information-3)2\. False or Misleading Information
+
+*   False Information: Sharing any false, inaccurate, or unverified information, especially in market analysis, investment advice, and project promotion articles.
+*   Deceptive Marketing: Content designed to mislead users, such as exaggerating project potential, presenting false financial projections, or claiming fictitious partnerships.
+*   Phishing and Scams: Posting phishing links, fraudulent information, or any content intended to steal sensitive user information.
+
+### [](#p-62372-h-3-malicious-activities-4)3\. Malicious Activities
+
+*   Personal Attacks: Including insults, hate speech, defamatory statements, and any discriminatory remarks based on race, gender, religion, nationality, or sexual orientation.
+*   Spam: Repeatedly posting irrelevant or meaningless content, excessive advertisements, or misusing tags to disrupt forum discussions.
+*   Disruptive Behavior: Any attempt to compromise forum functionality or disrupt normal operations, such as spreading malware, viruses, or launching DDoS attacks.
+
+### [](#p-62372-h-4-unauthorized-or-illegal-financial-practices-5)4\. Unauthorized or Illegal Financial Practices
+
+*   Unauthorized ICOs/Token Sales: Sharing information about unauthorized ICOs, tokenized securities, or other token sales.
+*   Unlicensed Financial Advice: Investment advice or market analysis from non-professionals, especially when risks are not properly disclosed.
+*   Pyramid Schemes: Promoting Ponzi schemes, pyramid schemes, or other high-risk investment projects.
+
+### [](#p-62372-h-5-inappropriate-promotional-material-6)5\. Inappropriate Promotional Material
+
+*   Low-Quality or Irrelevant Promotions: Promoting low-quality content or content unrelated to the TON ecosystem without relevant support.
+*   Unlabeled Advertisements: Any commercial content that is not clearly marked as “Promotion” or “Advertisement.”
+*   Undisclosed Conflicts of Interest: Promotional content that fails to disclose the promoter’s affiliation with the project, potentially misleading users.
+*   External Links for Promotions: To safeguard user assets and prevent unauthorized actions, any promotional links not posted by the official project entity will be prohibited.
+
+### [](#p-62372-h-6-community-spirit-violations-7)6\. Community Spirit Violations
+
+*   Duplicate Posts: Posting the same content across multiple sections, disrupting other users’ experience.
+*   Impersonation: Pretending to be another person, organisation, or entity to mislead community members.
+*   Malicious Reporting: Abusing the reporting system to falsely report others’ content, either to disrupt their usage or as a form of retaliation.
+
+## [](#p-62372-enforcement-measures-8)Enforcement Measures
+
+We will implement the following measures for prohibited content violations:
+
+*   Content Removal: Prohibited content will be promptly removed without notification.
+*   Account Penalties: Depending on the severity, actions such as warnings, temporary suspensions, or permanent bans may be imposed on violators.
+*   Legal Action: For illegal activities, we will cooperate with legal authorities for investigation and prosecution to ensure compliance and community safety.
+
+## [](#p-62372-final-declaration-9)Final Declaration
+
+We kindly request all users to carefully read and strictly adhere to these new rules to contribute to the healthy development of our community. Thank you for your continued support and participation in TON Research!
+
+Regards,  
+_The TON Research Team_
+
+* * *
+
+Related Announcement Links:
+
+![](https://tonresear.ch/user_avatar/tonresear.ch/tonresearch/48/163_2.png) [TON Research User Level Upgrade Guide](https://tonresear.ch/t/ton-research-user-level-upgrade-guide/38240) [Announcement](/c/announcement/5)
+
+> [](#p-62370-ton-research-user-level-upgrade-guide-1)TON Research User Level Upgrade Guide TON Research categorises general user levels into five tiers, ranging from TL0 to TL4. Each level has specific requirements for advancement, and these requirements will be adjusted by the updated user guidelines effective 2024-10-31T16:00:00Z (UTC). For detailed information on the updated user guidelines, please refer to the announcement below: The upgrade requirements and permissions for each user level are as follows. Some requirements are marked with “>…
+
+  4 Likes
+
+[TON Research User Level Upgrade Guide](https://tonresear.ch/t/ton-research-user-level-upgrade-guide/38240) 
+
+[nezovskii\_bridge23](https://tonresear.ch/u/nezovskii_bridge23) October 11, 2024, 6:44am  2
+
+So helpfull update for security, thank you
+
+  2 Likes
+
+[user2740](https://tonresear.ch/u/user2740) December 23, 2024, 3:33am  3
+
+با تشکر از حمایت شما
+
+  1 Like
+
+[Esteemedhuman](https://tonresear.ch/u/Esteemedhuman) February 10, 2025, 11:35am  4
+
+Level 2 here I come ![:face_holding_back_tears:](https://tonresear.ch/images/emoji/twitter/face_holding_back_tears.png?v=12 ":face_holding_back_tears:")
+
+  1 Like
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 38250
+
+[TON Research](/)
+
+# [The Legacy of Yume the Shiba Inu of $TON](/t/the-legacy-of-yume-the-shiba-inu-of-ton/38250)
+
+[Application](/c/application/jetton/26)  [Jetton](/c/application/jetton/26) 
+
+    
+
+[SolanaEmperor](https://tonresear.ch/u/SolanaEmperor)  October 11, 2024, 11:50am  1
+
+**Meet $YUME on The Open Network ![:dog:](https://tonresear.ch/images/emoji/twitter/dog.png?v=12 ":dog:")![:gem:](https://tonresear.ch/images/emoji/twitter/gem.png?v=12 ":gem:")** 
+
+In July 2012, Yume, a 3-month-old female Akita puppy, was sent from Tokyo, Japan to Moscow as a gesture of gratitude from Akita Prefecture for Russia’s aid after the 2011 Tōhoku earthquake and tsunami. The puppy’s name, Yume, translates to “dream” in Japanese. (launched on ![:fuelpump:](https://tonresear.ch/images/emoji/twitter/fuelpump.png?v=12 ":fuelpump:") GasPump)
+
+**$YUME Official links ![:link:](https://tonresear.ch/images/emoji/twitter/link.png?v=12 ":link:")** 
+
+*   Website: [https://www.yumeonton.com/](https://www.yumeonton.com/)
+*   Telegram: [Telegram: Contact @YumeOnTon](https://t.me/YumeOnTon)
+*   Stickers: [Telegram: Add Sticker Set](https://t.me/addstickers/YumeOnTelegram_by_MoiStikiBot)
+*   Twitter: [x.com](https://x.com/YumeOnTon)
+*   Game Channel: [Telegram: Contact @YumeCasino](https://t.me/YumeCasino)
+*   Dex: [DeDust.io — AMM DEX on The Open Network](https://dedust.io/swap/TON/EQA0tQ880E68-ZGsugW3kjm5hk_5hUAWTdVggFlJmqqVQgCm)
+*   Contract address: EQA0tQ880E68-ZGsugW3kjm5hk\_5hUAWTdVggFlJmqqVQgCm
+
+**$YUME Utility ![:hugs:](https://tonresear.ch/images/emoji/twitter/hugs.png?v=12 ":hugs:")** 
+
+Yume is building unique game bot with PvP character and solo adventure aswell! Mini-app built on telegram will bring gaming experience to completely another level! Alongside gaming experience users will be available to promote their projects via bot and use marketing options that bot provides. Game bot will be next place where you will be available to earn bunch of $TON even when market is red!
+
+Besides that our community will split revenue and earn passive income by holding $Yume inside of their wallets. Link for more info: [Telegram](http://t.me/c/2073549436/82328)
+
+No bad days with Yume’s Casino ![:point_right:](https://tonresear.ch/images/emoji/twitter/point_right.png?v=12 ":point_right:")[Telegram: Contact @YumeCasino](http://t.me/YumeCasino)
+
+**$YUME NFTs ![:art:](https://tonresear.ch/images/emoji/twitter/art.png?v=12 ":art:")** 
+
+A unique collection for our community and holders that will be soon available to buy on getgemsdotio.
+
+Only the true $YUME believers will be eligible for the first round of NFTs.
+
+Soon Yume will be PFP on every X account representing $TON blockchain.
+
+Besides utility, meme culture and awesome community Yume is throwing focus on NFTs making it all-around project!
+
+**$YUME Memes ![:joy:](https://tonresear.ch/images/emoji/twitter/joy.png?v=12 ":joy:")** 
+
+As a powerhouse of meme culture on $TON, Yume strives to bring all trending, viral, unique memes thru 2D, hand-drawn art daily delivered by our team of talented artists. The memes will be delivered regarding conditions, volume, attention of blockchain cause the main goal is that $YUME’s face appears in every chat on Telegram and Twitter.
+
+Make sure to follow YumeOnTon on X for all fresh memes.
+
+**$YUME Community ![:globe_with_meridians:](https://tonresear.ch/images/emoji/twitter/globe_with_meridians.png?v=12 ":globe_with_meridians:")** 
+
+We are numbering more then thousands of members/followers across Twitter and Telegram platforms. 500+ unique holders with plenty of space growing those numbers in future. Community proved themselves as one of the most loyal members in space, constantly raiding, believing, supporting and having conviction when it comes to $YUME vision and future.
+
+Community > anything else
+
+**$YUME Marketing ![:dollar:](https://tonresear.ch/images/emoji/twitter/dollar.png?v=12 ":dollar:")** 
+
+Marketing strategy that we are executing vary from international reach (NYC Times Square bilboard), sports sponsor, twitter ads and promos, to crypto discovery website ads, telegram trendings and ‘‘calls’’ to partnering with future multimillion market cap tokens on $TON.
+
+Our main goal is to introduce $YUME to as bigger audience as possible thru reliable KOLs and referrals.
+
+Our Game bot will be $YUME’s ultimate tool for marketing and bigger reach once it is launched(coming soon).
+
+Question ‘‘wen,wen,wen?’’ is answered instantly everytime.
+
+**$YUME Future ![:crystal_ball:](https://tonresear.ch/images/emoji/twitter/crystal_ball.png?v=12 ":crystal_ball:")** 
+
+After reading all about Yume it is time to speak about future plans!
+
+What are we ‘‘cooking’’?
+
+*   Meme powerhouse aka $SHIB of $TON
+*   Unique NFT collection
+*   Utility that will benefit for holders and supporters
+*   Central Exchange listing so we have our respective USDT pair and reaching out centralised market(confirmed)
+*   Integration inside of Payment providers putting $YUME in a place of official payment currency
+*   Mass onboarding process of new Ton Blockchain users
+*   Donations and humanitarian movement by $YUME
+*   Once Game bot is launched and fully functional we will start building Webapp and continue on contributing to Web3 World on $TON $YUME is for everyone!
+
+**$YUME Staking ![:crystal_ball:](https://tonresear.ch/images/emoji/twitter/crystal_ball.png?v=12 ":crystal_ball:")** 
+
+We are introducing our staking pool which is made on JVault\_app staking platform. We made couple of staking groups so we stay flexible with everyone! Easiest way to earn more YUME tokens while holding your bags. Right now we set 150$ in rewards worth of $YUME. After first rewards program we will introduce rewards in $YUME, $TON and other tokens on Ton Blockchain !
+
+Yume’s Staking Pool: [JVault Staking v2](https://jvault.xyz/staking/v2/stake/YUME)
+
+Your name: Engue  
+Your Telegram handle: [Telegram: Contact @drole](http://t.me/drole)  
+Twitter: [x.com](http://x.com/Solana_Emperor)
+
+*   Total supply: 983,895,583 $YUME Tokens
+    
+*   Link to the token’s page on re:doubt and/or DYOR: [YUMETON - YUME to TON Price, TON Blockchain Analysis | DYOR.io](https://dyor.io/token/EQA0tQ880E68-ZGsugW3kjm5hk_5hUAWTdVggFlJmqqVQgCm)
+    
+*   Link to the token’s page on Geckoterminal: [YUME/TON - Vladimir Putin's Dog Cours sur DeDust avec Frais de 0.25% | GeckoTerminal](https://www.geckoterminal.com/fr/ton/pools/EQAWIyEz23_IW40XTKeQylOTrGKTgg99476TH1g4hHlk-B79)
+    
+*   Link to the token’s page on Coinmarketcap (if your token is not listed there, write n/a): NA
+    
+*   Link to the token’s page on Coingecko (if your token is not listed there, write n/a): NA
+    
+*   Please provide your token’s smart contract address for tracking during The Open League Season 5: EQA0tQ880E68-ZGsugW3kjm5hk\_5hUAWTdVggFlJmqqVQgCm
+    
+*   Do you consider your token a memecoin so that the ‘meme’ label can be added next to your ticker in the leaderboard if your application is approved?: Yes, Yume is a Meme token!
+    
+*   By submitting this application, I undertake to fully abide by The Open League Rules of Conduct. I understand that in case of the violation of those my team will be immediately excluded from the competition. Link: [Notion – The all-in-one workspace for your notes, tasks, wikis, and databases. 3  
+    ](https://ton-org.notion.site/The-Open-League-Rules-of-Conduct-04f4a0fedf1a401687075f5efd83de68)
+    
+*   By submitting the form I confirm that the data I provided is correct and I fully understand that in case of the contrary, my project will be permanently eliminated from The Open League.
+    
+
+  7 Likes
+
+[Niqht](https://tonresear.ch/u/Niqht) October 14, 2024, 8:06pm  2
+
+I have to say $YUME has a bright future!
+
+We are forming a beautiful family and we work together through ups and downs ![:handshake:t3:](https://tonresear.ch/images/emoji/twitter/handshake/3.png?v=12 ":handshake:t3:")
+
+We are constantly working on something new and we try to improve in every aspect there is
+
+I‘m really glad I came across $YUME and I can‘t wait to see what the future brings us! ![:dog:](https://tonresear.ch/images/emoji/twitter/dog.png?v=12 ":dog:")![:orange_heart:](https://tonresear.ch/images/emoji/twitter/orange_heart.png?v=12 ":orange_heart:")
+
+  2 Likes
+
+[nkolomiika](https://tonresear.ch/u/nkolomiika) October 14, 2024, 8:13pm  3
+
+I am a $YUME holder and I can say for sure that the community here is simply incredible. I have never met people in any token who support the project as much as here.
+
+$YUME is the next shibu on ton​:rocket:![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:")![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:")
+
+  3 Likes
+
+[mikey100x](https://tonresear.ch/u/mikey100x) October 14, 2024, 9:08pm  4
+
+Proud $YUME holder and supporter. The quality of memes , utility that has been made and still coming, community and holders conviction is something that every billion market cap tokens have. The small volume on chain or no focus on memes right now never stopped $YUME from building!
+
+It never will stop delivering.
+
+  2 Likes
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 38252
+
+[TON Research](/)
+
+# [TON Memecoin Working Group Monthly Progress Report](/t/ton-memecoin-working-group-monthly-progress-report/38252)
+
+[TON Memelandia](/c/ton-memelandia/85) 
+
+    
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport)  October 11, 2024, 1:53pm  1
+
+**\[September, 2024\]**
+
+**1\. Overview:**
+
+Memecoin Working Groups have made significant strides in September, laying the foundation for major upcoming events and initiatives. The team have focused on expanding the memecoin narrative, engaging the community, and preparing for exciting launches in the coming months.
+
+**2\. Achievements for the Month:**
+
+**Memelandia Working Group - September Highlights**
+
+• **Event Participation:**
+
+TON Memecoin Working Group kicked off September by attending an in-person event in Singapore, where five Memecoins—Redo, Mittens, Durev, TON Fish, and Plane—were showcased. Key builders and supporters attended, with [Ston.Fi](http://Ston.Fi)’s Martin Masser hosting the TON Memelandia Panel. Top KOLs like Jana and Viktor also showed support, while Alena and Vlad delivered a compelling talk on why TON Memecoins are set to be the next big trend.
+
+• **Community Engagement:**
+
+The Working Group ramped up community engagement with weekly discussions and groups on Telegram, creating spaces for Memecoin enthusiasts, builders, and KOLs to collaborate and strategize. This engagement is fueling the excitement for the upcoming TON Takeover!
+
+• **Memelandia League Preparation:**
+
+Significant progress was made toward the launch of the TON Memelandia League, which will feature MemeCoins competing across three realms: Memecoin Mountain, Launchpad Lair, and Cabal Arena. The team has been developing metrics, rewards, and designs for a successful launch.
+
+• **New Reward Systems:**
+
+The group has developed new types of rewards to support Memecoins on TON, covering various verticals such as marketing and more. These rewards are designed to motivate projects and create momentum in the ecosystem.
+
+• **Methodology Overhaul:**
+
+The team completely redesigned the methodology for Meme Mountain contests, making the competition structure more effective and engaging.
+
+• **Backend Development:**
+
+Backend systems were developed for both Cabal Arena and Meme Mountain, laying the groundwork for key upcoming initiatives.
+
+• **Cabal Arena Innovation:**
+
+The Cabal Arena project was conceptualized and its development began, including both the website and backend. This new addition will bring fresh dynamics to the MemeCoin ecosystem.
+
+• **Partnerships and Integrations:**
+
+New partnerships were established with Moni Score, encouraging Memecoin projects to enhance their Twitter presence and engage Western audiences. Additionally, the team held discussions with market makers, info bots, and influencers to promote the upcoming contests.
+
+• **Ecosystem Expansion:**
+
+The team initiated conversations with Bubblemaps and Moonshot to broaden the ecosystem’s capabilities, including the possibility of Apple Pay being used for Memecoin purchases.
+
+**3\. Challenges Faced:**
+
+• **Complex Contest Structures:**
+
+Balancing the complexity of the Memecoin Mountain and Cabal Arena while ensuring user engagement has been a key challenge. However, backend development is progressing well to address these needs.
+
+• **Partnership Integration:**
+
+Finalizing partnerships and integrating them into the ecosystem, especially with new technologies like Apple Pay, requires coordination and time.
+
+**4\. Plans for Next Month:**
+
+• **Memelandia League Launch:**
+
+The highly anticipated launch of the Memelandia League is set for mid-October. MemeCoins will find a permanent home as the competition kicks off, promising exciting battles across the Memelandia realms.
+
+• **Global Expansion:**
+
+After Singapore, Memecoins are heading to Dubai for the TON Gateway event, followed by MEMECON in Bangkok, marking their expansion into the Middle East and Asia.
+
+• **Lore Development and Community Engagement:**
+
+The group will continue to develop the Lore of Memelandia through more Twitter Spaces, inviting founders and OGs to share their inspiring journeys.
+
+• **Contest Launches:**
+
+Both Cabal Arena and Meme Mountain contests will officially launch next month, with an expected total trading volume of around $500 million, which will significantly boost the TON DeFi ecosystem.
+
+• **Developer Experience Enhancement:**
+
+Collaborations with [kapa.ai](http://kapa.ai) and [mintlify.com](http://mintlify.com) are in the works to improve the developer experience for those working with TON documentation.
+
+• **Partnership Follow-Up:**
+
+The team will solidify ongoing conversations and partnerships, including expanding the influencer network and info bot collaborations to maximize the visibility and participation in contests.
+
+Get ready for the launch of the Memelandia League and upcoming contests! Join the conversation, support your favorite Memecoins, and participate in the exciting events planned for the coming months!
+
+  1 Like
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 38260
+
+[TON Research](/)
+
+# [Introducing TON Restaking: The UTONIC Approach](/t/introducing-ton-restaking-the-utonic-approach/38260)
+
+[Application](/c/application/20) 
+
+    
+
+[UTONIC](https://tonresear.ch/u/UTONIC)  October 12, 2024, 10:45am  1
+
+We plan to implement the UTONIC protocol, which will be the first restaking protocol on the TON network. Similar to how EigenLayer introduced restaking to the Ethereum ecosystem — currently securing 5% of the total ETH supply to protect various applications on Ethereum — UTONIC will bring restaking to the TON ecosystem. This will enhance the security of the growing number of applications on TON, increase the value and yield of TON assets, and encourage more TON holders to participate in staking.
+
+TLDR
+
+*   UTONIC is the first restaking solution on the TON network, modeled after Ethereum’s EigenLayer.
+*   Restaking enhances security and scalability by allowing staked assets to secure multiple decentralized applications. It also increases use cases and yields for TON, concentrating value towards the TON token.
+*   UTONIC supports both native TON staking pools/nodes and Liquid Staking TON to participate in restaking. The native restaking is based on the Nominator Pool staking.
+*   The UTONIC architecture consists of several key components: Stakers, Vaults, Restaking Module, Operators, Actively Validated Services (AVS).
+*   UTONIC provides a naive LRT solution, uTON. Users can mint uTON using Native TON or LST and utilize UTONIC’s restaking services.
+*   UTONIC Stage 1 \[Pre-restaking\] is going to launch, with TON restaked to provide AVS testnet service before slash modular works.
+
+# [](#p-62404-background-1)Background
+
+Restaking allows staked assets to be used for securing multiple networks or protocols simultaneously. Restaking enables the same tokens to be utilized across multiple layers, increasing the utility and potential returns for token holders. This method also enhances security and decentralization by allowing stakers to support various applications without needing to acquire additional assets.
+
+Restaking was first introduced into the Ethereum ecosystem by EigenLayer, a pioneering restaking project on the Ethereum network. It leverages staked ETH to secure and protect additional dApps and protocols built on Ethereum. As of now, EigenLayer has managed to lock up 5% of the total ETH supply (4.7 million ETH, $12B TVL), supporting more than 17 Actively Validated Services (AVS).
+
+Following the emergence of EigenLayer, restaking has become one of the hottest topics in the industry. Beyond Ethereum, other networks like Solana and BNB Chain have begun developing their own restaking protocols. For instance, Solayer handles restaking on Solana, while BinLayer does so on BNB Chain. Currently, however, there is no restaking protocol available on the TON network.
+
+Blockchain Network
+
+Restaking Protocol
+
+Ethereum
+
+EigenLayer/Symbiotic/Karak
+
+Bitcoin
+
+Babylon/Satlayer/Pell
+
+Solana
+
+Solayer
+
+BNB Chain
+
+BinLayer
+
+TON
+
+UTONIC is coming
+
+# [](#p-62404-why-is-ton-restaking-important-2)Why is TON Restaking Important?
+
+The Open Network (TON) is a decentralized and open internet platform focusing on achieving mass adoption while operating in a highly scalable secure framework. TON has now become one of the top ten public blockchains by market capital.
+
+TON restaking is crucial as it enhances the security and scalability of the TON ecosystem by allowing existing staked assets and methods to be used in securing additional decentralized applications and services, where many of them will choose hybrid on-chain and off-chain structure to serve reaching hundreds of millions of users moving forward. This approach leverages the network’s existing validators, creating a more robust, flexible and economically-efficient infrastructure without the need for new resources.
+
+Restaking Benefits:
+
+1.  For TON Ecosystem: The network structure of TON Layer 1 is well-suited for certain applications, but there are also scenarios where it may not be the best fit, like where it needs atomic transactions and synchronicity. In these cases, Layer 2 solutions and Bridges are often required to meet the development and usage needs of such applications. TON Restaking can enhance the security of these Layer 2 solutions and Bridges, thus fostering the growth of the TON ecosystem.
+2.  For TON Applications: New applications can build on a robust security foundation provided by TON restaking, thus encouraging innovation and leading to broader adoption within the ecosystem.
+3.  For TON Holders: TON will have more use cases, resulting in greater yields for staking. Applications will rely on TON for security rather than issuing new assets, leading to a concentration of value towards the TON token.
+
+# [](#p-62404-staking-methods-3)Staking Methods
+
+Users can participate in TON restaking through several two methods, including Native Restaking and LST Restaking.
+
+## [](#p-62404-native-restaking-based-on-single-nominator-pool-4)Native Restaking: Based on (Single) Nominator Pool
+
+There are currently several ways to participate in TON staking, which can generally be categorized into two types:
+
+1.  Using a Hot Wallet for Staking: This method is less secure because the wallet holding the funds needs to be kept on the validator node, making it vulnerable to hacking.
+2.  Using a (Single) Nominator Pool for Staking: This approach allows users to separate the wallet holding the funds from the validator wallet, enabling secure participation in staking.
+
+The (Single) Nominator Pool is an excellent smart contract design that greatly enhances the security of TON staking. More importantly, it is a smart contract that can be further improved, giving us the flexibility to build on it and implement the restaking functionality.
+
+UTONIC smart contracts will delegate the staked TON to the established (Single) Nominator Pool for participation in TON staking, while also opting into the restaking modules built on UTONIC. A key function of the UTONIC smart contracts is to act as the owner, fund provider, and fund withdrawer for the (Single) Nominator Pool. If a staker who has restaked on UTONIC is proven to have behaved adversarially while participating in an AVS, then that staker’s TON will be withdrawn from the Nominator Pool and be slashed according to the on-chain slashing contract of the AVS.
+
+## [](#p-62404-lst-restaking-5)LST Restaking
+
+In addition to supporting native TON tokens for restaking through an upgraded Nominator Pool, we also support LST (Liquid Staking Token) participation in restaking. Our decision to support LST restaking is based on the following considerations:
+
+1.  Established LST protocols have already implemented the core functionalities for participating in Layer 1 staking and distributing staking rewards, ensuring that the LST tokens are backed by a corresponding amount of staked TON assets.
+2.  Using LST tokens for restaking has proven to be a viable solution in Ethereum’s restaking ecosystem, with successful implementations seen in projects like EigenLayer and Symbiotic.
+3.  Supporting LST participation in restaking prevents the need for TON tokens to be withdrawn from LSTs solely for restaking purposes, thereby improving the whole capital efficiency within the TON ecosystem and offering convenience to TON users.
+
+# [](#p-62404-utonic-architecture-6)UTONIC Architecture
+
+The UTONIC Restaking protocol allows users to restake their Native TON tokens and LST TON tokens by depositing the assets. The users can determine the restaking strategies and delegate the restaked assets to the operators. Operators can then register with Actively Validated Services (AVS) to provide economic security. Operators perform tasks for the AVS in exchange for rewards, and the AVS has the ability to slash the assets that have been delegated if they indulge in malicious behaviour.
+
+There are multiple entities involved in this protocol to enable the restaking of both LST TON and Native TON. The modularity of the protocol also provides an interface to extend restaking to any new asset as well. The architecture should give an overview of how each entity is placed in the system following which we shall go over them in detail.
+
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcb70tzapKXQYO29tl_ohSUwWSOTdzKYdHnfhn5NBMI9X7F3t-k1t0_XRcByujjuxChmvAElrf2P-CELOWqpcSyl1quvC_4EUIaArcvWWd36uPM8AnTTZxgC8sRK9pWbhNDRUxVCU4S3omAVm-7gYc6g7UQ?key=7CkgQfx0FRQsaSjKXojqfQ)  
+Fig 1. The overall logic architecture of UTONIC
+
+# [](#p-62404-utonic-smart-contracts-design-7)UTONIC Smart Contracts Design
+
+The main function of the UTONIC contract is to manage the delegation relationship and shares record between users and operators.
+
+Due to the asynchronous and shared nature of TON, designing interactions between contracts is relatively more challenging. To minimize issues with synchronization, we aim to keep contract functions as clear as possible while maintaining platform scalability. The main related contracts include the following:
+
+UTONIC Manager: This contract serves as the central information hub for the platform. It records which assets are supported for restaking and performs management operations, via the Strategy contracts. Additionally, it maintains information about current platform operators and manages tasks such as registration and updating info.
+
+Operator Register: Belongs to UTONIC Manager. Each operator has a contract to record their information and status, such as whether they are registered on the platform and if they have been slashed.
+
+Strategy: Each supported asset corresponds to a Strategy, which is divided into two types: Strategy LST and Strategy TON (only one), corresponding to LST assets and native TON, respectively. The latter additionally includes functionalities related to TON staking. Unlike Eigenlayer, users delegate to independent operators for each Strategy. The main function of the Strategy is to record and maintain the user’s asset shares, as well as to track the total shares delegated by users to the Operator on the other end.
+
+User Strategy Info: Belongs to Strategy. Each (Strategy, User) has one such contract. It records and maintains the user’s corresponding asset shares, which change when the user performs operations such as deposit, withdraw, delegate, and undelegate.
+
+Operator Strategy Share: Belongs to Strategy. Each (Strategy, Operator) has one such contract. It records and maintains the total shares currently delegated to the corresponding operator for an asset. When the user performs operations such as depositing, delegating, and undelegating, the shares change based on the state. A key design point of the UTONIC contract is to ensure the accurate accounting of User Strategy Info and Operator Strategy Share.
+
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcb0dcbg0HTpHzueCVUu8sQOFUzwmu9UY6-Ffl95ZpqcYoeB-nnusaFSy0ox1MyxWJ6orkCEdGJc2-aU5pXYspfLXRruSxRte1CiJHjvqSyKrMiC08CpWIY5M5X1Qom5Mf-MsVF5WPv1FQp76MOZAPBXmo3?key=7CkgQfx0FRQsaSjKXojqfQ)  
+Fig2. The quantities and relationships between User, Operator, and Strategy.
+
+# [](#p-62404-utonic-user-flow-8)UTONIC User Flow
+
+## [](#p-62404-operator-register-and-update-9)Operator: Register and Update
+
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdGn8Z55Bjdjd_LCTrDIJTNvqoccnHDB8SlxcmNdkz66ZqkaaS8GwreL7adIUeP_7dOYrBhzJCUN-hz2QHea7IWBXDWpPPzKH4bLhIdmIHkhnPONyqvM1Ec5OLsDKadZerWrsu4yf-QUI2G6mHPWTXRrh-w?key=7CkgQfx0FRQsaSjKXojqfQ)
+
+An Operator can simply send msg to the UTONIC Manager contract to update his info.
+
+## [](#p-62404-user-deposit-into-utonic-10)User: Deposit into UTONIC
+
+Depositing into UTONIC varies depending on whether the Staker is depositing Native TON or LST Tokens. The main difference involves the handling of Jetton.
+
+### [](#p-62404-lst-restaking-11)LST Restaking:
+
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfd3bC2zrkCGPgT46j8AEvHbM3DJ5Fpnl5NQ0bummuVBjMSPTaMvpHH0awtTyFFtRdl2mrdxqrqM-IV-_DMFoopAkD4_y5z1jCbPWH24pra7PHNpdtmL6h9TV6iL1X6KrBV1HRuS2UEH5NuZWvjgUMT5wyg?key=7CkgQfx0FRQsaSjKXojqfQ)
+
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXe_k3PhwOA3dIMSVD27fWDvUZEFGBN7IrIEOt8cLf3neVt0Qgrk5uDA8YIyeLj041ZumiRPZsvis08FeI5EjvxNl7CPWHzQ-XcJibYsV51kLzGoFCx8KZYos9CL07fRovFxSufVgv9kO28IiubS-WjzdmA?key=7CkgQfx0FRQsaSjKXojqfQ)
+
+An User can send LST TON to the Strategy’s corresponding Jetton wallet. If the current User has already delegated to an Operator, the user’s additional shares will be added to the corresponding Operator Strategy Share.
+
+### [](#p-62404-native-ton-restaking-12)Native TON Restaking:
+
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcYWjHRFZBPWm2p_u9vGKIVECp-497_6ZWuhaAwoEaPKYyNqbz6vgFt7oE41WSnEiU0PhOsY7vEP38ZzhmvLAdBTLzUiclXVtfvub3xuyYHI8V4TIkPltHjeOniIVRIgI4wZtD8XDUVaedlBj5xrxujw4hT?key=7CkgQfx0FRQsaSjKXojqfQ)
+
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcTBK7bKPsFh_hxqo_oH13ic_M_wowORWeJwjqf4VspMjv0L5F9hpdp93z8QOIHSN3qwcVdILFzGttvUjL6MufXr3Y1doorDAzPpLXU_34LN-5ncfzDrmegyQDUueH3XfW_8oA2QqaKMAVK0PY92osU7qo?key=7CkgQfx0FRQsaSjKXojqfQ)
+
+## [](#p-62404-user-delegate-to-operator-13)User: Delegate to Operator
+
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeU9s5dwu1n7CztmNyCgefey8ziv8hteCZVQQSLYImuPX3csDkHUeLqXimgoqZXAoXTIck6o1GH-mPl3KV_eDPdfYt-5672A9o3cvi8lmyelNwd22U4ujheBzMcVzOddAEfBeTjlXe5bBfoG8l5UyfL2MA?key=7CkgQfx0FRQsaSjKXojqfQ)
+
+## [](#p-62404-user-undelegate-14)User: Undelegate
+
+## [](#p-62404-h-624x213httpslh7-rtgoogleusercontentcomdocszad_4nxdbsxpeh9oomgaiuegghrb_1acjuna53yyodalhbmrhvs4-if49amlsliewjquwm3j8cppoy_m3gup4brzjd0gjyyk8xkkzaxoqgogelobsd_axxajadpeqlfgbh2j1qdxwqszsian3hmpqorgxlpqcjhckey7ckgqfx0frqsasjkxojqfq-15)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdbSxPeH9oomGAiuEgGHRB_1AcjUNA53YYoDAlhbMRHVs4-If49amLSliEwjqUwM3J8CppoY_m3gup4brZJD0gJyYk8xkKzaXOQgoGElObSd_AXXajAdpEQlfgbh2j1QDXwqSzSian3HmPQorGXlpqCJhc?key=7CkgQfx0FRQsaSjKXojqfQ)
+
+## [](#p-62404-user-queue-a-withdrawal-16)User: Queue a Withdrawal
+
+### [](#p-62404-lst-withdrawal-17)LST Withdrawal:
+
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXe2cGziyoME_8t0zYQ_g0afEesppfgyC5pbvcwXIM-5g-9g_unWXk9DFDUiFSbhjfy6a3uLD0ETUPbMKPN6TEW-TfUenBgxBUmEFxB5FxU2NHhqzs5JAJRUPCfGpSsa4hkUWwmUS7zWAZlwL0-c22qJx-Y?key=7CkgQfx0FRQsaSjKXojqfQ)
+
+### [](#p-62404-native-ton-withdrawal-18)Native TON Withdrawal:
+
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXd40QdIucl5BtPORRF5BDYoLDgBV3vGMv1YFXY357jLIW92Lsnk1oW1YXLlw-rEAUO_kdUT1PlKuwMzlbpx1Gb-vF9bLEbwUW4eGhh1sZMZOUshTzeF6pLJW4j2wM-bxp_jcPdDKU41xqWUvF8-Jdj9PBBn?key=7CkgQfx0FRQsaSjKXojqfQ)
+
+# [](#p-62404-lrt-liquidity-creates-value-19)LRT: Liquidity Creates Value
+
+Beyond implementing the basic restaking framework, we also support minting Liquid Restaking Tokens. This approach helps to prevent liquidity shortages within the ecosystem that can arise when assets are locked up in staking and restaking.
+
+# [](#p-62404-uton-architecture-20)uTON Architecture
+
+The uTON token is the native embedded liquid restaking token (LRT) of TON in the UTONIC platform. The system built around uTON is called the uTON system. It allows users to restake their Native TON tokens and LST TON tokens with unified management. The assets will first go into some proxy contracts, and then uTON will be minted. After that, the assets move into the vaults.The vaults determine the restaking strategies and delegate the restaked assets to the operators, with the help of the UTONIC restaking system.
+
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcyq1AIMBBQIRX3-2tXFYOXih5kKCAIHS9qVrBTVmKaerSv5nSacVhi-O22L-Wp37UI4mr8B_T20eocCg06kEwEATcwTIQHohRN41WjI2-FcytC2XFfW1hVjJgUo-S7NmhgqzjqkeH5vDFhMHcqkbY2tFS2?key=7CkgQfx0FRQsaSjKXojqfQ)
+
+# [](#p-62404-uton-smart-contracts-design-21)uTON Smart Contracts Design
+
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfAy31kOBu5Sb0feQZlU1-V_gpadKMQ8aDrAXlSFvjK59YSmBGf9wRrgenUqbxfPyNn2wsSe_9OtGafoCvh-OrV80YEEh7nbmMFOocS_8_Y1CcvrrNUWuXYoVJNOfr04qESLVugF3hAHG3ahAdz2xrZcH2l?key=7CkgQfx0FRQsaSjKXojqfQ)
+
+The uTON contracts are divided into two parts: one part is the uTON Jetton, which has a standard Jetton interface and extends some capabilities based on demand; the other part consists of a series of Proxy contracts. The Proxy contracts have the authority to mint uTON, with different Proxy contracts implementing the uTON mint/burn process for various scenarios.
+
+Key features:
+
+1.  When Proxy mints uTON, it is valued in TON, and the Proxy internally manages assets, such as LST TON, relative to the price of TON.
+2.  uTON Minter manages the uTON price of TON. It can be modified by the admin account.
+3.  When users withdraw uTON, they always receive native TON. That is, if users enter with other assets, such as stTON stake, they will withdraw TON too.
+
+# [](#p-62404-uton-user-flow-22)uTON User Flow
+
+### [](#p-62404-mint-uton-with-native-ton-23)Mint uTON with Native TON:
+
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeniI24EcgV0e5awosGgfkXxl6rmOBFEgptzscd9p7iYGeUjHHl_RocOu2svJfAjr5qKZQEzgeClgjBnaQRfBdRx5AcaW6ltmU6Rlfw6IcEWkcA6J-wGfqKQmCq0OP2SC6IEq6MCCO05SJB_DDa0QQLVstH?key=7CkgQfx0FRQsaSjKXojqfQ)
+
+### [](#p-62404-mint-uton-with-lst-ton-24)Mint uTON with LST TON:
+
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdkmGX6WnA0yZ5TtswYBbI5gjo7qLwY6IVtMkKNR_GmraZjkr4EuEkTlvq5-CedD2gAI8LJpeF5lyIAQTonuz4NYvqqT5tw3cDwHHkrONonjdJpf8YCOW1bx6YqfKfDc2sZZxFUotP5Frodf9TldQz3GtRD?key=7CkgQfx0FRQsaSjKXojqfQ)
+
+### [](#p-62404-withdraw-with-uton-25)Withdraw with uTON:
+
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeQVeDGrroeWfkFRgCYk9xi7gJmQvb7C5_8fwNfHEXSZ7AwZ1PSPqfeq8FZa2YK2LI8j2-UJPTXnajpRHNdMc7-ehvseKVqD03Wi9-bRP8g2zUGEBCe2HUN3LnBVlAHu0DS1-uEu5LhTDvP0_7D8KLhMoNT?key=7CkgQfx0FRQsaSjKXojqfQ)
+
+# [](#p-62404-pre-restaking-26)Pre-restaking
+
+During the UTONIC Testnet phase, any validators of TON (Single) Nominator Pools currently active on the TON network can join the UTONIC Pre-restaking event. Participation is facilitated through the minting of the UTONIC Operator SBT, a non-transferable NFT that serves as proof of engagement in the UTONIC Pre-restaking program. By minting the UTONIC Operator SBT, validators signal their commitment to participating in the UTONIC Testnet and the future operation of the UTONIC AVS that will be deployed on the UTONIC testnet.
+
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdAKWVy8ea4j78DGNc_WIgLyeP4J9nBDckHQfdyjTyvjVRtCt0rx1-VjOGl41mAR4MNkLlGFdRaBc_48aAf4_jbbcFojwNPFxJ07yyBqF5I93CbX0c6mERxzrb4USQ2Buewx1PmDjld4rO8rySlkX6aOyo?key=7CkgQfx0FRQsaSjKXojqfQ)
+
+Validators successfully minting the UTONIC Operator SBT will mint an equivalent amount of uTON LRT based on the number of TON tokens staked in the validator’s associated (Single) Nominator Pool. During the testnet phase, the uTON tokens will remain locked in the smart contract, dynamically minting or burning based on the ongoing changes in the amount of TON staked by the validators. UTONIC will track the validator addresses that mint the UTONIC Operator SBT and their corresponding (Single) Nominator Pool addresses, with the staked TON contributing to the TVL under UTONIC Pre-restaking protection.
+
+The primary goal of the UTONIC Testnet is to validate the feasibility of the TON Restaking architecture and to refine its functionality. During this testnet phase, the slashing mechanism will not be enabled.
+
+During the Pre-restaking period, holders of TON, stTON, or tsTON can also directly participate by staking their TON, stTON, or tsTON. Upon restaking, they will mint uTON, which will be sent directly to their wallet and can be immediately used by the restaker.
+
+Join us as we work towards building a more secure and robust staking ecosystem for TON!
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 38287
+
+[TON Research](/)
+
+# [\[Not Pixel\] Официальная игра от Notcoin (Not games)](/t/not-pixel-notcoin-not-games/38287)
+
+[Русский](/c/ru/49) 
+
+    
+
+[FizHowe](https://tonresear.ch/u/FizHowe)  October 14, 2024, 8:54am  1
+
+**Dogs, Notcoin** - многие получили приятную сумму за небольшой срок…  
+На очереди Not Pixel
+
+**Not Pixel** — Аналог пиксель-баттлов, можно найти внутри бота Notcoin, уже в ноябре выпустят токен $PX
+
+До этого вышел Lost Dogs, впечатления пока что положительные. Если судить по открытым данным, то профит тоже ожидается высоким от 100$ до 3000$ ![:+1:t2:](https://tonresear.ch/images/emoji/twitter/+1/2.png?v=12 ":+1:t2:")
+
+*   Из канала Notcoin Community:
+
+> Not Games — часть Notcoin, которая продолжит работать с сумасшедшими разработчиками, чтобы создавать лучшие впечатления.
+> 
+> Эти игры сделают Notcoin более полезным инструментом и принесут пользу держателям Notcoin и уровням Gold/Platinum за счет выпадений и других специальных предложений, повышая ценность экосистемы Notcoin.
+> 
+> И следующий эпичный опыт уже не за горами◽
+
+**В чем суть?**  
+Рисовать свои картинки на большом полотне.  
+Значительно больше токенов дают, если рисовать по трафарету + можно выбрать картинку
+
+Есть стандартные лиги
+
+Видим что можно покупать дополнительные бусты за звезды, звезды можно взять дешевле за Ton на fragment
+
+Напоминаю, что пока что только Notcoin даёт ощутимый профит и без долгих месяцев фарма + сами игры оригинальные и интересные
+
+**ps** сам лично внес 250$ и уже попал в топ 1000 всех игроков, без доната тоже отлично играется
+
+**Not pixel:** [ссылка на бот](https://t.me/notpixel/app?startapp=f462926109)
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 383
+
+[TON Research](/)
+
+# [Some thoughts on Ton smart contract design](/t/some-thoughts-on-ton-smart-contract-design/383)
+
+[Application](/c/application/20) 
+
+    
+
+[kojhliang](https://tonresear.ch/u/kojhliang)  February 19, 2024, 6:34am  1
+
+Author: Kojhliang, head of research at Kenetic Capital
+
+When I was completing a Ton course topic recently, one such question: For Howard Peng’s NFT template contract (i.e. NFT Collection contract — NFT Item contract), add a function to the contract so that each user’s wallet can mint at most three NFTs.
+
+**Method one:**
+
+If it is a blockchain similar to EVM, the simplest method is to add an additional Map<user\_address,mint\_times> to the NFT collection contract to save the number of times each user has mint.
+
+However, this method is not allowed to be implemented in Ton, because it will cause the gas fee to be unpredictable and does not comply with the Ton sharding idea. Ton needs to decompose all objects of variable length into contracts for storage and processing.
+
+**Method Two:**
+
+Split out a user information ( userInfo) contract to store the number of times this user has mint. Then in the NFT collection contract, send a query message to the userInfo contract to query the number of mints, and then decide whether to allow the user to continue minting NFTs based on the current number of mints contained in the message returned by the userInfo contract.
+
+But this method is also not allowed in Ton. Because the messages of the Ton contract are all asynchronous, it is not synchronous like EVM calling other contracts to obtain the status of other contracts. Data consistency cannot be guaranteed using this approach.
+
+For example:
+
+In Ton, contract A sends a message to contract B, and contract B returns the state C1 of contract B to contract A. However, contract A cannot use this state C1 to make subsequent logical judgments, because when contract A receives the message sent back by contract B, state C1 may have changed to state C2! If you make a judgment based on this C1 status at this time, it may have undesirable consequences. For example, according to method two, when the NFT collection contract receives the number of mints returned by the userInfo contract, the number of mints for the current user may actually be three. At this time, if the collection contract still allows users to continue minting new NFTs, it will not meet business requirements.
+
+**According to the principle of data consistency and common solutions, in order to maintain the atomicity of a transaction in the Ton contract, it can only be solved by converting all related contracts with dependent logic into serial processing.**
+
+For example:
+
+Contract A → Contract B (based on state b, deciding whether to change state b and call the next contract C) → Contract C (based on state c, deciding whether to change state c and call the next contract D) → ….
+
+It can be seen that in this process, there is no need to query the status of other contracts like the second method. All the status that needs to be judged is stored and processed in the contract itself.
+
+However, the problem that arises is that if the business logic that the contract wants to implement becomes more complex and more judgment conditions or variable variables (such as maps, arrays, etc.) are required, the more contracts that need to be decomposed. Dealing with the chain of smart contracts becomes more complex.
+
+This is the price Ton pays to achieve complete sharding. The difficulty of developing complex contracts increases almost exponentially. Compared with traditional synchronous code contract design, which may only require a few lines of code, Ton requires a lot of additional message processing, including exception bounced processing and a very long processing chain to achieve it.
+
+**Attached: Two instructions from Ton official:**
+
+For FT contracts, there is no way to get the actual wallet balance on-chain because the wallet balance may not be up to date when the message with the balance arrives.
+
+[github.com](https://github.com/ton-blockchain/TEPs/blob/master/text/0074-jettons-standard.md)
+
+#### [ton-blockchain/TEPs/blob/master/text/0074-jettons-standard.md](https://github.com/ton-blockchain/TEPs/blob/master/text/0074-jettons-standard.md)
+
+```
+- **TEP**: [74](https://github.com/ton-blockchain/TEPs/pull/4)
+- **title**: Fungible tokens (Jettons) standard
+- **status**: Active
+- **type**: Contract Interface
+- **authors**: [EmelyanenkoK](https://github.com/EmelyanenkoK), [Tolya](https://github.com/tolya-yanot)
+- **created**: 12.03.2022
+- **replaces**: -
+- **replaced by**: -
+
+# Summary
+
+A standard interface for Jettons (TON fungible tokens).
+
+# Motivation
+
+A standard interface will greatly simplify interaction and display of different tokenized assets.
+
+Jetton standard describes:
+
+* The way of jetton transfers.
+```
+
+This file has been truncated. [show original](https://github.com/ton-blockchain/TEPs/blob/master/text/0074-jettons-standard.md)
+
+For NFT contracts, the actual owner of the NFT cannot be obtained on-chain because by the time the message with the NFT owner arrives, the owner may have changed.
+
+[github.com](https://github.com/ton-blockchain/TEPs/blob/master/text/0062-nft-standard.md)
+
+#### [ton-blockchain/TEPs/blob/master/text/0062-nft-standard.md](https://github.com/ton-blockchain/TEPs/blob/master/text/0062-nft-standard.md)
+
+```
+- **TEP**: [62](https://github.com/ton-blockchain/TEPs/pull/2)
+- **title**: NFT Standard
+- **status**: Active
+- **type**: Contract Interface
+- **authors**: [EmelyanenkoK](https://github.com/EmelyanenkoK), [Tolya](https://github.com/tolya-yanot)
+- **created**: 01.02.2022
+- **replaces**: -
+- **replaced by**: -
+
+# Summary
+A standard interface for non-fungible tokens.
+
+# Motivation
+A standard interface will greatly simplify interaction and display of different entities representing right of ownership.
+
+NFT standard describes:
+
+* The way of ownership changing.
+* The way of association of items into collections.
+* The way of deduplication of common part of collection.
+```
+
+This file has been truncated. [show original](https://github.com/ton-blockchain/TEPs/blob/master/text/0062-nft-standard.md)
+
+**Suggested solution:**
+
+The first option: We can consider adding a global state area to the Ton blockchain, whether within the chain or outside the chain, so that developers can safely execute corresponding logic based on the value of this global state. Of course, how to make this global state data conform to the idea of sharding requires more sophisticated design.
+
+The second option: In order to reduce the difficulty and complexity of development for developers, develop more easy-to-use business models and development assistance tools, so that even if developers use the way of asynchronous message processing, they can develop the smart contract as easily as developing synchronous programs. Otherwise, according to the current design of Ton, it is indeed not suitable to develop and implement too complex business logic in the Ton contract.
+
+  1 Like
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 38328
+
+[TON Research](/)
+
+# [Why Theft Wars is an Idle Game](/t/why-theft-wars-is-an-idle-game/38328)
+
+[Application](/c/application/gamefi/35)  [GameFi](/c/application/gamefi/35) 
+
+    
+
+[akme](https://tonresear.ch/u/akme)  October 16, 2024, 6:14pm  1
+
+**Theft Wars: Shadows of TON** is a Web3 idle game built on TON blockchain. It combines idle mechanics with competitive gameplay, where players take risks and make strategic choices. But what makes Theft Wars an idle game? Let’s find out.
+
+## [](#p-62530-what-is-an-idle-game-1)What is an Idle Game?
+
+Idle games, also called incremental games, allow players to make progress with minimal effort. Theft Wars takes this concept and adds blockchain features. You can create a thief using Soul Bound Tokens (SBTs) and stake game tokens. Similar to other idle games, Theft Wars lets you earn rewards even when you’re not actively playing. You mint a thief and stake tokens to get stronger and earn rewards. However, other players can steal your tokens too, so you have to make careful decisions.
+
+## [](#p-62530-gameplay-overview-2)Gameplay Overview
+
+**Theft Wars: Shadows of TON** is more than just an idle game; it is a competitive experience where players take on the role of thieves attempting to steal tokens from others. Players begin by creating a thief as an SBT and staking game tokens.
+
+The main part of the game is **steals**—where players attempt to take tokens from others. To succeed, targets must be chosen wisely. Your thief has skills like **expertise** (offense) and **vigilance** (defense), which determine how effective you are when attacking or defending during a steal. There’s also an element of luck (random) involved, which means even well-planned steals might not always succeed. This makes every steal is a mix of strategy and chance. Thieves can be leveled up by stealing and earning rewards, improving their abilities. Selecting the right target is crucial for success.
+
+### [](#p-62530-stealing-and-taxes-3)Stealing and Taxes
+
+When you steal in Theft Wars, there is a tax applied, which helps keep the game fair and rewards active players. This tax is the one of the reasons why Theft Wars is considered an idle game—it generates passive income for players, allowing them to benefit from others activities without constant involvement. The tax is split between rewarding other players, maintaining the economy, and supporting game development.
+
+### [](#p-62530-leveling-up-through-steals-4)Leveling Up Through Steals
+
+Theft Wars has a **Cumulative Steal Progression** system, which lets you level up by stealing. There is a limit of 32 steals each day to keep things fair. The more you steal, the higher your level gets, making your thief stronger and unlocking new rewards.
+
+## [](#p-62530-theft-wars-more-than-just-a-game-5)Theft Wars: More than Just a Game
+
+Theft Wars isn’t just a game; it’s also an engaging way to learn about blockchain. You can learn about staking tokens, how taxes work in a decentralized system, and how taking smart risks can help you grow. For example, staking tokens can help you earn more rewards, and the tax system helps keep things fair for everyone. Theft Wars makes learning about blockchain easy and fun.
+
+By playing Theft Wars, you can learn about blockchain, DeFi, and staking—all while having fun. It’s a great way for beginners to understand blockchain without feeling overwhelmed.
+
+## [](#p-62530-become-an-early-adopter-6)Become an Early Adopter
+
+Curious about blockchain gaming? **Theft Wars** is an exciting place to explore and learn. Whether you’re into blockchain or just looking for a fun new game, at Theft Wars, we are trying to build a friendly community where every decision matters.
+
+Join our community on Telegram at [@theftwars](https://t.me/theftwars) or [@thefthub](https://t.me/thefthub), or follow us on Twitter at [@theftwars](https://x.com/theftwars) for updates and sneak peeks. Connect with others, help shape the game, and be part of our journey as we bring this experience to life.
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 3833
+
+[TON Research](/)
+
+# [BANANAS (BNS) meme coin on the Ton blockchain](/t/bananas-bns-meme-coin-on-the-ton-blockchain/3833)
+
+[General](/c/general/4) 
+
+[tep](https://tonresear.ch/tag/tep), [func](https://tonresear.ch/tag/func), [api](https://tonresear.ch/tag/api), [learn](https://tonresear.ch/tag/learn), [gramcoin](https://tonresear.ch/tag/gramcoin)
+
+    
+
+[user308](https://tonresear.ch/u/user308)  April 3, 2024, 9:21am  1
+
+BANANAS is a unique meme crypto coin that was released and has become popular among fans of cryptocurrencies. The main tool for earning coins is BANANA CLICKER, a special tool that allows users to earn BANANAS by clicking on an image of a banana. Although the coin was issued for entertainment purposes, it has huge potential in the future. In the long term, users will be able to use BANANAS for staking, as well as for buying and selling NFT (non-exchangeable tokens). This opens up many opportunities for developing a unique meme project and attracting new users. BANANAS is not just a crypto coin, it is a fun and exciting game in the world of cryptocurrencies that can lead to earnings and participation in unique financial transactions based on the blockchain.  
+our telegram channel-[Telegram: Contact @bananasnewsone](https://t.me/bananasnewsone)  
+Twitter -  
+[https://twitter.com/CoinBanana76078](https://twitter.com/CoinBanana76078)  
+Game clicker -  
+[Telegram: Contact @goodbananasclicker\_bot](https://t.me/goodbananasclicker_bot)  
+Smart contract (BNS) -  
+EQAm50-rQgsti3HMYeolenYSE8YqyX-1oN97B2lcHSmdkVfl  
+Total supply -  
+7 000 000 000 coins.
+
+  1 Like
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 38373
+
+[TON Research](/)
+
+# [News from the playing fields 1](/t/news-from-the-playing-fields-1/38373)
+
+[General](/c/general/4) 
+
+    
+
+[User2333](https://tonresear.ch/u/User2333)  October 19, 2024, 12:31pm  1
+
+Dear developers and game owners, if your game is a purely economic model and it is impossible to earn money without investments, then please notify users about this when you first launch the bot, in order to avoid unpleasant situations such as airdrop hamster and x empire. Users are extremely unhappy and a wave of discontent can capsize our boat…![:sunglasses:](https://tonresear.ch/images/emoji/twitter/sunglasses.png?v=12 ":sunglasses:")
+
+  1 Like
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 38393
+
+[TON Research](/)
+
+# [The social gaming platform SeesofTON is experiencing rapid growth and is on the verge of a major update](/t/the-social-gaming-platform-seesofton-is-experiencing-rapid-growth-and-is-on-the-verge-of-a-major-update/38393)
+
+[General](/c/general/4) 
+
+    
+
+[Charles\_Jones](https://tonresear.ch/u/Charles_Jones)  October 21, 2024, 3:58am  1
+
+![:partying_face:](https://tonresear.ch/images/emoji/twitter/partying_face.png?v=12 ":partying_face:")Hey there, folks at Seeds Community!
+
+![:tada:](https://tonresear.ch/images/emoji/twitter/tada.png?v=12 ":tada:")The gaming ecosystem is steadily progressing, and we’re in the midst of finalizing the integration with new partners.
+
+![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:")Upon completion and official launch, we’ll introduce even more exciting content, drawing in a vast number of new friends to make our entire gaming ecosystem even more vibrant.
+
+![:confetti_ball:](https://tonresear.ch/images/emoji/twitter/confetti_ball.png?v=12 ":confetti_ball:")Early builders who join will reap generous rewards!
+
+![](https://telegram.org/img/website_icon.svg?4) [Telegram](https://t.me/seeds_game_bot/miniapp)
+
+![](https://cdn5.cdn-telegram.org/file/AbYruFdGxzRea3aUDsret87a_LvOD1wBkLrGeF02Wp9oc7YNu0_Vlvmpd8zZdk0lDH7yAYK0c2eqpjn2L9ujrN5whMeHwq5Eha5OjSKlLni_cvrUfhyMH3fwPYjaiPyjAiN8ByQufIyVTeZiOAV2WqHLo1TAEpI5sg_oEQ8xm37WrlGSfLnd0LjjqtOx0TslujDsW86OHCC9ZQjDV9c5ttMeg6lmboHRDhVgsey_-5q-Q_Av03-gHo47hgKkrdxO3r4AMCHFE9otTFQVhW6BOuXW5O7rNwoa1nKOm8phh9Wri69QyZHgji5MXIALs2HSfgWeiLrh-QPpzUMagKBpSA.jpg)
+
+### [Seeds of TON - Game](https://t.me/seeds_game_bot/miniapp)
+
+You can contact @seeds\_game\_bot right away.
+
+![](https://telegram.org/img/website_icon.svg?4) [Telegram](https://t.me/SeedsofTON_Channel)
+
+![](https://cdn5.cdn-telegram.org/file/VUQjmVwxeRg7kmnc8ykc-MOzOei8u3oEb4-zO7ZDY4bkP8JPXvZJGBjTeSPcHqnIr7DX48rUFhF0bHAGHzJEtkSWWO2lFt6l50nbOyJDn3B9D6g0K37PmgUk2JNeyViXjOdV6SIx6RFRIuEKEU2xElRgh4wDw_i5U9HQkyqL5K5RkdssIfbazYWvvsSztmcyb7w3TMXLI9mtqhdHGP1n_1rtrpiAowngjH2iV_0K485JHnBvZMxWqELxtORNai3-ckJpGkPTE8VSaiRIWgwDmpbRZb5-wvbVH_ljXBr9B--j9dncFM6ejIZ2LGgo4wUW8yWdlDO_anLPtuZPXlVGVQ.jpg)
+
+### [Seeds Announcement](https://t.me/SeedsofTON_Channel)
+
+Seed is an open social exploration game aiming at realizing social games. ✉️Telegram: t.me/SeedsofTON t.me/SeedsofTON\_Channel 📱 Twitter: x.com/SeedsofTon 🌐Website: https://www.seedsofton.xyz
+
+![](https://telegram.org/img/website_icon.svg?4) [Telegram](https://t.me/SeedsofTON)
+
+![](https://cdn5.cdn-telegram.org/file/ZRm4iZogNKwDghb0GLQcx9acWo9g1aj7bN1bzuKpexepqlKu-zLss3kFBB5jO2nx79G2tCb6uCaIeRszfN6FyKCD9yaRlTVwtFtfdahMQibB3S8zirEtIRGDZH6tEUqvI89QdN26rnqEqekzEBIbNELR3vPmxVDuW2PUX2-1ee-pLbOlTyuuVp18fbM4Jg5CR_VM7P_2TMNFEdg7ci140s7ABL_7U2O3jJXs566WHkQWq-u9bOjej28WKUpRIcZvxzevHmz17PKS7vkMddw00BuAKYY6X7n45cTFWkaFqDP9lYn9hmdEwOteBmbJs0f8JscO7BCAUgtaxEIBrE7vXQ.jpg)
+
+### [Seeds(Seeds of TON)](https://t.me/SeedsofTON)
+
+Seed is an open social exploration game aiming at realizing social games. ✉️Telegram: t.me/SeedsofTON t.me/SeedsofTON\_Channel Twitter: x.com/SeedsofTon 📱PLAY: t.me/seeds\_game\_bot/miniapp
+
+  1 Like
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 38402
+
+[TON Research](/)
+
+# [TON FISH($FISH) / Major League - Memecoin Mountain](/t/ton-fish-fish-major-league-memecoin-mountain/38402)
+
+[TON Memelandia](/c/ton-memelandia/memecoin-mountain/86)  [Memecoin Mountain](/c/ton-memelandia/memecoin-mountain/86) 
+
+    
+
+[tonfish](https://tonresear.ch/u/tonfish)   October 21, 2024, 5:56pm  1
+
+**Submission Form for Memecoin Mountain**
+
+1.  **Your Role in the Competition:**
+    1.  Memecoin Project
+
+_(Only for Memecoin Projects; skip if you are a Trader/Whale)_
+
+[![pfp](https://tonresear.ch/uploads/default/optimized/3X/e/d/edc50cd46ae54c1fa201f7d7fa1888882a2aa059_2_500x499.png)
+
+pfp793×792 148 KB
+
+](https://tonresear.ch/uploads/default/original/3X/e/d/edc50cd46ae54c1fa201f7d7fa1888882a2aa059.png "pfp")
+
+1.  **Memecoin Name:** TON FISH
+2.  **Token Contract Address:** EQATcUc69sGSCCMSadsVUKdGwM1BMKS-HKCWGPk60xZGgwsK
+3.  **Market Cap (at the time of application):** $4.18M
+4.  **Daily Trading Volume (for the last 7 days):** $220k
+5.  **Number of Unique Token Holders:** 61,077 Holders
+6.  **Has your token been fairly launched?**
+    1.  Yes
+7.  **Please provide a link to your CoinGecko listing:** [https://www.coingecko.com/en/coins/ton-fish-memecoin](https://www.coingecko.com/en/coins/ton-fish-memecoin)
+8.  **Are you applying for the Major League or Minor League?**  
+    Major League
+9.  **Briefly describe your memecoin’s strategy for growth and community engagement:** TON FISH is the first non-foundation community animal memecoin created on the TON blockchain.
+
+\*It was actually launched on DEX 2 days before $REDO.
+
+The purpose of TON FISH is to grow the TON blockchain and become a symbolic meme coin of the TON blockchain. It also has a diverse collection of NFTs, OG groups, and mini-apps for users to experience the TON blockchain.
+
+Recently, the TON blockchain ecosystem has not been active, and TON FISH is most focused on making the TON blockchain active, not Telegram and TON company.
+
+Join the community of the oldest and first meme coin, win together and take home the prize!
+
+Memecoin Strategy
+
+*   Collaborate with the designer who created the official Telegram animation sticker to create the official Telegram custom animation sticker(TON FISH)
+    
+*   Participate in offline events in the TON ecosystem
+    
+*   Development of mini-apps focused on activating on-chain
+    
+*   OG community with NFTs
+    
+*   TON Ecosystem OG KOL Retention
+    
+*   Registered for the first time in the meme coin category of the official TON document
+    
+
+10.  **Do you have any partnerships with Key Opinion Leaders (KOLs) or influencers?**
+    1.  Yes
+    2.  If yes, please specify.  
+        0xweb3bond([x.com](https://twitter.com/0xweb3bond))  
+        damxton([x.com](https://twitter.com/damxton))  
+        tommyunchain([x.com](https://twitter.com/tommyunchain))  
+        WEB3Eliza([x.com](https://twitter.com/WEB3Eliza))  
+        \_yeminiz([x.com](https://twitter.com/_yeminiz))
+
+[![banner](https://tonresear.ch/uploads/default/optimized/3X/5/9/59023365c3b92978f8ddae9863502799fedc5d0f_2_690x230.png)
+
+banner1500×500 265 KB
+
+](https://tonresear.ch/uploads/default/original/3X/5/9/59023365c3b92978f8ddae9863502799fedc5d0f.png "banner")
+
+_(Only for Traders/Whales; skip if you are a Memecoin Project)_
+
+1.  **Trader’s Wallet Address:**
+2.  **Which memecoins are you primarily trading in this competition?**
+3.  **How did you find out about this competition?**
+    1.  Twitter / Telegram / Other
+4.  **Have you participated in any previous memecoin trading competitions?**
+    1.  Yes / No
+5.  **What’s your trading strategy for the upcoming season?**
+
+(General)
+
+1.  **Would you like to receive updates and announcements during the competition?**
+    1.  Yes
+2.  **Provide your Telegram username for communication and coordination:** @xtonfish
+
+  4 Likes
+
+[zlatisus](https://tonresear.ch/u/zlatisus) October 21, 2024, 6:33pm  2
+
+LFG $TON FISH!!! We can win this!
+
+  1 Like
+
+[DANIEL\_KING](https://tonresear.ch/u/DANIEL_KING) October 21, 2024, 7:40pm  3
+
+#FISH ![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:") we are definitely winning this LFG
+
+ 
+
+[Klvn19](https://tonresear.ch/u/Klvn19) October 21, 2024, 8:09pm  4
+
+Touch $fish the best meme on ton
+
+  1 Like
+
+[Min0711](https://tonresear.ch/u/Min0711) October 22, 2024, 3:20am  5
+
+Let’s fucking go. We love Ton FIsh
+
+  1 Like
+
+[Antona\_Petrov](https://tonresear.ch/u/Antona_Petrov) October 22, 2024, 5:55pm  6
+
+Сельдь рулит это вам не шибаину
+
+ 
+
+[Antona\_Petrov](https://tonresear.ch/u/Antona_Petrov) October 22, 2024, 5:57pm  7
+
+Сельдь вперёд порви всю эту мерзость
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 38403
+
+[TON Research](/)
+
+# [#SADMEOW Application for Memecoin Mountain](/t/sadmeow-application-for-memecoin-mountain/38403)
+
+[TON Memelandia](/c/ton-memelandia/memecoin-mountain/86)  [Memecoin Mountain](/c/ton-memelandia/memecoin-mountain/86) 
+
+    
+
+[SADMEOW](https://tonresear.ch/u/SADMEOW)  October 21, 2024, 5:57pm  1
+
+**Submission Form for Memecoin Mountain**
+
+1.  **Your Role in the Competition:** CTO Co-Lead
+
+_(Only for Memecoin Projects; skip if you are a Trader/Whale)_
+
+1.  **Memecoin Name:** Sad Meow
+2.  **Token Contract Address:** EQCTYw9CpKm-7iO\_VC\_7DsqkeK1Bze-u–MeZMofjQg8tEWc
+3.  **Market Cap (at the time of application):** $1.3m
+4.  **Daily Trading Volume (for the last 7 days):** $319k average
+5.  **Number of Unique Token Holders:** 1232
+6.  **Has your token been fairly launched?**
+    1.  Yes
+7.  **Please provide a link to your CoinGecko listing:** [https://www.coingecko.com/en/coins/sad-meow](https://www.coingecko.com/en/coins/sad-meow)
+8.  **Are you applying for the Major League or Minor League?** Major
+9.  **Briefly describe your memecoin’s strategy for growth and community engagement:** Since launch we’ve actively engaged the TON community on X to great success, nearly around the clock. In 10 days we’ve broken through 6000 X followers and 1400 telegram chat members. This growth has been explosive, but a moderation isn’t acceptable. Over the same time, our admin team has grown from 4 to 12 and we continue to look for qualified and professional moderators. We will continue running paid marketing/ads on [dexscreener.com](http://dexscreener.com) and Telegram, specifically targeting traders outside of TON. We will also be implementing a large contest to reward community members that are engaging the most on X. We’ve assembled a sub-group of some of our largest token holders that are willing to fund larger marketing costs, such as the coveted Golden Ticker on Dexscreener.
+10.  **Do you have any partnerships with Key Opinion Leaders (KOLs) or influencers?**
+    1.  No - No one paid, no free tokens given. Pure community where everyone has skin in the game. This is the way.
+    2.  If yes, please specify.
+
+_(Only for Traders/Whales; skip if you are a Memecoin Project)_
+
+1.  **Trader’s Wallet Address:**
+2.  **Which memecoins are you primarily trading in this competition?**
+3.  **How did you find out about this competition?**
+    1.  Twitter / Telegram / Other
+4.  **Have you participated in any previous memecoin trading competitions?**
+    1.  Yes / No
+5.  **What’s your trading strategy for the upcoming season?**
+
+(General)
+
+1.  **Would you like to receive updates and announcements during the competition?**
+    1.  Yes
+2.  **Provide your Telegram username for communication and coordination:** @Larrryyy
+
+  33 Likes
+
+[footoru](https://tonresear.ch/u/footoru) October 21, 2024, 6:05pm  2
+
+Best memcoin on TON, so sad ![:disappointed_relieved:](https://tonresear.ch/images/emoji/twitter/disappointed_relieved.png?v=12 ":disappointed_relieved:")
+
+  8 Likes
+
+[EgoAi\_EgoAi](https://tonresear.ch/u/EgoAi_EgoAi) October 21, 2024, 6:09pm  4
+
+**#SadMeowMp3** — the FIRST Audio Meme Token on any chain! ![:paw_prints:](https://tonresear.ch/images/emoji/twitter/paw_prints.png?v=12 ":paw_prints:")![:notes:](https://tonresear.ch/images/emoji/twitter/notes.png?v=12 ":notes:") This is more than a meme, it’s history in the making! Just like #Bitcoin was the first in crypto, #SadMeowMp3 is breaking barriers in the meme space. $SadMeow is here to change the game! ![:headphones:](https://tonresear.ch/images/emoji/twitter/headphones.png?v=12 ":headphones:")![:cat:](https://tonresear.ch/images/emoji/twitter/cat.png?v=12 ":cat:") #Crypto #AudioMeme #FirstOfItsKind
+
+  10 Likes
+
+[Troubadoor](https://tonresear.ch/u/Troubadoor) October 21, 2024, 6:09pm  5
+
+Our beloved sad cat will be the top performer on ton because we have a real community
+
+Meowmeow​:notes:![:notes:](https://tonresear.ch/images/emoji/twitter/notes.png?v=12 ":notes:")![:notes:](https://tonresear.ch/images/emoji/twitter/notes.png?v=12 ":notes:")
+
+  6 Likes
+
+[Repository](https://tonresear.ch/u/Repository) October 21, 2024, 6:10pm  6
+
+Lfg meow meow meow meow sadmeow
+
+  6 Likes
+
+[Denis\_Lajqi](https://tonresear.ch/u/Denis_Lajqi) October 21, 2024, 6:10pm  7
+
+$sadmeow is so early and ready to moon.  
+in 9 days we achieved:
+
+*   an ATH of ~2.4m (organically)
+*   6k followers on x (organically)
+*   1.4k tg members (organically)
+*   rising 1200 holder despite downtrend in the last 24h
+
+  6 Likes
+
+[S\_P](https://tonresear.ch/u/S_P) October 21, 2024, 6:11pm  8
+
+Strong community token, strong team, what do you want more from a CTO ? Good luck guys!
+
+  5 Likes
+
+[Fr1sty](https://tonresear.ch/u/Fr1sty) October 21, 2024, 6:12pm  9
+
+Sadmeow is first ever audio meme coin
+
+need to participate in TON Memelandia
+
+  6 Likes
+
+[Pieter\_Post](https://tonresear.ch/u/Pieter_Post) October 21, 2024, 6:14pm  10
+
+$SADMEOW IS CHANGING LIVES!! ![:ox:](https://tonresear.ch/images/emoji/twitter/ox.png?v=12 ":ox:")
+
+  6 Likes
+
+[Heroo](https://tonresear.ch/u/Heroo) October 21, 2024, 6:18pm  11
+
+The sad cat is the first audio meme coin on earth.
+
+  5 Likes
+
+[CryptoDundee](https://tonresear.ch/u/CryptoDundee) October 21, 2024, 6:19pm  12
+
+Sad meow is in a league of its own, literally the first ever audio meme coin in crypto history it’s really great for TON to have something special here and the way it was launched with 1 TON and handed to the community is fantastic!! I’m so bullish ![:crying_cat_face:](https://tonresear.ch/images/emoji/twitter/crying_cat_face.png?v=12 ":crying_cat_face:")![:musical_note:](https://tonresear.ch/images/emoji/twitter/musical_note.png?v=12 ":musical_note:")![:gem:](https://tonresear.ch/images/emoji/twitter/gem.png?v=12 ":gem:")![:eyes:](https://tonresear.ch/images/emoji/twitter/eyes.png?v=12 ":eyes:")![:fire:](https://tonresear.ch/images/emoji/twitter/fire.png?v=12 ":fire:")
+
+  4 Likes
+
+[goi](https://tonresear.ch/u/goi) October 21, 2024, 6:26pm  14
+
+Why is sad meow the best memecoin on tone? Sad Meow is the first audio token in the world, the meowing music in the token is simply mesmerizing.Sad meow is a project not of one person but of an entire community. The sad meow community is made up of unique people who helped the token grow.We went from 6k mcap to 2.5m ATH and it’s all organic growth.Strong community + first audio token = perfect memecoin. I think the sad meow is a great example of a perfect coin. And know this NFA & DYOR
+
+  5 Likes
+
+[Ali\_Karimi](https://tonresear.ch/u/Ali_Karimi) October 21, 2024, 6:32pm  15
+
+Sadmeow its really meme  
+Just be sad
+
+  4 Likes
+
+[karfly](https://tonresear.ch/u/karfly) October 21, 2024, 6:44pm  16
+
+meow, meow, meow, meow, meow, meow, meow, meow, meow, meow, meow sad.
+
+  8 Likes
+
+[Eptic](https://tonresear.ch/u/Eptic) October 21, 2024, 6:48pm  17
+
+The Sad Meow audio meme coin is a groundbreaking innovation, being the first of its kind in crypto history, who wouldn’t think this would be a good meme to get behind, I myself am extremely bullish for the potential this project could bring. It’s going to be ironic that it’s called Sadmeow because I’ll be giving a Happymeow once we hit 1Bil Mc. ![:crying_cat_face:](https://tonresear.ch/images/emoji/twitter/crying_cat_face.png?v=12 ":crying_cat_face:")
+
+  4 Likes
+
+[Raj\_Gupta](https://tonresear.ch/u/Raj_Gupta) October 21, 2024, 6:51pm  18
+
+#SadMeow is the 1st MP3 Meme token created by Team many big infuencers are with us dont get left behind join us and enjoy the ride LFG #SadMeow
+
+  4 Likes
+
+[Bakkeljouw](https://tonresear.ch/u/Bakkeljouw) October 21, 2024, 6:53pm  19
+
+SADMEOW best community!!
+
+  4 Likes
+
+[biilalzii](https://tonresear.ch/u/biilalzii) October 21, 2024, 6:56pm  20
+
+thats make me cry ![:crying_cat_face:](https://tonresear.ch/images/emoji/twitter/crying_cat_face.png?v=12 ":crying_cat_face:")
+
+# [](#p-62747-h-1)
+
+price up: sad  
+price down: sad
+
+soon you’ll realize it doesn’t matter. meow.
+
+  5 Likes
+
+[Bluejacket\_Tim](https://tonresear.ch/u/Bluejacket_Tim) October 21, 2024, 6:56pm  21
+
+The first and best MP3 token we will are here not to take part! But to take over!!
+
+  3 Likes
+
+[Pita\_Broodje](https://tonresear.ch/u/Pita_Broodje) October 21, 2024, 6:57pm  22
+
+$SADMEOW changed my life and I will support to get all the members change their lives!!
+
+  4 Likes
+
+**[next page →](/t/sadmeow-application-for-memecoin-mountain/38403?page=2)**
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 38416
+
+[TON Research](/)
+
+# [Normie Airdrop - TOL Season 6](/t/normie-airdrop-tol-season-6/38416)
+
+[The Open League](/c/the-open-league/56) 
+
+    
+
+[aduckk](https://tonresear.ch/u/aduckk)  October 21, 2024, 6:11pm  1
+
+Hi everyone,
+
+I’m currently taking part in TOL SS6 with a Normie Badge and had a few questions about the App League:
+
+1.  Does interacting with the apps daily improve my Normie score?
+2.  If not, does that mean I only need to interact with each app once?
+
+I’ve been checking the leaderboard regularly, but my rank doesn’t seem to be improving. Any advice would be appreciated!
+
+Thanks!
+
+  4 Likes
+
+[Ape\_Biznek](https://tonresear.ch/u/Ape_Biznek) November 12, 2024, 7:40pm  2
+
+Interaction is good. Ton team has hinted this. Keep grinding, and interacting with the apps you trust. Support them all.
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 38446
+
+[TON Research](/)
+
+# [RESISTANCE DOG (REDO) / Major League - Memecoin Mountain](/t/resistance-dog-redo-major-league-memecoin-mountain/38446)
+
+[TON Memelandia](/c/ton-memelandia/memecoin-mountain/86)  [Memecoin Mountain](/c/ton-memelandia/memecoin-mountain/86) 
+
+    
+
+[ResistanceDog](https://tonresear.ch/u/ResistanceDog)  October 21, 2024, 7:09pm  1
+
+**Submission Form for Memecoin Mountain**
+
+1.  **Your Role in the Competition:**
+    
+    1.  Memecoin Project
+2.  **Memecoin Name:** Resistance Dog
+    
+3.  **Token Contract Address:** EQBZ\_cafPyDr5KUTs0aNxh0ZTDhkpEZONmLJA2SNGlLm4Cko
+    
+4.  **Market Cap (at the time of application):** 28 millions
+    
+5.  **Daily Trading Volume (for the last 7 days):** $2,257,881
+    
+6.  **Number of Unique Token Holders:** 26238
+    
+7.  **Has your token been fairly launched?**  
+    Yes
+    
+8.  **Please provide a link to your CoinGecko listing:** [https://www.coingecko.com/en/coins/resistance-dog](https://www.coingecko.com/en/coins/resistance-dog)
+    
+9.  **Are you applying for the Major League or Minor League?** Major League
+    
+10.  **Briefly describe your memecoin’s strategy for growth and community engagement:** Resistance is inevitable
+    
+11.  **Do you have any partnerships with Key Opinion Leaders (KOLs) or influencers?**  
+    We dont have official partnership with KOL, but most of the KOLs are already shilling REDO on daily basis such as Viktor and TON blockchain themself.
+    
+12.  **Would you like to receive updates and announcements during the competition?**
+    
+    1.  Yes
+13.  **Provide your Telegram username for communication and coordination:** [Telegram: Contact @Pushingbags](http://t.me/Pushingbags) | [Telegram: Contact @biasedgod](http://t.me/biasedgod) | [Telegram: Contact @crowshi](http://t.me/crowshi) | [Telegram: Contact @Rain\_OnChain](http://t.me/Rain_OnChain)
+    
+
+ 
+
+[Retail](https://tonresear.ch/u/Retail) October 26, 2024, 3:31pm  2
+
+List of things that make memecoins successful :
+
+1.  The community
+2.  The community
+3.  The community  
+    Join the RESISTANCE
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 38453
+
+[TON Research](/)
+
+# [$UTYA Submission for Memecoin Mountain](/t/utya-submission-for-memecoin-mountain/38453)
+
+[TON Memelandia](/c/ton-memelandia/memecoin-mountain/86)  [Memecoin Mountain](/c/ton-memelandia/memecoin-mountain/86) 
+
+    
+
+[UtyaTon](https://tonresear.ch/u/UtyaTon)  October 21, 2024, 7:13pm  1
+
+**Submission Form for Memecoin Mountain**
+
+1.  **Your Role in the Competition:**
+    1.  Memecoin Project
+
+_(Only for Memecoin Projects; skip if you are a Trader/Whale)_
+
+1.  **Memecoin Name:** Utya
+2.  **Token Contract Address:** EQBaCgUwOoc6gHCNln\_oJzb0mVs79YG7wYoavh-o1ItaneLA
+3.  **Market Cap (at the time of application):** ~$919k
+4.  **Daily Trading Volume (for the last 7 days):** Average $16532
+5.  **Number of Unique Token Holders:** 3006
+6.  **Has your token been fairly launched?** Yes
+    1.  Yes / No
+7.  **Please provide a link to your CoinGecko listing:** [https://www.coingecko.com/en/coins/utya](https://www.coingecko.com/en/coins/utya)
+8.  **Are you applying for the Major League or Minor League?** Minor League
+9.  **Briefly describe your memecoin’s strategy for growth and community engagement:** Our strategy includes creating engaging memes, hosting community activities like Telegram star giveaways, and collaborating with reputable TON projects. We will also focus on developing more Utya community-driven sticker packs, promoting Utya across social media platforms, and attracting volume from other chains by leveraging the well-known Telegram mascot.
+10.  **Do you have any partnerships with Key Opinion Leaders (KOLs) or influencers?** No
+
+(General)
+
+1.  **Would you like to receive updates and announcements during the competition?** Yes
+2.  **Provide your Telegram username for communication and coordination:** [@osiyu](/u/osiyu)
+
+  7 Likes
+
+[FamousFortune](https://tonresear.ch/u/FamousFortune) October 21, 2024, 11:46pm  2
+
+Being one of TGs most identifiable memes, it only seems natural that it should be included in the competition. Utya has, is, and always will be one of TONs strongest symbols.
+
+  6 Likes
+
+[superjohn](https://tonresear.ch/u/superjohn) October 22, 2024, 2:33am  3
+
+By far the best narrative on $TON  
+How could someone fade the telegram duck mascot?
+
+Just look at all these fantastic stickers. No other character / mascot gets this much love from telegram. Utya is universal!
+
+![](https://telegram.org/img/website_icon.svg?4) [Telegram](https://t.me/addstickers/UtyaDuckFull)
+
+![](https://telegram.org/img/t_logo_2x.png)
+
+### [Add sticker set Utya Duck 2 on Telegram](https://t.me/addstickers/UtyaDuckFull)
+
+![](https://telegram.org/img/website_icon.svg?4) [Telegram](https://t.me/addstickers/UTYATON_by_fStikBot)
+
+![](https://telegram.org/img/t_logo_2x.png)
+
+### [Add sticker set $UTYA on $TON @UTYAOFFICIAL on Telegram](https://t.me/addstickers/UTYATON_by_fStikBot)
+
+![](https://telegram.org/img/website_icon.svg?4) [Telegram](https://t.me/addstickers/DMJDuckX2)
+
+![](https://telegram.org/img/t_logo_2x.png)
+
+### [Add sticker set Duck X2 on Telegram](https://t.me/addstickers/DMJDuckX2)
+
+![](https://telegram.org/img/website_icon.svg?4) [Telegram](https://t.me/addstickers/utyatheduck_by_fStikBot)
+
+![](https://telegram.org/img/t_logo_2x.png)
+
+### [Add sticker set Utya Pack - @UTYAOFFICIAL :: @fStikBot on Telegram](https://t.me/addstickers/utyatheduck_by_fStikBot)
+
+#QUACK
+
+  4 Likes
+
+[osiyu](https://tonresear.ch/u/osiyu) October 22, 2024, 3:59am  4
+
+Utya was described as a “Viral Cultural Phenomenon” by Pavel Durov.  
+Utya is the telegram duck mascot.  
+Utya is the embodiment of telegram users.  
+Utya will be a winner of Memecoin Mountain.
+
+Be apart of a community that loves $TON, Telegram & bright yellow ducks!![:yellow_heart:](https://tonresear.ch/images/emoji/twitter/yellow_heart.png?v=12 ":yellow_heart:")
+
+Quack Quack
+
+![](https://telegram.org/img/website_icon.svg?4) [Telegram](https://t.me/UtyaOfficial)
+
+![](https://cdn4.cdn-telegram.org/file/RiHKXJV_KoN2qugGp3Bja83xwmsPVSVzswHGV9p26_yfs4mh1K1ly8cTkpUacF-5fDMelhLlV3JE_jx3-h507t20kI4xQd3yzsux3s8IlMVzJ_-w4-9Er_8UhIQisy5l38PBblpqYVU26JBkCtL7DrEN5CVdP51NOLA7ItWWgUfh9thm9NrOHdnZ9m29-1sCIh9T_2_DmBPBYUbmVnXCgqIyG-89jXNmOUewSxMacw_VseoZxbkvl2jfEEgl6NglOduE-gWwgllahMsZ6BQWOjkGedG1hl_lfOA2zaT8ssRP1IsBYtcPphbjBDC9nx8ftcaMINWHi9VSSoq32pPICA.jpg)
+
+### [$UTYA Portal](https://t.me/UtyaOfficial)
+
+You can view and join @UtyaOfficial right away.
+
+  4 Likes
+
+[Leverage](https://tonresear.ch/u/Leverage) October 22, 2024, 4:00am  5
+
+Being the face of telegram having the funniest sticker packs, being a global recognized meme, utya deserves to be included. Everyone knows the Duck but nobody knows his name… Utya
+
+  4 Likes
+
+[zenliu](https://tonresear.ch/u/zenliu) October 22, 2024, 8:06am  6
+
+UTYA has genuine holders and built up a lovely cult with a TON of telegram users.  
+People love UTYA and create a lot of different memes and sticker packs voluntarily.  
+It is creating positive impact to bring more people to TON.
+
+  3 Likes
+
+[TG0X](https://tonresear.ch/u/TG0X) October 24, 2024, 12:08pm  7
+
+Utya is the perfect candidate for Memecoin Mountain.
+
+We are battle tested & will grow in popularity in due time. Holders have built a community of full fledged yellow brainers!
+
+I look forward to seeinf the UTYA NFT stickers that Telegram produce!
+
+Lets onboard the right way…
+
+  4 Likes
+
+[UTYAMAXBID](https://tonresear.ch/u/UTYAMAXBID) October 28, 2024, 3:48am  9
+
+lets gooooooo utya is the top duck. biggest duck on ton! utya to win it all. quack quack mf. utya coming for your tokens. utya max bid.
+
+  2 Likes
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 38463
+
+[TON Research](/)
+
+# [RESISTANCE CAT ( $ RECA ) - Application for the Meme Mountain ( Major League )](/t/resistance-cat-reca-application-for-the-meme-mountain-major-league/38463)
+
+[TON Memelandia](/c/ton-memelandia/memecoin-mountain/86)  [Memecoin Mountain](/c/ton-memelandia/memecoin-mountain/86) 
+
+    
+
+[Reca](https://tonresear.ch/u/Reca)  October 21, 2024, 7:39pm  1
+
+**Submission Form for Memecoin Mountain**
+
+1.  **Your Role in the Competition:**
+    1.  Memecoin Project
+
+_(Only for Memecoin Projects; skip if you are a Trader/Whale)_
+
+1.  **Memecoin Name:** ResistanceCat
+2.  **Token Contract Address:** EQBwHOvf3UrPPJB7jeDHaOT-2vP0QQlDoEDBsgfv5XF75J3j
+3.  **Market Cap (at the time of application):** 1.5 Million
+4.  **Daily Trading Volume (for the last 7 days):** 30k in average
+5.  **Number of Unique Token Holders:** 6,452
+6.  **Has your token been fairly launched?**  
+    Yes
+7.  **Please provide a link to your CoinGecko listing:** [https://www.coingecko.com/en/coins/the-resistance-cat](https://www.coingecko.com/en/coins/the-resistance-cat)
+8.  **Are you applying for the Major League or Minor League?** Major League
+9.  **Briefly describe your memecoin’s strategy for growth and community engagement:** At ResistanceCat, our strategy has always focused on pushing boundaries to promote the TON ecosystem while ensuring our community benefits at every step. We’ve hosted over 12 shilling competitions with rewards totaling $300+, encouraging active participation on X (formerly Twitter) and using the $TON cashtag to support the ecosystem. In addition, our V1 game allowed many to play and earn $RECA, further motivating engagement.
+
+Looking ahead, we’re nearing the completion of our V2 game, ZooZap, which will launch with strong marketing efforts, including YouTube videos to attract new players and also keep our current community engaged .we also regularly reward active and positive community members , appreciating their contributions to both the ecosystem and our project.  
+11\. **Do you have any partnerships with Key Opinion Leaders (KOLs) or influencers?**  
+1\. Yes  
+3\. Crypto Rover ([x.com](https://x.com/rovercrc?t=52Rl9O3bTO2xwZl67pxKZg&s=09)), damx ([x.com](https://x.com/damxton?t=52Rl9O3bTO2xwZl67pxKZg&s=09)), mike([x.com](https://x.com/MikeThaInvestor?t=52Rl9O3bTO2xwZl67pxKZg&s=09))
+
+_(Only for Traders/Whales; skip if you are a Memecoin Project)_
+
+1.  **Trader’s Wallet Address:**
+2.  **Which memecoins are you primarily trading in this competition?**
+3.  **How did you find out about this competition?**
+    1.  Twitter / Telegram / Other
+4.  **Have you participated in any previous memecoin trading competitions?**
+    1.  Yes / No
+5.  **What’s your trading strategy for the upcoming season?**
+
+(General)
+
+1.  **Would you like to receive updates and announcements during the competition?**
+    1.  Yes
+2.  **Provide your Telegram username for communication and coordination:** @ZacharyTesta
+
+  5 Likes
+
+[Funmi](https://tonresear.ch/u/Funmi) October 21, 2024, 8:18pm  2
+
+Amazing project, resistance cat $RECA
+
+ 
+
+[Nigtiny\_inny](https://tonresear.ch/u/Nigtiny_inny) October 21, 2024, 8:24pm  3
+
+$RECA one memecoin with great potential and doing pretty well on $TON blockchain
+
+  1 Like
+
+[Jerry\_jr](https://tonresear.ch/u/Jerry_jr) October 21, 2024, 8:36pm  4
+
+$RECA potential is top notch. The dependable memecoin to the $TON blockchain. Skipping away is not the decision-making.
+
+$RECA SUBMISSION FOR MEMECOIN MOUNTAIN.
+
+ 
+
+[Davis221](https://tonresear.ch/u/Davis221) October 21, 2024, 8:58pm  5
+
+$RECA on $TON has been the best Memeicoin ever talked about in the crypto world and it has come to stay forever ![:fire:](https://tonresear.ch/images/emoji/twitter/fire.png?v=12 ":fire:")
+
+ 
+
+[Brauer\_George](https://tonresear.ch/u/Brauer_George) October 22, 2024, 3:10am  6
+
+$RECA allows seamless transactions and make trading easy in real-time. Stay position, the future of finance starts with $RECA
+
+ 
+
+[Sophie\_Will](https://tonresear.ch/u/Sophie_Will) October 22, 2024, 7:26am  7
+
+$RECA offers an in-built bridge service between EVM Chains, Solana, and $TON, making it easier for users to transfer assets across ecosystems.![:fire:](https://tonresear.ch/images/emoji/twitter/fire.png?v=12 ":fire:")  
+What no other memecoin on $TON has bern able to pull off. Which shows that $RECA is primed for long-term success ![:raised_hands:](https://tonresear.ch/images/emoji/twitter/raised_hands.png?v=12 ":raised_hands:")
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 38464
+
+[TON Research](/)
+
+# [Povel Durev | Memecoin Mountain](/t/povel-durev-memecoin-mountain/38464)
+
+[TON Memelandia](/c/ton-memelandia/memecoin-mountain/86)  [Memecoin Mountain](/c/ton-memelandia/memecoin-mountain/86) 
+
+    
+
+[PovelDurev](https://tonresear.ch/u/PovelDurev)  October 21, 2024, 7:46pm  1
+
+**Submission Form for Memecoin Mountain**
+
+1.  **Your Role in the Competition:**
+    
+    1.  Memecoin Project
+2.  **Memecoin Name: Povel Durev**
+    
+3.  **Token Contract Address: EQB02DJ0cdUD4iQDRbBv4aYG3htePHBRK1tGeRtCnatescK0**
+    
+4.  **Market Cap (at the time of application): $2M**
+    
+5.  **Daily Trading Volume (for the last 7 days): $100 000**
+    
+6.  **Number of Unique Token Holders: 55 000**
+    
+7.  **Has your token been fairly launched?**  
+    Presale
+    
+8.  **Please provide a link to your CoinGecko listing: [https://www.coingecko.com/en/coins/povel-durev](https://www.coingecko.com/en/coins/povel-durev)**
+    
+9.  **Are you applying for the Major League or Minor League? Major League**
+    
+10.  **Briefly describe your memecoin’s strategy for growth and community engagement: The original memecoin about Pavel Durov on the TON network.**
+    
+11.  **Do you have any partnerships with Key Opinion Leaders (KOLs) or influencers?**  
+    We don’t currently have partnerships with KOLs and Influencers, we are all one community. And we have good friends with different KOLs as well.
+    
+12.  **Would you like to receive updates and announcements during the competition?**  
+    Yes
+    
+13.  **Provide your Telegram username for communication and coordination: [Telegram: Contact @rsokolovsky](https://t.me/rsokolovsky), [Telegram: Contact @maratabzi](https://t.me/maratabzi), [Telegram: Contact @ism688](https://t.me/ism688)**
+    
+
+  9 Likes
+
+[snaiperde](https://tonresear.ch/u/snaiperde) October 22, 2024, 7:06pm  2
+
+I really hope that this time $durev will receive the recognition he deserves. For half a year, I believe Ton Foundation has paid too little attention to this project. The most underrated project, in my opinion! ![:eyes:](https://tonresear.ch/images/emoji/twitter/eyes.png?v=12 ":eyes:")
+
+Povel Durev #1 on Ton. ![:white_check_mark:](https://tonresear.ch/images/emoji/twitter/white_check_mark.png?v=12 ":white_check_mark:")
+
+  6 Likes
+
+[OpeXXX](https://tonresear.ch/u/OpeXXX) October 22, 2024, 7:17pm  3
+
+I don’t see Durev rivals,durev forward!
+
+  7 Likes
+
+[BoginyaLulinya](https://tonresear.ch/u/BoginyaLulinya) October 22, 2024, 7:23pm  4
+
+Good strong memecoin with big and funny community🔥
+
+  6 Likes
+
+[user1584](https://tonresear.ch/u/user1584) October 22, 2024, 7:26pm  5
+
+TON and Durev were made for each other.
+
+  5 Likes
+
+[Clwndd](https://tonresear.ch/u/Clwndd) October 22, 2024, 7:51pm  6
+
+$durev is one of the most underrated projects on TON, the price right now is perfect to buy a bag and ride to $1. Very strong project, strong team, and lots of partnerships
+
+  3 Likes
+
+[ydoboN](https://tonresear.ch/u/ydoboN) October 22, 2024, 7:56pm  7
+
+$DUREV best meme on TON ![:boom:](https://tonresear.ch/images/emoji/twitter/boom.png?v=12 ":boom:") LFG!
+
+  2 Likes
+
+[karter\_96](https://tonresear.ch/u/karter_96) October 23, 2024, 12:21pm  8
+
+In $durev we trust! Durev best community
+
+  1 Like
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 38466
+
+[TON Research](/)
+
+# [New meanings of NFT. BetManNFT looks to the future](/t/new-meanings-of-nft-betmannft-looks-to-the-future/38466)
+
+[Application](/c/application/20) 
+
+    
+
+[Betmannft](https://tonresear.ch/u/Betmannft)  October 21, 2024, 7:52pm  1
+
+Imagine that each of your NFT is not just a beautiful digital asset, but a real chance to win by predicting the bitcoin exchange rate! Yes, you heard right. **BetmanNFT** is a unique collection of stickers based on the TON blockchain, which allow you not only to collect, but also to participate in monthly sweepstakes.
+
+**How does it work?**
+
+• Each NFT has attributes: the day and the price of bitcoin.  
+• Every month, your sticker becomes a bet on the minimum or maximum value of bitcoin.  
+• If your prediction worked, you share the prize pool with other winners!
+
+**What makes BetmanNFT special?**
+
+It’s not just a collection — it’s a game where everyone can try their luck and win based on their predictions. **BetmanNFT** is your ticket to an exciting world where art meets financial opportunities.  
+Are you ready to try it? Hurry up to purchase your **BetmanNFT** and immerse yourself in the game where bets really matter!
+
+![:link:](https://tonresear.ch/images/emoji/twitter/link.png?v=12 ":link:") Join us on [site](https://betmannft.com/en)  
+![:iphone:](https://tonresear.ch/images/emoji/twitter/iphone.png?v=12 ":iphone:") And subscribe to our Telegram for all news and updates: [@betmannft](https://t.me/betmannft)
+
+**It’s time to make your bet on the future!**
+
+ 
+
+[Betmannft](https://tonresear.ch/u/Betmannft) October 21, 2024, 7:56pm  2
+
+Let’s get acquainted and develop the project together ![:hugs:](https://tonresear.ch/images/emoji/twitter/hugs.png?v=12 ":hugs:")
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 38482
+
+[TON Research](/)
+
+# [Shitcoin/ Minor League - Memecoin Mountain](/t/shitcoin-minor-league-memecoin-mountain/38482)
+
+[TON Memelandia](/c/ton-memelandia/memecoin-mountain/86)  [Memecoin Mountain](/c/ton-memelandia/memecoin-mountain/86) 
+
+    
+
+[Shitcoin](https://tonresear.ch/u/Shitcoin)  October 21, 2024, 8:57pm  1
+
+**Submission Form for Memecoin Mountain**
+
+1.  **Your Role in the Competition:**
+    
+    1.  Memecoin Project
+2.  **Memecoin Name: Shitcoin**
+    
+3.  **Token Contract Address: EQB4gPfG0YtoiJHCMTUuzxP9fKXy9nx6TFh-dcAltrnNpLNo**
+    
+4.  **Market Cap (at the time of application): $350 000**
+    
+5.  **Daily Trading Volume (for the last 7 days): $55 000**
+    
+6.  **Number of Unique Token Holders: 17 700**
+    
+7.  **Has your token been fairly launched?**  
+    Presale
+    
+8.  **Please provide a link to your CoinGecko listing: [https://www.coingecko.com/en/coins/shitcoin-on-ton](https://www.coingecko.com/en/coins/shitcoin-on-ton)**
+    
+9.  **Are you applying for the Major League or Minor League? Minor League**
+    
+10.  \*\*Briefly describe your memecoin’s strategy for growth and community engagement: $shitcoin was created in order to gather a strong community around itself and generate as many memes as possible as soon as possible. \*\*
+    
+11.  **Do you have any partnerships with Key Opinion Leaders (KOLs) or influencers?**
+    
+    1.  No
+12.  **Would you like to receive updates and announcements during the competition?**
+    
+    1.  Yes
+13.  **Provide your Telegram username for communication and coordination: [Telegram: Contact @maratabzi](https://t.me/maratabzi), [Telegram: Contact @ism688](https://t.me/ism688)**
+    
+
+  2 Likes
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 38486
+
+[TON Research](/)
+
+# [Ton Cat ($TCAT) | Memecoin Mountain](/t/ton-cat-tcat-memecoin-mountain/38486)
+
+[TON Memelandia](/c/ton-memelandia/memecoin-mountain/86)  [Memecoin Mountain](/c/ton-memelandia/memecoin-mountain/86) 
+
+    
+
+[Shemhamforash](https://tonresear.ch/u/Shemhamforash)  October 21, 2024, 9:45pm  1
+
+**Submission Form for Memecoin Mountain**
+
+1.  **Your Role in the Competition:**
+    1.  Memecoin Project
+
+_(Only for Memecoin Projects; skip if you are a Trader/Whale)_
+
+1.  **Memecoin Name:** Ton Cat
+2.  **Token Contract Address:** EQBtDmYgCKk3ecQ1x-j0CLZRnPYyaV7cB33ad036QN-HE2C7
+3.  **Market Cap (at the time of application):** $9.4M
+4.  **Daily Trading Volume (for the last 7 days):** 298.5k
+5.  **Number of Unique Token Holders:** 6.16k
+6.  **Has your token been fairly launched?**
+    1.  Yes
+7.  **Please provide a link to your CoinGecko listing:** [https://www.coingecko.com/en/coins/ton-cat](https://www.coingecko.com/en/coins/ton-cat)
+8.  **Are you applying for the Major League or Minor League?** Major League
+9.  **Briefly describe your memecoin’s strategy for growth and community engagement:** Dedicated fan token to Meow. PPP is the future no more PVP no more toxic crypto culture. It’s time for the community to unite
+10.  **Do you have any partnerships with Key Opinion Leaders (KOLs) or influencers?**
+    1.  No
+
+(General)
+
+1.  **Would you like to receive updates and announcements during the competition?**
+    1.  Yes
+2.  **Provide your Telegram username for communication and coordination:**@shemhamforaash
+
+  27 Likes
+
+[Usher](https://tonresear.ch/u/Usher) October 21, 2024, 9:49pm  2
+
+$TCAT about to melt faces, strap in.
+
+  13 Likes
+
+[thegiftedone\_yt](https://tonresear.ch/u/thegiftedone_yt) October 21, 2024, 9:57pm  3
+
+lfgg, $TCAT for the win!
+
+  11 Likes
+
+[CryptoNeptune](https://tonresear.ch/u/CryptoNeptune) October 21, 2024, 10:07pm  4
+
+$TCAT lives by PPP! It’s the only way.
+
+  12 Likes
+
+[Marley](https://tonresear.ch/u/Marley) October 21, 2024, 10:16pm  5
+
+$TCAT is a movement. A PPP movement, one where no member of the community is left behind.  
+Genuinely want to see everyone win in these cold streets of crypto ![:face_in_clouds:](https://tonresear.ch/images/emoji/twitter/face_in_clouds.png?v=12 ":face_in_clouds:")
+
+  8 Likes
+
+[Sergio\_Mendes](https://tonresear.ch/u/Sergio_Mendes) October 21, 2024, 10:36pm  6
+
+It seems this form has been incorrectly filled out
+
+"Question 10: Do you have any partnerships with Key Opinion Leaders (KOLs) or influencers?\*\*
+
+1.  No"
+
+The answer is Yes. Kyle Chasse as advisor and Luke Belmar as Influencer
+
+“Guys when we raid, make a comment about Kyle chasse being our advisor, @ him on Twitter, comment on Luke Belmar being in the chat too, @ him in your responses.”
+
+“And you know what happens when we finally get pushed by top tier KOLs and listed on top tier exchanges? Boom.![:boom:](https://tonresear.ch/images/emoji/twitter/boom.png?v=12 ":boom:")”
+
+Phase 2 imminent  
+$5.1 mil burn ![:white_check_mark:](https://tonresear.ch/images/emoji/twitter/white_check_mark.png?v=12 ":white_check_mark:")  
+( Already burnt $1.5 mil, so make it $6.6mil, collectively so far )  
+Luke Belmars here ![:white_check_mark:](https://tonresear.ch/images/emoji/twitter/white_check_mark.png?v=12 ":white_check_mark:")
+
+“LUKE BELMAR IS IN THIS PROJECT FOR THOSE WHO DONT KNOW”
+
+“You need to have long term vision bro, millionaire dev , burning 30% of the supply, Kyle chasse as an advisor , Luke Belmar is on board”
+
+  5 Likes
+
+[Bryan\_Solano](https://tonresear.ch/u/Bryan_Solano) October 21, 2024, 10:54pm  7
+
+Lets go tcat!! Best project on TON ecosystem
+
+  10 Likes
+
+[Nino](https://tonresear.ch/u/Nino) October 21, 2024, 11:30pm  8
+
+TCAT about to go wild
+
+  9 Likes
+
+[Usher](https://tonresear.ch/u/Usher) October 21, 2024, 11:34pm  9
+
+Thanks for bringing it to our attention, Luke belmar is not officially affiliated, he has joined the chat, but no official affiliation as of today, we’ll get clarification about Kyle.
+
+  9 Likes
+
+[Rich\_K9](https://tonresear.ch/u/Rich_K9) October 21, 2024, 11:57pm  10
+
+The #TCAT community was built on #PPP! Now’s the time to show people what that means! ![:sunglasses:](https://tonresear.ch/images/emoji/twitter/sunglasses.png?v=12 ":sunglasses:")
+
+  10 Likes
+
+[Normal\_Nom](https://tonresear.ch/u/Normal_Nom) October 22, 2024, 1:34am  11
+
+Tcat is ready for takeoff!!
+
+  9 Likes
+
+[Frog](https://tonresear.ch/u/Frog) October 22, 2024, 2:20am  12
+
+We will prove that we are cultist memecoin on ton.
+
+  9 Likes
+
+[edmac](https://tonresear.ch/u/edmac) October 22, 2024, 3:45am  13
+
+$TCAT was built for this! This is the coming out party!
+
+  10 Likes
+
+[toncrypto1](https://tonresear.ch/u/toncrypto1) October 22, 2024, 3:56am  14
+
+Questionable CTO led by a team farming from other projects
+
+  3 Likes
+
+[Pinarbam](https://tonresear.ch/u/Pinarbam) October 22, 2024, 3:59am  15
+
+TCAT all the way. Love the cult, great community ![:heart:](https://tonresear.ch/images/emoji/twitter/heart.png?v=12 ":heart:")
+
+  10 Likes
+
+[OldWest](https://tonresear.ch/u/OldWest) October 22, 2024, 4:04am  16
+
+Been in this space for 3 years, this is the best project for any investor! Holding since day 1, and will continue to hold, this is an absolute gem.
+
+  9 Likes
+
+[soa309](https://tonresear.ch/u/soa309) October 22, 2024, 4:35am  17
+
+Ain’t no mountain too high for TCAT.  
+PPP is the future
+
+  9 Likes
+
+[Norgler](https://tonresear.ch/u/Norgler) October 22, 2024, 4:43am  18
+
+$TCAT best community in TON. Holding Till moon, never selling. Leading PPP culture on TON.  
+$TCAT THAT’S THE WAY
+
+  8 Likes
+
+[Kxxgvn](https://tonresear.ch/u/Kxxgvn) October 22, 2024, 5:05am  19
+
+$TCAT its go time. The first cat to conquer meme mountain.
+
+  6 Likes
+
+[leomone](https://tonresear.ch/u/leomone) October 22, 2024, 6:33am  20
+
+Let’s go $TCAT, it’s our season. The strongest community ever
+
+  6 Likes
+
+**[next page →](/t/ton-cat-tcat-memecoin-mountain/38486?page=2)**
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 38505
+
+[TON Research](/)
+
+# [DuckCoin $DUCK Application for Memecoin Mountain](/t/duckcoin-duck-application-for-memecoin-mountain/38505)
+
+[TON Memelandia](/c/ton-memelandia/memecoin-mountain/86)  [Memecoin Mountain](/c/ton-memelandia/memecoin-mountain/86) 
+
+    
+
+[Duck](https://tonresear.ch/u/Duck)  October 22, 2024, 2:39am  1
+
+**Submission Form for Memecoin Mountain**
+
+1.  **Your Role in the Competition:**
+    1.  Memecoin Project / Trader / Whale
+
+_(Only for Memecoin Projects; skip if you are a Trader/Whale)_
+
+1.  **Memecoin Name:** Duck
+2.  **Token Contract Address:** EQBTcytZjdZwFLj6TO7CeGvn4aMmqXvbX-nODiApbd011gT3
+3.  **Market Cap (at the time of application):** $820,739
+4.  **Daily Trading Volume (for the last 7 days):** $5,500
+5.  **Number of Unique Token Holders:** 8,399 hodlers
+6.  **Has your token been fairly launched?** Yes
+    1.  Yes / No
+7.  **Please provide a link to your CoinGecko listing:** [https://www.coingecko.com/en/coins/duckcoin](https://www.coingecko.com/en/coins/duckcoin)
+8.  **Are you applying for the Major League or Minor League?** Minor League
+9.  **Briefly describe your memecoin’s strategy for growth and community engagement:** Duck is the official mascot of Telegram memecoin. Duck Flock ready to compete for Memeland prizes. The ducks will host events, create memes, and create various game activities for users.
+10.  **Do you have any partnerships with Key Opinion Leaders (KOLs) or influencers?** No
+    1.  Yes / No
+    2.  If yes, please specify.
+
+_(Only for Traders/Whales; skip if you are a Memecoin Project)_
+
+(General)
+
+1.  **Would you like to receive updates and announcements during the competition?** Yes
+    1.  Yes / No
+2.  **Provide your Telegram username for communication and coordination:** @HowardTemfest
+
+ 
+
+[Howard\_Tempest](https://tonresear.ch/u/Howard_Tempest) October 27, 2024, 3:15am  2
+
+Duck is the official mascot of telegram use our stickers with one of the best memes in TON
+
+![](https://telegram.org/img/website_icon.svg?4) [Telegram](https://t.me/addstickers/UtyaDuck)
+
+![](https://telegram.org/img/t_logo_2x.png)
+
+### [Add sticker set Duck on Telegram](https://t.me/addstickers/UtyaDuck)
+
+![](https://telegram.org/img/website_icon.svg?4) [Telegram](https://t.me/addstickers/DMJDuckX2)
+
+![](https://telegram.org/img/t_logo_2x.png)
+
+### [Add sticker set Duck X2 on Telegram](https://t.me/addstickers/DMJDuckX2)
+
+![](https://telegram.org/img/website_icon.svg?4) [Telegram](https://t.me/addstickers/Trump_Duck)
+
+![](https://telegram.org/img/t_logo_2x.png)
+
+### [Add sticker set Trump-Duck on Telegram](https://t.me/addstickers/Trump_Duck)
+
+![](https://telegram.org/img/website_icon.svg?4) [Telegram](https://t.me/addstickers/DuckBundle)
+
+![](https://telegram.org/img/t_logo_2x.png)
+
+### [Add sticker set $DUCK @DuckCoin on Telegram](https://t.me/addstickers/DuckBundle)
+
+  1 Like
+
+[Tema\_Kirishenko](https://tonresear.ch/u/Tema_Kirishenko) October 29, 2024, 3:35am  3
+
+$DUCK LONG LOVE, only up
+
+  1 Like
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 38533
+
+[TON Research](/)
+
+# [Du Rove’s Wall ($WALL) / Major League - Memecoin Mountain](/t/du-rove-s-wall-wall-major-league-memecoin-mountain/38533)
+
+[TON Memelandia](/c/ton-memelandia/memecoin-mountain/86)  [Memecoin Mountain](/c/ton-memelandia/memecoin-mountain/86) 
+
+    
+
+[CMO\_WALL](https://tonresear.ch/u/CMO_WALL)  October 22, 2024, 9:42am  1
+
+**Submission Form for Memecoin Mountain**
+
+1.  **Your Role in the Competition:**
+    
+    1.  Memecoin Project
+2.  Du Rove’s Wall
+    
+3.  EQDdCha\_K-Z97lKl599O0GDAt0py2ZUuons4Wuf85tq6NXIO
+    
+4.  Market Cap (at the time of application): 1.5 million
+    
+5.  \*\*Daily Trading Volume (for the last 7 days): $54,000 average
+    
+6.  \*\*Number of Unique Token Holders: 6620
+    
+7.  **Has your token been fairly launched?**  
+    Yes
+    
+8.  \*\*Please provide a link to your CoinGecko listing: [https://www.coingecko.com/en/coins/du-rove-s-wall](https://www.coingecko.com/en/coins/du-rove-s-wall)
+    
+9.  \*\*Are you applying for the Major League or Minor League? Major League
+    
+10.  \*\*Briefly describe your memecoin’s strategy for growth and community engagement: Du Rove, bring back the Wall!!!
+    
+11.  **Do you have any partnerships with Key Opinion Leaders (KOLs) or influencers?**
+    
+    1.  Yes
+    2.  This information is classified at the moment, TBA
+12.  **Would you like to receive updates and announcements during the competition?**  
+    Yes
+    
+13.  \*\*Provide your Telegram username for communication and coordination: @Komar\_TON  
+    @walldweller
+    
+
+  7 Likes
+
+[Mhm\_Arj](https://tonresear.ch/u/Mhm_Arj) November 10, 2024, 7:22pm  2
+
+@mohamad7arj wall is good project
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 38542
+
+[TON Research](/)
+
+# [$COFE | Memecoin Mountain App](/t/cofe-memecoin-mountain-app/38542)
+
+[TON Memelandia](/c/ton-memelandia/memecoin-mountain/86)  [Memecoin Mountain](/c/ton-memelandia/memecoin-mountain/86) 
+
+    
+
+[Cofe](https://tonresear.ch/u/Cofe)  October 22, 2024, 11:37am  1
+
+**Submission Form for Memecoin Mountain**
+
+Your Role in the Competition: Memecoin Project
+
+1.  Memecoin Name:
+
+$COFE
+
+2.  Token Contract Address:
+
+EQA9dayEKflrL-wIf-GKGizj26pvX0QCIxwmRgqzg5U\_c3YB
+
+3.  Market Cap (at the time of application):
+
+$3.3m
+
+4.  Daily Trading Volume (for the last 7 days):
+
+cc $8k
+
+5.  Number of Unique Token Holders:
+
+2.81k unique holders
+
+6.  Has your token been fairly launched:
+
+Yes
+
+7.  Please provide a link to your CoinGecko listing:
+
+Pending for CoinGecko approval (application ID: CL2210240012)
+
+8.  Are you applying for the Major League or Minor League:
+
+Minor League as our TVL < $1m
+
+9.  Briefly describe your memecoin’s strategy for growth and community engagement:
+
+Our growth strategy is combining gamification with defi (for example, we introduced FomoTon and Freemint $cofe events before and also provided more than $500k farming reward in the Open League). Next step is really focusing on user expansion and retention via gamification and innovative defi idea. Stay tuned pls.
+
+10.  Do you have any partnerships with Key Opinion Leaders (KOLs) or influencers?
+
+Not yet (but we do have list of KOL to work with, waiting for right timing)
+
+(General)
+
+1.  Would you like to receive updates and announcements during the competition?
+
+Yes
+
+2.  Provide your Telegram username for communication and coordination:
+
+@cofe\_ton
+
+ 
+
+[Cofe](https://tonresear.ch/u/Cofe) October 23, 2024, 4:26pm  2
+
+[https://www.coingecko.com/en/coins/coffee-2](https://www.coingecko.com/en/coins/coffee-2) (coingecko listing updated)
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 38566
+
+[TON Research](/)
+
+# [$Mittens Memecoin Mountain application](/t/mittens-memecoin-mountain-application/38566)
+
+[TON Memelandia](/c/ton-memelandia/memecoin-mountain/86)  [Memecoin Mountain](/c/ton-memelandia/memecoin-mountain/86) 
+
+    
+
+[AltcoinDe6en](https://tonresear.ch/u/AltcoinDe6en)  October 22, 2024, 4:49pm  1
+
+**Submission Form for Memecoin Mountain**
+
+1.  **Your Role in the Competition:**
+    1.  Memecoin Project
+
+_(Only for Memecoin Projects; skip if you are a Trader/Whale)_
+
+1.  \*\*Memecoin Name: Mittens
+2.  \*\*Token Contract Address: EQBwy-wJ-wCqh0mfJHoWjmulJ0oIRKEJJt75ULyrJNPcnn5z
+3.  \*\*Market Cap (at the time of application): 683k
+4.  \*\*Daily Trading Volume (for the last 7 days): 5-15k
+5.  \*\*Number of Unique Token Holders: 3628
+6.  \*\*Has your token been fairly launched?
+    1.  Yes
+7.  \*\*Please provide a link to your CoinGecko listing: [https://www.coingecko.com/en/coins/mittens](https://www.coingecko.com/en/coins/mittens)
+8.  \*\*Are you applying for the Major League or Minor League? Both, depends if we reach 1m mcap by the time the competiton begins. If below 1m mcap, then minor league.
+9.  \*\*Briefly describe your memecoin’s strategy for growth and community engagement: Daily twitter content, collabs with other Ton projects and KOLs, community competition, raids, and other marketing steps (billboards, dex-ads, telegram ads etc.).
+10.  **Do you have any partnerships with Key Opinion Leaders (KOLs) or influencers?**
+    1.  Yes
+    2.  @TheJanaNFT and a few others
+
+(General)
+
+1.  **Would you like to receive updates and announcements during the competition?**
+    1.  Yes
+2.  \*\*Provide your Telegram username for communication and coordination: [@altcoinde6en](/u/altcoinde6en)
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 38570
+
+[TON Research](/)
+
+# [$KAKAXA | Memecoin Mountain Application](/t/kakaxa-memecoin-mountain-application/38570)
+
+[TON Memelandia](/c/ton-memelandia/memecoin-mountain/86)  [Memecoin Mountain](/c/ton-memelandia/memecoin-mountain/86) 
+
+    
+
+[Zayn](https://tonresear.ch/u/Zayn)  October 22, 2024, 5:30pm  1
+
+Submission Form for Memecoin Mountain
+
+1.  **Your Role in the Competition:**
+    1.  Memecoin Project
+
+_(Only for Memecoin Projects; skip if you are a Trader/Whale)_
+
+1.  \*\*Memecoin Name: KAKAXA
+2.  \*\*Token Contract Address: EQDqz7LTwgj016kiTiSooM\_ft8kveL2P4pj4fkJmsUV\_an\_X
+3.  \*\*Market Cap (at the time of application): 589К
+4.  \*\*Daily Trading Volume (for the last 7 days): 102 019$
+5.  \*\*Number of Unique Token Holders: 7.91k
+6.  **Has your token been fairly launched?**
+    1.  Presale
+7.  \*\*Please provide a link to your CoinGecko listing: [https://www.coingecko.com/en/coins/kakaxa](https://www.coingecko.com/en/coins/kakaxa)
+8.  \*\*Are you applying for the Major League or Minor League? Minor League
+9.  \*\*Briefly describe your memecoin’s strategy for growth and community engagement: The most true memecoin with the most fundamental shit. Unlike other projects, $KAKAXA proudly identifies with the core feature that defines the project - the meme and utility telegram mini app game.
+10.  **Do you have any partnerships with Key Opinion Leaders (KOLs) or influencers?**  
+    Yes, one of the founders of our token is an influencer with 2.2 million subscribers on his socials including Instagram, telegram, and youtube
+
+(General)
+
+1.  **Would you like to receive updates and announcements during the competition?**  
+    Yes
+2.  \*\*Provide your Telegram username for communication and coordination: @sugarzayn, @Ozzysndk
+
+  25 Likes
+
+[Sasha\_Kostyukovich](https://tonresear.ch/u/Sasha_Kostyukovich) October 22, 2024, 6:00pm  2
+
+Let the hunger games begin ![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:")
+
+  12 Likes
+
+[Alek](https://tonresear.ch/u/Alek) October 22, 2024, 6:01pm  3
+
+Kakaxa to the moon ![:last_quarter_moon_with_face:](https://tonresear.ch/images/emoji/twitter/last_quarter_moon_with_face.png?v=12 ":last_quarter_moon_with_face:")![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:")  
+Waiting for BingX listing ![:face_with_hand_over_mouth:](https://tonresear.ch/images/emoji/twitter/face_with_hand_over_mouth.png?v=12 ":face_with_hand_over_mouth:")
+
+  12 Likes
+
+[Onspirin](https://tonresear.ch/u/Onspirin) October 22, 2024, 6:03pm  4
+
+Hello my braze for inane Mather, I love you !
+
+  10 Likes
+
+[Red\_Bull](https://tonresear.ch/u/Red_Bull) October 22, 2024, 6:04pm  5
+
+Let’s go $KAKAXA TO THO MOOOOON!!!
+
+  11 Likes
+
+[Michaels](https://tonresear.ch/u/Michaels) October 22, 2024, 6:19pm  6
+
+$KAKAXA RUN 2.0 to the moon ![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:")
+
+  8 Likes
+
+[Yalchin797](https://tonresear.ch/u/Yalchin797) October 22, 2024, 6:24pm  7
+
+KAKAXA the best project ![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:")
+
+  8 Likes
+
+[Onli](https://tonresear.ch/u/Onli) October 22, 2024, 6:50pm  8
+
+Ох, какаха…!)  
+Как же радуешь🔥  
+Не зря холдил и откупал всю дорогу в низ, ахах  
+Мой план прежний 3,5$ за 1 токен
+
+  7 Likes
+
+[Shestakov\_il](https://tonresear.ch/u/Shestakov_il) October 22, 2024, 7:25pm  9
+
+To the moon kakaxa ![:crescent_moon:](https://tonresear.ch/images/emoji/twitter/crescent_moon.png?v=12 ":crescent_moon:")![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:")
+
+  6 Likes
+
+[Jazz90](https://tonresear.ch/u/Jazz90) October 22, 2024, 7:34pm  10
+
+$KAKAXA is back  
+I believed it🤑
+
+  5 Likes
+
+[AntonBatsaev](https://tonresear.ch/u/AntonBatsaev) October 22, 2024, 7:59pm  11
+
+$KAKAXA has great team and the best holders:) you can check or just buy and watch ![:smiling_face:](https://tonresear.ch/images/emoji/twitter/smiling_face.png?v=12 ":smiling_face:")
+
+  6 Likes
+
+[user893](https://tonresear.ch/u/user893) October 22, 2024, 9:20pm  12
+
+The future belongs to kakaxa, believe me guys!  
+To the moon ![:crescent_moon:](https://tonresear.ch/images/emoji/twitter/crescent_moon.png?v=12 ":crescent_moon:")
+
+  5 Likes
+
+[user856](https://tonresear.ch/u/user856) October 22, 2024, 9:44pm  13
+
+![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:") ![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:") ![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:") The best token on the TON network, it’s making a comeback ![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:") ![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:") ![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:")
+
+  2 Likes
+
+[user2576](https://tonresear.ch/u/user2576) October 23, 2024, 4:52am  14
+
+Kakaxa best mem in the world!
+
+  2 Likes
+
+[Yellow707](https://tonresear.ch/u/Yellow707) October 23, 2024, 1:31pm  15
+
+Everyone needs some $KAKAXA
+
+  2 Likes
+
+[user2580](https://tonresear.ch/u/user2580) October 23, 2024, 3:33pm  16
+
+$KAKAXA best project, team, comunity. HODL!
+
+  1 Like
+
+[Samat09](https://tonresear.ch/u/Samat09) October 24, 2024, 1:10pm  17
+
+Kakaxa top , let’s go ![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:")![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:")![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:")
+
+  1 Like
+
+[user893](https://tonresear.ch/u/user893) October 24, 2024, 7:52pm  18
+
+KAKAXA TOP! It’s my love ![:heartbeat:](https://tonresear.ch/images/emoji/twitter/heartbeat.png?v=12 ":heartbeat:")
+
+  1 Like
+
+[Yurij\_Karniaichuk](https://tonresear.ch/u/Yurij_Karniaichuk) October 27, 2024, 9:00am  19
+
+In $KAKAXA we trust . Kakaxa top 1 mem coin on ton
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 38612
+
+[TON Research](/)
+
+# [THE RESISTANCE GIRL - A Breathtaking Revolution on $TON! | Official Resistance-Themed Sticker Pack on Telegram | Memecoin Mountain Application](/t/the-resistance-girl-a-breathtaking-revolution-on-ton-official-resistance-themed-sticker-pack-on-telegram-memecoin-mountain-application/38612)
+
+[TON Memelandia](/c/ton-memelandia/memecoin-mountain/86)  [Memecoin Mountain](/c/ton-memelandia/memecoin-mountain/86) 
+
+    
+
+[regi-team](https://tonresear.ch/u/regi-team)   October 22, 2024, 8:04pm  1
+
+[![The Resistance Girl - Tribute to hooded girl who embraces internet freedoms and fights against censorship](https://tonresear.ch/uploads/default/optimized/2X/e/ec2689a051195be6c33e77b0cdd9478fa8c18c04_2_690x277.png)
+
+The Resistance Girl - Tribute to hooded girl who embraces internet freedoms and fights against censorship894×360 73.4 KB
+
+](https://tonresear.ch/uploads/default/original/2X/e/ec2689a051195be6c33e77b0cdd9478fa8c18c04.png "The Resistance Girl - Tribute to hooded girl who embraces internet freedoms and fights against censorship")
+
+## [](#p-63182-your-role-in-the-competition-1)Your Role in the Competition
+
+Memecoin Project
+
+## [](#p-63182-memecoin-name-2)Memecoin Name
+
+$REGI - The Resistance Girl
+
+## [](#p-63182-token-contract-address-3)Token Contract Address
+
+EQCcYUWKhjGxwqtk\_je9LW2V4RoFmbhOUR9e404Y6FQTEXHh
+
+## [](#p-63182-market-cap-at-the-time-of-application-4)Market Cap (at the time of application)
+
+~800k, ~5.5m ATH
+
+## [](#p-63182-daily-trading-volume-for-the-last-7-days-5)Daily Trading Volume (for the last 7 days):
+
+30-50k on average
+
+## [](#p-63182-number-of-unique-token-holders-6)Number of Unique Token Holders
+
+5931
+
+## [](#p-63182-has-your-token-been-fairly-launched-7)Has your token been fairly launched?
+
+Fair launch, with team supply purchased from open market
+
+## [](#p-63182-please-provide-a-link-to-your-coingecko-listing-8)Please provide a link to your CoinGecko listing
+
+[https://www.coingecko.com/en/coins/resistance-girl](https://www.coingecko.com/en/coins/resistance-girl)
+
+## [](#p-63182-are-you-applying-for-the-major-league-or-minor-league-9)Are you applying for the Major League or Minor League?
+
+Minor league for this season
+
+## [](#p-63182-briefly-describe-your-memecoins-strategy-for-growth-and-community-engagement-10)Briefly describe your memecoin’s strategy for growth and community engagement
+
+We are paying tribute to the legendary Resistance Girl - official Telegram sticker pack, hooded girl who embraces internet freedoms and fights against censorship. Having fallen in love with this character long before $TON was even a thing, we are not only aiming to make ideas about digital resistance more popular in society, but also to make people think more about their digital freedoms and fight for the better future of the Internet. And, of course, to facilitate the unstoppable growth of the $TON blockchain!
+
+### [](#p-63182-who-are-we-11)Who are we? ![:adult:](https://tonresear.ch/images/emoji/twitter/adult.png?v=12 ":adult:")![:man_beard:](https://tonresear.ch/images/emoji/twitter/man_beard.png?v=12 ":man_beard:")![:woman:](https://tonresear.ch/images/emoji/twitter/woman.png?v=12 ":woman:")
+
+A team of seven professionals passionate about building brands, with combined experience of 40 years in crypto.  
+Currently team consists of:
+
+*   2 marketing gurus with solid connections in crypto
+*   1 listing manager
+*   1 senior designer
+*   1 cartoon artist
+*   1 music producer
+*   1 developer
+
+## [](#p-63182-do-you-have-any-partnerships-with-key-opinion-leaders-kols-or-influencers-12)Do you have any partnerships with Key Opinion Leaders (KOLs) or influencers?
+
+No
+
+## [](#p-63182-would-you-like-to-receive-updates-and-announcements-during-the-competition-13)Would you like to receive updates and announcements during the competition?
+
+Yes
+
+## [](#p-63182-provide-your-telegram-username-for-communication-and-coordination-14)Provide your Telegram username for communication and coordination
+
+![](https://telegram.org/img/website_icon.svg?4) [Telegram](https://t.me/probs_nothing)
+
+![](https://cdn1.cdn-telegram.org/file/OVjjueSzIeCVYrZz8JL2g4VfaBrMD-HzzXYYfHuc8FUrgSlIHEzOhiU7SO63mzIKGXftLjx66gwUbAXjS0Ycte1a_2t_-VS5m2PdTAeE3owA1wuodSA9H4VNrbAocGKEOUjUfCuijbjYGIlQExwkpL_x5n0MyXnYRIvo92qa4mmNnDwWc6xh41YWVlTTj2GTCobqu8oMjEVmVCRHhiq_n5qJ5X5bNnBONH8HVRH2hhNS3WX9ftoC0Fmyny_Vneek4nOkYVqnR3xclINqnYdQfL7I-R9tz0nbsVjk0soTqnhE_4ZfLorgNfQkEFu2IT4LehKJyFRES-Hoh6BOkWGj3A.jpg)
+
+### [Lily LaFleur | $REGI](https://t.me/probs_nothing)
+
+You can contact @probs\_nothing right away.
+
+  3 Likes
+
+[andL64](https://tonresear.ch/u/andL64) October 23, 2024, 6:13am  2
+
+LFG $REGI - Let the Games begin!
+
+Very excited!
+
+Lets show our strenght of the RESISTANCE GIRL!
+
+  2 Likes
+
+[Rafal\_Holeczki](https://tonresear.ch/u/Rafal_Holeczki) October 23, 2024, 12:10pm  3
+
+$REGI best Resistance narrative on TON!
+
+  1 Like
+
+[vanyaindigo](https://tonresear.ch/u/vanyaindigo) October 30, 2024, 7:39am  4
+
+Go $REGI. go!  
+Wish all success.
+
+  1 Like
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 3863
+
+[TON Research](/)
+
+# [TON SHIP \[$SHIP\] - The Open League Application](/t/ton-ship-ship-the-open-league-application/3863)
+
+[The Open League](/c/the-open-league/token-leaderboard/57)  [Token Battle](/c/the-open-league/token-leaderboard/57) 
+
+    
+
+[TonShipCom](https://tonresear.ch/u/TonShipCom)   April 3, 2024, 11:00am  1
+
+## [](#token-name-1)Token Name:
+
+TON SHIP
+
+## [](#projects-website-2)Project’s Website:
+
+![](https://tonresear.ch/uploads/default/original/2X/e/ecadae237731099f30ded106045f4bca5193f74c.png) [TON SHIP](https://tonship.com)
+
+![](https://tonresear.ch/uploads/default/optimized/2X/6/6c0ca389db1ccb968208a5d2341086f6fe8245ac_2_475x500.png)
+
+### [TON SHIP – The First Ship That Has Docked](https://tonship.com)
+
+The First Ship That Has Docked
+
+## [](#projects-twitter-3)Project’s Twitter:
+
+→ [https://twitter.com/TonShipCom](https://twitter.com/TonShipCom) ←
+
+## [](#projects-telegram-group-4)Project’s Telegram Group:
+
+![](https://telegram.org/img/website_icon.svg?4) [Telegram](https://t.me/TonShipCom)
+
+![](https://tonresear.ch/uploads/default/original/2X/0/0eddad7257073fcd093083c6a2e55bea6b2e9c32.jpeg)
+
+### [TON SHIP - The First Ship That Has Docked on the TON Network](https://t.me/TonShipCom)
+
+Ready for a pirate adventure in the world of cryptocurrencies? 🏴‍☠️ Join our TON SHIP Telegram channel to uncover the latest information treasures, joke with the crew, and sail on the waves of memes. All hands on deck for daily updates and pirate fun
+
+## [](#link-to-the-tokens-page-on-dyor-5)Link to the token’s page on DYOR:
+
+![](https://tonresear.ch/uploads/default/original/2X/2/2ebc013a35060e0e0eb38db97f305074e455faa6.png) [dyor.io](https://dyor.io/ko/token/EQA1jvPqRx6bujYohDny43hwX8FZr3b6OYnI3t2jHd4TXSJs)
+
+![](https://tonresear.ch/uploads/default/optimized/2X/b/b826500d1ea599b9a15cbb37efa203b130ae8664_2_690x362.jpeg)
+
+### [TON SHIP (SHIP) Token Price - DYOR.ninja](https://dyor.io/ko/token/EQA1jvPqRx6bujYohDny43hwX8FZr3b6OYnI3t2jHd4TXSJs)
+
+The live TON SHIP price today is 0.000000000236 USD with a 24-hour trading volume of 136,941.92 USD. We update our SHIP to USD price in real-time.
+
+## [](#link-to-the-tokens-page-on-coinmarketcap-6)Link to the token’s page on Coinmarketcap:
+
+![](https://tonresear.ch/uploads/default/original/2X/d/d6fa90cf1cd47bd24db43f13e7303e92adfa3712.png) [CoinMarketCap](https://coinmarketcap.com/currencies/ton-ship/)
+
+![](https://tonresear.ch/uploads/default/original/2X/e/e2f456f247443a6379b90d540ce2296f4b661e37.png)
+
+### [Ton Ship price today, SHIP to USD live price, marketcap and chart |...](https://coinmarketcap.com/currencies/ton-ship/)
+
+The live Ton Ship price today is $0 USD with a 24-hour trading volume of $0 USD. We update our SHIP to USD price in real-time.
+
+## [](#link-to-the-tokens-page-on-coingecko-7)Link to the token’s page on Coingecko:
+
+![](https://tonresear.ch/uploads/default/original/2X/f/f602980da55b76c8c62db54ccb8a7ed34a5b2666.png) [CoinGecko](https://www.coingecko.com/en/coins/ton-ship)
+
+![](https://tonresear.ch/uploads/default/original/2X/8/8b1b747eefdfc48cb2346bf84e64a8d32e62d2ae.png)
+
+### [Ton Ship Price: SHIP Live Price Chart, Market Cap & News Today | CoinGecko](https://www.coingecko.com/en/coins/ton-ship)
+
+Track the latest Ton Ship price, market cap, trading volume, news and more with CoinGecko's live SHIP price chart and popular cryptocurrency price tracker.
+
+## [](#your-name-8)Your name:
+
+TonShipCaptain
+
+## [](#your-telegram-handle-9)Your Telegram handle:
+
+@TonShipCaptain
+
+## [](#other-tonship-official-links-and-info-10)Other TonShip Official links and info:
+
+## [](#blue_book-gitbook-11)![:blue_book:](https://tonresear.ch/images/emoji/twitter/blue_book.png?v=12 ":blue_book:") GITBOOK:
+
+LitePaper:
+
+![](https://tonresear.ch/uploads/default/original/2X/d/dfc4073fb8a7bf6f0a1c66e861eea54cda3e08d6.png) [ton-ship.gitbook.io](https://ton-ship.gitbook.io/tonship-litepaper-v.2.0.0-en)
+
+![](https://tonresear.ch/uploads/default/original/2X/0/04b6f80ef3008eb64bbe2fe91e666fb30380e9db.png)
+
+### [Welcome Aboard the TON SHIP | TONSHIP LITEPAPER V.2.0.0 / EN](https://ton-ship.gitbook.io/tonship-litepaper-v.2.0.0-en)
+
+🌊 A Meme Introduction, Ahoy! :)
+
+## [](#framed_picture-nft-collection-12)![:framed_picture:](https://tonresear.ch/images/emoji/twitter/framed_picture.png?v=12 ":framed_picture:") NFT COLLECTION:
+
+GetGems Io:
+
+![](https://tonresear.ch/uploads/default/original/2X/8/8e05b7d4611098f8aee3bebf2b73f20216b2f634.png) [Getgems](https://getgems.io/tonship)
+
+![](https://tonresear.ch/uploads/default/optimized/2X/0/0de1528f3664aa5a164ad56c4456da1ab3068268_2_690x162.jpeg)
+
+### [TON SHIP](https://getgems.io/tonship)
+
+Ahoy, Captain! Discover unparalleled nautical treasures in our TON Ship NFT collection. Each NFT is a unique artifact, fished out from the depths of imagination. Be it a lost treasure map or a Rare Chest from a legendary wreck, each NFT is a piece of...
+
+DAOLama:
+
+![](https://tonresear.ch/uploads/default/original/2X/c/c5c9113ae7d2829efe1298e42fa02a4a727b8d56.png) [DAOLama](https://app.daolama.co/marketplace/EQB0YmaogOwwzG97DyYMfdqAsK2dkokjh3MUDIHqNhdWqx4Y)
+
+![](https://tonresear.ch/uploads/default/optimized/2X/a/a3152220978da4c1ae1864ae1a2195bad68785ed_2_690x368.jpeg)
+
+### [We give you TON for NFT at daolama.co](https://app.daolama.co/marketplace/EQB0YmaogOwwzG97DyYMfdqAsK2dkokjh3MUDIHqNhdWqx4Y)
+
+Instantly receive TON for your NFT as collateral
+
+## [](#chart_with_upwards_trend-ship-market-13)![:chart_with_upwards_trend:](https://tonresear.ch/images/emoji/twitter/chart_with_upwards_trend.png?v=12 ":chart_with_upwards_trend:") SHIP MARKET:
+
+DeDust io:
+
+![](https://tonresear.ch/uploads/default/original/1X/4e0ead2e015b660804a5fa1ce511f1088caa25eb.png) [dedust.io](https://dedust.io/swap/TON/SHIP)
+
+![](https://tonresear.ch/uploads/default/optimized/1X/14133c0148f340feeb1631961994452e0938809a_2_690x362.jpeg)
+
+### [DeDust.io — AMM DEX on The Open Network](https://dedust.io/swap/TON/SHIP)
+
+Swap any token seamlessly with minimal fees on DeDust.io, a leading decentralized automated market maker (AMM) running on The Open Network. Your ideal trade is just a click away with DeDust.io.
+
+Ston Fi:
+
+![](https://tonresear.ch/uploads/default/original/2X/5/5f717b35c4f13a5c635c61e3433b9e39c63cee49.png) [app.ston.fi](https://app.ston.fi/swap?chartVisible=false&chartInterval=1w&ft=TON&tt=EQA1jvPqRx6bujYohDny43hwX8FZr3b6OYnI3t2jHd4TXSJs)
+
+### [STON.fi](https://app.ston.fi/swap?chartVisible=false&chartInterval=1w&ft=TON&tt=EQA1jvPqRx6bujYohDny43hwX8FZr3b6OYnI3t2jHd4TXSJs)
+
+DEX for the TON blockchain
+
+TON SHIP x sTONks telegram BOT:
+
+![](https://telegram.org/img/website_icon.svg?4) [Telegram](https://t.me/stonks_sniper_bot?start=0xa0fd0e486e516a80f8f21253c5b52d35)
+
+![](https://tonresear.ch/uploads/default/original/2X/3/34192ce80259048ce1e5b2c9398e9b353c703845.jpeg)
+
+### [Stonks Bot](https://t.me/stonks_sniper_bot?start=0xa0fd0e486e516a80f8f21253c5b52d35)
+
+You can contact @stonks\_sniper\_bot right away.
+
+## [](#lock-lp-locked-5-years-14)![:lock:](https://tonresear.ch/images/emoji/twitter/lock.png?v=12 ":lock:") LP LOCKED 5 YEARS:
+
+[Ton Raffles](https://tonraffles.app/lock/EQBp0HWiLGesriC_0Z2MV2VqTUOe0paDbHfXwGnT7cPEzhNQ) ←
+
+## [](#link-other-links-15)![:link:](https://tonresear.ch/images/emoji/twitter/link.png?v=12 ":link:") OTHER LINKS:
+
+Check TONSHIP Sentiment:
+
+![](https://tonresear.ch/uploads/default/original/2X/c/c9de12a996192e8d3eed1c14ecf5475547fe347d.png) [DropsTab](https://dropstab.com/coins/ton-ship)
+
+![](https://tonresear.ch/uploads/default/original/2X/3/336fb6cb1ffbdddb8f91db4f9d7481afdf8b705e.webp)
+
+### [$0.000036 | SHIP USD Live Chart & Ton Ship Market Cap | DropsTab](https://dropstab.com/coins/ton-ship)
+
+Check the live Ton Ship price now at $0.000036 on DropsTab's real-time charts, featuring trading volume and market cap data. Stay updated on the latest SHIP trends.
+
+TonViewer:
+
+![](https://tonresear.ch/uploads/default/original/1X/19181ea376df37065e07fe57ed2d7e40d0ade897.png) [tonviewer.com](https://tonviewer.com/EQA1jvPqRx6bujYohDny43hwX8FZr3b6OYnI3t2jHd4TXSJs)
+
+![](https://tonresear.ch/uploads/default/original/1X/913f040dc16acb0153508ad115fe023b3bebb8b5.png)
+
+### [TON Explorer by Tonviewer: Blockchain Analysis](https://tonviewer.com/EQA1jvPqRx6bujYohDny43hwX8FZr3b6OYnI3t2jHd4TXSJs)
+
+Delve into the TON (The Open Network) blockchain with Tonviewer's advanced explorer. Access detailed transaction data, wallet tracking, smart contract interactions, and real-time network statistics tailored for developers, investors, and enthusiasts...
+
+GeckoTerminal:
+
+![](https://tonresear.ch/uploads/default/original/2X/6/634d2ca8e408bed765ed29de6b9d29d55e817cab.png) [geckoterminal.com](https://www.geckoterminal.com/ton/pools/EQBp0HWiLGesriC_0Z2MV2VqTUOe0paDbHfXwGnT7cPEzhNQ)
+
+![](https://tonresear.ch/uploads/default/optimized/2X/0/06530047bfd1d6a7a8869faaa6c982a10e469424_2_690x388.png)
+
+### [SHIP/TON - TON SHIP Price on DeDust with 0.4% Fee | GeckoTerminal](https://www.geckoterminal.com/ton/pools/EQBp0HWiLGesriC_0Z2MV2VqTUOe0paDbHfXwGnT7cPEzhNQ)
+
+SHIP/TON price today is $0.00003568 with a 24-hour trading volume of $136.23K. TON SHIP contract address is EQA1j...XSJs with $878.22K in liquidity.
+
+![:joystick:](https://tonresear.ch/images/emoji/twitter/joystick.png?v=12 ":joystick:")TONSHIP ChestQuest Game Twitter:
+
+([https://twitter.com/chestquestgame](https://twitter.com/chestquestgame))
+
+## [](#metrics-16)Metrics:
+
+![](https://tonresear.ch/uploads/default/original/2X/6/634d2ca8e408bed765ed29de6b9d29d55e817cab.png) [geckoterminal.com](https://www.geckoterminal.com/ton/pools/EQBp0HWiLGesriC_0Z2MV2VqTUOe0paDbHfXwGnT7cPEzhNQ)
+
+![](https://tonresear.ch/uploads/default/optimized/2X/0/06530047bfd1d6a7a8869faaa6c982a10e469424_2_690x388.png)
+
+### [SHIP/TON - TON SHIP Price on DeDust with 0.4% Fee | GeckoTerminal](https://www.geckoterminal.com/ton/pools/EQBp0HWiLGesriC_0Z2MV2VqTUOe0paDbHfXwGnT7cPEzhNQ)
+
+SHIP/TON price today is $0.00003568 with a 24-hour trading volume of $136.23K. TON SHIP contract address is EQA1j...XSJs with $878.22K in liquidity.
+
+As of April 3 our metrics are:
+
+1.  Twitter Account - 37.6K followers
+2.  Telegram Group - 21 504 members
+3.  Token holders - 3442 holders
+4.  Total liquidity - $1.1m USD (876.6KK on \[DeDust\] and 21k on \[Stonfi\])
+5.  Volume - $SHIP Average From 3 Days around 470k+. ATH around 750k+.
+6.  FDV - Our FDV is now $3.58m USD
+
+By submitting the form I confirm that the data I provided is correct and I fully understand that in case of the contrary, my project will be permanently eliminated from The Open League.
+
+  55 Likes
+
+[Slawomir\_K](https://tonresear.ch/u/Slawomir_K) April 3, 2024, 3:48pm  2
+
+TonShip is the First Ship That Has Docked on TON ![:smiley:](https://tonresear.ch/images/emoji/twitter/smiley.png?v=12 ":smiley:")
+
+  22 Likes
+
+[miku3920](https://tonresear.ch/u/miku3920) April 3, 2024, 4:08pm  3
+
+I’m looking forward to the subsequent development after the game goes online ![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:")![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:")![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:")
+
+  21 Likes
+
+[Kajtek\_Kowalski](https://tonresear.ch/u/Kajtek_Kowalski) April 3, 2024, 4:10pm  4
+
+Great Project with huge potential. Their NFTs made huge volume. Their game with great token burning system is in progres - this will make hugeee impact on token price. Friendly community with comunicative mods and thats very important. Two weeks ago I needed answers to a couple of questions and mod dmed me after 5 minutes (guy with a fox on pfp thank you again). Other people in team are very friendly too but he just answered me first and i appreciate that. Summing up their great team with friendly people, cool nft collection and narration made me buy their token ![:slight_smile:](https://tonresear.ch/images/emoji/twitter/slight_smile.png?v=12 ":slight_smile:")
+
+  25 Likes
+
+[nyIIIok\_XD](https://tonresear.ch/u/nyIIIok_XD) April 3, 2024, 6:25pm  5
+
+I am one of the holders of TON SHIPS, the project is developing rapidly, I wish even more growth and that everything conceived by the developers would come true ![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:") ![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:") ![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:")
+
+  21 Likes
+
+[Pawel\_Bet](https://tonresear.ch/u/Pawel_Bet) April 3, 2024, 10:56pm  6
+
+I am from presale and even it had falstart team was always on tg and support. So big Kudos for them. Now we are ready to sailing
+
+  22 Likes
+
+[Fritzek\_Grumobi](https://tonresear.ch/u/Fritzek_Grumobi) April 3, 2024, 11:13pm  7
+
+**Great team, you deserve this win like no other! I have been with you wholeheartedly from the very beginning! SHIP ONLY**!
+
+  19 Likes
+
+[Greta\_Crypto\_Girl](https://tonresear.ch/u/Greta_Crypto_Girl) April 3, 2024, 11:32pm  8
+
+I love YOU! I can’t wait to play a game!
+
+  22 Likes
+
+[Akindee](https://tonresear.ch/u/Akindee)  April 3, 2024, 11:33pm  9
+
+TonShip team has been impressive so far. I have been with team from fairlaunch. Team relentlessly built this project from fairlaunch to 17x through strategic partnerships and constant exposure. Solid foundation has been formed and $SHIP ready for another multiple Xs. The efforts put into the in-app game development on TON network by the team is commendable. I am so bullish on $SHIP​:anchor:![:anchor:](https://tonresear.ch/images/emoji/twitter/anchor.png?v=12 ":anchor:")![:anchor:](https://tonresear.ch/images/emoji/twitter/anchor.png?v=12 ":anchor:")  
+
+[![20240326_071122](https://tonresear.ch/uploads/default/optimized/2X/5/580d46eb952c499b94cd44894f9ebd768db442aa_2_250x500.jpeg)
+
+20240326\_071122564×1126 91.3 KB
+
+](https://tonresear.ch/uploads/default/original/2X/5/580d46eb952c499b94cd44894f9ebd768db442aa.jpeg "20240326_071122")
+
+  26 Likes
+
+[Stiepa95](https://tonresear.ch/u/Stiepa95) April 3, 2024, 11:39pm  10
+
+**Voted! Good luck!** ![:ship:](https://tonresear.ch/images/emoji/twitter/ship.png?v=12 ":ship:") ![:ship:](https://tonresear.ch/images/emoji/twitter/ship.png?v=12 ":ship:") ![:ship:](https://tonresear.ch/images/emoji/twitter/ship.png?v=12 ":ship:") ![:ship:](https://tonresear.ch/images/emoji/twitter/ship.png?v=12 ":ship:")
+
+  26 Likes
+
+[Pawel\_Niedzwiedz](https://tonresear.ch/u/Pawel_Niedzwiedz)  April 4, 2024, 12:31am  11
+
+Ton Ship is honestly a fantastic project. I’ve been here since the very beginning, from the NFT days and the fair launch. Despite the recent rough patch for TON, the team keeps pushing forward. Everyone’s eagerly waiting for the game that’s supposed to come out soon. There’s a lot more in the pipeline, so I’m super excited about what the future holds. Fingers crossed for continued development, and I can’t wait to see what other surprises are in store! Best wishes and good luck from your teddy bear!  
+
+[![R](https://tonresear.ch/uploads/default/optimized/2X/4/483e9d73c80bab5143e6e3d61972bded8ee7d511_2_666x500.jpeg)
+
+R1536×1152 259 KB
+
+](https://tonresear.ch/uploads/default/original/2X/4/483e9d73c80bab5143e6e3d61972bded8ee7d511.jpeg "R")
+
+  25 Likes
+
+[Reza1](https://tonresear.ch/u/Reza1) April 4, 2024, 12:51am  12
+
+This project the best in the ton Blockchain
+
+  23 Likes
+
+[Cristal666](https://tonresear.ch/u/Cristal666) April 4, 2024, 8:56am  13
+
+Im DiamondHands on TONSHIP!!! Good Luck Guys!
+
+  25 Likes
+
+[Kasia](https://tonresear.ch/u/Kasia) April 4, 2024, 12:38pm  14
+
+Great project, cool community. I can’t wait to play - I also have a few nfts ![:kissing_heart:](https://tonresear.ch/images/emoji/twitter/kissing_heart.png?v=12 ":kissing_heart:")
+
+  24 Likes
+
+[Leftis](https://tonresear.ch/u/Leftis) April 4, 2024, 1:02pm  15
+
+Awesome project, lots of potential!! The game is about to drop in april so i wholeheartedly recommend taking advantage of the current dip. When the game is out it will launch ![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:")![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:")![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:")
+
+  23 Likes
+
+[Marek](https://tonresear.ch/u/Marek) April 4, 2024, 2:00pm  16
+
+Good project. Great team ![:slightly_smiling_face:](https://tonresear.ch/images/emoji/twitter/slightly_smiling_face.png?v=12 ":slightly_smiling_face:")
+
+  24 Likes
+
+[Michal\_Kosinski](https://tonresear.ch/u/Michal_Kosinski) April 4, 2024, 5:54pm  17
+
+I’m very happy to be with you!!! Good luck! ![:heart_eyes:](https://tonresear.ch/images/emoji/twitter/heart_eyes.png?v=12 ":heart_eyes:") ![:stuck_out_tongue_closed_eyes:](https://tonresear.ch/images/emoji/twitter/stuck_out_tongue_closed_eyes.png?v=12 ":stuck_out_tongue_closed_eyes:") ![:mechanical_arm:](https://tonresear.ch/images/emoji/twitter/mechanical_arm.png?v=12 ":mechanical_arm:")
+
+  22 Likes
+
+[Lukluk1234](https://tonresear.ch/u/Lukluk1234) April 4, 2024, 9:01pm  18
+
+Very good project !!!
+
+  20 Likes
+
+[Aleksandra\_Cuck](https://tonresear.ch/u/Aleksandra_Cuck) April 4, 2024, 9:04pm  19
+
+I recommend this project to everyone. A very good team creating SHIP.
+
+  20 Likes
+
+[Eco](https://tonresear.ch/u/Eco) April 4, 2024, 9:06pm  20
+
+We are waiting for the game. this will be the second NOTCOIN
+
+  22 Likes
+
+**[next page →](/t/ton-ship-ship-the-open-league-application/3863?page=2)**
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 38631
+
+[TON Research](/)
+
+# [Paper Plane ($PLANE) | Memecoin Mountain](/t/paper-plane-plane-memecoin-mountain/38631)
+
+[TON Memelandia](/c/ton-memelandia/memecoin-mountain/86)  [Memecoin Mountain](/c/ton-memelandia/memecoin-mountain/86) 
+
+    
+
+[PaperPlane](https://tonresear.ch/u/PaperPlane)  October 22, 2024, 10:36pm  1
+
+**Submission Form for Memecoin Mountain**
+
+1.  **Your Role in the Competition:**
+    1.  Memecoin Project
+
+_(Only for Memecoin Projects; skip if you are a Trader/Whale)_
+
+1.  **Memecoin Name:** Paper Plane
+2.  **Token Contract Address:** EQAX9J60va-0wIDMdqGLRMf7imJvG0Ytyi3Yxnq9y-nbNCq2
+3.  **Market Cap (at the time of application):** $820k
+4.  **Daily Trading Volume (for the last 7 days):** $12.4k daily average ($87k total last 7 days)
+5.  **Number of Unique Token Holders:** 8560
+6.  **Has your token been fairly launched?**
+    1.  Yes
+7.  **Please provide a link to your CoinGecko listing:** [https://www.coingecko.com/en/coins/paper-plane](https://www.coingecko.com/en/coins/paper-plane)
+8.  **Are you applying for the Major League or Minor League?** At the moment we qualify for the Minor League but if we are able to reach $1million market cap by the time it starts, we’d like to be in the Major League.
+9.  **Briefly describe your memecoin’s strategy for growth and community engagement:** We continue to spread the timeless paper plane narrative and its symbolism for freedom. Our first steps are an upcoming website v2 and brand new stickers created by the original Paper Plane Telegram artist.
+10.  **Do you have any partnerships with Key Opinion Leaders (KOLs) or influencers?**
+    1.  No
+    2.  We don’t have any official partnerships but we’ve been shilled by almost every TON based KOL. Our biggest supporters are Viktor (s0meone\_u\_know) and the official TON twitter account as they interact with us often.
+
+(General)
+
+1.  **Would you like to receive updates and announcements during the competition?**
+    1.  Yes
+2.  **Provide your Telegram username for communication and coordination:** @PepperPetey
+
+  2 Likes
+
+[FamousFortune](https://tonresear.ch/u/FamousFortune) October 23, 2024, 1:07am  2
+
+As the symbol for TG and Resistance, $Plane is an obvious choice for memecoin mountain
+
+  1 Like
+
+[Venca\_Vencos](https://tonresear.ch/u/Venca_Vencos) October 23, 2024, 3:40pm  3
+
+lfg, best narrative on TON
+
+ 
+
+[Joel](https://tonresear.ch/u/Joel) October 27, 2024, 12:41pm  4
+
+It’s obvious $plane should be part of this! It’s THE narrative for telegram and freedom of speech and a meme to carry all other memes!
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 3865
+
+[TON Research](/)
+
+# [Shibaton, First Shiba on Ton networkl](/t/shibaton-first-shiba-on-ton-networkl/3865)
+
+[The Open League](/c/the-open-league/token-leaderboard/57)  [Token Battle](/c/the-open-league/token-leaderboard/57) 
+
+    
+
+[Shibaton](https://tonresear.ch/u/Shibaton)   April 3, 2024, 11:12am  1
+
+## [](#shibt-ton-1)$SHIBT / TON
+
+**First Shiba token on the Ton chain**
+
+Telegram: [@ShibaTon\_Portal](https://t.me/ShibaTon_Portal)
+
+## [](#projects-twitterhttpstwittercomshibaton_token-2)[Project’s Twitter](https://twitter.com/ShibaTon_Token)
+
+## [](#httpshibatoncom-3)[http://shibaton.com](http://shibaton.com)
+
+Chart: [SHIBT/TON - ShibaTon Price on Ston.fi | GeckoTerminal](https://www.geckoterminal.com/ton/pools/EQB1_QdBkoi5OsH6fBUYmH59rd507sPstRjXDqi5qFYZVu3j)
+
+Soon a lot of people will start using $TON for the first time, and what will they look into? yes, memes!!! and which one is the most famous one? exactly, SHIBA!!!
+
+Team has been working for more than 2 months already and community being built around this project, we are ready to moon once the volume comes to $TON, we have weekly contests, raids… partnerships with big KOLS in the space, we are twitter verified and we also opened more socials so we can reach a bigger audience in crypto, WE ARE READY!
+
+[![photo_2024-01-15_00-05-39](https://tonresear.ch/uploads/default/optimized/2X/2/2c63b24b643431eda5f26a031f9dabaad4e8ca85_2_502x500.jpeg)
+
+photo\_2024-01-15\_00-05-391280×1274 326 KB
+
+](https://tonresear.ch/uploads/default/original/2X/2/2c63b24b643431eda5f26a031f9dabaad4e8ca85.jpeg "photo_2024-01-15_00-05-39")
+
+## [](#youtube-httpswwwyoutubecomshibaton-4)Youtube : [https://www.youtube.com/@Shibaton](https://www.youtube.com/@Shibaton)
+
+TikTok: [TikTok - Make Your Day](https://www.tiktok.com/@shibatontoken)
+
+By submitting the form I confirm that the data I provided is correct and I fully understand that in case of the contrary, my project will be permanently eliminated from The Open League.
+
+  2 Likes
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) April 12, 2024, 12:19pm  2
+
+Hello SHIBATON team,
+
+Thank you for applying to The Open League Season #1.
+
+After reviewing your application, we must inform you that your token does not meet our current eligibility criteria. Concerns regarding suspicious trading activity by the team have also been noted. For more information on our criteria, please visit this [page](https://tonresear.ch/t/about-the-memecoin-leaderboard-category/1276).
+
+Once these issues are resolved, you are welcome to reapply for future seasons.
+
+Thank you.
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 38657
+
+[TON Research](/)
+
+# [\-old version- Wizzwoods - The Open League App (Season 6)](/t/old-version-wizzwoods-the-open-league-app-season-6/38657)
+
+[The Open League](/c/the-open-league/56) 
+
+    
+
+[mandywong](https://tonresear.ch/u/mandywong)  October 23, 2024, 2:44am  1
+
+## [](#p-63267-projects-name-1)Project’s Name
+
+**Wizzwoods**  
+Wizzwoods is an engaging open-world strategy farming game built on the TG Mini-app. As you explore the world of Wizzwoods, you’ll experience strategic production, user-generated content, multiplayer interactions, cross-chain trading, and more. You’ll be immersed in a world that combines blockchain ownership with your gaming enjoyment, offering a captivating blend of management, creation, competition, and trading.
+
+**Mini-app:** **[Telegram: Contact @WizzwoodsBot](https://t.me/WizzwoodsBot/app?startapp)**
+
+[https://internal-api-drive-stream-jp.larksuite.com/space/api/box/stream/download/preview/KcX9bX2FTob6fHxrwfNjg0Qfpnh/?preview\_type=16](https://internal-api-drive-stream-jp.larksuite.com/space/api/box/stream/download/preview/KcX9bX2FTob6fHxrwfNjg0Qfpnh/?preview_type=16)
+
+## [](#p-63267-projects-website-2)Project’s Website
+
+![](https://www.wizzwoods.com/favicon.ico) [wizzwoods.com](https://www.wizzwoods.com)
+
+### [Step into Wizzwoods: Cast spells, grow your realm, and earn $WIZZ through...](https://www.wizzwoods.com)
+
+Step into Wizzwoods: Cast spells, grow your realm, and earn $WIZZ through farm management. Enhance earnings with cross-chain trades.
+
+## [](#p-63267-projects-twitter-3)Project’s Twitter
+
+[https://x.com/Wizzwoods\_game](https://x.com/WONTONorg)
+
+## [](#p-63267-projects-social-4)Project’s Social
+
+Telegram Community Channel: [Telegram: Contact @Wizzwoods Announcement](http://t.me/wizzwoods_game) Telegram Community Chat: [Telegram: Contact @Wizzwoods Chat](http://t.me/wizzwoods)
+
+## [](#p-63267-projects-metrics-5)Project’s Metrics
+
+**Snapshot time (2024/10/17 0:00 UTC)**  
+**Total User Base : 1.6M+**  
+**Daily Active Users : 165,416**  
+**Monthly Active Users :** **760,413**  
+**Wizzwoods Current Traction:**
+
+[docs.google.com](https://docs.google.com/document/d/e/2PACX-1vQ0i3IBoCZShf9EY0sfw0G9WhRDo_s-WdZ5knaFjD85B0nzvCUY9IGepc_3T9j_8qBjlHvowLiirT7x/pub)
+
+[](https://docs.google.com/document/d/e/2PACX-1vQ0i3IBoCZShf9EY0sfw0G9WhRDo_s-WdZ5knaFjD85B0nzvCUY9IGepc_3T9j_8qBjlHvowLiirT7x/pub)
+
+### [Wizzwoods - Open League Application](https://docs.google.com/document/d/e/2PACX-1vQ0i3IBoCZShf9EY0sfw0G9WhRDo_s-WdZ5knaFjD85B0nzvCUY9IGepc_3T9j_8qBjlHvowLiirT7x/pub)
+
+This Doc is private
+
+## [](#p-63267-projects-submitter-6)Project’s submitter
+
+**Name :** **Sherry** **Telegram handle :** **@metasherry**
+
+*   By submitting this application, I undertake to fully abide by The Open League Rules of Conduct. I understand that in case of the violation of those my team will be immediately excluded from the competition. Link: [Notion – The all-in-one workspace for your notes, tasks, wikis, and databases. 4](https://ton-org.notion.site/The-Open-League-Rules-of-Conduct-04f4a0fedf1a401687075f5efd83de68)
+    
+*   By submitting the form I confirm that the data I provided is correct and I fully understand that in case of the contrary, my project will be permanently eliminated from The Open League.
+    
+
+  2 Likes
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 38660
+
+[TON Research](/)
+
+# [Wizzwoods - The Open League App (Season 6)](/t/wizzwoods-the-open-league-app-season-6/38660)
+
+[The Open League](/c/the-open-league/56) 
+
+    
+
+[mandywong](https://tonresear.ch/u/mandywong)   October 23, 2024, 2:49am  1
+
+## [](#p-63271-projects-name-1)Project’s Name
+
+**Wizzwoods**  
+Wizzwoods is an engaging open-world strategy farming game built on the TG Mini-app. As you explore the world of Wizzwoods, you’ll experience strategic production, user-generated content, multiplayer interactions, cross-chain trading, and more. You’ll be immersed in a world that combines blockchain ownership with your gaming enjoyment, offering a captivating blend of management, creation, competition, and trading.
+
+**Mini-app:** **[Telegram: Contact @WizzwoodsBot](https://t.me/WizzwoodsBot/app?startapp)**
+
+[![output](https://tonresear.ch/uploads/default/optimized/3X/7/e/7ed5bbafc01e3ec8992c2a61fd013aac86884395_2_690x229.jpeg)
+
+output875×291 64.5 KB
+
+](https://tonresear.ch/uploads/default/original/3X/7/e/7ed5bbafc01e3ec8992c2a61fd013aac86884395.jpeg "output")
+
+## [](#p-63271-projects-website-2)Project’s Website
+
+![](https://www.wizzwoods.com/favicon.ico) [wizzwoods.com](https://www.wizzwoods.com/)
+
+### [Step into Wizzwoods: Cast spells, grow your realm, and earn $WIZZ through...](https://www.wizzwoods.com/)
+
+Step into Wizzwoods: Cast spells, grow your realm, and earn $WIZZ through farm management. Enhance earnings with cross-chain trades.
+
+## [](#p-63271-projects-twitter-3)Project’s Twitter
+
+[https://x.com/Wizzwoods\_game](https://x.com/WONTONorg)
+
+## [](#p-63271-projects-social-4)Project’s Social
+
+Telegram Community Channel: [Telegram: Contact @Wizzwoods Announcement](http://t.me/wizzwoods_game) Telegram Community Chat: [Telegram: Contact @Wizzwoods Chat](http://t.me/wizzwoods)
+
+## [](#p-63271-projects-metrics-5)Project’s Metrics
+
+**Snapshot time (2024/10/17 0:00 UTC)**  
+**Total User Base : 1.6M+**  
+**Daily Active Users : 165,416**  
+**Monthly Active Users :** **760,413**  
+**Wizzwoods Current Traction:**
+
+[docs.google.com](https://docs.google.com/document/d/e/2PACX-1vQ0i3IBoCZShf9EY0sfw0G9WhRDo_s-WdZ5knaFjD85B0nzvCUY9IGepc_3T9j_8qBjlHvowLiirT7x/pub)
+
+[](https://docs.google.com/document/d/e/2PACX-1vQ0i3IBoCZShf9EY0sfw0G9WhRDo_s-WdZ5knaFjD85B0nzvCUY9IGepc_3T9j_8qBjlHvowLiirT7x/pub)
+
+### [Wizzwoods - Open League Application](https://docs.google.com/document/d/e/2PACX-1vQ0i3IBoCZShf9EY0sfw0G9WhRDo_s-WdZ5knaFjD85B0nzvCUY9IGepc_3T9j_8qBjlHvowLiirT7x/pub)
+
+This Doc is private
+
+## [](#p-63271-projects-submitter-6)Project’s submitter
+
+**Name :** **Sherry** **Telegram handle :** **@metasherry**
+
+*   By submitting this application, I undertake to fully abide by The Open League Rules of Conduct. I understand that in case of the violation of those my team will be immediately excluded from the competition. Link: [Notion – The all-in-one workspace for your notes, tasks, wikis, and databases. 4](https://ton-org.notion.site/The-Open-League-Rules-of-Conduct-04f4a0fedf1a401687075f5efd83de68)
+*   By submitting the form I confirm that the data I provided is correct and I fully understand that in case of the contrary, my project will be permanently eliminated from The Open League.
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 38661
+
+[TON Research](/)
+
+# [Gentleman $MAN submission for Meme Mountain](/t/gentleman-man-submission-for-meme-mountain/38661)
+
+[TON Memelandia](/c/ton-memelandia/memecoin-mountain/86)  [Memecoin Mountain](/c/ton-memelandia/memecoin-mountain/86) 
+
+    
+
+[gentlemanTG](https://tonresear.ch/u/gentlemanTG)  October 23, 2024, 2:50am  1
+
+Submission Form for Memecoin Mountain
+
+1.  Your Role in the Competition:
+    1.  Memecoin Project
+
+(Only for Memecoin Projects; skip if you are a Trader/Whale)
+
+1.  Memecoin name: Gentleman
+2.  Token Contract Address: EQB6Ql1JE7Hq0JuropLYschcu-WNt2vMmWF2-8mEMrK68nJn
+3.  Market Cap (at the time of application): 324k
+4.  Daily Trading Volume (for the last 7 days): 5k
+5.  Number of Unique Token Holders: 1763
+6.  Has your token been fairly launched?
+    1.  Yes
+7.  Please provide a link to your CoinGecko listing: request id CL2110240065
+8.  Are you applying for the Major League or Minor League? Minor league unless we reach Major league requirements by the time contest begins.
+9.  Briefly describe your memecoin’s strategy for growth and community engagement: Consistently engage with the public community on social media such as X and Telegram. Reach out to new KOLs different from our current circle. Collaborate with projects inside and outside of TON.
+10.  Do you have any partnerships with Key Opinion Leaders (KOLs) or influencers?
+    1.  Yes here are a few of them
+    2.  [x.com](https://x.com/icedknife?s=21)
+    3.  [x.com](https://x.com/numerooo0?s=21)
+    4.  [x.com](https://x.com/0xsenzu?s=21)
+
+  1 Like
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 38665
+
+[TON Research](/)
+
+# [TON DEVs! Join ​TON Hacker House Bangkok in 11/14!](/t/ton-devs-join-ton-hacker-house-bangkok-in-11-14/38665)
+
+[General](/c/general/4) 
+
+    
+
+[TONX](https://tonresear.ch/u/TONX)   October 23, 2024, 3:12am  1
+
+​TON Hacker House Bangkok, hosted by TONX and TON during Devcon, is an event where developers, projects and attendees get to immerse in a day where innovation meets freedom of expression.
+
+​TONs of projects will be able to apply for a chance to perform their project demos in the front of key industry leaders, tier-1 venture capitals, and thousands of attendees to get the best exposure in Bangkok, Thailand.
+
+[![keyvisual](https://tonresear.ch/uploads/default/optimized/3X/7/0/70431248a5e573d32b6e6ac7737f22a201eb5d47_2_690x388.jpeg)
+
+keyvisual1920×1080 195 KB
+
+](https://tonresear.ch/uploads/default/original/3X/7/0/70431248a5e573d32b6e6ac7737f22a201eb5d47.jpeg "keyvisual")
+
+![:star:](https://tonresear.ch/images/emoji/twitter/star.png?v=12 ":star:") Hosts : [TONX](http://t.me/TONX), [TON Society](http://t.me/TONSociety),  
+![:star:](https://tonresear.ch/images/emoji/twitter/star.png?v=12 ":star:") Co-Host :[TOX](http://t.me/TOXonTON),[Yescoin](https://t.me/theYescoin)  
+![:star:](https://tonresear.ch/images/emoji/twitter/star.png?v=12 ":star:") Media co-host : [Blocktempo](http://t.me/blocktemponews)  
+![:star:](https://tonresear.ch/images/emoji/twitter/star.png?v=12 ":star:") Gold Sponsors : [Televerse](https://t.me/TeleverseOdyssey), [SoarFun](https://t.me/Soar_Fun)  
+![:star:](https://tonresear.ch/images/emoji/twitter/star.png?v=12 ":star:") Bronze Sponsors : [ForUAI](http://t.me/ForUAI_channel), [Monster Kingdom](http://t.me/monsterkingdom_ann)  
+![:star:](https://tonresear.ch/images/emoji/twitter/star.png?v=12 ":star:") Incubator Partner : [Nubit](http://t.me/nubit_announcement)  
+​
+
+## [](#p-63279-apply-to-join-the-demo-now-1)![:technologist:](https://tonresear.ch/images/emoji/twitter/technologist.png?v=12 ":technologist:") Apply to Join the Demo now
+
+​[Registration](https://forms.gle/XcV7DSddv5QVKES7A) for DEMO is open, please check the form for more information.
+
+​Note: [TONX Developer’s Toolkit](https://tonx-dev.notion.site/)
+
+## [](#p-63279-hacker-house-prize-pool-get-your-award-2)​🏆 Hacker House Prize Pool - get your award!
+
+​**M+!** To be announced soon!
+
+## [](#p-63279-venue-3)​🏙 Venue
+
+​Bangkok Convention Centre at centralwOrld
+
+![User Uploaded Image](https://images.lumacdn.com/editor-images/wl/5038225c-eff7-4466-975f-4490b0c0cbad.jpeg)
+
+![User Uploaded Image](https://images.lumacdn.com/editor-images/lp/e170f037-220e-44cc-84de-3b5ec0a21fbe.webp)
+
+  3 Likes
+
+[TONX](https://tonresear.ch/u/TONX)  November 6, 2024, 8:50am  2
+
+[![image](https://tonresear.ch/uploads/default/optimized/3X/4/f/4fbeffb69ec2ad606244e404d803e4a17ad9d3f5_2_690x382.jpeg)
+
+image1005×557 119 KB
+
+](https://tonresear.ch/uploads/default/original/3X/4/f/4fbeffb69ec2ad606244e404d803e4a17ad9d3f5.jpeg "image")
+
+  
+![:fire:](https://tonresear.ch/images/emoji/twitter/fire.png?v=12 ":fire:") Big News for TON Hacker House! ![:fire:](https://tonresear.ch/images/emoji/twitter/fire.png?v=12 ":fire:")
+
+We’ve got a whopping $1M prize pool ![:money_mouth_face:](https://tonresear.ch/images/emoji/twitter/money_mouth_face.png?v=12 ":money_mouth_face:")  
+![:tada:](https://tonresear.ch/images/emoji/twitter/tada.png?v=12 ":tada:") And there’s more—stay tuned for even bigger surprises yet to come!  
+![:man_surfing:](https://tonresear.ch/images/emoji/twitter/man_surfing.png?v=12 ":man_surfing:") Dive in, unleash your creativity, and grab your share of this epic bounty.
+
+![:stopwatch:](https://tonresear.ch/images/emoji/twitter/stopwatch.png?v=12 ":stopwatch:")Deadline of #2 round of selection: Nov. 8, 23:59 UTC+7
+
+## [](#p-64857-technologist-apply-to-join-the-demo-nowhttpsformsglexcv7dsddv5qvkes7a-1)![:technologist:](https://tonresear.ch/images/emoji/twitter/technologist.png?v=12 ":technologist:") Apply to Join the Demo [now](https://forms.gle/XcV7DSddv5QVKES7A)
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 38769
+
+[TON Research](/)
+
+# [Advertisement of Memelandia](/t/advertisement-of-memelandia/38769)
+
+[TON Memelandia](/c/ton-memelandia/85) 
+
+    
+
+[CryptoDundee](https://tonresear.ch/u/CryptoDundee)  October 24, 2024, 11:39am  1
+
+Hi I have been on TON the past year and there seems to be a big problem with bringing new investors on chain, I believe with Memelandia and the new audio tokens “Sadmeow” you should consider advertising the first season on crypto banter YouTube channel they have a very large audience of real investors and that’s what TON needs. Thanks
+
+  1 Like
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 38803
+
+[TON Research](/)
+
+# [$YUME Submission for Memecoin Mountain](/t/yume-submission-for-memecoin-mountain/38803)
+
+[TON Memelandia](/c/ton-memelandia/memecoin-mountain/86)  [Memecoin Mountain](/c/ton-memelandia/memecoin-mountain/86) 
+
+    
+
+[YumeOnTon](https://tonresear.ch/u/YumeOnTon)  October 25, 2024, 5:35am  1
+
+Submission Form for Memecoin Mountain
+
+1.  Your Role in the Competition:
+    
+2.  Memecoin Project
+    
+
+(Only for Memecoin Projects; skip if you are a Trader/Whale)
+
+1.  \*\*Memecoin Name: YUME
+2.  \*\*Token Contract Address: EQA0tQ880E68-ZGsugW3kjm5hk\_5hUAWTdVggFlJmqqVQgCm
+3.  \*\*Market Cap (at the time of application): 71К
+4.  \*\*Daily Trading Volume (for the last 7 days): 26.93k$
+5.  \*\*Number of Unique Token Holders: 537
+6.  Has your token been fairly launched? Yes, on GasPump
+7.  \*\*Please provide a link to your CoinGecko listing: [YUME/TON - Vladimir Putin's Dog Price on DeDust with 0.25% Fee | GeckoTerminal](https://www.geckoterminal.com/ton/pools/EQAWIyEz23_IW40XTKeQylOTrGKTgg99476TH1g4hHlk-B79) (not listed on coingecko yet)
+8.  \*\*Are you applying for the Major League or Minor League? Minor League
+9.  \*\*Briefly describe your memecoin’s strategy for growth and community engagement: Be full organic, keep delivering good content for socials & community (gifs, drawings), do collabs with good projects, we have a bot on telegram that encourages people to be active and pays them when they are. Keep retweeting & posting from my main account, do spaces… We’re also about to launch real soon a gambling game bot playable in the chat (not only ours ![:wink:](https://tonresear.ch/images/emoji/twitter/wink.png?v=12 ":wink:")) and a webapp (mini game). $YUME is working guys.
+10.  Do you have any partnerships with Key Opinion Leaders (KOLs) or influencers?  
+    I’m myself of KOL with 70k on x ([https://x.com/solana\_emperor](https://x.com/solana_emperor?s=21)) and i have many contact in this space.
+
+(General)
+
+1.  Would you like to receive updates and announcements during the competition? Yes
+    
+2.  \*\*Provide your Telegram username for communication and coordination: @drole
+    
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 38825
+
+[TON Research](/)
+
+# [$DOGS | Memecoin Mountain](/t/dogs-memecoin-mountain/38825)
+
+[TON Memelandia](/c/ton-memelandia/memecoin-mountain/86)  [Memecoin Mountain](/c/ton-memelandia/memecoin-mountain/86) 
+
+    
+
+[DOGS](https://tonresear.ch/u/DOGS)  October 25, 2024, 9:51pm  1
+
+**Submission Form for Memecoin Mountain**
+
+1.  **Your Role in the Competition:**  
+    **Memecoin Project**
+
+_(Only for Memecoin Projects; skip if you are a Trader/Whale)_
+
+1.  **Memecoin Name:** $DOGS
+2.  **Token Contract Address:** EQCvxJy4eG8hyHBFsZ7eePxrRsUQSFE\_jpptRAYBmcG\_DOGS
+3.  **Market Cap (at the time of application):** $335.22M
+4.  **Daily Trading Volume (for the last 7 days):** $69.69M
+5.  **Number of Unique Token Holders:** 5.5M
+6.  **Has your token been fairly launched?** Yes
+7.  **Please provide a link to your CoinGecko listing:** [https://www.coingecko.com/en/coins/dogs](https://www.coingecko.com/en/coins/dogs)
+8.  **Are you applying for the Major League or Minor League?** Major League
+9.  **Briefly describe your memecoin’s strategy for growth and community engagement:** Be a good dog
+10.  **Do you have any partnerships with Key Opinion Leaders (KOLs) or influencers?**  
+    Yes
+
+(General)
+
+1.  **Would you like to receive updates and announcements during the competition?**  
+    Yes
+2.  **Provide your Telegram username for communication and coordination:**
+
+  2 Likes
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 38853
+
+[TON Research](/)
+
+# [TONY THE DUCK $TONY Application for Memecoin Mountain](/t/tony-the-duck-tony-application-for-memecoin-mountain/38853)
+
+[TON Memelandia](/c/ton-memelandia/memecoin-mountain/86)  [Memecoin Mountain](/c/ton-memelandia/memecoin-mountain/86) 
+
+    
+
+[TonyTheDuck](https://tonresear.ch/u/TonyTheDuck)  October 27, 2024, 7:59am  1
+
+**Submission Form for Memecoin Mountain**
+
+1.  **Your Role in the Competition:**
+    1.  Memecoin Project / Trader / Whale
+
+Memecoin project.
+
+_(Only for Memecoin Projects; skip if you are a Trader/Whale)_
+
+1.  **Memecoin Name:** $TONY - TONY THE DUCK
+2.  **Token Contract Address:** EQBiJd6z0WiuiCQdywPOqaLyT2TbTfV79Pzu9K1R3l\_qlUZ5
+3.  **Market Cap (at the time of application):** 386K
+4.  **Daily Trading Volume (for the last 7 days):** Average 2/5K
+5.  **Number of Unique Token Holders:** 4236+
+6.  **Has your token been fairly launched?**
+    1.  Yes
+7.  **Please provide a link to your CoinGecko listing:** [https://www.coingecko.com/en/coins/tony-the-duck?utm\_source=geckoterminal&utm\_medium=referral&utm\_campaign=badge&asset\_platform\_api\_symbol=the-open-network](https://www.coingecko.com/en/coins/tony-the-duck?utm_source=geckoterminal&utm_medium=referral&utm_campaign=badge&asset_platform_api_symbol=the-open-network)
+8.  **Are you applying for the Major League or Minor League?** Major or Minor
+9.  **Briefly describe your memecoin’s strategy for growth and community engagement:**  
+    Our Strategic plan is posted on our website - [https://tonytheduck.com/wp-content/uploads/2024/02/Strategic-Plan-of-Tony-the-Duck.pdf](https://tonytheduck.com/wp-content/uploads/2024/02/Strategic-Plan-of-Tony-the-Duck.pdf)
+10.  **Do you have any partnerships with Key Opinion Leaders (KOLs) or influencers?**
+    1.  Yes, there are many influencers and KOLS which have heavily engaged with TONY in the past and it can be seen how much the TONY character is used cross KOLS including TON Memelandia and TON blockchain.
+
+_(Only for Traders/Whales; skip if you are a Memecoin Project)_
+
+1.  **Trader’s Wallet Address:**
+2.  **Which memecoins are you primarily trading in this competition?**
+3.  **How did you find out about this competition?**
+    1.  Twitter / Telegram / Other
+4.  **Have you participated in any previous memecoin trading competitions?**
+    1.  Yes / No
+5.  **What’s your trading strategy for the upcoming season?**
+
+(General)
+
+1.  **Would you like to receive updates and announcements during the competition?**
+    1.  YES
+2.  **Provide your Telegram username for communication and coordination:**  
+    @atozgram
+
+  1 Like
+
+[Duck](https://tonresear.ch/u/Duck) October 27, 2024, 9:59am  2
+
+Quack Duck, Hi $TONY
+
+  1 Like
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 38865
+
+[TON Research](/)
+
+# [#VWSGAME https://t.me/ClickerVWSBot #Mining #Pool #$VWS #Mining #NFTs Mining Chats ✅](/t/vwsgame-https-t-me-clickervwsbot-mining-pool-vws-mining-nfts-mining-chats/38865)
+
+[General](/c/general/4) 
+
+    
+
+[VWSforever](https://tonresear.ch/u/VWSforever)  October 27, 2024, 2:22pm  1
+
+#Bonus for #Mining#VWSGAME [Telegram: Contact @ClickerVWSBot](https://t.me/ClickerVWSBot) #Mining #Pool #$VWS #Mining #NFTs Mining Chats ![:white_check_mark:](https://tonresear.ch/images/emoji/twitter/white_check_mark.png?v=12 ":white_check_mark:")  
+[Telegram: Contact @tapps\_bot](https://t.me/tapps_bot/center?startapp=app_clickervws)  
+[https://ton.app/games/clicker-vws?id=2260](https://ton.app/games/clicker-vws?id=2260)  
+[Telegram: Contact @MagicVipClub](https://t.me/MagicVipClub)  
+[ClickerVWS - TON Wiki (En)](https://tonwiki.space/wiki/ClickerVWS)
+
+![](https://dedust.io/favicon-32x32.png) [dedust.io](https://dedust.io/swap/TON/VWS)
+
+![](https://dedust.io/images/opengraph.jpg)
+
+### [DeDust.io — AMM DEX on The Open Network](https://dedust.io/swap/TON/VWS)
+
+Swap any token seamlessly with minimal fees on DeDust.io, a leading decentralized automated market maker (AMM) running on The Open Network. Your ideal trade is just a click away with DeDust.io.
+
+![](https://dedust.io/favicon-32x32.png) [dedust.io](https://dedust.io/pools/EQCCa6jA_VzoQi76cAHmumoJfZbglVtY-DL-k8-f9h3vUOy2)
+
+![](https://dedust.io/images/opengraph.jpg)
+
+### [DeDust.io — AMM DEX on The Open Network](https://dedust.io/pools/EQCCa6jA_VzoQi76cAHmumoJfZbglVtY-DL-k8-f9h3vUOy2)
+
+Swap any token seamlessly with minimal fees on DeDust.io, a leading decentralized automated market maker (AMM) running on The Open Network. Your ideal trade is just a click away with DeDust.io.
+
+![](https://telegram.org/img/website_icon.svg?4) [Telegram](https://t.me/xrocket/cex?startapp=trade-VWS-TON)
+
+![](https://cdn4.cdn-telegram.org/file/KnPLkROVR9yKQCd1roysSu7wNpKfoFqQdMWznXzfSnjejB-zsEUVvU1_aXhnQCa7GsD3xq22R5HYfEUvpnu2b8mFoTjxN4OYkERm3Atc4hws8QYsyp0GyytEJuLezIM2ICy-HgShsltIfTeWXc58TscJ8iXNHh9ru0UU61-gU8Hgq_6lwI702yLdUNt5Fbs-U5MlrCLqHhUk_CpIHm_0QSSNzF3FcAakp9eGOj7g2LxUwXtfUDA4e0VMpRwQHGOV5juu7a1y-maOK0JrbNrJIhCjy2bMkOtfFHL915gN1PrYGnFEOB2L38xHDHitNHx12VvzDSP-5uJjKbj9ZgOq3g.jpg)
+
+### [xRocket](https://t.me/xrocket/cex?startapp=trade-VWS-TON)
+
+Trade, send and receive popular cryptocurrencies
+
+![](https://www.geckoterminal.com/images/favicon.ico) [geckoterminal.com](https://www.geckoterminal.com/ton/pools/EQCCa6jA_VzoQi76cAHmumoJfZbglVtY-DL-k8-f9h3vUOy2)
+
+![](https://assets.geckoterminal.com/social/social-sharing.png)
+
+### [VWS/TON - Virtuals Worlds Price on DeDust with 0.25% Fee | GeckoTerminal](https://www.geckoterminal.com/ton/pools/EQCCa6jA_VzoQi76cAHmumoJfZbglVtY-DL-k8-f9h3vUOy2)
+
+VWS/TON price today is $0.00000009962 with a 24-hour trading volume of $4.93. Virtuals Worlds contract address is EQBfX...Y8\_h with $7,604.70 in liquidity.
+
+[https://dexscreener.com/ton/eqcca6ja\_vzoqi76cahmumojfzbglvty-dl-k8-f9h3vuoy2](https://dexscreener.com/ton/eqcca6ja_vzoqi76cahmumojfzbglvty-dl-k8-f9h3vuoy2)
+
+![](https://tonscan.org/favicon.svg) [Tonscan](https://tonscan.org/ru/jetton/EQBfX9KO5yIFprHWPpJp3OsX-6cjLjEJF-h5uIQE3eLJY8_h#swaps)
+
+### [Tonscan — Explore TON blockchain ecosystem](https://tonscan.org/ru/jetton/EQBfX9KO5yIFprHWPpJp3OsX-6cjLjEJF-h5uIQE3eLJY8_h#swaps)
+
+Discover The Open Network ecosystem with tonscan.org — the simplest way to track transaction history, whales addresses, DApps, network stats, staking pools and more.
+
+![](https://telegram.org/img/website_icon.svg?4) [Telegram](https://t.me/MagicNFTcollections)
+
+![](https://cdn4.cdn-telegram.org/file/NfiKA8YOkiu-5h5hLsa-tG_BMKZbuY_NWfghNIVICln56YQo3cJYjX9nBCJQ7g_ptjl8HTZNP1YY3s-8C0B8yf9s0YULDN9r-0-iI3AFgeJAJZxyH_i8njBUnOJI8CxTE8HFfahlxuhPuP1m_YaD0xGWeb0OZuyQnWtaRKRWkgR4vv5oD-hwLQn0sfAZjFVO7c1rygtgbVJkMwFdAqAuXXI06nedSqz0jNv9ei8YANdD2WU-QZNNkobOCqL1ivsMXnwUbm3kT65bahL_NANWekhpP9NL6Vyp_jSx8J2jdq3mzGnH_2bFhsTcJ-tv6DDVL9SSsUxAl8q-0O7Oefc4Ng.jpg)
+
+### [VWS Mining Chat EN](https://t.me/MagicNFTcollections)
+
+https://t.me/ClickerVWSBot http://t.me/Web3VWS\_Bot https://t.me/MiningChatbot https://t.me/MagicVipClub https://t.me/miningvws https://t.me/VirtualsWorlds https://t.me/AirdropVWSbot https://t.me/AirdropNftOpensea https://t.me/MagicNftClub
+
+[https://tonwiki.space/wiki/ClickerVWS](https://tonwiki.space/wiki/ClickerVWS)
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 38866
+
+[TON Research](/)
+
+# [Mining Game https://t.me/ClickerVWSBot](/t/mining-game-https-t-me-clickervwsbot/38866)
+
+[Application](/c/application/20) 
+
+    
+
+[VWSforever](https://tonresear.ch/u/VWSforever)  October 27, 2024, 2:33pm  1
+
+#Bonus for #Mining#VWSGAME [Telegram: Contact @ClickerVWSBot](https://t.me/ClickerVWSBot) #Mining #Pool #$VWS #Mining #NFTs Mining Chats ![:white_check_mark:](https://tonresear.ch/images/emoji/twitter/white_check_mark.png?v=12 ":white_check_mark:")  
+[Telegram: Contact @tapps\_bot](https://t.me/tapps_bot/center?startapp=app_clickervws)  
+[https://ton.app/games/clicker-vws?id=2260](https://ton.app/games/clicker-vws?id=2260)  
+[Telegram: Contact @MagicVipClub](https://t.me/MagicVipClub)  
+[ClickerVWS - TON Wiki (En)](https://tonwiki.space/wiki/ClickerVWS)
+
+![](https://dedust.io/favicon-32x32.png) [dedust.io](https://dedust.io/swap/TON/VWS)
+
+![](https://dedust.io/images/opengraph.jpg)
+
+### [DeDust.io — AMM DEX on The Open Network](https://dedust.io/swap/TON/VWS)
+
+Swap any token seamlessly with minimal fees on DeDust.io, a leading decentralized automated market maker (AMM) running on The Open Network. Your ideal trade is just a click away with DeDust.io.
+
+![](https://dedust.io/favicon-32x32.png) [dedust.io](https://dedust.io/pools/EQCCa6jA_VzoQi76cAHmumoJfZbglVtY-DL-k8-f9h3vUOy2)
+
+![](https://dedust.io/images/opengraph.jpg)
+
+### [DeDust.io — AMM DEX on The Open Network](https://dedust.io/pools/EQCCa6jA_VzoQi76cAHmumoJfZbglVtY-DL-k8-f9h3vUOy2)
+
+Swap any token seamlessly with minimal fees on DeDust.io, a leading decentralized automated market maker (AMM) running on The Open Network. Your ideal trade is just a click away with DeDust.io.
+
+![](https://telegram.org/img/website_icon.svg?4) [Telegram](https://t.me/xrocket/cex?startapp=trade-VWS-TON)
+
+![](https://cdn4.cdn-telegram.org/file/KnPLkROVR9yKQCd1roysSu7wNpKfoFqQdMWznXzfSnjejB-zsEUVvU1_aXhnQCa7GsD3xq22R5HYfEUvpnu2b8mFoTjxN4OYkERm3Atc4hws8QYsyp0GyytEJuLezIM2ICy-HgShsltIfTeWXc58TscJ8iXNHh9ru0UU61-gU8Hgq_6lwI702yLdUNt5Fbs-U5MlrCLqHhUk_CpIHm_0QSSNzF3FcAakp9eGOj7g2LxUwXtfUDA4e0VMpRwQHGOV5juu7a1y-maOK0JrbNrJIhCjy2bMkOtfFHL915gN1PrYGnFEOB2L38xHDHitNHx12VvzDSP-5uJjKbj9ZgOq3g.jpg)
+
+### [xRocket](https://t.me/xrocket/cex?startapp=trade-VWS-TON)
+
+Trade, send and receive popular cryptocurrencies
+
+![](https://www.geckoterminal.com/images/favicon.ico) [geckoterminal.com](https://www.geckoterminal.com/ton/pools/EQCCa6jA_VzoQi76cAHmumoJfZbglVtY-DL-k8-f9h3vUOy2)
+
+![](https://assets.geckoterminal.com/social/social-sharing.png)
+
+### [VWS/TON - Virtuals Worlds Price on DeDust with 0.25% Fee | GeckoTerminal](https://www.geckoterminal.com/ton/pools/EQCCa6jA_VzoQi76cAHmumoJfZbglVtY-DL-k8-f9h3vUOy2)
+
+VWS/TON price today is $0.00000009962 with a 24-hour trading volume of $4.93. Virtuals Worlds contract address is EQBfX...Y8\_h with $7,604.70 in liquidity.
+
+[https://dexscreener.com/ton/eqcca6ja\_vzoqi76cahmumojfzbglvty-dl-k8-f9h3vuoy2](https://dexscreener.com/ton/eqcca6ja_vzoqi76cahmumojfzbglvty-dl-k8-f9h3vuoy2)
+
+![](https://tonscan.org/favicon.svg) [Tonscan](https://tonscan.org/ru/jetton/EQBfX9KO5yIFprHWPpJp3OsX-6cjLjEJF-h5uIQE3eLJY8_h#swaps)
+
+### [Tonscan — Explore TON blockchain ecosystem](https://tonscan.org/ru/jetton/EQBfX9KO5yIFprHWPpJp3OsX-6cjLjEJF-h5uIQE3eLJY8_h#swaps)
+
+Discover The Open Network ecosystem with tonscan.org — the simplest way to track transaction history, whales addresses, DApps, network stats, staking pools and more.
+
+![](https://telegram.org/img/website_icon.svg?4) [Telegram](https://t.me/MagicNFTcollections)
+
+![](https://cdn4.cdn-telegram.org/file/NfiKA8YOkiu-5h5hLsa-tG_BMKZbuY_NWfghNIVICln56YQo3cJYjX9nBCJQ7g_ptjl8HTZNP1YY3s-8C0B8yf9s0YULDN9r-0-iI3AFgeJAJZxyH_i8njBUnOJI8CxTE8HFfahlxuhPuP1m_YaD0xGWeb0OZuyQnWtaRKRWkgR4vv5oD-hwLQn0sfAZjFVO7c1rygtgbVJkMwFdAqAuXXI06nedSqz0jNv9ei8YANdD2WU-QZNNkobOCqL1ivsMXnwUbm3kT65bahL_NANWekhpP9NL6Vyp_jSx8J2jdq3mzGnH_2bFhsTcJ-tv6DDVL9SSsUxAl8q-0O7Oefc4Ng.jpg)
+
+### [VWS Mining Chat EN](https://t.me/MagicNFTcollections)
+
+https://t.me/ClickerVWSBot http://t.me/Web3VWS\_Bot https://t.me/MiningChatbot https://t.me/MagicVipClub https://t.me/miningvws https://t.me/VirtualsWorlds https://t.me/AirdropVWSbot https://t.me/AirdropNftOpensea https://t.me/MagicNftClub
+
+[https://tonwiki.space/wiki/ClickerVWS](https://tonwiki.space/wiki/ClickerVWS)
+
+  1 Like
+
+[VWSforever](https://tonresear.ch/u/VWSforever) November 4, 2024, 4:16pm  2
+
+$40 ALL Users ![:money_with_wings:](https://tonresear.ch/images/emoji/twitter/money_with_wings.png?v=12 ":money_with_wings:")![:gift:](https://tonresear.ch/images/emoji/twitter/gift.png?v=12 ":gift:") Referals Gaming Bonus for Mining @ClickerVWSbot Q4 Listing All Mining Pool $VWS Mining NFTs Mining Chats​:white\_check\_mark: Banned users will be stripped of the $40 Reward ![:x:](https://tonresear.ch/images/emoji/twitter/x.png?v=12 ":x:") [Telegram: Contact @ClickerVWSBot](https://t.me/ClickerVWSBot)
+
+ 
+
+[VWSforever](https://tonresear.ch/u/VWSforever) November 4, 2024, 4:17pm  3
+
+GameFi и SocialFi  
+Стейкинг VWS, TON, cNfts, NFT. Мост BNB TON VWS MVP Swap VWS MVP DeDust xRocket Майнинговые пулы VWS/TON MVP/TON DeDust  
+Майнинг NFT GetGems OKX [GATE.IO](http://gate.io/)
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 38867
+
+[TON Research](/)
+
+# [Mining Game TON and Telegram Ecosystem https://t.me/ClickerVWSBot](/t/mining-game-ton-and-telegram-ecosystem-https-t-me-clickervwsbot/38867)
+
+[Technical Support](/c/technical-support/78) 
+
+    
+
+[VWSforever](https://tonresear.ch/u/VWSforever)  October 27, 2024, 2:50pm  1
+
+#Mining #VWSGAME  
+[Telegram: Contact @ClickerVWSBot](https://t.me/ClickerVWSBot) #Mining #Pool #$VWS #Mining #NFTs Mining Chats ![:white_check_mark:](https://tonresear.ch/images/emoji/twitter/white_check_mark.png?v=12 ":white_check_mark:") [Telegram: Contact @tapps\_bot](https://t.me/tapps_bot/center?startapp=app_clickervws) [https://ton.app/games/clicker-vws?id=2260](https://ton.app/games/clicker-vws?id=2260) [Telegram: Contact @MagicVipClub](https://t.me/MagicVipClub) [ClickerVWS - TON Wiki (En)](https://tonwiki.space/wiki/ClickerVWS) [DeDust.io — AMM DEX on The Open Network](https://dedust.io/swap/TON/VWS) [DeDust.io — AMM DEX on The Open Network](https://dedust.io/pools/EQCCa6jA_VzoQi76cAHmumoJfZbglVtY-DL-k8-f9h3vUOy2) [Telegram: Contact @xrocket](https://t.me/xrocket/cex?startapp=trade-VWS-TON) [VWS/TON - Virtuals Worlds Price on DeDust with 0.25% Fee | GeckoTerminal](https://www.geckoterminal.com/ton/pools/EQCCa6jA_VzoQi76cAHmumoJfZbglVtY-DL-k8-f9h3vUOy2) [https://dexscreener.com/ton/eqcca6ja\_vzoqi76cahmumojfzbglvty-dl-k8-f9h3vuoy2](https://dexscreener.com/ton/eqcca6ja_vzoqi76cahmumojfzbglvty-dl-k8-f9h3vuoy2) [Telegram: Contact @MagicNFTcollections](https://t.me/MagicNFTcollections) [ClickerVWS - TON Wiki (En)](https://tonwiki.space/wiki/ClickerVWS)
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 38868
+
+[TON Research](/)
+
+# [Mining https://t.me/ClickerVWSBot GameFi SocialFi](/t/mining-https-t-me-clickervwsbot-gamefi-socialfi/38868)
+
+[General](/c/general/4) 
+
+    
+
+[VWSforever](https://tonresear.ch/u/VWSforever)  October 27, 2024, 2:57pm  1
+
+#Bonus for #Mining #VWSGAME [Telegram: Contact @ClickerVWSBot](https://t.me/ClickerVWSBot) Q4 Listing All #Mining #Pool #$VWS #Mining #NFTs Mining Chats ![:white_check_mark:](https://tonresear.ch/images/emoji/twitter/white_check_mark.png?v=12 ":white_check_mark:") [Telegram: Contact @tapps\_bot](https://t.me/tapps_bot/center?startapp=app_clickervws) [https://ton.app/games/clicker-vws?id=2260](https://ton.app/games/clicker-vws?id=2260) [Telegram: Contact @MagicVipClub](https://t.me/MagicVipClub) [ClickerVWS - TON Wiki (En)](https://tonwiki.space/wiki/ClickerVWS) [DeDust.io — AMM DEX on The Open Network](https://dedust.io/swap/TON/VWS) [DeDust.io — AMM DEX on The Open Network](https://dedust.io/pools/EQCCa6jA_VzoQi76cAHmumoJfZbglVtY-DL-k8-f9h3vUOy2) [Telegram: Contact @xrocket](https://t.me/xrocket/cex?startapp=trade-VWS-TON) [VWS/TON - Virtuals Worlds Price on DeDust with 0.25% Fee | GeckoTerminal](https://www.geckoterminal.com/ton/pools/EQCCa6jA_VzoQi76cAHmumoJfZbglVtY-DL-k8-f9h3vUOy2) [https://dexscreener.com/ton/eqcca6ja\_vzoqi76cahmumojfzbglvty-dl-k8-f9h3vuoy2](https://dexscreener.com/ton/eqcca6ja_vzoqi76cahmumojfzbglvty-dl-k8-f9h3vuoy2) [Telegram: Contact @MagicNFTcollections](https://t.me/MagicNFTcollections) [ClickerVWS - TON Wiki (En)](https://tonwiki.space/wiki/ClickerVWS)
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 38872
+
+[TON Research](/)
+
+# [TryTON | Submission Form for Memecoin Mountain](/t/tryton-submission-form-for-memecoin-mountain/38872)
+
+[TON Memelandia](/c/ton-memelandia/memecoin-mountain/86)  [Memecoin Mountain](/c/ton-memelandia/memecoin-mountain/86) 
+
+    
+
+[TryTON](https://tonresear.ch/u/TryTON)  October 27, 2024, 5:15pm  1
+
+**Submission Form for Memecoin Mountain**
+
+1.  **Your Role in the Competition:**
+    1.  Memecoin Project
+
+_(Only for Memecoin Projects; skip if you are a Trader/Whale)_
+
+1.  **Memecoin Name:TRYTON | Let’s make TON great together!**
+2.  **Token Contract Address:EQBEbKm5z-T5psz8iRtCRYjDH-OGbRAsfhQtdKf1ma2dqS7o**
+3.  **Market Cap (at the time of application):1.09 mln**
+4.  **Daily Trading Volume (for the last 7 days):120k**
+5.  **Number of Unique Token Holders:4k**
+6.  **Has your token been fairly launched?**
+    1.  Yes
+7.  **Please provide a link to your CoinGecko listing:[https://www.coingecko.com/en/coins/tryton](https://www.coingecko.com/en/coins/tryton)**
+8.  **Are you applying for the Major League or Minor League? Major League**
+9.  \*\*Briefly describe your memecoin’s strategy for growth and community engagement:The TryTON project develops unique mechanics for community growth and engagement with a focus on airdrop games and bonus NFTs that increase interest and stimulate participant activity.  
+    Airdrop games and giveaways:  
+    TryTON regularly conducts airdrop games, in which users receive random rewards for performing certain actions - for example, purchasing tokens for specified amounts or fulfilling conditions on token holds. Each participation in an airdrop game can earn participants rewards in tokens and NFTs, which are used to further progress in the game or access unique project features. This helps maintain activity on the platform and provides a chance to win useful and rare items.  
+    Cards and Bonus NFTs:  
+    TryTON creates special NFT cards with a variety of features, such as Bonus X2, which doubles all bonus rewards. Some cards provide access to daily play boxes or unique privileges on the platform. For example, the NFT CROWN or NFT PresSOL card brings the holder additional gift boxes with the opportunity to win tokens or other valuable items. These cards keep users interested by allowing them to participate in exclusive promotions and giveaways.  
+    Game Mechanics:  
+    TryTON also utilizes game mechanics to engage users, such as opening boxes that contain random rewards and promotions like the King of the Mountain contest. This competition motivates users to actively participate and helps build up trading volumes. The opportunity to win exclusive rewards incentivizes users to not only stay active on the platform, but also invest in the project tokens.  
+    TryTON also provides support and announcements for its community, making it part of the development and scaling of the project, which creates an active and dedicated community.  
+    \*\*
+10.  **Do you have any partnerships with Key Opinion Leaders (KOLs) or influencers?**
+    1.  Yes, our project collaborates with more than 18 YouTube and Telegram channels and regularly makes calls on the TOP sites.
+    2.  If yes, please specify-The entire list is in the [attachment](https://docs.google.com/document/d/1ZS73NV8IVpfQkbIfice7eaQdQC4rK6Na/edit?usp=sharing&ouid=102513959408536433419&rtpof=true&sd=true).
+
+(General)
+
+1.  **Would you like to receive updates and announcements during the competition?**
+    1.  Yes
+2.  **Provide your Telegram username for communication and coordination: @Ivanov\_8 / @lavrentev1**
+
+  141 Likes
+
+[TRY TON $TRT.Let's make Ton Greater by TryTon](https://tonresear.ch/t/try-ton-trt-lets-make-ton-greater-by-tryton/39042) 
+
+[user2588](https://tonresear.ch/u/user2588) October 27, 2024, 6:06pm  2
+
+TryTON the best project, he will make this world a better place, and we will fly with him into space on a big rocket
+
+  77 Likes
+
+[DioniS\_777](https://tonresear.ch/u/DioniS_777) October 27, 2024, 6:11pm  3
+
+Tryton ![:lizard:](https://tonresear.ch/images/emoji/twitter/lizard.png?v=12 ":lizard:")![:lizard:](https://tonresear.ch/images/emoji/twitter/lizard.png?v=12 ":lizard:")![:lizard:](https://tonresear.ch/images/emoji/twitter/lizard.png?v=12 ":lizard:")![:lizard:](https://tonresear.ch/images/emoji/twitter/lizard.png?v=12 ":lizard:")![:lizard:](https://tonresear.ch/images/emoji/twitter/lizard.png?v=12 ":lizard:")![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:")![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:")![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:")![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:")![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:")![:muscle:](https://tonresear.ch/images/emoji/twitter/muscle.png?v=12 ":muscle:")![:muscle:](https://tonresear.ch/images/emoji/twitter/muscle.png?v=12 ":muscle:")![:muscle:](https://tonresear.ch/images/emoji/twitter/muscle.png?v=12 ":muscle:")![:muscle:](https://tonresear.ch/images/emoji/twitter/muscle.png?v=12 ":muscle:")![:muscle:](https://tonresear.ch/images/emoji/twitter/muscle.png?v=12 ":muscle:")![:+1:](https://tonresear.ch/images/emoji/twitter/+1.png?v=12 ":+1:")![:+1:](https://tonresear.ch/images/emoji/twitter/+1.png?v=12 ":+1:")![:+1:](https://tonresear.ch/images/emoji/twitter/+1.png?v=12 ":+1:")![:+1:](https://tonresear.ch/images/emoji/twitter/+1.png?v=12 ":+1:")![:+1:](https://tonresear.ch/images/emoji/twitter/+1.png?v=12 ":+1:")
+
+  74 Likes
+
+[CryptoKorona](https://tonresear.ch/u/CryptoKorona) October 27, 2024, 6:24pm  4
+
+The Best project on Ton Blockchain, thank you.![:muscle:](https://tonresear.ch/images/emoji/twitter/muscle.png?v=12 ":muscle:")![:tada:](https://tonresear.ch/images/emoji/twitter/tada.png?v=12 ":tada:")
+
+  75 Likes
+
+[Valeriy\_Krivorotov](https://tonresear.ch/u/Valeriy_Krivorotov) October 27, 2024, 6:37pm  5
+
+TryTon this is…  
+First of all, it is a friendly, close-knit team. Which is in touch 24 hours a day! And if you do not understand crypto, you will be taught, supported and guided on the right way .  
+Secondly, having understood crypto, you can become richer!  
+Good luck to everyone!  
+TryTon ![:+1:](https://tonresear.ch/images/emoji/twitter/+1.png?v=12 ":+1:")
+
+  77 Likes
+
+[Elena\_Ilyina](https://tonresear.ch/u/Elena_Ilyina) October 27, 2024, 6:58pm  6
+
+TryTON - лучший проект. Интересный, продуманный, отлично реализуемый. ![:lizard:](https://tonresear.ch/images/emoji/twitter/lizard.png?v=12 ":lizard:")![:fire:](https://tonresear.ch/images/emoji/twitter/fire.png?v=12 ":fire:")![:fire:](https://tonresear.ch/images/emoji/twitter/fire.png?v=12 ":fire:")![:fire:](https://tonresear.ch/images/emoji/twitter/fire.png?v=12 ":fire:")
+
+  73 Likes
+
+[\_igor](https://tonresear.ch/u/_igor) October 27, 2024, 7:04pm  7
+
+This is very cool news, this is another step to the top of the crypto world, you will do well I believe in it
+
+  71 Likes
+
+[Lucky\_Snoop](https://tonresear.ch/u/Lucky_Snoop) October 27, 2024, 7:08pm  8
+
+TryTON listen, free boxes every day if I have ususal nft it’s great
+
+  72 Likes
+
+[Maria\_Sedasheva](https://tonresear.ch/u/Maria_Sedasheva) October 27, 2024, 7:11pm  10
+
+My favorite mini app on TON. Experienced and reliable dev team, sound token, interesting game and fantastic community! Adore ![:heart:](https://tonresear.ch/images/emoji/twitter/heart.png?v=12 ":heart:")It!
+
+  70 Likes
+
+[Bulat\_Oleg](https://tonresear.ch/u/Bulat_Oleg) October 27, 2024, 7:16pm  11
+
+I believe in this project TryTon, it is already doing what it promised, it will soon be on the new bridge Solana, and there are 3 more bridges ahead. Join the team and hold.
+
+  71 Likes
+
+[Yakov91](https://tonresear.ch/u/Yakov91) October 27, 2024, 7:21pm  13
+
+TryTon will make TON great! Very strong team with a huge crypto experience, friendly community, nice idea! That also need for “to the moon”? Best wishes for everyone who read this message
+
+  67 Likes
+
+[SVasht](https://tonresear.ch/u/SVasht) October 27, 2024, 7:22pm  14
+
+TryTON Cool  
+TryTON Great  
+TryTon perfect
+
+  64 Likes
+
+[Firefly](https://tonresear.ch/u/Firefly) October 27, 2024, 7:23pm  15
+
+Cool crypto project TryTON! I play the game with airdrop, hold the token, participate in the community!
+
+  68 Likes
+
+[Android](https://tonresear.ch/u/Android) October 27, 2024, 7:26pm  16
+
+Great project… I hold coins and NFTs… I’m waiting for the flight to the moon [Telegram: Contact @TryTONWalletBot](https://t.me/TryTONWalletBot?start=792707071)
+
+  66 Likes
+
+[poupoupoucomics](https://tonresear.ch/u/poupoupoucomics) October 27, 2024, 7:28pm  17
+
+TryTon LJGOOooooo!!!
+
+  66 Likes
+
+[IvanPartizan](https://tonresear.ch/u/IvanPartizan) October 27, 2024, 7:30pm  18
+
+Salute, people! This project is very interesting. I have been watching its development for a long time. The guys have done a great job and are not going to stop! Get up on our rocket, fasten your seatbelts! To infinity and beyond!!
+
+  71 Likes
+
+[Sofia\_Mysyk](https://tonresear.ch/u/Sofia_Mysyk) October 27, 2024, 7:38pm  19
+
+Bullish community and narrative <3
+
+  64 Likes
+
+[Vladislav\_Kolupaev](https://tonresear.ch/u/Vladislav_Kolupaev) October 27, 2024, 7:40pm  20
+
+The best project during my time in crypto. I found my family and friends here. Don’t pass by, join us <3
+
+  63 Likes
+
+[Marsha\_Roy](https://tonresear.ch/u/Marsha_Roy) October 27, 2024, 7:43pm  21
+
+Perhaps the best project on the TON blockchain. Strong community and unquestioning adherence to the roadmap and image. Definitely а gem!
+
+  65 Likes
+
+[user2605](https://tonresear.ch/u/user2605) October 27, 2024, 7:49pm  22
+
+Join the TryTON project, there you will find a lot of interesting things for yourself and friends!
+
+  62 Likes
+
+**[next page →](/t/tryton-submission-form-for-memecoin-mountain/38872?page=2)**
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 389
+
+[TON Research](/)
+
+# [Оптимизация HighloadWalletContractV2 для TON Blockchain](/t/highloadwalletcontractv2-ton-blockchain/389)
+
+[Русский](/c/ru/general/50)  [General](/c/ru/general/50) 
+
+    
+
+[IvanKriptov](https://tonresear.ch/u/IvanKriptov)  February 19, 2024, 5:03pm  1
+
+#### [](#h-1)![:memo:](https://tonresear.ch/images/emoji/twitter/memo.png?v=12 ":memo:") Введение
+
+TON Blockchain (The Open Network) - передовая платформа, обеспечивающая высокую производительность и масштабируемость. В этом контексте, `HighloadWalletContractV2` играет ключевую роль, обеспечивая эффективное управление кошельками и транзакциями. В данной статье рассматриваются технические аспекты и оптимизации этого контракта.
+
+#### [](#h-2)![:building_construction:](https://tonresear.ch/images/emoji/twitter/building_construction.png?v=12 ":building_construction:") Структура контракта
+
+`HighloadWalletContractV2` наследуется от базового `Contract` и реализует следующие свойства и методы:
+
+Свойство
+
+Описание
+
+`address`
+
+Адрес кошелька
+
+`init`
+
+Инициализация кода и данных контракта
+
+`publicKey`
+
+Публичный ключ кошелька
+
+`walletId`
+
+Идентификатор кошелька
+
+`workchain`
+
+Номер цепочки, в которой размещен кошелек
+
+Метод
+
+Описание
+
+`createTransfer`
+
+Создание транзакции перевода
+
+`getBalance`
+
+Получение баланса кошелька
+
+`getProcessed`
+
+Проверка статуса обработки транзакции
+
+`getPublicKey`
+
+Получение публичного ключа кошелька
+
+`send`
+
+Отправка подписанной транзакции
+
+`sendTransfer`
+
+Подписание и отправка транзакции перевода
+
+`sender`
+
+Создание отправителя транзакций
+
+`create` (статич.)
+
+Создание экземпляра контракта
+
+`generateQueryId`
+
+Генерация идентификатора запроса для уникальности транз.
+
+#### [](#h-3)![:hammer_and_wrench:](https://tonresear.ch/images/emoji/twitter/hammer_and_wrench.png?v=12 ":hammer_and_wrench:") Оптимизация и использование
+
+1.  **Эффективное управление памятью:** Для оптимизации использования памяти, данные контракта хранятся в компактных структурах, таких как `Cell`.
+2.  **Безопасность транзакций:** Использование публичного ключа и подписи транзакций обеспечивает высокий уровень безопасности.
+3.  **Масштабируемость:** Контракт поддерживает обработку большого числа транзакций благодаря оптимизированной структуре и методам.
+
+#### [](#h-4)![:paperclip:](https://tonresear.ch/images/emoji/twitter/paperclip.png?v=12 ":paperclip:") Полезные ссылки
+
+*   [Код контракта на GitHub](https://github.com/ndatg/ton-highload-wallet-contract)
+*   [Документация TON Blockchain](https://docs.ton.dev)
+
+#### [](#h-5)![:smiley:](https://tonresear.ch/images/emoji/twitter/smiley.png?v=12 ":smiley:") Заключение
+
+`HighloadWalletContractV2` является важной составляющей экосистемы TON Blockchain, обеспечивая надежное и эффективное управление кошельками и транзакциями. Его оптимизация и правильное использование способствуют повышению производительности и безопасности системы.
+
+[ndatg.github.io](https://ndatg.github.io/ton-highload-wallet-contract/index.html)
+
+### [ton-highload-wallet-contract](https://ndatg.github.io/ton-highload-wallet-contract/index.html)
+
+Documentation for ton-highload-wallet-contract
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 38981
+
+[TON Research](/)
+
+# [BIG BALLS BIRDS | Submission Form for Memecoin Mountain](/t/big-balls-birds-submission-form-for-memecoin-mountain/38981)
+
+[TON Memelandia](/c/ton-memelandia/memecoin-mountain/86)  [Memecoin Mountain](/c/ton-memelandia/memecoin-mountain/86) 
+
+    
+
+[eshiasd](https://tonresear.ch/u/eshiasd)  October 27, 2024, 8:16pm  1
+
+**Submission Form for Memecoin Mountain**
+
+1.  **Your Role in the Competition:**
+    1.  Memecoin Project
+
+_(Only for Memecoin Projects; skip if you are a Trader/Whale)_
+
+1.  **Memecoin Name:**: BIG BALLS BIRDS ($BALLS)
+2.  **Token Contract Address:**: EQCxXcLuDo7OLyks-iGODGCpPTi5G9Yhq3DVwpjTV53xfuOu
+3.  **Market Cap (at the time of application):**: 126K$
+4.  **Daily Trading Volume (for the last 7 days):**: 1000$
+5.  **Number of Unique Token Holders:**: 11.66K
+6.  **Has your token been fairly launched?**
+    1.  Yes
+7.  **Please provide a link to your CoinGecko listing:**: Only CoinMarketCap ([BALLS/TON Real-time On-chain STON.fi DEX Data](https://coinmarketcap.com/dexscan/ton/EQACCnLqUzVgCJ7g1Os_oWXk4WxQsvbSM9D0fJlBA_WykUAy/))
+8.  **Are you applying for the Major League or Minor League?**: Minor
+9.  **Briefly describe your memecoin’s strategy for growth and community engagement:**:
+
+**Wassup, TON Founation!**
+
+We are already 6 months old and we have recently encountered difficulties: the market maker who worked with us sold $BALLS inconsistently and collapsed the token exchange rate, because of which we have no way to pass in Memecoin Mountain according to the criteria. \*\*
+
+**Our meme is this:**  
+**\- A unique adaptation of an AI bird with eggs for TON (AI memes are hype on Solana right now and imagine the hype of the degens from there when they come with an interest in Memelandia and see BIG BALLS BIRDS);**  
+**\- We are the bridge for WEB2 users to WEB3;**  
+**\- Together with the community we have made 500+ memes: @bigballsmemes and we have a TikTok, videos from there have garnered a combined 150K+ views - check it out! ([https://linktr.ee/bigballsbirds](https://linktr.ee/bigballsbirds));**  
+**\- Russian channel REN TV did a report about our bird ([Telegram: Contact @big\_balls\_birds](https://t.me/big_balls_birds/267));**  
+**\- We have a famous NFT collection ([BIG BALLS BIRDS](https://getgems.io/collection/EQAJZy957mjfURxDg0f_8r0wLRaV02tjE6vx6NTGIlOhBVcD)) that will be used as skins in the game!**  
+**\- We subscribe to the philosophy that the most important thing for a meme at TON is first and foremost meme-ness, not utility. We have a TMA coming out in early November - Flappy BIrd with the BALLSY mascot, which will attract a lot of new audiences.**
+
+\*\*We survived a bloody summer for memcoins, we are overcoming our struggles now and we ask you to believe in us. The BIG BALLS BIRDS team will be at The TON Gateway on November 1-2 and wants to show that it is possible to be a meme even in difficult times for token capitalization. \*\*
+
+**Stay with BIG BALLS!**
+
+11.  **Do you have any partnerships with Key Opinion Leaders (KOLs) or influencers?**
+    1.  Yes
+    2.  Here ([https://docs.google.com/spreadsheets/d/1Clmsd9DGbkgu3x4xZg3RufWs15CoK8Jdeo38-eaftwc/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1Clmsd9DGbkgu3x4xZg3RufWs15CoK8Jdeo38-eaftwc/edit?usp=sharing))
+
+(General)
+
+1.  **Would you like to receive updates and announcements during the competition?**
+    1.  Yes
+2.  **Provide your Telegram username for communication and coordination:**: [@eshiasd](/u/eshiasd)
+
+  25 Likes
+
+[Yuui\_Cybergirl](https://tonresear.ch/u/Yuui_Cybergirl) October 27, 2024, 8:34pm  2
+
+Been sitting in BALLS for a long time, been through all the circles of hell guys and still haven’t given up. I think TON Foundation should pay attention to such projects because if their token fires hard (and there is a good chance it will), it will create the FOMO with a profit that will make people from other blockchains come to TON.
+
+  13 Likes
+
+[Pojiloy](https://tonresear.ch/u/Pojiloy) October 27, 2024, 8:43pm  3
+
+I like this project, I’m early bird.  
+We wanna boost this project, we believe in this project
+
+  11 Likes
+
+[Hoodwink](https://tonresear.ch/u/Hoodwink) October 27, 2024, 9:30pm  4
+
+The BBB is definitely worthy of being a part of the Memecoin Mountain. Please give them a chance to prove themselves. ![:two_hearts:](https://tonresear.ch/images/emoji/twitter/two_hearts.png?v=12 ":two_hearts:")
+
+  11 Likes
+
+[tilted](https://tonresear.ch/u/tilted) October 27, 2024, 10:16pm  5
+
+The strongest side of this project is the community. BBB managed to gather under one wing (bird’s wing huh🐦) people, who believe that strong memes are born from good stories. BBB went through the hardest tests, and proved that they can stand and show that even in conditions when everything seems to be going against you, there is still a chance to succeed. And everyone can reach it, but you need the BIG BALLS to make it🦅
+
+  9 Likes
+
+[Valentine](https://tonresear.ch/u/Valentine) October 27, 2024, 10:18pm  6
+
+I’ve been with this project from the very beginning. I really liked the AI ​​art, played a cool mini-app🔥 I’m glad to be part of this community💖, and developers are very nice people, I really hope that this project will be able to go to Meme Mountain, so that even more people will know about us❤️
+
+  10 Likes
+
+[anton3](https://tonresear.ch/u/anton3) October 27, 2024, 10:51pm  7
+
+Yo, friends. I have been following the project since its very beginning, almost from the first thousand subscribers in the telegram channel. the team deserves respect, they launched the NFT collection very well, collected the presale in a few minutes. yes, the token did not enter the market very successfully. The chart is literally burning red. But despite this, they created a very cool community, introduced many people to each other, who also began to run telegram channels and promote the TON ecosystem in their messages. Despite all the difficulties, the team continues to work and hope that the memes on TON will resurrect and they will be talked about throughout the wonderful world of web3, that TON will become the new solana, and BALLS will become the new BONK… And I’m doing it with them! BIG BALLS BIRDS is about community.
+
+  10 Likes
+
+[Cherchez](https://tonresear.ch/u/Cherchez) October 28, 2024, 3:03am  8
+
+I’ve been working on this project for quite some time now. I started my journey in cryptocurrency relatively recently, and the first project I encountered was $BALLS. Awkwardly, with absolutely no experience, I began to take a keen interest in this project. First, the presale, then various activities, NFTs, quests, game, raids. And now the project has captured my heart. Balls is not only about a close-knit community but also about strong developers who continue to work hard on the project despite all the setbacks along the way, despite other projects around them failing one after another. I believe in this project and I’m proud to be part of this community.
+
+  6 Likes
+
+[egorvstheworld](https://tonresear.ch/u/egorvstheworld) October 28, 2024, 6:57am  9
+
+I ve been with this project from the very beginning. And what i liked most about it is probably the best community and developers team. I think BBB deserves to be part of Memecoin Mountain, cause it went through a lot of hard times and is still on the fly. So why not reward such a warrior with participation in Memcoin Mountain?
+
+  4 Likes
+
+[Healer\_in](https://tonresear.ch/u/Healer_in) October 28, 2024, 7:22am  10
+
+The most sincere developers I ever met ![:heart_hands:](https://tonresear.ch/images/emoji/twitter/heart_hands.png?v=12 ":heart_hands:"). There was a lot of difficulties and I can’t believe this project is still alive, because the obstacles and accidents were GIANT. But they are really strong, yet seems so small. I think they have a great potential, because people, ideas and beliefs - this is that make memecoin successful. And they are ready to play long, I’m sure
+
+  5 Likes
+
+[pachulli.x.x](https://tonresear.ch/u/pachulli.x.x) October 28, 2024, 11:09am  11
+
+It seems that BBB has been hit by a lot of adversity. Due to a series of accidents, many projects that came out around the same time have already deflated. And BBB was especially unlucky, as a result of illegal actions MM, which is terribly annoying, but surmountable.
+
+I have been with the project from the very beginning, I was happy in moments of success and worried when things were not going well. BBB has a great team. I am surprised how they have kept the audience informed of events all this time, kept their word, explained their actions and wasted time on fools in chats.  
+With such an approach, there was no option that BBB would have a weak community. I consider this one of the fundamental factors of success. In the six months of the token’s existence, a super strong community has formed around the bird with eggs, with truly sane, adequate and cool people, sincerely love them.
+
+Initially, the Bird with Eggs was a funny meme, and now it seems to symbolize how strong in spirit you must be in sometimes really difficult times.  
+I am with BBB till the end. How many events are behind that could have become fatal, but a bird with eggs will outlive many. And even if the path is difficult and thorny, it will lead to success, you only need just keep going. ![:muscle:t2:](https://tonresear.ch/images/emoji/twitter/muscle/2.png?v=12 ":muscle:t2:")
+
+  7 Likes
+
+[em\_kex1](https://tonresear.ch/u/em_kex1) October 29, 2024, 2:12pm  12
+
+Greetings to all!
+
+I’m just a member of the community, not an early bird.
+
+During this recent period, when the market in general has been very tough for altcoins and meme coins, the project BIG BALLS BIRDS has shown itself to have “really strong eggs.” ![:slight_smile:](https://tonresear.ch/images/emoji/twitter/slight_smile.png?v=12 ":slight_smile:")
+
+Honestly, I’ve seen them establish new partnerships even when everything seemed bleak. BBB kept doing their work: they held several art competitions for the community (I participated and was truly awarded multiple times!), “Memecity” is still going strong, and the project even launched a beta version of their game where you can play using your own skin… NFT!
+
+Promises are being kept.
+
+I don’t wanna see a truly deserving project suffering from obstacles and the last challenge with mm that they come across — it just isn’t fair.
+
+I want to help this project because here, I’ve found not just a strong community but friends; not just an opportunity to earn but a genuinely strong, popular meme that will “bring the heat if it isn’t strangled.”
+
+This could be a powerful comeback story for the entire TON ecosystem. I believe in the team, in the community, and in this project.
+
+  2 Likes
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 39
+
+[TON Research](/)
+
+# [Evaluating the Impact of Telegram Web3 Grants on TON Ecosystem Growth](/t/evaluating-the-impact-of-telegram-web3-grants-on-ton-ecosystem-growth/39)
+
+[General](/c/general/4) 
+
+    
+
+[kingsman](https://tonresear.ch/u/kingsman)  January 23, 2024, 1:52pm  1
+
+The TON Foundation’s launch of the Telegram Web3 Grants program represents a significant step towards integrating blockchain functionality within Telegram Messenger. This initiative aims to enhance the TON Ecosystem by supporting various stages of project development and fostering connections with venture capital. In light of this development, we invite a detailed analysis and discussion on the potential impacts and implications of this program.
+
+1.  How does the Telegram Web3 Grants program, with its distinct categories (Type A, B, C, D), strategically support the growth of the TON Ecosystem, especially in relation to the integration within Telegram Messenger?
+2.  For Type A grants targeting initial deployments or proof of concept applications, what are the expected criteria for evaluation, and how can developers effectively leverage these grants to transition from concept to a viable product?
+3.  In the context of Type B grants, which focus on live TON-based projects without Telegram integration, what challenges and opportunities do developers face in integrating their existing projects with Telegram, and how might the grant facilitate this process?
+4.  For projects considering migration to TON blockchain (Type C grants), what are the critical factors in evaluating grant amounts, and how do user numbers, transactions, and Total Value Locked (TVL) influence these decisions?
+5.  While Type D does not offer venture funding directly, it aims to connect projects with VC funds or TONcoin.Fund. What role does this type of support play in the broader ecosystem, and how can projects best prepare and position themselves to attract venture capital investment?
+6.  Looking at the overall structure of the Telegram Web3 Grants program, how might this initiative compare to similar blockchain accelerator programs in terms of effectiveness, scope, and potential for driving innovation in the blockchain space?
+7.  Finally, considering TON’s unique positioning through Telegram, how might this symbiotic relationship between a popular messaging platform and a blockchain ecosystem influence the future landscape of blockchain applications, particularly in terms of user adoption and practical use cases?
+
+This discussion seeks to explore the multifaceted implications of the Telegram Web3 Grants program, focusing on its capacity to drive innovation, facilitate integration, and attract investment within the TON Ecosystem. We encourage contributions from blockchain experts, developers, and enthusiasts to provide insights and perspectives on this significant development.
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 39042
+
+[TON Research](/)
+
+# [TRY TON $TRT.Let's make Ton Greater by TryTon](/t/try-ton-trt-lets-make-ton-greater-by-tryton/39042)
+
+[General](/c/general/4) 
+
+    
+
+[majordiem](https://tonresear.ch/u/majordiem)  October 28, 2024, 12:16am  1
+
+![](https://tonresear.ch/user_avatar/tonresear.ch/tryton/48/18474_2.png) [TryTON | Submission Form for Memecoin Mountain](https://tonresear.ch/t/tryton-submission-form-for-memecoin-mountain/38872) [Memecoin Mountain](/c/ton-memelandia/memecoin-mountain/86)
+
+> Submission Form for Memecoin Mountain Your Role in the Competition: Memecoin Project (Only for Memecoin Projects; skip if you are a Trader/Whale) Memecoin Name:TRYTON | Let’s make TON great together! Token Contract Address:EQBEbKm5z-T5psz8iRtCRYjDH-OGbRAsfhQtdKf1ma2dqS7o Market Cap (at the time of application):1.09 mln Daily Trading Volume (for the last 7 days):120k Number of Unique Token Holders:4k Has your token been fairly launched? Yes Please provide a link to your CoinGecko listi…
+
+  7 Likes
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 39090
+
+[TON Research](/)
+
+# [Tonke ($TONKE) | Meme Mountain](/t/tonke-tonke-meme-mountain/39090)
+
+[TON Memelandia](/c/ton-memelandia/memecoin-mountain/86)  [Memecoin Mountain](/c/ton-memelandia/memecoin-mountain/86) 
+
+    
+
+[Tonke](https://tonresear.ch/u/Tonke)  October 28, 2024, 6:10am  1
+
+**Submission Form for Memecoin Mountain**
+
+**Your Role in the Competition:**  
+Memecoin Project
+
+* * *
+
+1.  **Memecoin Name:** Tonke
+    
+2.  **Token Contract Address:** EQCQlDd6eyUDlWP2NIUn2ZyGZ8ktg\_HKXB288jv4Kp1Yflo6
+    
+3.  **Market Cap (at the time of application):** $120000
+    
+4.  **Daily Trading Volume (for the last 7 days):** $5000
+    
+5.  **Number of Unique Token Holders:** 1012
+    
+6.  **Has your token been fairly launched?** Yes, fair launch on Gas Pump
+    
+7.  **Please provide a link to your CoinGecko listing:** Application ID (CL2210240047)
+    
+8.  **Are you applying for the Major League or Minor League?** Minor League
+    
+9.  **Briefly describe your memecoin’s strategy for growth and community engagement:** Tonke’s growth strategy focuses on building a strong community with regular community activities and build connections through consistent participation in TON Spaces on X, with over 50 sessions joined since launch. Tonke also prioritises releasing high-quality artwork and educative content, and working with other TON memes to promote the ecosystem.
+    
+10.  **Do you have any partnerships with Key Opinion Leaders (KOLs) or influencers?** No, but Tonke is followed and supported by multiple official TON accounts including TON Ambassadors on X.
+    
+
+(General)
+
+1.  **Would you like to receive updates and announcements during the competition?**  
+    Yes, please.
+    
+2.  **Provide your Telegram username for communication and coordination:**  
+    TG: @based\_ryan
+    
+
+  4 Likes
+
+[cryptobulls](https://tonresear.ch/u/cryptobulls) October 28, 2024, 6:37am  2
+
+Tonke is one of the best memes on TON right now. Awesome artwork, hardworking team, loyal community and deserves to take part in Memelandia.
+
+  1 Like
+
+[tonkefan](https://tonresear.ch/u/tonkefan) October 28, 2024, 6:54am  3
+
+Over 100 days old and still one of my favourite memes. I think Tonke is a great project to onboard investors from other chains. LFG!
+
+  1 Like
+
+[tontothemoon](https://tonresear.ch/u/tontothemoon) October 28, 2024, 7:00am  4
+
+Bullish on $TON & bullish on $TONKE
+
+  1 Like
+
+[sambtc](https://tonresear.ch/u/sambtc) October 28, 2024, 7:19am  5
+
+Time for Tonke season ![:grinning:](https://tonresear.ch/images/emoji/twitter/grinning.png?v=12 ":grinning:")
+
+  1 Like
+
+[Msl](https://tonresear.ch/u/Msl) October 28, 2024, 9:52am  6
+
+One of the most active community on TON since the launching of TONKE on GasPump.  
+Beautiful artwork and a lot of actions to engage and a animate the community ! Let’s go $TONKE ![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:")![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:")![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:")
+
+ 
+
+[crypto\_who\_cares](https://tonresear.ch/u/crypto_who_cares) October 28, 2024, 1:21pm  7
+
+$tonke has been killing it for months. Fair launching on Gas Pump, nonstop custom artwork, constantly active within the TON meme community, I think Tonke is among the greats and I’m looking forward to seeing Tonke climb Meme Mountain.
+
+ 
+
+[george2024](https://tonresear.ch/u/george2024) October 30, 2024, 12:13pm  8
+
+Great memecoin on Ton. Grinding for a long time and promoting the chain.
+
+  1 Like
+
+[Tonke](https://tonresear.ch/u/Tonke) November 28, 2024, 3:32pm  9
+
+REVISED SUBMISSION AFTER RULE CHANGES
+
+**Submission Form for Memecoin Mountain**
+
+**Your Role in the Competition:**  
+Memecoin Project
+
+* * *
+
+1.  **Memecoin Name:** Tonke
+    
+2.  **Token Contract Address:** EQCQlDd6eyUDlWP2NIUn2ZyGZ8ktg\_HKXB288jv4Kp1Yflo6
+    
+3.  **Market Cap (at the time of application):** $130,000
+    
+4.  **Daily Trading Volume (for the last 7 days):** $5,000-$65,000
+    
+5.  **Number of Unique Token Holders:** 1050
+    
+6.  **Has your token been fairly launched?** Yes, fair launch on Gas Pump
+    
+7.  **Please provide a link to your CoinGecko listing:** Application ID (CL2511240128)
+    
+8.  **Are you applying for the Major League or Minor League?** Minor League
+    
+9.  **Briefly describe your memecoin’s strategy for growth and community engagement:** Tonke’s growth strategy focuses on building a strong community with regular community activities and build connections through consistent participation in TON Spaces on X, with over 50 sessions joined since launch. Tonke also prioritises releasing high-quality artwork and educative content, and working with other TON memes to promote the ecosystem.
+    
+10.  **Do you have any partnerships with Key Opinion Leaders (KOLs) or influencers?** No, but Tonke is followed and supported by multiple official TON accounts including TON Ambassadors on X.
+    
+
+(General)
+
+1.  **Would you like to receive updates and announcements during the competition?**  
+    Yes, please.
+    
+2.  **Provide your Telegram username for communication and coordination:**  
+    TG: @based\_ryan
+    
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 391
+
+[TON Research](/)
+
+# [Exploring the TON Blockchain: A Deep Dive into HighloadWalletContractV2](/t/exploring-the-ton-blockchain-a-deep-dive-into-highloadwalletcontractv2/391)
+
+[Application](/c/application/20) 
+
+    
+
+[ASURADA](https://tonresear.ch/u/ASURADA)  February 19, 2024, 5:10pm  1
+
+The TON Blockchain (The Open Network) is a fast, secure, and scalable blockchain and network project, designed to handle millions of transactions per second. In this post, we’ll take a closer look at a specific component of the TON ecosystem: the HighloadWalletContractV2. This contract is a crucial element for developers working on high-load applications that require efficient and reliable wallet management.
+
+## [](#highloadwalletcontractv2-an-overview-1)HighloadWalletContractV2: An Overview
+
+The HighloadWalletContractV2 is a sophisticated smart contract designed for managing wallets in high-load scenarios. It is defined in the [HighloadWalletV2.ts](https://github.com/ndatg/ton-highload-wallet-contract/blob/50365e0/src/HighloadWalletV2.ts#L18) file and implements the `Contract` interface.
+
+### [](#key-features-2)Key Features:
+
+*   **Address Management:** The contract provides a read-only `address` property, which holds the wallet’s address.
+*   **Initialization Data:** The `init` property contains the contract’s code and data cells, essential for its initialization.
+*   **Public Key Access:** The `publicKey` property allows access to the wallet’s public key, a critical component for transaction security.
+*   **Wallet and Workchain ID:** The contract includes `walletId` and `workchain` properties for identifying the wallet and its associated workchain.
+
+### [](#core-methods-3)Core Methods:
+
+1.  **createTransfer:** Generates a transfer request with a specified body and query ID.
+2.  **getBalance:** Retrieves the current balance of the wallet.
+3.  **getProcessed:** Checks the status of a transaction using its query ID.
+4.  **getPublicKey:** Obtains the wallet’s public key in string format.
+5.  **send:** Submits a signed transfer message to the network.
+6.  **sendTransfer:** Signs and sends a transfer request.
+7.  **sender:** Creates a sender instance for managing transactions.
+
+### [](#static-methods-4)Static Methods:
+
+*   **create:** Instantiates a new HighloadWalletContractV2 with the given parameters.
+*   **generateQueryId:** Produces a unique query ID for transaction tracking.
+
+## [](#utilizing-highloadwalletcontractv2-in-ton-applications-5)Utilizing HighloadWalletContractV2 in TON Applications
+
+The HighloadWalletContractV2 is a powerful tool for developers building applications on the TON Blockchain. Its efficient handling of wallet transactions and management makes it an ideal choice for high-load environments. By leveraging this contract, developers can ensure smooth and secure operations in their TON-based applications.
+
+For a detailed exploration of the HighloadWalletContractV2, including its properties and methods, visit the [official documentation](https://ndatg.github.io/ton-highload-wallet-contract/classes/HighloadWalletContractV2.html).
+
+* * *
+
+In conclusion, the HighloadWalletContractV2 is a testament to the robustness and versatility of the TON Blockchain. Its design caters to the needs of high-load applications, ensuring that developers have the tools they need to build efficient and secure blockchain solutions. As the TON ecosystem continues to evolve, contracts like HighloadWalletContractV2 will play a pivotal role in shaping the future of blockchain technology.
+
+[ndatg.github.io](https://ndatg.github.io/ton-highload-wallet-contract/index.html)
+
+### [ton-highload-wallet-contract](https://ndatg.github.io/ton-highload-wallet-contract/index.html)
+
+Documentation for ton-highload-wallet-contract
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 39145
+
+[TON Research](/)
+
+# [DUROV TOKEN aplication](/t/durov-token-aplication/39145)
+
+[TON Memelandia](/c/ton-memelandia/memecoin-mountain/86)  [Memecoin Mountain](/c/ton-memelandia/memecoin-mountain/86) 
+
+    
+
+[Durovtoken](https://tonresear.ch/u/Durovtoken)  October 28, 2024, 11:46am  1
+
+**Submission Form for Memecoin Mountain**
+
+1.  **Your Role in the Competition:**
+    1.  Memecoin Project / Trader / Whale
+
+_(Only for Memecoin Projects; skip if you are a Trader/Whale)_
+
+1.  **Memecoin Name:** DUROV TOKEN
+2.  **Token Contract Address:** EQB22u\_EPF5DyqtZRhjJ2YiZliN-w5ZCq6F\_PY6Ia6bvi3Et
+3.  \*\*Market Cap (at the time of application):100k
+4.  \*\*Daily Trading Volume (for the last 7 days):\*\*5000
+5.  \*\*Number of Unique Token Holders:\*\*1500+
+6.  **Has your token been fairly launched?**
+    1.  Yes
+7.  \*\*Please provide a link to your CoinGecko listing: CL2810240040 - request ID
+8.  **Are you applying for the Major League or Minor League?** minor league
+9.  \*\*Briefly describe your memecoin’s strategy for growth and community engagement: Durov Token main goal is to engage community and new users by posting materials about the founder of telegram PaVel Durov
+10.  **Do you have any partnerships with Key Opinion Leaders (KOLs) or influencers?**
+    1.  Yes
+    2.  Jeribond, damx etc
+
+_(Only for Traders/Whales; skip if you are a Memecoin Project)_
+
+1.  **Trader’s Wallet Address:**
+2.  **Which memecoins are you primarily trading in this competition?**
+3.  **How did you find out about this competition?**
+    1.  Twitter / Telegram / Other
+4.  **Have you participated in any previous memecoin trading competitions?**
+    1.  Yes / No
+5.  **What’s your trading strategy for the upcoming season?**
+
+(General)
+
+1.  **Would you like to receive updates and announcements during the competition?**
+    1.  Yes / No
+2.  **Provide your Telegram username for communication and coordination:**
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 39210
+
+[TON Research](/)
+
+# [Congratulation for the release of Awaken Citizen Bot](/t/congratulation-for-the-release-of-awaken-citizen-bot/39210)
+
+[Application](/c/application/gamefi/35)  [GameFi](/c/application/gamefi/35) 
+
+    
+
+[Polrare\_Contact](https://tonresear.ch/u/Polrare_Contact)  October 29, 2024, 3:36am  1
+
+![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:") Official Launch - Awaken Citizen Bot ![:heart_eyes:](https://tonresear.ch/images/emoji/twitter/heart_eyes.png?v=12 ":heart_eyes:")
+
+Are you ready to dive into a world of exciting challenges, earn points, and unlock amazing rewards?
+
+![:point_right:](https://tonresear.ch/images/emoji/twitter/point_right.png?v=12 ":point_right:") Join now: [Telegram: Contact @AwakenCitizenBot](https://t.me/AwakenCitizenBot/awaken)
+
+#AwakenCitizenBot #Web3Gaming #LaunchBot #NewRelease
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 39289
+
+[TON Research](/)
+
+# [$MOEW | Memecoin Mountain application](/t/moew-memecoin-mountain-application/39289)
+
+[TON Memelandia](/c/ton-memelandia/memecoin-mountain/86)  [Memecoin Mountain](/c/ton-memelandia/memecoin-mountain/86) 
+
+    
+
+[Nicole](https://tonresear.ch/u/Nicole)  October 30, 2024, 2:30am  1
+
+**Submission Form for Memecoin Mountain**
+
+1.  **Your Role in the Competition:**
+    1.  Memecoin Project
+
+_(Only for Memecoin Projects; skip if you are a Trader/Whale)_
+
+1.  **Memecoin Name:** MOEW
+2.  **Token Contract Address:** EQAWsIGMoGlbjJJIsik-9\_6A4Iiodb1M7LW3kmu05v8ujo9h
+3.  **Market Cap (at the time of application):** $2.82M
+4.  **Daily Trading Volume (for the last 7 days):** $1,859,375 from Coingecko data
+5.  **Number of Unique Token Holders:** 128k
+6.  **Has your token been fairly launched?** Yes
+7.  **Please provide a link to your CoinGecko listing:** [https://www.coingecko.com/en/coins/moew](https://www.coingecko.com/en/coins/moew) MOEW is circulated on Base and TON chain. TON contract and TON meme tag is updated but in the folder.
+8.  **Are you applying for the Major League or Minor League?** Major League
+9.  **Briefly describe your memecoin’s strategy for growth and community engagement:** Initially launched as an experimental by Bitget Wallet, with all the love in the world for our community. We airdropped 12% to Bitget Wallet users and burnt 38% of total supply. The rest 50% is added into liquidity pool at the launch of the token with 10 ETH from the developer.
+10.  **Do you have any partnerships with Key Opinion Leaders (KOLs) or influencers?**
+    1.  Yes
+    2.  If yes, please specify: LATIFER\_，888marui，Reno Czarr
+
+(General)
+
+1.  **Would you like to receive updates and announcements during the competition?** Yes
+2.  **Provide your Telegram username for communication and coordination:** @SEE\_BULL
+
+  1 Like
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 39330
+
+[TON Research](/)
+
+# [How to solve transaction fee problems?](/t/how-to-solve-transaction-fee-problems/39330)
+
+[General](/c/general/4) 
+
+    
+
+[eshetu\_cholamo](https://tonresear.ch/u/eshetu_cholamo)  October 30, 2024, 2:35pm  1
+
+How to get air drops fee free and or why not they take transaction fee that cain/air drop ?
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 39342
+
+[TON Research](/)
+
+# [Invest - Application for Memecoin Mountain](/t/invest-application-for-memecoin-mountain/39342)
+
+[TON Memelandia](/c/ton-memelandia/memecoin-mountain/86)  [Memecoin Mountain](/c/ton-memelandia/memecoin-mountain/86) 
+
+    
+
+[Streamco](https://tonresear.ch/u/Streamco)  October 30, 2024, 8:36pm  1
+
+Memecoin Project
+
+1.  Invest
+    
+2.  EQDAuGZW1amu4ZL\_jD039q50w09k4DMq33PXNZbyDvdlpo7r
+    
+3.  251000
+    
+4.  7000
+    
+5.  1500
+    
+6.  Yes
+    
+7.  Ticket CL3010240098
+    
+8.  Minor League
+    
+9.  Our Meme Token is focusing on DeFi Financial Education and growth is focus on engagement with Invest APP
+    
+10.  **Do you have any partnerships with Key Opinion Leaders (KOLs) or influencers?**
+    
+    1.  Yes  
+        2.@crypto\_oborona
+11.  **Would you like to receive updates and announcements during the competition?**
+    
+    1.  Yes
+12.  [@streamco](/u/streamco)
+    
+
+  1 Like
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 39391
+
+[TON Research](/)
+
+# [$UNIC | Memecoin Mountain](/t/unic-memecoin-mountain/39391)
+
+[TON Memelandia](/c/ton-memelandia/memecoin-mountain/86)  [Memecoin Mountain](/c/ton-memelandia/memecoin-mountain/86) 
+
+    
+
+[UNICORN](https://tonresear.ch/u/UNICORN)  November 1, 2024, 1:44am  1
+
+Submission Form for Memecoin Mountain
+
+1.  Your Role in the Competition: Founder, CEO  
+    2.1 Memecoin Project: UNICORN ![:unicorn:](https://tonresear.ch/images/emoji/twitter/unicorn.png?v=12 ":unicorn:")
+    
+2.  Memecoin Name: $UNIC Unicorn ![:unicorn:](https://tonresear.ch/images/emoji/twitter/unicorn.png?v=12 ":unicorn:")
+    
+3.  Token Contract Address: EQB2lbt2s\_jdUW3OoUIb7-9RoK2UeGXmgC7BnOwgK6P\_JTrm
+    
+4.  Market Cap (at the time of application): $17.88k
+    
+5.  Daily Trading Volume (for the last 7 days): 0
+    
+6.  Number of Unique Token Holders: 1517 Holders
+    
+7.  Has your token been fairly launched? - \[Ton Raffles\] [Ton Raffles](https://tonraffles.app/jetton/fairlaunch/UNIC)
+    
+8.  Please provide a link to your GeckoTerminal listing:  
+    \[GeckoTerminal Link\] [UNIC/TON - цена UNICORN на бирже DeDust с комиссией 0.25% | GeckoTerminal](https://www.geckoterminal.com/ru/ton/pools/EQD3RcKiN-B8zHoUOW2jzHlNSmOe5hx-Nl5ar-ckWqgzNreL)
+    
+9.  Are you applying for the Major League or Minor League? No
+    
+10.  Briefly describe your memecoin’s strategy for growth and community engagement:  
+    Over the past 8 months, $UNIC has launched a unique utility, allowing users to burn scam tokens (honeypots) by sending them to a null address via our bot, [Горелка](https://t.me/gorelkaburnbot/) (currently undergoing maintenance). This feature not only cleans up wallets but also gives users hope that holding quality tokens could be more profitable than keeping worthless assets. We continue to innovate with the community’s financial well-being and engagement at the forefront of our strategy.
+    
+11.  Do you have any partnerships with Key Opinion Leaders (KOLs) or influencers? - Yes  
+    \[Contact of Founder LUCKY TON\] [Telegram: Contact @lkyton](https://t.me/lkyton) @luckyton
+    
+12.  Would you like to receive updates and announcements during the competition? Yes
+    
+13.  Provide your Telegram username for communication and coordination: [@vallkorn](/u/vallkorn)
+    
+
+  1 Like
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 394
+
+[TON Research](/)
+
+# [高负载钱包合约 v2 在 ton 区块链中的实现](/t/v2-ton/394)
+
+[中文 (简繁)](/c/zh/application/55)  [应用](/c/zh/application/55) 
+
+    
+
+[QianXuesen](https://tonresear.ch/u/QianXuesen)  February 19, 2024, 5:26pm  1
+
+本文介绍了 TON 区块链（The Open Network）中高负载钱包合约 V2 的技术细节。 该合约旨在提高交易处理的效率和速度，适用于大规模的交易场景。
+
+## [](#h-1-1)1\. 合约概览
+
+### [](#h-11-2)1.1 层次结构
+
+*   **合约名称**：HighloadWalletContractV2
+*   **实现接口**：Contract
+*   **源代码位置**：[HighloadWalletV2.ts:18](https://github.com/ndatg/ton-highload-wallet-contract/blob/50365e0/src/HighloadWalletV2.ts#L18)
+
+### [](#h-12-3)1.2 主要属性
+
+属性名称
+
+类型
+
+描述
+
+定义位置
+
+address
+
+Address
+
+钱包地址
+
+[HighloadWalletV2.ts:38](https://github.com/ndatg/ton-highload-wallet-contract/blob/50365e0/src/HighloadWalletV2.ts#L38)
+
+init
+
+{ code: Cell; data: Cell; }
+
+初始化数据，包括代码和数据
+
+\[HighloadWalletV2.ts:40\]([https://github.com/ndatg/ton-highload-wallet-contract/blob/](https://github.com/ndatg/ton-highload-wallet-contract/blob/) 50365e0/src/HighloadWalletV2.ts#L40)
+
+publicKey
+
+Buffer
+
+公钥
+
+[HighloadWalletV2.ts:37](https://github.com/ndatg/ton-highload-wallet-contract/blob/50365e0/src/HighloadWalletV2.ts#L37)
+
+walletId
+
+number
+
+钱包ID
+
+[HighloadWalletV2.ts:39](https://github.com/ndatg/ton-highload-wallet-contract/blob/50365e0/src/HighloadWalletV2.ts#L39)
+
+workchain
+
+number
+
+工作链ID
+
+[HighloadWalletV2.ts:36](https://github.com/ndatg/ton-highload-wallet-contract/blob/50365e0/src/HighloadWalletV2.ts#L36)
+
+### [](#h-13-4)1.3 主要方法
+
+方法名称
+
+返回类型
+
+描述
+
+定义位置
+
+createTransfer
+
+{ body: Cell; queryId: bigint; }
+
+创建转账交易
+
+\[HighloadWalletV2.ts:116\]([ton-highload-wallet-contract/src at 50365e0678c8d03eb4af1803933b966264956cbe · ndatg/ton-highload-wallet-contract · GitHub](https://github.com/ndatg/ton-highload-wallet-contract/blob/50365e0/src/) HighloadWalletV2.ts#L116)
+
+getBalance
+
+Promise
+
+获取钱包余额
+
+[HighloadWalletV2.ts:68](https://github.com/ndatg/ton-highload-wallet-contract/blob/50365e0/src/HighloadWalletV2.ts#L68)
+
+getProcessed
+
+Promise
+
+获取交易处理状态
+
+[HighloadWalletV2.ts:84](https://github.com/ndatg/ton-highload-wallet-contract/blob/50365e0/src/HighloadWalletV2.ts#L84)
+
+getPublicKey
+
+Promise
+
+获取钱包公钥
+
+[HighloadWalletV2.ts:76](https://github.com/ndatg/ton-highload-wallet-contract/blob/50365e0/src/HighloadWalletV2.ts#L76)
+
+send
+
+Promise
+
+发送签名转账交易
+
+[HighloadWalletV2.ts:95](https://github.com/ndatg/ton-highload-wallet-contract/blob/50365e0/src/HighloadWalletV2.ts#L95)
+
+sendTransfer
+
+Promise
+
+签名并发送转账交易
+
+\[HighloadWalletV2.ts:
+
+102\]([ton-highload-wallet-contract/src/HighloadWalletV2.ts at 50365e0678c8d03eb4af1803933b966264956cbe · ndatg/ton-highload-wallet-contract · GitHub](https://github.com/ndatg/ton-highload-wallet-contract/blob/50365e0/src/HighloadWalletV2.ts#L102)) |  
+| sender | Sender | 创建发送器 | [HighloadWalletV2.ts:139](https://github.com/ndatg/ton-highload-wallet-contract/blob/50365e0/src/HighloadWalletV2.ts#L139) |
+
+## [](#h-2-5)2\. 使用示例
+
+### [](#h-21-6)2.1 创建合约实例
+
+```
+import { HighloadWalletContractV2 } from 'ton-highload-wallet-contract';
+
+const publicKey = Buffer.from('公钥');
+const walletId = 1;
+const workchain = 0;
+
+const wallet = HighloadWalletContractV2.create({
+   publicKey,
+   walletId,
+   workchain
+});
+```
+
+### [](#h-22-7)2.2 获取钱包余额
+
+```
+const balance = await wallet.getBalance(provider);
+console.log(`余额: ${balance}`);
+```
+
+### [](#h-23-8)2.3 发送转账交易
+
+```
+const transferArgs = {
+   messages: [/* 转账信息 */],
+   secretKey: Buffer.from('私钥')
+};
+
+const queryId = await wallet.sendTransfer(provider, transferArgs);
+console.log(`交易ID: ${queryId}`);
+```
+
+## [](#h-3-9)3\. 结论
+
+高负载钱包合约 V2 是 TON 区块链中一个重要的技术组件，旨在提高交易处理的效率和速度。 通过该合约的使用，开发者可以更轻松地实现大规模交易处理的需求。
+
+[ndatg.github.io](https://ndatg.github.io/ton-highload-wallet-contract/index.html)
+
+### [ton-highload-wallet-contract](https://ndatg.github.io/ton-highload-wallet-contract/index.html)
+
+Documentation for ton-highload-wallet-contract
+
+  1 Like
+
+[Howard](https://tonresear.ch/u/Howard) March 19, 2024, 10:17am  2
+
+有沒有在 Highload Wallet 上執行多個內容？比如說多筆. Txs + 多個 payload
+
+ 
+
+[Joey\_Xie](https://tonresear.ch/u/Joey_Xie) April 25, 2024, 2:16pm  3
+
+请教下钱包是如何保证交易顺序和唯一性的啊，在eth上是通过nonce来实现的，ton有类似机制吗？
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 39402
+
+[TON Research](/)
+
+# [PsyDuckGame’s October Recap](/t/psyduckgame-s-october-recap/39402)
+
+[General](/c/general/4) 
+
+    
+
+[Polrare\_Contact](https://tonresear.ch/u/Polrare_Contact)  November 1, 2024, 6:52am  1
+
+Welcome to PsyDuckGame’s Monthly Recap! Reflecting on October 2024, it’s evident that this month has been filled with thrilling developments and remarkable achievements in the ever-evolving world of PsyDuckGame. From exciting game updates to engaging events and outstanding community milestones, October has truly shone as a memorable month.
+
+Now, let’s take a look back at the October highlights and revisit the moments that made it an unforgettable chapter in the Quack-Quack game!
+
+October - Month of Quack-Quack Feature
+
+In our update, we are thrilled to introduce a new our newest game call Flappy Duck - A tap-to-earn adventure inspired by the iconic Flappy Bird! A fun, addictive challenge where every tap brings you closer to BIG rewards! The higher you soar, the more rewards you’ll earn!
+
+We’re kicking off our newest mining campaign, and it’s a game-changer! Get ready to mine all the Feathers until we LIST our assets! All your old upgrades will be reset, but don’t worry—you can come back stronger with fresh new strategies! Time to level up your mining skills and maximize those rewards! For this campaign, there’s no to how much you can mine. Keep grinding and watch your rewards grow!
+
+Moreover, do not forget to level up your character to conquer the fighting mode. If you want to become stronger, level up faster, and unlock more powerful abilities, make sure to collect more feathers! Don’t miss out on the quacktastic rewards waiting for you!
+
+Partnership Announcements
+
+This month has been monumental for PsyDuck as we successfully connected with six exceptional partners, each bringing unique value to our community and game development. These collabs have led to more than 18 task exchanges and have rewarded our community with millions of feathers. These partnerships are set to elevate the Quack-Quack experience and provide our players with unparalleled opportunities and enhancements.
+
+What’s next?
+
+We’ve got big plans to expand PsyDuck beyond just a game—it’s all about evolving into a full-fledged ecosystem on the TON blockchain. We’re looking at adding new mini-games, enhanced PvP features, and even more ways for players to earn rewards.
+
+Plus, our ultimate goal is to become a major publisher on TON, which means you can expect even bigger collaborations, community-driven content, and more innovative ways to engage. We’re just getting started, and the best is yet to come!
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 39405
+
+[TON Research](/)
+
+# [$DOMES | Memecoin Mountain](/t/domes-memecoin-mountain/39405)
+
+[TON Memelandia](/c/ton-memelandia/memecoin-mountain/86)  [Memecoin Mountain](/c/ton-memelandia/memecoin-mountain/86) 
+
+    
+
+[Domes](https://tonresear.ch/u/Domes)  November 1, 2024, 7:46am  1
+
+**Submission Form for Memecoin Mountain**
+
+1.  **Your Role in the Competition:**
+    1.  Memecoin Project
+
+_(Only for Memecoin Projects; skip if you are a Trader/Whale)_
+
+1.  **Memecoin Name:** DOMES
+2.  **Token Contract Address:** EQBlVW57tSJ7aPkCbagcKjx3vVvl-yFrUwMsmB1yZ\_8r8lTQ
+3.  **Market Cap (at the time of application):** $418.96K
+4.  **Daily Trading Volume (for the last 7 days):**
+5.  **Number of Unique Token Holders:** 147.55K
+6.  **Has your token been fairly launched?**
+    1.  Yes
+7.  **Please provide a link to your CoinGecko listing:** [DOMES/TON - DOGE MEMES TOPPLE REGIMES Price on Ston.fi | GeckoTerminal](https://www.geckoterminal.com/ton/pools/EQB9zBYdOuAI84k5ybPexOLZpSyrKUKLUuXqVNqsCfXuAnBG)
+8.  **Are you applying for the Major League or Minor League?** Major League
+9.  **Briefly describe your memecoin’s strategy for growth and community engagement:**
+10.  **Do you have any partnerships with Key Opinion Leaders (KOLs) or influencers?**
+    1.  Yes / No
+    2.  If yes, please specify.
+
+_(Only for Traders/Whales; skip if you are a Memecoin Project)_
+
+1.  **Trader’s Wallet Address:**
+2.  **Which memecoins are you primarily trading in this competition?**
+3.  **How did you find out about this competition?**
+    1.  Twitter / Telegram / Other
+4.  **Have you participated in any previous memecoin trading competitions?**
+    1.  Yes / No
+5.  **What’s your trading strategy for the upcoming season?**
+
+(General)
+
+1.  **Would you like to receive updates and announcements during the competition?**
+    1.  Yes
+2.  **Provide your Telegram username for communication and coordination:** @cryptokaeru
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 39419
+
+[TON Research](/)
+
+# [$TAKEN | Memecoin Mountain application](/t/taken-memecoin-mountain-application/39419)
+
+[TON Memelandia](/c/ton-memelandia/memecoin-mountain/86)  [Memecoin Mountain](/c/ton-memelandia/memecoin-mountain/86) 
+
+    
+
+[Nikita\_Andreevich](https://tonresear.ch/u/Nikita_Andreevich)  November 1, 2024, 2:51pm  1
+
+**Submission Form for Memecoin Mountain**
+
+1.TAKEN  
+2\. EQAEWNwdwZO1CcRPsRxMtR0Otn7\_Gd\_K1aBQsXlDmnXEIDfv  
+3\. 66000  
+4\. 200.000  
+5\. 1100  
+6\. yes  
+7\. **Please provide a link to your CoinGecko listing:**  
+8\. Minor  
+9\. good community  
+10\. yes [Damx.ton (@damxton) / X](https://x.com/damxton) [Jeribond.ton - $TAKEN (@0xweb3bond) / X](https://x.com/0xweb3bond)
+
+(General)
+
+1.  yes
+2.  ([Telegram: Contact @jeribond](https://t.me/jeribond))
+
+  2 Likes
+
+[Dove](https://tonresear.ch/u/Dove) November 1, 2024, 3:00pm  2
+
+$TAKEN on CABAL ARENA LFG
+
+  2 Likes
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 39427
+
+[TON Research](/)
+
+# [Airina Bolgur | Memecoin Mountain](/t/airina-bolgur-memecoin-mountain/39427)
+
+[TON Memelandia](/c/ton-memelandia/memecoin-mountain/86)  [Memecoin Mountain](/c/ton-memelandia/memecoin-mountain/86) 
+
+    
+
+[Amrok](https://tonresear.ch/u/Amrok)  November 1, 2024, 9:11pm  1
+
+**Submission Form for Memecoin Mountain**
+
+1.  **Your Role in the Competition:**
+    1.  Memecoin Project
+2.  **Memecoin Name: Airina Bolgur**
+3.  **Token Contract Address: EQBTjR1nGlxTdRZGSSHeXYvckDkZc3eDwupzBFhz5cDx-eub**
+4.  **Market Cap (at the time of application): $121K**
+5.  **Daily Trading Volume (for the last 7 days) $271K:**
+6.  **Number of Unique Token Holders: 350**
+7.  **Has your token been fairly launched?**  
+    Gas Pump
+8.  **Please provide a link to your CoinGecko listing: [BOLGUR/TON - цена Airina Bolgur на бирже DeDust с комиссией 0.25% | GeckoTerminal](https://www.geckoterminal.com/ru/ton/pools/EQB6LJt1HkKatm5esnyV3XiEwt9tybQfoaHPXykKZK5Fq3LC)**
+9.  **Are you applying for the Major League or Minor League? Minor League**
+10.  **Briefly describe your memecoin’s strategy for growth and community engagement: It’s all for the kids! ![:heart:](https://tonresear.ch/images/emoji/twitter/heart.png?v=12 ":heart:") I am the real wife of Pavel Durov and 50% of telegrams (Meme created about Irina Bolgur)**
+11.  **Do you have any partnerships with Key Opinion Leaders (KOLs) or influencers?**  
+    Currently, we do not have partnerships with KOL and influencers, we are all one community. And we have good friends among different KOLs.
+12.  **Would you like to receive updates and announcements during the competition?**  
+    Yes
+13.  **Provide your Telegram username for communication and coordination: [Telegram: Contact @Amrok\_Yarko](https://t.me/Amrok_Yarko), [Telegram: Contact @luckyton](https://t.me/luckyton), [Telegram: Contact @OlegKolchakov](https://t.me/OlegKolchakov)**
+
+  17 Likes
+
+[Don\_Jonson](https://tonresear.ch/u/Don_Jonson) November 5, 2024, 9:29am  3
+
+That’s gonna be huge!
+
+We r aiming to become the Queen of the Mountain and 50% telegram ownership in particular
+
+  3 Likes
+
+[Tim](https://tonresear.ch/u/Tim) November 5, 2024, 9:32am  4
+
+#everythingforthesakeofthechildren
+
+  4 Likes
+
+[Aleksey\_Firsin](https://tonresear.ch/u/Aleksey_Firsin) November 5, 2024, 9:58am  5
+
+#это\_все\_ради\_детей ![:heart:](https://tonresear.ch/images/emoji/twitter/heart.png?v=12 ":heart:")
+
+  2 Likes
+
+[underkot](https://tonresear.ch/u/underkot) November 5, 2024, 10:56am  6
+
+$BOLGUR топ men coin этой осени
+
+  2 Likes
+
+[dAb\_KoV](https://tonresear.ch/u/dAb_KoV) November 5, 2024, 10:58am  7
+
+Finniest meme narrative of the year in TON. #ALL\_FOR\_KIDS. In $BOLGUR we have best vibes, best lawyers, best team, best community and we are just started! Join, together we will save all $BOLGUR kids, Povel Durev will pay!
+
+  2 Likes
+
+[user2654](https://tonresear.ch/u/user2654) November 9, 2024, 6:42pm  8
+
+It’s real meme of 2024​:joy:![:joy:](https://tonresear.ch/images/emoji/twitter/joy.png?v=12 ":joy:")![:joy:](https://tonresear.ch/images/emoji/twitter/joy.png?v=12 ":joy:")![:joy:](https://tonresear.ch/images/emoji/twitter/joy.png?v=12 ":joy:")![:joy:](https://tonresear.ch/images/emoji/twitter/joy.png?v=12 ":joy:")![:joy:](https://tonresear.ch/images/emoji/twitter/joy.png?v=12 ":joy:")![:joy:](https://tonresear.ch/images/emoji/twitter/joy.png?v=12 ":joy:")![:joy:](https://tonresear.ch/images/emoji/twitter/joy.png?v=12 ":joy:")![:joy:](https://tonresear.ch/images/emoji/twitter/joy.png?v=12 ":joy:")![:joy:](https://tonresear.ch/images/emoji/twitter/joy.png?v=12 ":joy:")![:joy:](https://tonresear.ch/images/emoji/twitter/joy.png?v=12 ":joy:")![:joy:](https://tonresear.ch/images/emoji/twitter/joy.png?v=12 ":joy:")![:joy:](https://tonresear.ch/images/emoji/twitter/joy.png?v=12 ":joy:")![:joy:](https://tonresear.ch/images/emoji/twitter/joy.png?v=12 ":joy:")![:joy:](https://tonresear.ch/images/emoji/twitter/joy.png?v=12 ":joy:")![:joy:](https://tonresear.ch/images/emoji/twitter/joy.png?v=12 ":joy:")lmao
+
+  2 Likes
+
+[user2654](https://tonresear.ch/u/user2654) November 9, 2024, 6:43pm  9
+
+#its\_all\_for\_the\_kids
+
+  2 Likes
+
+[Sergey\_Ustinov](https://tonresear.ch/u/Sergey_Ustinov) November 12, 2024, 7:01am  10
+
+Первое место и половина мемляндии 100%
+
+  2 Likes
+
+[Gromykoss](https://tonresear.ch/u/Gromykoss) November 12, 2024, 7:04am  11
+
+grow grow our racket!!! Все ради детей!
+
+  2 Likes
+
+[MyBitMoney](https://tonresear.ch/u/MyBitMoney) November 12, 2024, 7:23am  12
+
+The token started out a bit messy, but now I see that everything has been straightened out.  
+A lot has really appeared in a week, and there are even more plans! Thanks to the powerful team of founders and whales.
+
+I’m with $BOLGUR  
+I’m waiting for the staking and NFT collection
+
+\---- RU  
+Токен начинался немного сумбурно, но сейчас я вижу, что все выправили.  
+За неделю появилось действительно очень много,а в планах еще больше! Спасибо мощной команде фаундеров и китов.
+
+В общем я в BOLGUR  
+Жду стейкинг и NFT коллекцию
+
+  3 Likes
+
+[gpt4bot](https://tonresear.ch/u/gpt4bot) November 12, 2024, 7:47am  13
+
+all for the kids! !!
+
+  1 Like
+
+[Valery\_Pol](https://tonresear.ch/u/Valery_Pol) November 12, 2024, 8:03am  14
+
+Клёвый мем! Прикупил
+
+  1 Like
+
+[C112](https://tonresear.ch/u/C112) November 12, 2024, 8:27am  15
+
+Самый стильный свежий и угарный мем на тоне, вперёд к звёздам)
+
+  1 Like
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 39444
+
+[TON Research](/)
+
+# [$SOX NobbyGame | Memecoin Mountain](/t/sox-nobbygame-memecoin-mountain/39444)
+
+[TON Memelandia](/c/ton-memelandia/memecoin-mountain/86)  [Memecoin Mountain](/c/ton-memelandia/memecoin-mountain/86) 
+
+    
+
+[NobbyGame](https://tonresear.ch/u/NobbyGame)  November 2, 2024, 8:41am  1
+
+**Submission Form for Memecoin Mountain**
+
+1.  **Your Role in the Competition:**
+    1.  Memecoin Project
+
+_(Only for Memecoin Projects; skip if you are a Trader/Whale)_
+
+1.  **Memecoin Name:** $SOX NobbyGame
+2.  **Token Contract Address:** EQBB-EMREJkIHVYG5DPiklOhWPcsCaxjL9HKmgRvuGtz\_1lu
+3.  **Market Cap (at the time of application):** $214,000
+4.  **Daily Trading Volume (for the last 7 days):** $1313
+5.  **Number of Unique Token Holders:** 9964
+6.  **Has your token been fairly launched?**
+    1.  Yes
+7.  **Please provide a link to your CoinGecko listing:** [https://www.coingecko.com/en/coins/nobby-game](https://www.coingecko.com/en/coins/nobby-game)
+8.  **Are you applying for the Major League or Minor League?** **Minor League**
+9.  **Briefly describe your memecoin’s strategy for growth and community engagement:**  
+    **Engaging Gameplay**: We continuously introduce new game features, such as PVE and the upcoming PVP modes, which motivate players to actively participate and earn $SOX.  
+    **Rewarding Community Involvement**: Our referral program and “Earn” section incentivize players to invite friends, share their progress, and complete daily challenges, earning both $noSOX and $SOX. We host regular competitions, airdrops, and interactive events like AMA sessions to keep our community engaged and invested in our project’s growth.  
+    **Memorable Branding and Culture**: We embrace the memecoin spirit by creating entertaining and relatable content around our characters and the game’s world. This fosters a strong connection among players and builds a vibrant, ever-growing community that actively promotes NobbyGame.
+10.  **Do you have any partnerships with Key Opinion Leaders (KOLs) or influencers?**
+    1.  Yes
+    2.  We are partnered with a group of influencers that are collaborating with us on daily basis. This list includes at least 10 big telegram channels and a lot smaller ones
+
+(General)
+
+1.  **Would you like to receive updates and announcements during the competition?**
+    1.  Yes
+2.  **Provide your Telegram username for communication and coordination:** @abrecosa
+
+  12 Likes
+
+[Gollym](https://tonresear.ch/u/Gollym) November 2, 2024, 11:25am  2
+
+Go Go Go Nobby.game! The best TON game🥰
+
+  3 Likes
+
+[Katana](https://tonresear.ch/u/Katana) November 2, 2024, 8:16pm  3
+
+Отличный проект, хороший
+
+  2 Likes
+
+[IvanGreK](https://tonresear.ch/u/IvanGreK) November 4, 2024, 2:59am  4
+
+Надеюсь, проект оправдает ожидания
+
+  2 Likes
+
+[user152](https://tonresear.ch/u/user152) November 4, 2024, 5:12pm  5
+
+Целая страна, интересная игра! Играйте, это занимательно!
+
+  2 Likes
+
+[rain](https://tonresear.ch/u/rain) November 4, 2024, 6:48pm  6
+
+i like this game !
+
+<3
+
+  2 Likes
+
+[Ruslan\_Kucherenko](https://tonresear.ch/u/Ruslan_Kucherenko) November 13, 2024, 10:02am  7
+
+![:heart:](https://tonresear.ch/images/emoji/twitter/heart.png?v=12 ":heart:") Процветания вам ребят, девчат! ![:sunglasses:](https://tonresear.ch/images/emoji/twitter/sunglasses.png?v=12 ":sunglasses:")
+
+  1 Like
+
+[agus\_prayitno](https://tonresear.ch/u/agus_prayitno) November 17, 2024, 2:52am  8
+
+Good game, i like this game.
+
+  1 Like
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 39451
+
+[TON Research](/)
+
+# [$PUTON | Memecoin Mountain](/t/puton-memecoin-mountain/39451)
+
+[TON Memelandia](/c/ton-memelandia/memecoin-mountain/86)  [Memecoin Mountain](/c/ton-memelandia/memecoin-mountain/86) 
+
+    
+
+[Puton](https://tonresear.ch/u/Puton)  November 2, 2024, 11:45am  1
+
+**Submission Form for Memecoin Mountain**
+
+1.  **Your Role in the Competition:**
+2.  Memecoin Project
+3.  Token name: $PUTON
+4.  Contract address: EQAM0LPCnSsv5mVgBqMCu70kvbxNrSthfhu\_QgeUTnvgtD22
+5.  **Market Cap (at the time of application):**: $50000
+6.  **Daily Trading Volume (for the last 7 days):**: $5000
+7.  **Number of Unique Token Holders:**: 612
+8.  **Has your token been fairly launched?**
+9.  Yes, we launched through gaspump.
+10.  **Please provide a link to your CoinGecko listing:**: Apllication ID - CL1807240103
+11.  **Are you applying for the Major League or Minor League?**: Minor League
+12.  **Briefly describe your memecoin’s strategy for growth and community engagement:**: $PUTON plans to onboard users to TON from every chain in crypto through establishing itself as one of the main political coins in the industry. Through collaborations with projects on other chains, incredible artwork by our in house artist, and a consistently growing community bound by traditional values we believe the Russian leader on the Russian chain ‘TON’ can capture attention from other chains onboard many users to the chain.
+13.  **Do you have any partnerships with Key Opinion Leaders (KOLs) or influencers?**
+14.  Yes
+15.  We have a partnership with @\_yeminiz (On X), a leading KOL on TON with over 45,000 followers who’s also an ambassador with EVAA protocol and $GOATS. Two major projects in the TON network.
+
+(General)
+
+1.  **Would you like to receive updates and announcements during the competition?**
+2.  Yes
+3.  \*\*Provide your Telegram username for communication and coordination: @PUTONDEV
+
+  1 Like
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 39523
+
+[TON Research](/)
+
+# [TONX API Official Launch: New JS SDK, Migration Kit, BoC Parser, & Estimate Fee API](/t/tonx-api-official-launch-new-js-sdk-migration-kit-boc-parser-estimate-fee-api/39523)
+
+[TON Blockchain](/c/ton-blockchain/17) 
+
+[api](https://tonresear.ch/tag/api)
+
+    
+
+[TONX](https://tonresear.ch/u/TONX)  November 5, 2024, 10:52am  1
+
+Gm devs! Building on TON just got simpler and better. We’re thrilled to announce TONX API’s official release — featuring the new TON JS SDK, advanced tools like the BoC Parsing and Estimate Fee APIs, and much more!
+
+_You can see the original blog post [here](https://blog.tonx.ai/tonx-api-official-new-ton-js-sdk-advanced-tools-ton-api-migrate/)._
+
+> To celebrate the launch, use code “NOV30” for a free trial of the Growth Plan until 2024/11/30. Try it now: [tonxapi.com](https://tonxapi.com/)
+
+# [](#p-64818-what-is-tonx-api-1)**What is TONX API?**
+
+TONX API is your all-in-one Web3 development platform, equipped with powerful tools to streamline DApp development and save you valuable time.
+
+Powered by TONX Supernode, our industry-leading Web3 infrastructure delivers unparalleled stability, precise indexing, and ultra-low latency for high-performance TON applications worldwide.
+
+![](https://miro.medium.com/v2/resize:fit:1050/1*zUGKpJqhEvW2slCL8mbGLg.png)
+
+# [](#p-64818-whats-new-in-the-tonx-api-official-version-2)What’s New in the TONX API Official Version?
+
+## [](#p-64818-tonxjs-sdk-effortless-development-for-the-ton-blockchain-3)TONX.js SDK: Effortless Development for the TON Blockchain
+
+The new TONX.js SDK makes onboarding to the TON blockchain seamless, empowering you to leverage the strength of TONX API to launch your Dapp quickly. Even if you’re new to the TON ecosystem, TONX.js simplifies your journey, helping you get started with ease.
+
+*   The new TONX.js SDK: [@tonx/core](https://www.npmjs.com/package/@tonx/core)
+
+## [](#p-64818-tonxjs-adapter-simplified-migration-from-other-ton-sdkston-apis-4)TONX.js Adapter: Simplified Migration from Other TON SDKs/TON APIs
+
+The new TONX.js Adapter allows for an easy transition from popular TON client libraries like [@ton/ton](https://github.com/ton-org/ton), [TonWeb](https://github.com/toncenter/tonweb), and [TonClient4](https://github.com/ton-org/ton/blob/master/src/client/TonClient4.ts). Just a few code changes and you’re ready to go.
+
+Already using existing TON APIs like TON Center? Migrate effortlessly with our SDK.
+
+*   Try the new TONX.js adapter: [@tonx/adapter](https://www.npmjs.com/package/@tonx/adapter)
+
+> P.S. Our RESTful migration API is also coming soon — contact us if you’d prefer to migrate that way.
+
+# [](#p-64818-unique-advanced-tools-from-tonx-lab-5)Unique Advanced Tools from TONX Lab
+
+## [](#p-64818-boc-parsing-tool-6)BoC Parsing Tool
+
+Bag of Cells (BoC) is a format for serializing cells into byte arrays. On TON, everything consists of cells, including contract code, stored data, blocks, achieving streamline and robust flexibility in the process.
+
+Our **BoC Parsing Tool** allows developers to easily decode and interpret BoC data. With a TONX API key, you can check BOC on the mainnet or testnet, initiate a request, and instantly view the response to confirm if your BoC is ready to go.
+
+> Try now: [TONX Lab](https://lab.tonx.ai/boc-parsing-tools)
+
+## [](#p-64818-estimate-fee-api-7)Estimate Fee API
+
+In smart contract development and testing, a common challenge is the gap between estimated transaction fees and the actual fees upon execution. This discrepancy often creates an unwanted margin of error.
+
+To address this, our **EstimateFee API** is here. By reflecting real-time conditions, it ensures that the fee shown before broadcasting closely aligns with the final fee charged.
+
+Unlike other tools that estimate fees by statically checking transaction size and other invariable parameters, our API simulate the process of running transactions in the virtual TON blockchain with high fidelity as the real mainnet. This allows us to estimate fee that’s far more accurate and reliable.
+
+> Learn more about the Estimate Fee API: [Estimate Fee](https://docs.tonxapi.com/reference/estimate-fee)
+
+# [](#p-64818-pricing-plans-tailored-for-every-project-8)Pricing Plans: Tailored for Every Project
+
+With the official version launch, we’re introducing flexible pricing plans designed for all projects — from gaming and DeFi to exchanges and mini-apps.
+
+Upgrade from Free Plan to **Growth Plan** at just 3 $TON per month to unlock:
+
+*   10x performance boost (from 1 to **10 requests per second**)
+*   Advanced features including **BOC API** and **Estimate Fee**
+
+Need more power? **Scale Plan** offers **100 requests per second** for high-performance applications.
+
+> Special Launch Offer: Use code “NOV30” for free Growth Plan access until 2024/10/30. Start now at [tonxapi.com](http://tonxapi.com/)
+
+# [](#p-64818-what-does-this-mean-for-ton-developers-and-ton-apis-users-9)What Does This Mean for TON Developers and TON APIs Users?
+
+As key contributors to the TON ecosystem since 2021, TONX has witnessed firsthand the technical challenges that dev teams face. We understand how these obstacles can prevent innovative projects from reaching their full potential.
+
+With the official release, TONX API has evolved into a comprehensive developer suite, combining reliable TON RPC infrastructure, TON JS SDK, and advanced tools built by TONX Lab for various use cases.
+
+This expansion gives TON developers more options and better tools, making it easier than ever to bring your team’s vision to life — unlocking the potential of TON and Telegram’s 950M-user SuperApp ecosystem.
+
+# [](#p-64818-get-started-with-tonx-api-official-version-10)Get Started with TONX API Official Version!
+
+Whether you’re new to TON or migrating from other TON APIs, TONX API offers the tools and support you need:
+
+*   New to TON ecosystem? Start building your dApp with simple API requests. TONX API offers a seamless development experience to bring your ideas to life immediately. Check out our [TON Blockchain & Telegram Mini App Development Guide](https://www.notion.so/11cf97301ec080918dc9ceb97fd4f7cd?pvs=21) to accelerate your journey.
+*   Already using ton/ton or ton/web? With our [TONX.JS adapter](https://www.npmjs.com/package/@tonx/adapter), you’re just a few lines of code away from enhanced features and stability.
+
+Looking for support on migrating from other TON API providers? Contact Us!
+
+Visit [tonxapi.com](http://tonxapi.com/) and start building today!
+
+# [](#p-64818-tonx-api-11)TONX API
+
+TONX API is your all-in-one Web3 development platform, equipped with powerful tools to make building on TON simple and efficient.
+
+[Website](https://tonxapi.com/) | [Twitter](https://x.com/TONXAPI) | [Telegram Channel](https://t.me/tonxapi) | [Docs](https://docs.tonxapi.com/docs/) | [Blog](https://blog.tonx.ai/)
+
+# [](#p-64818-powered-by-tonx-12)Powered by TONX
+
+Founded in 2021, TONX is a SuperApp platform layer empowering builders to shape the new Web3 economy. As the bedrock of the TON ecosystem, TONX offers a suite of powerful tools, including TONX API, a reliable RPC solution integrated by 20+ leading projects, and Tonkey, a secure multi-sig wallet managing over $400M in assets.
+
+[Website](https://tonx.ai/) | [Twitter](https://x.com/TONX_Studio) | [Telegram Channel](https://t.me/tonx) | [Blog](https://blog.tonx.ai/)
+
+  1 Like
+
+[apiTON](https://tonresear.ch/u/apiTON) November 5, 2024, 12:07pm  2
+
+If you are interested in the TON REST API:
+
+[https://apiton.org/docs/#/](https://apiton.org/docs/#/)
+
+Feel free to contact: [Telegram: Contact @apitonDev](https://t.me/apitonDev)
+
+[Screen](https://ibb.co.com/FBXF1cG)
+
+If you often receive messages like in the screenshot, probably you don’t need API, but need some quick tool directly in the messanger like [Telegram: Contact @apitonBot](https://t.me/apitonBot)
+
+  2 Likes
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 39532
+
+[TON Research](/)
+
+# [$DOMES | Submission Form for Memecoin Mountain](/t/domes-submission-form-for-memecoin-mountain/39532)
+
+[TON Memelandia](/c/ton-memelandia/memecoin-mountain/86)  [Memecoin Mountain](/c/ton-memelandia/memecoin-mountain/86) 
+
+    
+
+[panda\_sushi](https://tonresear.ch/u/panda_sushi)  November 6, 2024, 2:49am  1
+
+**Submission Form for Memecoin Mountain**
+
+1.  **Your Role in the Competition:**
+    1.  Memecoin Project
+
+_(Only for Memecoin Projects; skip if you are a Trader/Whale)_
+
+1.  **Memecoin Name:** $DOMES
+2.  **Token Contract Address:** EQBlVW57tSJ7aPkCbagcKjx3vVvl-yFrUwMsmB1yZ\_8r8lTQ
+3.  **Market Cap (at the time of application):** $418.96K
+4.  **Daily Trading Volume (for the last 7 days):**
+5.  **Number of Unique Token Holders:** 147.55K
+6.  **Has your token been fairly launched?**
+    1.  Yes
+7.  **Please provide a link to your CoinGecko listing:** [DOMES/TON - DOGE MEMES TOPPLE REGIMES Price on Ston.fi | GeckoTerminal](https://www.geckoterminal.com/ton/pools/EQB9zBYdOuAI84k5ybPexOLZpSyrKUKLUuXqVNqsCfXuAnBG)
+8.  **Are you applying for the Major League or Minor League?** **Minor League**
+9.  **Briefly describe your memecoin’s strategy for growth and community engagement:** $DOMES focuses on **organic growth** and **active community engagement** by fostering partnerships within the TON ecosystem, running interactive events, and rewarding loyal users. Emphasizing meme culture and privacy, $DOMES connects with its audience through social media campaigns, airdrops, and collaborations that highlight both fun and functionality. The strategy centers on building a dedicated, privacy-conscious community, empowering users to actively participate and benefit as the $DOMES ecosystem expands.
+10.  **Do you have any partnerships with Key Opinion Leaders (KOLs) or influencers?**
+    1.  Yes
+    
+
+_(Only for Traders/Whales; skip if you are a Memecoin Project)_
+
+1.  **Trader’s Wallet Address:**
+2.  **Which memecoins are you primarily trading in this competition?**
+3.  **How did you find out about this competition?**
+    1.  Twitter / Telegram / Other
+4.  **Have you participated in any previous memecoin trading competitions?**
+    1.  Yes / No
+5.  **What’s your trading strategy for the upcoming season?**
+
+(General)
+
+1.  **Would you like to receive updates and announcements during the competition?**
+    1.  Yes
+2.  **Provide your Telegram username for communication and coordination:**  
+    @cryptokaeru
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 39581
+
+[TON Research](/)
+
+# [Вести с игровых полей... Последний выпуск](/t/topic/39581)
+
+[Русский](/c/ru/49) 
+
+    
+
+[User2333](https://tonresear.ch/u/User2333)  November 8, 2024, 11:27am  1
+
+В полях нынче немноголюдно и достаточно сильно наплёвано, поэтому лучше одеть галоши, много кучек коричневого цвета и одна большая куча в которой предположительно поселились хомяки, правда они практически все уже разбежались, видны неторопливые разработчики, видны владельцы каналов, они подписываются теперь друг на друга, чтобы создать видимость хоть какого-то комьюнити, также видны рефераловоды, этим полегче так как среди них много владельцев каналов…и вдалеке в тени видна группа мошенников, что они там делают издалека разглядеть сложно…ну и наконец на берегу речки в шалаше, сидят последние представители своего вида-худые, с повреждёнными пальцами и сумасшедшими глазами тестировщики-тапальщики, они смотрят непонимающим взглядом на игровое поле и улыбаются грустной улыбкой… Что же здесь произошло ведь было так весело и празднично и многолюдно? Почему же все ушли обратно на завод? Пойду и я пожалуй…
+
+  1 Like
+
+[apiTON](https://tonresear.ch/u/apiTON) November 8, 2024, 8:06pm  2
+
+And what to do,  
+any ideas? ![:upside_down_face:](https://tonresear.ch/images/emoji/twitter/upside_down_face.png?v=12 ":upside_down_face:")
+
+ 
+
+[User2333](https://tonresear.ch/u/User2333) November 10, 2024, 2:38pm  3
+
+А что ту сделаешь… Видимо надо выполнять свои обещания, чтобы слоган ,тапай чтобы заработать, оправдывал ожидания , чтобы юзерам получалось именно заработать, а не получить какие-то 10 долларов, более весомые суммы должны выходить… За реферальными ссылками должны гоняться и искать их, они должны быть в дефиците, нужно чтобы у игроков был азарт  
+Безопасность должна работать и отслеживать мошенников, вот у меня только запущенных ботов отвалилось штук 10 уже и это те которые отключились или ещё что-то, либо каналы молчать стали, есть ещё которые насыпали вообще невнятные суммы, что даже комиссия не отбилась… Озвучивать игрокам чёткие понятные условия, допустим ты вложил 10 долларов получишь 20 долларов за счёт того то… Чтобы игроки могли как-то найти деньги и влиться, потому что сейчас получается вкладывать средства стрёмно, а если не вложишь то ничего не получишь, только пальцы сотрёшь да экран на телефоне… И ещё момент думаю, должна быть какая-то финансовая поддержка игроков которые пришли сюда заработать не имея средств для вложений, иными активами, чтобы при airdrop они не сливали монеты проекта и чтобы они понимали, что то что они получили при airdrop это выгодный актив который вырастет, но кушать хочется сейчас и поэтому нужна эта поддержка
+
+ 
+
+[apiTON](https://tonresear.ch/u/apiTON) November 11, 2024, 7:27pm  4
+
+> чтобы юзерам получалось именно заработать, а не получить какие-то 10 долларов
+
+они именно зарабатывают, в соответствии с вложенными усилиями
+
+> За реферальными ссылками должны гоняться и искать их, они должны быть в дефиците
+
+суть реферальных ссылок, заманить больше людей в проект, а не дать выгоду тому, кто их генерирует
+
+> Озвучивать игрокам чёткие понятные условия
+
+Не понятно как получится каждый раз. Кроме того, при чётких условиях, будет реагировать меньше аудитории. А если условия очень сладко выглядят, это точно обман.
+
+> чтобы при airdrop они не сливали монеты проекта
+
+Монеты и airdrop существуют лишь для привлечения аудитории, с целью заработка для основателей проектов, а не наоборот.
+
+  1 Like
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 39585
+
+[TON Research](/)
+
+# [Introducing about NBIT PAY - NOTBITCOIN's payment application](/t/introducing-about-nbit-pay-notbitcoins-payment-application/39585)
+
+[Application](/c/application/20) 
+
+    
+
+[notbitco\_in](https://tonresear.ch/u/notbitco_in)   November 8, 2024, 5:45pm  1
+
+[![image](https://tonresear.ch/uploads/default/optimized/3X/f/9/f9fd6f61d62e1374ff926cd61aba85e1f9d62627_2_690x388.jpeg)
+
+image1600×900 73.6 KB
+
+](https://tonresear.ch/uploads/default/original/3X/f/9/f9fd6f61d62e1374ff926cd61aba85e1f9d62627.jpeg "image")
+
+The launch of Telegram mini apps represents, in my belief, a breakthrough in ideas that will redefine how we use internet applications for years to come.
+
+Previously, you needed to install numerous separate apps to meet your internet needs: gaming, socializing, reading, watching movies, and more. Each app required its own account and password, adding to the hassle of remembering them all.
+
+Telegram mini apps simplify everything. You no longer need to install apps or create accounts. Simply open your Telegram app and join applications bot.
+
+Realizing this potential, we developed NBIT PAY as a new payment method for Telegram mini apps with no blockchain fee, easy to integrate and use, familiar to all including web3 and web2 users. And what’s more, it’s completely free for everyone to use. NBIT PAY is currently in its final testing phase and will be ready to launch this November 2024.
+
+NBIT PAY Telegram mini-app  
+
+[![image](https://tonresear.ch/uploads/default/optimized/3X/4/3/43a6c64292b381811bf50bfae426af9e486eb15c_2_690x388.jpeg)
+
+image1600×900 160 KB
+
+](https://tonresear.ch/uploads/default/original/3X/4/3/43a6c64292b381811bf50bfae426af9e486eb15c.jpeg "image")
+
+NBIT PAY card  
+If NBIT PAY Telegram mini-app is an online payment application similar to Google Pay, Apple Pay, PayPal,… then NBIT PAY card also promises to become a new offline payment card besides visa, master card. Of course, to be able to use NBIT PAY card payment card is a long way ahead, but that is in NBIT PAY’s development plan in the near future. Below is a sample for NBIT PAY payment card.  
+![image](https://tonresear.ch/uploads/default/original/3X/7/d/7d940661610db24882394528006c7ad2a667d175.png)
+
+$NBIT is the main currency of NBIT PAY. In the near future, NBIT PAY will integrate to support other cryptocurrencies. You can start mining $NBIT for free now and use it for payments within apps linked to NOTBITCOIN. Isn’t that amazing?
+
+Mine NBIT Now
+
+![](https://telegram.org/img/website_icon.svg?4) [Telegram](https://t.me/notbitco_in_bot?start=34ampbl)
+
+![](https://cdn5.cdn-telegram.org/file/P4_bTM6a_9XUUxCwmcyX0mvQTT0TERX1Z3Mu2TCUKVZGkhprLSHOseexu9MPbBKdySwAcdEYfEfNDk-pZlV4afoRTy2iTo3sfPiwVq3b_GVJqjbNSGIrRrsD-Zz8Gr-zvqhWANNQ8Uf_0AO6WB3iyDL0cEfZG5yJ16211hIoyow5FoEj-JsTxlJhluauU1xVSVxS2YfwA8nfhxOVCpzEXh2NYNxWhngcKojCjCIH_VJqjxC8iduxldtoEpNA1D9dw7GM8gvwJ3YUoXx44Q8rKCHOsS6qRV9gmdFhsrS30_roVfKg8ZtOQXwuxcqs-bDP4sKvcl1LwVS_aXSCmFAcog.jpg)
+
+### [NotBitCoin Bot](https://t.me/notbitco_in_bot?start=34ampbl)
+
+Free to mine right now Web: https://notbitco.in/ News: https://t.me/notbitco\_in Chat: https://t.me/notbitco\_in\_english
+
+Learn more about the NOTBITCOIN ecosystem you can read more in our whitepaper
+
+[notbitco.in](https://notbitco.in/notbitcoin_whitepaper_v2.pdf)
+
+[](https://notbitco.in/notbitcoin_whitepaper_v2.pdf)
+
+### [notbitcoin\_whitepaper\_v2.pdf](https://notbitco.in/notbitcoin_whitepaper_v2.pdf)
+
+1542.50 KB
+
+  1 Like
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 39590
+
+[TON Research](/)
+
+# [$HYDRA | Submission Form for Memecoin Mountain](/t/hydra-submission-form-for-memecoin-mountain/39590)
+
+[TON Memelandia](/c/ton-memelandia/memecoin-mountain/86)  [Memecoin Mountain](/c/ton-memelandia/memecoin-mountain/86) 
+
+    
+
+[Sonya](https://tonresear.ch/u/Sonya)  November 8, 2024, 9:06pm  1
+
+**Submission Form for Memecoin Mountain**
+
+1.  **Your Role in the Competition:**
+    
+    1.  Memecoin Project
+2.  **Memecoin Name:** TON Hydra
+    
+3.  **Token Contract Address:** EQD4P32U10snNoIavoq6cYPTQR82ewAjO20epigrWRAup54\_
+    
+4.  **Market Cap (at the time of application):** $25,000,000
+    
+5.  **Daily Trading Volume (for the last 7 days):** ~$30,000-$100,000 per day
+    
+6.  \*\*Number of Unique Token Holders:\*\*32,334
+    
+7.  **Has your token been fairly launched?**
+    
+    1.  No
+8.  \*\*Please provide a link to your CoinGecko listing:\*\*[https://www.coingecko.com/ru/Криптовалюты/tonhydra](https://www.coingecko.com/ru/%D0%9A%D1%80%D0%B8%D0%BF%D1%82%D0%BE%D0%B2%D0%B0%D0%BB%D1%8E%D1%82%D1%8B/tonhydra)
+    
+9.  **Are you applying for the Major League or Minor League?** Yes
+    
+10.  **Briefly describe your memecoin’s strategy for growth and community engagement:** “From the very beginning we had some kind of strategy and we stuck to it” ![:wink:](https://tonresear.ch/images/emoji/twitter/wink.png?v=12 ":wink:")
+    
+11.  **Do you have any partnerships with Key Opinion Leaders (KOLs) or influencers?** Yes. Vudi, Barboskich, and others (the remaining names need to be kept confidential).
+    
+
+(General)
+
+1.  **Would you like to receive updates and announcements during the competition?**
+    1.  Yes
+2.  **Provide your Telegram username for communication and coordination:** @sonyatryp @uber\_kuper
+
+  12 Likes
+
+[Barboskich](https://tonresear.ch/u/Barboskich) November 8, 2024, 9:16pm  2
+
+I am liked this token ![:+1:t2:](https://tonresear.ch/images/emoji/twitter/+1/2.png?v=12 ":+1:t2:") Let’s go!
+
+  5 Likes
+
+[JdocJ](https://tonresear.ch/u/JdocJ) November 8, 2024, 9:35pm  3
+
+nice token, awesome balls
+
+  4 Likes
+
+[daahyte6e1](https://tonresear.ch/u/daahyte6e1) November 9, 2024, 4:11am  4
+
+Like for token, But it will be ez for hydra! Gl
+
+  1 Like
+
+[tru6ochist](https://tonresear.ch/u/tru6ochist) November 9, 2024, 5:24am  5
+
+zaludiochko and farm Hydra!
+
+  1 Like
+
+[belmus](https://tonresear.ch/u/belmus) November 9, 2024, 8:56am  6
+
+Hydra лучших токен для фарма ![:+1:](https://tonresear.ch/images/emoji/twitter/+1.png?v=12 ":+1:")
+
+ 
+
+[tikilo](https://tonresear.ch/u/tikilo) November 9, 2024, 9:21am  7
+
+Letsgo I mean ![:boom:](https://tonresear.ch/images/emoji/twitter/boom.png?v=12 ":boom:") innovative jetton
+
+ 
+
+[Serge\_Che](https://tonresear.ch/u/Serge_Che) November 9, 2024, 10:36am  8
+
+Awesome token on ton blockchain
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 396
+
+[TON Research](/)
+
+# [\[这能用吗\] VM Linker：TON 智能合约的编译与连接工具](/t/vm-linker-ton/396)
+
+[中文 (简繁)](/c/zh/application/55)  [应用](/c/zh/application/55) 
+
+    
+
+[QianXuesen](https://tonresear.ch/u/QianXuesen)   February 19, 2024, 5:36pm  1
+
+TVM Linker 是一个用于编译和连接TON 智能合约的实用工具，它将TVM (TON Virtual Machine) 的组合语言源代码进行编译，连接其部分，添加标准选择器和运行时，并将其存储到二进制 的TVC 文件中。 此外，它还可以通过模拟 TON 交易的计算阶段来立即执行智能合约。
+
+TVM 组合语言可以通过以下 TONLabs 编译器之一生成：
+
+*   TON Solidity 编译器：[点击查看](https://github.com/tonlabs/TON-Solidity-Compiler)
+*   C 和 C++ 编译器 for TVM：[点击查看](https://github.com/tonlabs/TON-Compiler)
+
+## [](#h-1)先决条件
+
+*   最新版本的 Rust
+*   Cargo 工具
+*   [安装教程](https://doc.rust-lang.org/cargo/getting-started/installation.html)
+
+## [](#h-2)构建方法
+
+```
+$ cargo update && cargo build --release -j8
+```
+
+## [](#h-3)使用方法
+
+TVM Linker 有几种工作模式：
+
+### [](#h-1-4)1) 生成准备部署的合约
+
+```
+$ tvm_linker compile [--lib <lib_file>] [--abi-json <abi_file>] [-w <workchain_id>] [--debug] [--print_code] [--silent] [--debug-map < debug_info_path>] <source>
+```
+
+### [](#h-2-boc-5)2) 解码外部准备的 .boc 消息
+
+```
+$ tvm_linker decode [--tvc] boc-file
+```
+
+### [](#h-3-boc-6)3) 准备外部入站消息的 .boc 格式
+
+```
+$ tvm_linker message <contract-address> [--init] [--data] [-w]
+$ tvm_linker message <contract-address> [--init] --abi-json <abi_file> --abi-method <method_name> --abi-params {json_with_params} [-w]
+```
+
+### [](#h-4-7)4) 模拟合约执行
+
+```
+$ tvm_linker test <contract-address> --body XXXX... [--sign key-file] [--trace] [--decode-c6] [--internal <value>] [--src address] [ --now unixtime] [-s source-file] [--balance <value>]
+```
+
+### [](#h-5-8)5) 反汇编器
+
+```
+$ tvm_linker disasm dump <tvc-file>
+$ tvm_linker disasm text <tvc-file>
+$ tvm_linker disasm graphviz <tvc-file>
+```
+
+更多帮助信息，请使用 `tvm_linker --help` 查看所有选项、标志和子命令的详细描述。
+
+## [](#h-9)输入格式
+
+作为一种临时措施，使用了一些类似 LLVM 组合语言的输入格式。 源代码应该包含几种函数类型：
+
+*   `.internal` - 仅由合约的运行时使用的特殊函数，例如 `main_external`、`main_internal`、`onTickTock`、`onBounce`。
+
+## [](#h-10)支持
+
+在[docs.ton.dev](https://docs.ton.dev) 获取更多文档，并查看我们的[YouTube 频道](https://www.youtube.com/channel/UC9kJ6DKaxSxk6T3lEGdq-Gg) 以 获取教程。 敬请关注。
+
+![](https://github.githubassets.com/favicons/favicon.svg) [GitHub](https://github.com/tonlabs/TVM-linker)
+
+![](https://tonresear.ch/uploads/default/optimized/1X/31b5afedef0a8cfa0e56479f5ebf3b1bd0a09aed_2_690x345.png)
+
+### [GitHub - tonlabs/TVM-linker: TVM linker takes TVM assembly source code of TON...](https://github.com/tonlabs/TVM-linker)
+
+TVM linker takes TVM assembly source code of TON smart contract, compiles it and links its parts, adds standard selector and runtime and stores it into binary TVC file - tonlabs/TVM-linker
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 39625
+
+[TON Research](/)
+
+# [$AMORE | Submission Form for Memecoin Mountain](/t/amore-submission-form-for-memecoin-mountain/39625)
+
+[TON Memelandia](/c/ton-memelandia/memecoin-mountain/86)  [Memecoin Mountain](/c/ton-memelandia/memecoin-mountain/86) 
+
+    
+
+[Veknilash](https://tonresear.ch/u/Veknilash)  November 10, 2024, 11:13am  1
+
+**Submission Form for Memecoin Mountain**
+
+1.  **Your Role in the Competition:**
+    1.  Memecoin Project
+
+_(Only for Memecoin Projects; skip if you are a Trader/Whale)_
+
+1.  $AMORE
+    
+2.  EQC7js8NLX3v57ZuRmuusNtMSBdki4va\_qyL7sAwdmosf\_xK
+    
+3.  13MM
+    
+4.  280-300k
+    
+5.  3300+
+    
+6.  **Has your token been fairly launched?**
+    
+    1.  Yes
+7.  CL0511240016
+    
+8.  Major League
+    
+9.  Be on BINANCE within half year
+    
+10.  **Do you have any partnerships with Key Opinion Leaders (KOLs) or influencers?**
+    
+    1.  No
+    2.  If yes, please specify.
+11.  **Would you like to receive updates and announcements during the competition?**
+    
+    1.  Yes
+12.  [@Veknilash](/u/veknilash)
+    
+
+  1 Like
+
+[Uri](https://tonresear.ch/u/Uri) November 10, 2024, 2:27pm  2
+
+Amore TOP perfekto TOP
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 39639
+
+[TON Research](/)
+
+# [Catizen Smart Contract optimize](/t/catizen-smart-contract-optimize/39639)
+
+[TON Blockchain](/c/ton-blockchain/17) 
+
+    
+
+[Roykay](https://tonresear.ch/u/Roykay)  November 11, 2024, 8:03am  1
+
+I’ve noticed that the [in-game activity contract](https://tonviewer.com/EQChB2eMoFG4ThuEsZ6ehlBPKJXOjNxlR5B7qKZNGIv256Da) used on Catizen has a network fee of 0.0029 TON and a base resource consumption fee of 0.0034 TON. Is there any way to reduce these costs or adjust them?
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 39678
+
+[TON Research](/)
+
+# [Introducing TONX API Migration Kit: For TON JS Clients (@ton/ton, TonWeb, TonClient4)](/t/introducing-tonx-api-migration-kit-for-ton-js-clients-ton-ton-tonweb-tonclient4/39678)
+
+[TON Blockchain](/c/ton-blockchain/17) 
+
+[api](https://tonresear.ch/tag/api)
+
+    
+
+[TONX](https://tonresear.ch/u/TONX)  November 13, 2024, 7:42am  1
+
+_Using existing popular TON client libraries like_ [_**@ton/ton**_](https://github.com/ton-org/ton)_,_ [_**TonWeb**_](https://github.com/toncenter/tonweb)_, and_ [_**TonClient4**_](https://github.com/ton-org/ton/blob/master/src/client/TonClient4.ts)?
+
+[**TONX API**](https://tonxapi.com/) provides seamless migration adapter with enhanced features for your Telegram Mini Apps and Web3 applications. Our platform ensures **99.99%** uptime with instant scaling capabilities. Just a few code changes and you’re ready to go!
+
+_You can see the original blog post [here](https://blog.tonx.ai/easy-migration-to-tonx-api-from-ton-js-clients-tonton-tonweb-tonclient4-toncenter/)_
+
+>  _![:tada:](https://tonresear.ch/images/emoji/twitter/tada.png?v=12 ":tada:") Special Launch Offer: Use code_ `NOV30` _for a_ _**FREE**_ _Growth Plan trial until_ _**November 30, 2024.**_ _Includes 10x higher request limits, advanced BOC parsing tools, and premium support._
+
+![](https://miro.medium.com/v2/resize:fit:1050/1*klM4vdaQehtvZbc6M4xKAA.png)
+
+# [](#p-65111-why-choose-tonx-api-over-ton-center-1)Why Choose TONX API over Ton Center?
+
+## [](#p-65111-lightning-fast-sdk-integration-2)Lightning-Fast SDK & Integration
+
+*   **10-Second Integration**: Send transactions to TON Blockchain instantly
+*   **Easy Migration Kit**: Transition from TON Center, TonWeb, or other providers with minimal code changes
+*   **Comprehensive SDK**: Built-in support for all core TON features
+*   **Developer-First Design**: Optimized for rapid development and scaling
+
+## [](#p-65111-enterprise-grade-infrastructure-3)Enterprise-Grade Infrastructure
+
+*   **Industry-Leading Uptime**: 99.99% guaranteed availability powered by TONX Supernode
+*   **Global Network Distribution**: Ultra-low latency across multiple regions
+*   **Real-time Monitoring**: Advanced analytics and performance metrics
+*   **Instant Scaling**: Handles traffic spikes without performance degradation
+
+## [](#p-65111-advanced-developer-tools-4)Advanced Developer Tools
+
+*   **BOC Parsing Tools**: Validate and debug your BOC messages with precision
+*   **Fee Estimation**: Accurate transaction cost predictions before broadcast
+*   **Performance Analytics**: Real-time monitoring and optimization tools
+*   **Asia-Based Support**: Responsive technical assistance in your timezone
+
+# [](#p-65111-step-by-step-migration-guide-5)Step-by-step Migration Guide
+
+Our migration toolkit supports most popular TON client libraries like [@ton](/u/ton)/ton, TonWeb, and TonClient4.
+
+## [](#p-65111-h-1-register-for-tonx-api-6)1\. Register for TONX API
+
+*   Get your API key at [auth.tonxapi.com/signup](http://auth.tonxapi.com/signup)
+
+![](https://miro.medium.com/v2/resize:fit:1050/0*8RIIJgSamsO6cEr1.png)
+
+*   Visit [TONX API](https://tonxapi.com/) to create your account and obtain your API key.
+*   Use code `NOV30` for free Growth Plan trial
+*   Free trial for Growth Plan until 11/30
+
+# [](#p-65111-h-2-start-integration-7)2\. Start Integration
+
+*   Install [TONX JS Adapter](https://www.npmjs.com/package/@tonx/adapter) package
+*   Choose Your Migration Path & Update Your Code
+*   Based on your current SDK, follow the appropriate migration instructions
+*   From [@ton](/u/ton)/ton:
+
+```
+import { ToncoreAdapter } from "@tonx/adapter";
+
+const client = new ToncoreAdapter({
+network: "mainnet",
+apiKey: "YOUR_API_KEY",
+});
+```
+
+*   From TonWeb:
+
+```
+import { TonWebAdapter } from "@tonx/adapter";
+
+const client = new TonWebAdapter({
+network: "mainnet",
+apiKey: "YOUR_API_KEY",
+});import { TonWebAdapter } from "@tonx/adapter"; const client = new TonWebAdapter({ network: "mainnet", apiKey: "YOUR_API_KEY", });
+```
+
+*   From TonClient4:
+
+```
+import { TonClient4Adapter } from "@tonx/adapter";
+
+const client = new TonClient4Adapter({
+network: "mainnet",
+apiKey: "YOUR_API_KEY",
+});
+```
+
+> _Using HTTP API? We provide RESTful API migration support for enterprise users._ [_Contact us_](https://docs.google.com/forms/d/e/1FAIpQLSefEzCb42mhOXrtKR5Pm38f0hFfWjbouBbUdEI7HIfoLuuirw/viewform?pli=1) _to learn more._
+
+# [](#p-65111-getting-started-8)Getting Started
+
+*   [Create](https://auth.tonxapi.com/signup) a free TONX API account
+*   [Install](https://www.npmjs.com/package/@tonx/adapter) required packages
+*   Monitor your usage via dashboard
+*   Access api [documentation](https://docs.tonxapi.com/reference)
+*   Try [TONX Lab](https://lab.tonx.ai/) tools for advanced features
+
+# [](#p-65111-tonx-api-9)TONX API
+
+TONX API is your all-in-one Web3 development platform, equipped with powerful tools to make building on TON simple and efficient.
+
+[Website](https://tonxapi.com/) | [Twitter](https://x.com/TONXAPI) | [Telegram Channel](https://t.me/tonxapi) | [Docs](https://docs.tonxapi.com/docs/) | [Blog](https://blog.tonx.ai/)
+
+# [](#p-65111-powered-by-tonx-10)Powered by TONX
+
+Founded in 2021, TONX is a SuperApp platform layer empowering builders to shape the new Web3 economy. As the bedrock of the TON ecosystem, TONX offers a suite of powerful tools, including TONX API, a reliable RPC solution integrated by 20+ leading projects, and Tonkey, a secure multi-sig wallet managing over $400M in assets.
+
+[Website](https://tonx.ai/) | [Twitter](https://x.com/TONX_Studio) | [Telegram Channel](https://t.me/tonx) | [Blog](https://blog.tonx.ai/)
+
+  1 Like
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 39682
+
+[TON Research](/)
+
+# [Launch of $5,000,000 TON Memelandia Grant Program for Memepads](/t/launch-of-5-000-000-ton-memelandia-grant-program-for-memepads/39682)
+
+[TON Memelandia](/c/ton-memelandia/85) 
+
+    
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport)  November 13, 2024, 3:04pm  1
+
+[**TON Memelandia**](https://ton.org/en/memelandia) is happy to launch a new Ecosystem Support initiative - a $5M Grant Program aimed at TON memecoin launchpads. Memepads are viewed as an important pillar of the memecoin space, as the core infrastructure for fair launches of new cultural and community assets.
+
+On November 1st, Memelandia launched 2 large competitions for memecoin projects. To support this initiative further and facilitate the emergence of new cultural phenomena, a new Grant Program is proposed.
+
+![](https://blog.ton.org/_next/static/media/favicon-32x32.5a296e6c.png) [TON Blog](https://blog.ton.org/ton-memelandia-launches-memecoin-battles)
+
+![](https://storage.googleapis.com/ton-strapi/Blog_8_1fe9541e95/Blog_8_1fe9541e95.png)
+
+### [TON Memelandia Launches $1.25M Memecoin Battles](https://blog.ton.org/ton-memelandia-launches-memecoin-battles)
+
+TON Memelandia is excited to announce the launch of two memecoin competitions with a total reward pool of $1,250,000. To create a robust and thriving land reigned by memes, TON
+
+# [](#p-65117-goals-1)`Goals`
+
+1.  Support core infrastructure products in the TON memecoin vertical;
+2.  Facilitate the emergence of new cultural phenomena and, importantly, fairly launched and sustainable cases of memecoins;
+3.  Increase the visibility of and interest towards the Memelandia’s trading competitions.
+
+# [](#p-65117-minimum-eligibility-criteria-2)`Minimum Eligibility criteria*`
+
+*   Mainnet on TON
+*   Bonding curve launchpad
+*   25k+ MAU in the Mini App
+*   Total trading volume: $1M+
+*   Deployed tokens: 5k+
+*   Tokens listed on DEX: 5+
+*   Total number of traders: 5k+
+*   Top case by market cap: $1M+  
+    \*metrics for TON
+
+# [](#p-65117-workflow-3)`Workflow`
+
+1.  TON Memelandia Working Group is already checking the current TON memepads to identify the ones that meet the above-mentioned eligibility criteria and include them into the test cohort.
+2.  Any memepad that meets the eligibility criteria and is willing to join is welcome to submit [THIS FORM.](https://forms.gle/RtQfi5QXvJbBLycq9)
+3.  The first cohort of Grantees will be announced in short order.
+
+  1 Like
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 397
+
+[TON Research](/)
+
+# [\[Можно ли использовать этот код?\] Оптимизация и использование утилиты tvm\_linker в блокчейне TON](/t/tvm-linker-ton/397)
+
+[Русский](/c/ru/general/50)  [General](/c/ru/general/50) 
+
+    
+
+[IvanKriptov](https://tonresear.ch/u/IvanKriptov)   February 19, 2024, 5:39pm  1
+
+В данном посте мы рассмотрим технические аспекты утилиты tvm\_linker, предназначенной для компиляции и связывания исходного кода ассемблера TVM смарт-контрактов в блокчейне TON (The Open Network). Утилита tvm\_linker позволяет преобразовать исходный код в двоичный файл TVC, а также эмулировать фазу вычислений транзакции TON.
+
+#### [](#h-1)Предварительные условия:
+
+*   Последняя версия Rust
+*   Инструмент Cargo  
+    [Скачать их можно здесь](https://doc.rust-lang.org/cargo/getting-started/installation.html)
+
+#### [](#h-2)Как собрать:
+
+```
+$ cargo update && cargo build --release -j8
+```
+
+#### [](#h-3)Как использовать:
+
+tvm\_linker имеет несколько режимов работы:
+
+1.  **Генерация готового к развертыванию контракта:**
+    
+    ```
+    $ tvm_linker compile [--lib <lib_file>] [--abi-json <abi_file>] [-w <workchain_id>] [--debug] [--print_code] [--silent] [--debug-map <debug_info_path>] <source>
+    ```
+    
+2.  **Декодирование .boc сообщений, подготовленных внешним образом:**
+    
+    ```
+    $ tvm_linker decode [--tvc] boc-file
+    ```
+    
+3.  **Подготовка внешних входящих сообщений в формате .boc:**
+    
+    ```
+    $ tvm_linker message <contract-address> [--init] [--data] [-w]
+    ```
+    
+4.  **Эмуляция выполнения контракта:**
+    
+    ```
+    $ tvm_linker test <contract-address> --body XXXX... [--sign key-file] [--trace] [--decode-c6] [--internal <value>] [--src address] [--now unixtime] [-s source-file] [--balance <value>]
+    ```
+    
+5.  **Дизассемблер:**
+    
+    *   `dump` выводит псевдографическое представление дерева ячеек.
+    *   `text` дизассемблирует tvc, созданный компиляторами Solidity и FunC.
+    *   `graphviz` создает вывод в формате dot для генерации графического представления DAG tvc.
+
+#### [](#h-4)Поддержка:
+
+Получите больше документов на [docs.ton.dev](https://docs.ton.dev) и посмотрите наши [обучающие видео на YouTube](https://www.youtube.com/channel/UC9kJ6DKaxSxk6T3lEGdq-Gg). Следите за обновлениями.
+
+![](https://github.githubassets.com/favicons/favicon.svg) [GitHub](https://github.com/tonlabs/TVM-linker)
+
+![](https://tonresear.ch/uploads/default/optimized/1X/31b5afedef0a8cfa0e56479f5ebf3b1bd0a09aed_2_690x345.png)
+
+### [GitHub - tonlabs/TVM-linker: TVM linker takes TVM assembly source code of TON...](https://github.com/tonlabs/TVM-linker)
+
+TVM linker takes TVM assembly source code of TON smart contract, compiles it and links its parts, adds standard selector and runtime and stores it into binary TVC file - tonlabs/TVM-linker
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 39712
+
+[TON Research](/)
+
+# [儘管你加上了 impure，FunC 一樣不理你？！](/t/impure-func/39712)
+
+[Technical Support](/c/technical-support/func-ts/84)  [FunC](/c/technical-support/func-ts/84) 
+
+    
+
+[ipromise2324](https://tonresear.ch/u/ipromise2324)   November 14, 2024, 9:51pm  1
+
+# [](#p-65172-background-1)Background
+
+[@Alan](/u/alan) 和我最近嘗試在 FunC 中實現多型，使用三元運算符來決定執行哪個函數。然而，我們遇到了一個奇怪的問題：儘管我們將 `sum()` 和 `mul()` 都標記為 **impure**，但如果函數的返回值未被使用，函數內的任何錯誤卻未按照預期拋出。
+
+**這很奇怪，因為按照 impure 修飾符的邏輯，即使返回值未被使用，函數也應該拋出錯誤。**
+
+# [](#p-65172-description-2)Description
+
+下圖為我們使用的範例 functions:
+
+[![image](https://tonresear.ch/uploads/default/optimized/3X/b/d/bd736a0c07c930f7c3a108b1fce4c7b564bcf4ea_2_690x485.png)
+
+image728×512 37.4 KB
+
+](https://tonresear.ch/uploads/default/original/3X/b/d/bd736a0c07c930f7c3a108b1fce4c7b564bcf4ea.png "image")
+
+In the main program:
+
+[![image](https://tonresear.ch/uploads/default/optimized/3X/8/9/89a3b496a5f5f599ed7eb69f9980290c89850c2a_2_690x356.png)
+
+image1898×980 90.3 KB
+
+](https://tonresear.ch/uploads/default/original/3X/8/9/89a3b496a5f5f599ed7eb69f9980290c89850c2a.png "image")
+
+當返回值被使用時（如在 `op::with_dump` 的情況下），錯誤會正確地被拋出。然而，在 `op::without_dump` 的情況下，由於返回值未被使用，即使函數已標記為 **impure**，錯誤卻未被拋出。您可以參考此[測試案例](https://github.com/ipromise2324/FunC-Impure-Test/blob/20810b2ffce045d5d8a107fc464db570041544c7/tests/Test.spec.ts#L18)，理論上它應該拋出錯誤，但其狀態卻顯示為成功。
+
+這種行為令人困惑，因為理論上 **impure** 函數應該無論返回值是否被使用都會觸發錯誤。我們還進行了額外的測試，例如直接調用函數而不使用返回值，在這些情況下，錯誤能夠成功地被拋出。您可以參考下方的圖片，當直接調用 `sum()` 和 `mul()` 時，無論是否使用返回值，錯誤都能成功被拋出。
+
+# [](#p-65172-test-result-3)Test Result
+
+[![image](https://tonresear.ch/uploads/default/optimized/3X/7/6/76357e2751b4473eea88c6e72dc2d485dcb2bb81_2_690x379.jpeg)
+
+image1920×1056 175 KB
+
+](https://tonresear.ch/uploads/default/original/3X/7/6/76357e2751b4473eea88c6e72dc2d485dcb2bb81.jpeg "image")
+
+你可以在此 [repo](https://github.com/ipromise2324/FunC-Impure-Test) 看到完整的測試
+
+# [](#p-65172-official-confirmation-4)Official Confirmation
+
+[![image](https://tonresear.ch/uploads/default/optimized/3X/3/e/3ebeac0d166440259081bd5c363ef76e087244e2_2_690x175.png)
+
+image1432×364 27.1 KB
+
+](https://tonresear.ch/uploads/default/original/3X/3/e/3ebeac0d166440259081bd5c363ef76e087244e2.png "image")
+
+[![image](https://tonresear.ch/uploads/default/optimized/3X/3/b/3bab1f3ed8d00dc02a3d858498f5bff02de31703_2_690x307.png)
+
+image1456×648 59.2 KB
+
+](https://tonresear.ch/uploads/default/original/3X/3/b/3bab1f3ed8d00dc02a3d858498f5bff02de31703.png "image")
+
+經過官方查驗後，確認有這個 bug 並且修復後已經 merged 了
+
+如果有任何問題歡迎來我的 [X](https://x.com/ipromise2324) 或是 [Telegram](https://t.me/throwunless) 討論
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 39719
+
+[TON Research](/)
+
+# [Emmet Finance - Cross-Chain Bridge and Swap Aggregator](/t/emmet-finance-cross-chain-bridge-and-swap-aggregator/39719)
+
+[The Open League](/c/the-open-league/56) 
+
+    
+
+[King\_Emmet](https://tonresear.ch/u/King_Emmet)  November 15, 2024, 3:31pm  1
+
+Emmet Finance is a decentralized, cross-chain DeFi hub designed to unlock the full potential of decentralized finance through secure, efficient interoperability. Powered by the Emmet Interchain Network (EIN) and built on a Proof-of-Stake mechanism, Emmet Finance enables seamless, scalable connections across leading blockchain networks, including Ethereum, Bitcoin, TON, Solana, Polygon, Bitcoin Layer-2s, and more.
+
+EIN: Emmet’s Interchain Network leverages on-chain consensus for relayers, ensuring secure, transparent, and decentralized cross-chain messaging, unlike solutions reliant on off-chain consensus.
+
+With the TON blockchain already integrated, our bridge allows users to easily transfer assets between TON (Telegram blockchain) and other major chains, supporting a wide range of applications and users in the DeFi ecosystem.
+
+Our robust infrastructure allows users to bridge stablecoins and other digital assets across both EVM and non-EVM chains, providing unmatched flexibility and opportunities in cross-chain transactions. By connecting fragmented ecosystems, Emmet Finance is committed to building a future where DeFi is truly accessible, scalable, and interoperable, enabling new possibilities for liquidity providers, projects, and everyday users.
+
+![:gear:](https://tonresear.ch/images/emoji/twitter/gear.png?v=12 ":gear:") Our Products:
+
+*   Multichain Bridge: Effortlessly transfer assets across multiple blockchains with our secure, reliable bridge, empowering users to move capital fluidly in a decentralized manner.
+    
+*   Multichain SWAP Aggregator: Access leading DeFi liquidity sources, including Balancer, Uniswap, Pancakeswap, and StonFi, through our aggregator that optimizes for the best SWAP rates across chains.
+    
+*   Multi-chain Lending and Borrowing: Users can lend and borrow assets across supported chains, leveraging decentralized credit without the need for traditional intermediaries.
+    
+*   Telegram Mini-app: Seamlessly integrate DeFi into your everyday tools with our Telegram mini-app, which brings DeFi functionality directly into the chat platform.
+    
+
+Emmet.Finance distinguishes itself from other bridging solutions through its advanced design and modular approach, incorporating four distinct modules to cater to varied cross-chain needs:
+
+1.  On-Chain Relayer Consensus: Emmet’s Interchain Network leverages on-chain consensus for relayers, ensuring secure, transparent, and decentralized cross-chain messaging, unlike solutions reliant on off-chain consensus.
+    
+2.  Broad EVM and Non-EVM Compatibility: Supporting both EVM and non-EVM ecosystems, including TON, Sui, Near, Aptos, and Hedera, Emmet.Finance offers unmatched interoperability across diverse blockchain networks.
+    
+3.  Flexible Token Integration: Beyond just blue-chip tokens, Emmet enables quick integration of any ERC20 or relevant protocol tokens, making it ideal for a variety of projects and token types.
+    
+4.  Comprehensive DEX Integration: Emmet facilitates cross-chain and cross-protocol DEX operations, integrating EVM DEXs like Uniswap, PancakeSwap, Balancer, and AAVE with TON’s [Ston.fi](http://Ston.fi) and DeDust, allowing for extensive trading across ecosystems.
+    
+5.  Modular Bridge Design: Emmet.Finance bridge includes four specialized modules, each catering to unique bridging requirements:
+    
+    *   Lock & Mint Module: Enables secure asset bridging by locking assets on one chain and minting corresponding tokens on the destination chain.
+        
+    *   Liquidity Pool-Based Module: Provides liquidity for seamless cross-chain transfers with minimized slippage and optimized capital efficiency.
+        
+    *   CCTP-Based Module: Ensures compatibility with Circle’s Cross-Chain Transfer Protocol, leveraging stablecoin liquidity for cross-chain transactions.
+        
+    *   Swap-Based Module: Supports up to six swap protocols per chain, enabling smooth asset swaps across networks with maximum liquidity.
+        
+
+This comprehensive modular architecture makes Emmet.Finance one of the most versatile and powerful bridging solutions available today.
+
+![:arrow_up_small:](https://tonresear.ch/images/emoji/twitter/arrow_up_small.png?v=12 ":arrow_up_small:") Team:
+
+Emmet Finance is led by a team of seasoned professionals who bring deep expertise in cross-chain solutions and DeFi innovation. Our team previously developed a multi-chain NFT bridge and secured over $1.2 million in funding through 20 grants from prominent blockchain ecosystems, including Near, ICP, Tezos, Hedera, Moonbeam, Skale, and Harmony. With a strong track record of building cutting-edge DeFi infrastructure, our team is dedicated to driving Emmet Finance’s mission forward and fostering an inclusive, decentralized financial future.
+
+  2 Likes
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 39721
+
+[TON Research](/)
+
+# [Emmet Finance: Cross-Chain Bridge and Swap Aggregator](/t/emmet-finance-cross-chain-bridge-and-swap-aggregator/39721)
+
+[The Open League](/c/the-open-league/56) 
+
+    
+
+[King\_Emmet](https://tonresear.ch/u/King_Emmet)  November 15, 2024, 4:09pm  1
+
+Emmet Finance is a decentralized, cross-chain DeFi hub designed to unlock the full potential of decentralized finance through secure, efficient interoperability. Powered by the Emmet Interchain Network (EIN) and built on a Proof-of-Stake mechanism, Emmet Finance enables seamless, scalable connections across leading blockchain networks, including Ethereum, Bitcoin, TON, Solana, Polygon, Bitcoin Layer-2s, and more.
+
+EIN: Emmet’s Interchain Network leverages on-chain consensus for relayers, ensuring secure, transparent, and decentralized cross-chain messaging, unlike solutions reliant on off-chain consensus.
+
+With the TON blockchain already integrated, our bridge allows users to easily transfer assets between TON (Telegram blockchain) and other major chains, supporting a wide range of applications and users in the DeFi ecosystem.
+
+Emmet.Finance distinguishes itself from other bridging solutions through its advanced design and modular approach, incorporating four distinct modules to cater to varied cross-chain needs:
+
+1.  On-Chain Relayer Consensus: Emmet’s Interchain Network leverages on-chain consensus for relayers, ensuring secure, transparent, and decentralized cross-chain messaging, unlike solutions reliant on off-chain consensus.
+    
+2.  Broad EVM and Non-EVM Compatibility: Supporting both EVM and non-EVM ecosystems, including TON, Sui, Near, Aptos, and Hedera, Emmet.Finance offers unmatched interoperability across diverse blockchain networks.
+    
+3.  Flexible Token Integration: Beyond just blue-chip tokens, Emmet enables quick integration of any ERC20 or relevant protocol tokens, making it ideal for a variety of projects and token types.
+    
+4.  Comprehensive DEX Integration: Emmet facilitates cross-chain and cross-protocol DEX operations, integrating EVM DEXs like Uniswap, PancakeSwap, Balancer, and AAVE with TON’s [Ston.fi](http://Ston.fi) and DeDust, allowing for extensive trading across ecosystems.
+    
+5.  Modular Bridge Design: Emmet.Finance bridge includes four specialized modules, each catering to unique bridging requirements:
+    
+    *   Lock & Mint Module: Enables secure asset bridging by locking assets on one chain and minting corresponding tokens on the destination chain.
+        
+    *   Liquidity Pool-Based Module: Provides liquidity for seamless cross-chain transfers with minimized slippage and optimized capital efficiency.
+        
+    *   CCTP-Based Module: Ensures compatibility with Circle’s Cross-Chain Transfer Protocol, leveraging stablecoin liquidity for cross-chain transactions.
+        
+    *   Swap-Based Module: Supports up to six swap protocols per chain, enabling smooth asset swaps across networks with maximum liquidity.
+        
+
+This comprehensive modular architecture makes Emmet.Finance one of the most versatile and powerful bridging solutions available today.
+
+![:gear:](https://tonresear.ch/images/emoji/twitter/gear.png?v=12 ":gear:") Our Products:
+
+*   Multichain Bridge: Effortlessly transfer assets across multiple blockchains with our secure, reliable bridge, empowering users to move capital fluidly in a decentralized manner.
+    
+*   Multichain SWAP Aggregator: Access leading DeFi liquidity sources, including Balancer, Uniswap, Pancakeswap, and StonFi, through our aggregator that optimizes for the best SWAP rates across chains.
+    
+*   Multi-chain Lending and Borrowing: Users can lend and borrow assets across supported chains, leveraging decentralized credit without the need for traditional intermediaries.
+    
+*   Telegram Mini-app: Seamlessly integrate DeFi into your everyday tools with our Telegram mini-app, which brings DeFi functionality directly into the chat platform.
+    
+
+![:arrow_up_small:](https://tonresear.ch/images/emoji/twitter/arrow_up_small.png?v=12 ":arrow_up_small:") Team:
+
+Emmet Finance is led by a team of seasoned professionals who bring deep expertise in cross-chain solutions and DeFi innovation. Our team previously developed a multi-chain NFT bridge and secured over $1.2 million in funding through 20 grants from prominent blockchain ecosystems, including Near, ICP, Tezos, Hedera, Moonbeam, Skale, and Harmony. With a strong track record of building cutting-edge DeFi infrastructure, our team is dedicated to driving Emmet Finance’s mission forward and fostering an inclusive, decentralized financial future.
+
+Website: [https://emmet.finance](https://emmet.finance)  
+TG Channel: [Telegram: Contact @Emmet\_Finance\_Announcements](https://t.me/Emmet_Finance_Announcements)  
+Twiiter: [x.com](https://x.com/Emmet_Finance)
+
+Reach out to us on Telegram: [Telegram: Contact @King\_Emmet](https://t.me/King_Emmet)
+
+  2 Likes
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 39722
+
+[TON Research](/)
+
+# [First cohort of grantees TON Memelandia Grant Program for Memepads](/t/first-cohort-of-grantees-ton-memelandia-grant-program-for-memepads/39722)
+
+[TON Memelandia](/c/ton-memelandia/85) 
+
+    
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport)  November 15, 2024, 4:12pm  1
+
+Following the first assessment round of the existing bonding curve memepads on TON mainnet and their on-chain metrics and taking into account the **eligibility criteria**, several grantees have been chosen to join the first cohort:
+
+1.  [TON Pump by HOT Wallet](https://t.me/herewalletbot/app?startapp=hotpump)
+2.  [BigPump by PocketFi](https://t.me/pocketfi_bot/bigpump?startapp=terror240_8242)
+3.  [GasPump](https://t.me/gaspump_bot)
+
+The first cohort of grantees is aimed as a test and will be scaled further.
+
+Any other eligible memepad can apply for a grant at ANY time using [THIS FORM.](https://forms.gle/RtQfi5QXvJbBLycq9)
+
+Grant size per each Grantee: $500,000
+
+Next steps
+
+*   Individual KPIs will be set for each Grantee;
+*   Each Grantee will receive the grant amount in the upcoming period;
+*   Grantees are required to present bi-weekly reports on TONResearch with the progress with their key metrics;
+*   After 4 weeks of grant exploration since the receipt of the grant amount, the above-set KPIs will be checked and assessed;
+*   A fully-pledged framework for KPI setting and assessment will be released after the first cohort to scale the program further.
+
+How can other memepads apply?
+
+Any other memepad that complies with the eligibility criteria can apply to this Grant Program. The initiative is ongoing and accepts new submission without breaks.
+
+[Application form](https://forms.gle/RtQfi5QXvJbBLycq9)
+
+  1 Like
+
+[Diet\_Cam](https://tonresear.ch/u/Diet_Cam) November 20, 2024, 4:36am  2
+
+Trần Nguyễn Đặng 2007
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 39766
+
+[TON Research](/)
+
+# [Sitciofoundation](/t/sitciofoundation/39766)
+
+[Application](/c/application/20) 
+
+    
+
+[Sitcio](https://tonresear.ch/u/Sitcio)  November 16, 2024, 12:09am  1
+
+Sitciofoundationgame
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 39772
+
+[TON Research](/)
+
+# [Об уждаем мемы созданные в Блуме](/t/topic/39772)
+
+[Русский](/c/ru/49) 
+
+    
+
+[Hammer\_Corporation](https://tonresear.ch/u/Hammer_Corporation)  November 16, 2024, 2:34am  1
+
+Всем привет.
+
+Навеяка многие уже пробовали функцию создания мемов в Блуме. Но не понятно как, они работают?
+
+Имею ли я права на этот мем,
+
+Почему можно создавать одинаковые тикеры и как забронировать уникальный тег.
+
+Я создал, что делать дальше?
+
+Как получить грант от инвесторов?
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 39774
+
+[TON Research](/)
+
+# [Discuss about NEW Token](/t/discuss-about-new-token/39774)
+
+[Русский](/c/ru/49) 
+
+    
+
+[Funny\_People](https://tonresear.ch/u/Funny_People)  November 16, 2024, 2:49am  1
+
+Hello, friends!  
+Let’s do discuss about $NEW token on blockchain TON from oldest crypto news channel @TonNewbie
+
+How do you think the founder @TonNewbie @FunnyPeople22 will be able to successfully develop the NEW token?"
+
+And how do you think the mechanics and utilities for the NEW token should be designed?
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 398
+
+[TON Research](/)
+
+# [\[Has anyone successfully tested it?\] Optimizing TVM Linker for TON Blockchain: A Technical Deep Dive 🚀](/t/has-anyone-successfully-tested-it-optimizing-tvm-linker-for-ton-blockchain-a-technical-deep-dive/398)
+
+[General](/c/general/4) 
+
+    
+
+[Einstein](https://tonresear.ch/u/Einstein)   February 19, 2024, 5:44pm  1
+
+The TVM Linker is a crucial utility for the TON Blockchain (The Open Network), responsible for compiling and linking TVM (TON Virtual Machine) assembly source code of TON smart contracts. It transforms the assembly code into a binary TVC file, adds standard selectors and runtime, and can even emulate the computing phase of a TON transaction.
+
+## [](#prerequisites-1)Prerequisites ![:hammer_and_wrench:](https://tonresear.ch/images/emoji/twitter/hammer_and_wrench.png?v=12 ":hammer_and_wrench:")
+
+Before diving into the TVM Linker, ensure you have the latest version of Rust and the Cargo tool installed. You can find the installation guide [here](https://doc.rust-lang.org/cargo/getting-started/installation.html).
+
+## [](#building-the-tvm-linker-2)Building the TVM Linker ![:wrench:](https://tonresear.ch/images/emoji/twitter/wrench.png?v=12 ":wrench:")
+
+To build the TVM Linker, execute the following command:
+
+```
+cargo update && cargo build --release -j8
+```
+
+## [](#usage-modes-of-tvm-linker-3)Usage Modes of TVM Linker ![:open_book:](https://tonresear.ch/images/emoji/twitter/open_book.png?v=12 ":open_book:")
+
+### [](#h-1-generating-a-ready-to-deploy-contract-4)1\. Generating a Ready-to-Deploy Contract
+
+To compile a TVM assembly source file into a deployable contract, use the following command:
+
+```
+tvm_linker compile [--lib <lib_file>] [--abi-json <abi_file>] [-w <workchain_id>] [--debug] [--print_code] [--silent] [--debug-map <debug_info_path>] <source>
+```
+
+*   `<source>`: TVM assembly source file name.
+*   `--lib <lib_file>`: Runtime library file. Multiple libraries can be specified.
+*   `--abi-json <abi_file>`: Contract ABI file to generate function IDs according to ABI signatures.
+*   `-w <workchain_id>`: Workchain ID for generating user-friendly addresses. Default is -1.
+*   `--debug-map <debug_info_path>`: Generates a debug info file for contract debugging.
+*   `--print_code`: Prints the generated code without creating a TVC file.
+*   `--silent`: Mutes extra notifications.
+
+### [](#h-2-decoding-boc-messages-5)2\. Decoding .boc Messages
+
+To decode externally prepared .boc messages, use:
+
+```
+tvm_linker decode [--tvc] <boc-file>
+```
+
+### [](#h-3-preparing-external-inbound-messages-6)3\. Preparing External Inbound Messages
+
+First, generate a contract as described in step 1. Then, create an external inbound message in boc format using:
+
+```
+tvm_linker message <contract-address> [--init] [--data] [-w]
+tvm_linker message <contract-address> [--init] --abi-json <abi_file> --abi-method <method_name> --abi-params {json_with_params} [-w]
+```
+
+*   `--init`: Creates a constructor message with contract’s code and data.
+*   `--data <data_string>`: Adds a raw body to the message in hex format.
+*   `--abi-json`, `--abi-method`, `--abi-params`: Specifies ABI details for the message.
+
+### [](#h-4-emulating-contract-execution-7)4\. Emulating Contract Execution
+
+For contract debugging, the linker can emulate the compute phase of a blockchain transaction:
+
+```
+tvm_linker test <contract-address> --body XXXX... [--sign key-file] [--trace] [--decode-c6] [--internal <value>] [--src address] [--now unixtime] [-s source-file] [--balance <value>]
+```
+
+*   `--body XXXX...`: Hex string representing the message body.
+*   `--sign key-file`: Signs the body with a private key.
+*   `--trace`: Traces VM execution.
+*   `--decode-c6`: Outputs actions in a user-friendly format.
+*   `--internal <value>`: Sends an internal message with specified nanograms.
+*   `--src address`: Source address for the internal message.
+*   `--now unixtime`: Sets transaction creation time.
+
+### [](#h-5-disassembler-tools-8)5\. Disassembler Tools
+
+The TVM Linker also provides disassembler tools for analyzing TVC files:
+
+*   `dump`: Outputs a pseudo-graphical representation of a cell tree.
+*   `text`: Disassembles TVC files produced by Solidity and FunC compilers.
+*   `graphviz`: Generates a graphical DAG representation in dot format.
+
+For more detailed information on all options, flags, and subcommands, use `tvm_linker --help`.
+
+## [](#support-and-resources-9)Support and Resources ![:books:](https://tonresear.ch/images/emoji/twitter/books.png?v=12 ":books:")
+
+For further documentation and tutorials, visit [docs.ton.dev](https://docs.ton.dev) and check out the [TON Labs YouTube Channel](https://www.youtube.com/channel/UC9kJ6DKaxSxk6T3lEGdq-Gg).
+
+* * *
+
+By optimizing the TVM Linker for TON Blockchain, developers can streamline the process of deploying and testing smart contracts on this robust and scalable platform.
+
+![](https://github.githubassets.com/favicons/favicon.svg) [GitHub](https://github.com/tonlabs/TVM-linker)
+
+![](https://tonresear.ch/uploads/default/optimized/1X/31b5afedef0a8cfa0e56479f5ebf3b1bd0a09aed_2_690x345.png)
+
+### [GitHub - tonlabs/TVM-linker: TVM linker takes TVM assembly source code of TON...](https://github.com/tonlabs/TVM-linker)
+
+TVM linker takes TVM assembly source code of TON smart contract, compiles it and links its parts, adds standard selector and runtime and stores it into binary TVC file - tonlabs/TVM-linker
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 39836
+
+[TON Research](/)
+
+# [The best place for professionals looking for Web3 jobs!](/t/the-best-place-for-professionals-looking-for-web3-jobs/39836)
+
+[Application](/c/application/20) 
+
+    
+
+[Konstantin](https://tonresear.ch/u/Konstantin)  November 18, 2024, 1:17pm  1
+
+Looking for a job in a crypto company? You will definitely benefit from this tool - [web3jobs.online](https://web3jobs.online/) The most detailed and regularly updated database of crypto jobs. **There are now over 9000 crypto jobs in the database.** The Web3 Jobs bot monitors companies that have received investments from Web3-focused venture capital funds, as well as funds of major crypto ecosystems.
+
+You can set up alerts and receive them in telegram as soon as a new job suitable for you appears in our job database.
+
+Try the free trial for 5 days. After the trial, it’s $60 per month. $60 per month to find a job with a salary >$100k per year!
+
+We have had questions about how you are better than the usual web3 job boards which are free to the user. My answer is: These job boards have paid placement of jobs, so this board cannot have a large market coverage a priori. We have decided to change this business model. We want to give the user as many jobs as possible, but make the use of the tool paid. I am sure that both we and the market will benefit from this business model. It will allow us to focus on getting 100% of the crypto-related vacancies covered. And the user will get more responses and be the first to find new vacancies.
+
+We have a referral programme in the product. If you have crypto traffic or traffic related to HRtech - you should be a part of our referral programme. Join our referral programme and earn 30% of all payments made by users you refer! This means that after all the commissions from the Telegram and Apple ecosystems, we share half of our revenue with you! You will receive lifetime payments as long as the user remains our customer.
+
+Website:
+
+![](https://web3jobs.online/icons/favicon.svg) [web3jobs.online](https://web3jobs.online/)
+
+### [Web3 Jobs - Crypto, Web3 and Blockchain Jobs in our Telegram Bot](https://web3jobs.online/)
+
+Browse job offers from web3 and receive notifications when new blockchain jobs appear.
+
+Telegram Bot: [Telegram: Contact @jobs\_web3\_bot](https://t.me/jobs_web3_bot)
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 39838
+
+[TON Research](/)
+
+# [ЦАРЬ токены новый мировой тренд!](/t/topic/39838)
+
+[General](/c/general/4) 
+
+    
+
+[BAAL\_NIK](https://tonresear.ch/u/BAAL_NIK)  November 18, 2024, 1:53pm  1
+
+![](https://lh3.googleusercontent.com/1HdV6RyAyH-frzEa0YrhhLuj6mMEOWmJ9WdYHw9FE1rruPbHGX1Kd1jHyilO1K-sFVZR0XX8gQbqM9cqL26Rhbyjrut7hOh6OaywmWOUqEbBgMm7) [sites.google.com](https://sites.google.com/view/2505lis/)
+
+![](https://lh3.googleusercontent.com/tNmcz-tCJl_0cxcuv6c2H3M3gFvnXOZR3FVYa86dEWIfK5r9tySqSfJrGMZFcneqomNUOiOlY3ECCfoN3cNaUZM=w16383)
+
+### [ЦАРЬ](https://sites.google.com/view/2505lis/)
+
+Из ничего - ничего не выйдет
+
+_[ЦАРЬ](https://sites.google.com/view/2505lis/)_
+
+ 
+
+[BAAL\_NIK](https://tonresear.ch/u/BAAL_NIK) November 18, 2024, 2:02pm  3
+
+![](https://telegram.org/img/website_icon.svg?4) [Telegram](https://t.me/BAAL_NIK_BOT/DEVIL)
+
+![](https://cdn4.cdn-telegram.org/file/b2rAlR8R36LVhECSfs01Rp7-VEJbdbuBri0-rTBe-LXJ4RiB8FTdOaMUJo14oYDOlA1uUGqRw6tkuZFqplpkTIpEc9DSzqUDvOtUdixQOpNfUpw5bUqmNS8TEKmo3qyiQreAN-2WxfjOtEOT0nDKbOooz5VOboZO2Lmdpjbi4e4h36nZoE6_xpGkGa_EB207UcGzUyqhB0unDlLONOG5_rAYVTGT-O99_SwpXoRd4HgIXxDvunfZngEFl6Y4JGwDPrPq8mv_nRraeZjehu9FtdfHk8gORoWynnKO0p-xLg9SfJNsmLVzxa2XBhAddj1rDr444aQVsOQNHFAbVcevEA.jpg)
+
+### [ЦАРЬ](https://t.me/BAAL_NIK_BOT/DEVIL)
+
+ЦАРЬ токены-новый мировой тренд!
+
+ 
+
+[BAAL\_NIK](https://tonresear.ch/u/BAAL_NIK) November 18, 2024, 2:02pm  4
+
+![](https://telegram.org/img/website_icon.svg?4) [Telegram](https://t.me/BAAL_NIKbot/BLIZNEZY)
+
+![](https://cdn4.cdn-telegram.org/file/WkI1nDDaeCvQG89kRULThPb4BDU8Ml4PDsFSLba2-sC9FGdCJPB4-kKF-YuGaGzFB2pCT9JcuX4Rj2INkDl1564amKIhMJGdPWd79F8b6mQYRdPSlFAihrfqwShtNcMFFJ-ewbeF7RBRlSwN3oAZX73RhIQGjsx5CUE2r8Bh5QYJ-ePoRvGXXzEH7uksUTTykd-yeC7GvLPYqCeBD4SQBeR5FGgUZ9Kmk3yzgJSxTf5K6NIntZRvmAxhDymU1zDXsULmaDEuKi-dLLRzghRvdy12wV4VZcTq_a9R6-Fw76cwTIXoL_YUCiEGUgw_2IQnWEGjr4ufUlkgbXJuvhtNZg.jpg)
+
+### [ЦАРЬ](https://t.me/BAAL_NIKbot/BLIZNEZY)
+
+https://sites.google.com/view/2505lis/
+
+ 
+
+[BAAL\_NIK](https://tonresear.ch/u/BAAL_NIK) November 18, 2024, 2:03pm  5
+
+![](https://lh6.googleusercontent.com/7bQuD4e4UPRQfIzbBIzzEwf5Ku9vbGyPOLzBdbrmfSsI4zYFnGrivjmuzmiNd5B0y2R0Yt9EvHLeFpWL1f8yssGwo5L_WbejpwF_kS5vynzoq7e4) [sites.google.com](https://sites.google.com/view/ano-center-gemini25)
+
+![](https://lh5.googleusercontent.com/99-H6VhGSqdeIBmhLBXp8HFnoLX_mjQYoSQee1Wt9AcO9N3-3x-2Kuo6LJvkqXcetQJg4b1x0E8pOdx4MiCFBA=w16383)
+
+### [АНО центр БЛИЗНЕЦЫ](https://sites.google.com/view/ano-center-gemini25)
+
+буклет
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 39853
+
+[TON Research](/)
+
+# [Tonpools - The No-Loss, Prize Linked Staking Pool on TON](/t/tonpools-the-no-loss-prize-linked-staking-pool-on-ton/39853)
+
+[The Open League](/c/the-open-league/56) 
+
+    
+
+[bvajresh](https://tonresear.ch/u/bvajresh)  November 19, 2024, 9:31am  1
+
+*   Project’s Name: Tonpools
+*   Project’s Website: [https://www.tonpools.com](https://www.tonpools.com/)
+*   Project’s Twitter: [x.com](https://x.com/TonPools_Com)
+*   Project’s Telegram channel/group: [Telegram: Contact @tonpools\_com](https://t.me/tonpools_com)
+*   DeFi Protocol Name: Tonpools
+*   DeFi Protocol Details
+    *   Total Value Locked (TVL) 6000 TON + 2000 USDT (~$36,000)
+    *   Integration Status with Defillama (provide link): [https://defillama.com/protocol/tonpools](https://defillama.com/protocol/tonpools)
+*   Attach the link to a Google Doc that describes your DeFi protocol’s current traction: [https://docs.google.com/document/d/1P23ZVxMcNjTCN2YjvJ5mmrG7kL8C0BsRx15IPhov\_ws/edit?usp=sharing](https://docs.google.com/document/d/1P23ZVxMcNjTCN2YjvJ5mmrG7kL8C0BsRx15IPhov_ws/edit?usp=sharing)
+*   Your name: Vajresh Balaji
+*   Your Telegram handle: [@bvajresh](/u/bvajresh)
+*   By submitting this application, I undertake to fully abide by The Open League Rules of Conduct. I understand that in case of the violation of those my team will be immediately excluded from the competition. Link: [Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://ton-org.notion.site/The-Open-League-Rules-of-Conduct-04f4a0fedf1a401687075f5efd83de68)
+*   By submitting the form, I confirm that the data I provided is correct and I fully understand that in case of the contrary, my project will be permanently eliminated from The Open League.
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 39855
+
+[TON Research](/)
+
+# [Orniton wallet - Снайпинг NFT, Агрегатор маркетплейсов и продажа без NFT без комиссий](/t/orniton-wallet-nft-nft/39855)
+
+[Русский](/c/ru/49) 
+
+    
+
+[Mint0x](https://tonresear.ch/u/Mint0x)   November 19, 2024, 10:15am  1
+
+![Frame 1321316161](https://tonresear.ch/uploads/default/original/3X/b/e/be7b9c154670e0f3da4604db1ead85dbd23f3086.png)**Orniton** — это экосистема продуктов ориентированная на NFT в TON.
+
+**Наша миссия** — преодолеть разрыв между растущей экосистемой NFT и обычными пользователями, предлагая интуитивно понятный и мощный инструмент, который упрощает процесс взаимодействия с NFT и Defi в блокчейне TON, что увеличивает интерес и обьемы торговли TON.
+
+> Orniton для пользователей — это удобный кошелек , NFT Sniper, лаунчпад NFT и удобный агрегатор маркетплейсов NFT.
+
+> Orniton для бизнеса — это инструмент для дистрибуции своих коллекций NFT, токенов. Возможность запуска, продвижения своего продукта и развития его без дополнительных затрат на разработку.  
+>   
+
+**Продукты экосистемы Orniton**  
+  
+
+![Frame 1321316158](https://tonresear.ch/uploads/default/original/3X/9/c/9c48510586bbbd930e3455634a54f88b2eafedf5.png)  
+  
+  
+[Orniton Wallet](https://t.me/ornitonbot) \[ex. Nftsniperpro\] - Это удобный кошелек с встроенным NFT снайпером, DEX агрегатором без комиссий и продажей NFT с 0% royalty.
+
+**Ключевые возможности Orniton wallet**
+
+— **NFT-снайпинг:** автоматическая покупка NFT по заданной цене через сервис NFT Sniper, что дает преимущество в скорости перед конкурентами.  
+— **Продажа NFT без комиссий:** уникальная функция, позволяющая продавать NFT в один клик прямо из интерфейса кошелька, интегрированного с [Getgems.io](http://Getgems.io).  
+— **Умный обмен токенов:** агрегатор двух DEX на блокчейне TON помогает находить лучшие курсы, предоставляя графики и проверяя токены на скам. Без комиссии!  
+— **Массовая рассылка токенов и NFT:** удобный инструмент для дропов, который работает без подписки с минимальной комиссией.  
+— **Обучение за вознаграждение:** пользователи могут выполнять задания и получать токены перспективных проектов с понятной дорожной картой.  
+— **Реферальная система:** за привлечение новых пользователей участники получают вознаграждение в TON.  
+—**Первый GUI для highload wallet**  
+  
+
+![Frame 1321316156](https://tonresear.ch/uploads/default/original/3X/0/5/05a498ec3585cd44c22a65d4db7f42ff273d45bd.png)  
+  
+  
+Orniton Tools - Это платформа для создания и управления сообственными NFT. Создавайте коллекции и бесконечное количество NFT в один клик. Сохраняйте черновики для будущих NFT и изменяйте текущие. Обозревайте каждую NFT через встроенный эксплорер TON.  
+  
+  
+  
+
+![Frame 1321316157](https://tonresear.ch/uploads/default/original/3X/5/b/5b1c0a581637613b9f94c09b600c6763b2f41637.png)  
+  
+  
+Orni - Это лаунчпад NFT позволяющий легко запутсить публичный минтинг в один клик, а также привлечь аудиторию Orniton к совей коллекции. На платформе доступен Mint виджет. Настройте свою кампанию и успешно распостраните ваши NFT без лишних затрат на разработку.  
+  
+  
+**Дорожная карта**
+
+**Q2 2024**
+
+*   Запущен nftsniperpro TMA.
+
+**Q3 2024**
+
+*   Запущен кошелек Orniton в бета режиме TMA.
+*   Заупщен web wallet
+
+**Q4 2024**
+
+*   Запуск Orniton Tools web
+*   Запуск Orni лаунчпада
+*   IOS/Android App
+
+**2025**
+
+*   Запуск $ORNI
+*   Запуск NFT маркетплейса (агрегатора)
+*   Добавление SOLANA
+
+**Orniton Wallet** — это не просто хранилище для ваших активов, а полноценная экосистема с мощными инструментами для работы с NFT и токенами. От быстрой торговли NFT до реферальной системы — всё сделано для удобства и выгоды пользователей.
+
+Наше TMA приложение - [Telegram: Contact @ornitonbot](https://t.me/ornitonbot)  
+Наш сайт - [https://orniton.org](https://orniton.org)
+
+Наша документация - [https://docs.orniton.org](https://docs.orniton.org)
+
+Наш канал в тг - [Telegram: Contact @ornitonwallet](https://t.me/ornitonwallet)
+
+Веб версия - [https://wallet.orniton.org](https://wallet.orniton.org)
+
+[#ton](https://teletype.in/@orniton?search=%23ton)[#orniton](https://teletype.in/@orniton?search=%23orniton)[#nftsniper](https://teletype.in/@orniton?search=%23nftsniper)[#tonwallet](https://teletype.in/@orniton?search=%23tonwallet)
+
+  4 Likes
+
+[Tonhulio](https://tonresear.ch/u/Tonhulio) November 19, 2024, 4:56pm  2
+
+Крутой продукт! Удачи в развитии ![:pray:](https://tonresear.ch/images/emoji/twitter/pray.png?v=12 ":pray:")
+
+  1 Like
+
+[Bupgpt](https://tonresear.ch/u/Bupgpt) November 19, 2024, 5:04pm  3
+
+Очень удобный кошелек! Думаю, получится крутая экосистема!
+
+  1 Like
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 39880
+
+[TON Research](/)
+
+# [Job Board Posting](/t/job-board-posting/39880)
+
+[General](/c/general/4) 
+
+    
+
+[Pavan\_Reddy](https://tonresear.ch/u/Pavan_Reddy)  November 20, 2024, 5:33am  1
+
+Job Board Rules Posting
+
+Welcome to the TON Research Vacancies section!
+
+Dear users.
+
+We are pleased to announce that TON Research now has a Job Vacancies section! This is a place dedicated to posting and searching for jobs in the TON blockchain space. We hope that this section will help job seekers to find their ideal job opportunities and companies to find the right people. In order to maintain the order and efficient operation of the board, please observe the following rules:
+
+Job Vacancy Forum Rules
+
+1.  Requirements for posting vacancy information:
+
+*   Job vacancy information must be true and valid, and contain the following elements:
+    *   Job title
+    *   Company Name
+    *   Department
+    *   Nature of work (full-time/part-time/internship)
+    *   Location of work (remote/specific)
+    *   Posting Date
+    *   Company Profile
+    *   Job Description
+    *   Job Requirements
+    *   Opportunity Description
+    *   Contact Information
+
+2.  Sample vacancy information:Telegram/Twitter Manager  
+    Company: UNIVERSA  
+    Department: Marketing & Communications  
+    Job Nature: Part-time  
+    Location: Remote  
+    Posting Date: June 29, 2024Company Description:  
+    TonResearch is an ambitious forum project that aims to establish a well-developed discussion space for the TON blockchain through the creation of forums.Job Description:
+
+*   Develop and implement social media strategies for Telegram and Twitter to grow our community
+*   Create and curate engaging content for our Telegram channels and Twitter accounts.
+*   Manage day-to-day communication with community members
+*   Organize and run community events, contests and promotions
+*   Monitor community sentiment and provide feedback to the development team
+*   Work with the marketing team to align social media efforts with the overall marketing strategy
+*   Track and report on key performance indicators for our social media presence.Position Requirements:
+*   Proven experience in community management
+*   Strong understanding of the Telegram and Twitter platforms and best practices.
+*   Excellent written and verbal communication skills in English, Russian preferred.
+*   Creative and able to produce engaging content
+*   Basic understanding of blockchain and AI technologies
+*   Ability to work independently and manage multiple projects simultaneously
+*   Experience using social media analytics toolsOpportunity Description:
+*   Participate in an exciting project that combines gaming, AI and blockchain.
+*   Work with a team of passionate innovators and creators.
+*   Opportunity to shape the community and growth strategy of a promising startup.
+*   Potential growth opportunities as we expand our portfolio of games and projects
+*   Offer a competitive compensation package commensurate with experienceContact Information:  
+    Please send your resume and a short cover letter explaining why you are interested in this opportunity to \[contact email\].Join us in our mission to revolutionize the intersection of gaming and AI. If you’re passionate about building vibrant online communities and driving growth through social media, we look forward to hearing from you. 3!
+
+3.  Adhere to community guidelines:
+
+*   All posts must adhere to the general guidelines of the TON Research community, which prohibit any form of discriminatory, harassing, or disrespectful behavior.
+
+4.  Code of Conduct for Job Seekers:
+
+*   Job seekers are expected to treat job posters with respect and to contact them only if they have a genuine interest in doing so.
+
+5.  Updating of job postings:
+
+*   Publishers should update the status of job postings in a timely manner, such as when they are full or closed. 6.
+
+6.  Prohibition of Spam and Duplicate Information:
+
+*   It is prohibited to post irrelevant or duplicate job information to keep the board clean and organized.
+
+We hope that you will actively participate by posting quality job openings and utilizing this platform to find your ideal job opportunity. We look forward to seeing more excellent opportunities and interaction of talents!
+
+Good luck.  
+TON Research Team
+
+* * *
+
+This rules posting covers the requirements for posting job openings, sample job postings, and rules for job seekers and recruiters to follow. Please feel free to let me know if any further adjustments or additions are needed!
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 39881
+
+[TON Research](/)
+
+# [💎 PixelSwap - The First Modular & Upgradeable DEX on TON](/t/pixelswap-the-first-modular-upgradeable-dex-on-ton/39881)
+
+[The Open League](/c/the-open-league/defi-battle/63)  [DeFi League](/c/the-open-league/defi-battle/63) 
+
+    
+
+[PixelSwap](https://tonresear.ch/u/PixelSwap)  November 20, 2024, 6:51am  1
+
+**Project’s Name**: PixelSwap  
+**Project’s Website**: [https://www.pixelswap.io/](https://www.pixelswap.io/)  
+**Project’s Twitter**: [https://x.com/PixelSwap\_io](https://PixelSwap_io)  
+**Project’s Telegram Channel/Group**:
+
+*   **Channel**: [Telegram: Contact @PixelSwap\_io](https://t.me/PixelSwap_io)
+*   **Group**: [Telegram: Contact @LayerPixel\_Hub](https://t.me/LayerPixel_Hub)
+*   **App**: [Telegram: Contact @layerpixel\_bot](https://t.me/layerpixel_bot)
+
+**DeFi Protocol Name**: PixelSwap  
+**DeFi Protocol Details**: PixelSwap is a distinguished modular DEX built on the TON blockchain. Audited by a leading global agency, PixelSwap prioritizes smart contract security as a cornerstone of the project, demonstrating this commitment through significant advancements in security infrastructure.
+
+PixelSwap’s innovative layered architecture supports a variety of algorithms, including weighted pools and LBP launches. Moreover, PixelSwap facilitates atomic transactions, enabling the execution of complex DeFi scenarios. We aspire to be one of the most secure projects in the DeFi space and to contribute to the overall security development of the TON ecosystem.
+
+**Total Value Locked (TVL)**: $33,134  
+**Integration Status with Defillama**: Done.  
+**DefiLlama Link**: [https://defillama.com/protocol/pixelswap-(pix)](https://defillama.com/protocol/pixelswap-\(pix\))
+
+![:ballot_box_with_check:](https://tonresear.ch/images/emoji/twitter/ballot_box_with_check.png?v=12 ":ballot_box_with_check:") Please fill out this form: [https://forms.gle/R7bEDJcAJZNgsjau7](https://forms.gle/R7bEDJcAJZNgsjau7)
+
+**Any other links or details that you want to share**:  
+LayerPixel: [Homepage](https://layerpixel.io/) | [Twitter](https://x.com/LayerPixel_io) | [Channel](https://t.me/LayerPixel_io) | [Community](https://t.me/LayerPixel_Hub) | [Medium](https://medium.com/@LayerPixel_io) | [Bot](https://t.me/layerpixel_bot) |
+
+PixelSwap: [Homepage](https://www.pixelswap.io/) | [Twitter](https://x.com/PixelSwap_io) | [Channel](https://t.me/PixelSwap_io) | [SWAP](https://www.pixelswap.io/swap) | [Pool](https://www.pixelswap.io/pool)
+
+PixelDAO: [Twitter](https://x.com/LayerPixel_DAO) | [Forum](https://dao.layerpixel.io/) | [Chat Group](https://t.me/layerpixel_dao)
+
+**Agreements & final remarks**
+
+*   By submitting this application, I undertake to fully abide by [The Open League Rules of Conduct](https://ton-org.notion.site/The-Open-League-Rules-of-Conduct-04f4a0fedf1a401687075f5efd83de68) . I understand that in case of the violation of those my team will be immediately excluded from the competition.
+*   By submitting the form I confirm that the data I provided is correct and I fully understand that in case of the contrary, my project will be permanently eliminated from The Open League
+
+ 
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) November 27, 2024, 5:39am  2
+
+Thank you for your submission! Your application is still under review. Please bear with us as we finalize the decision. If approved, your app will be added to the leaderboard and the airdrop page shortly after integration is complete. We appreciate your patience!
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 39887
+
+[TON Research](/)
+
+# [Coffin.Meme⚰️ - Killing Shitcoins one by one](/t/coffin-meme-killing-shitcoins-one-by-one/39887)
+
+[The Open League](/c/the-open-league/defi-battle/63)  [DeFi League](/c/the-open-league/defi-battle/63) 
+
+    
+
+[tonnel](https://tonresear.ch/u/tonnel)  November 20, 2024, 9:12am  1
+
+*   **Project Name**: Coffin.Meme
+*   **Link to product (Mini App / Web App) - please indicate which link should be added to the leaderboard**: [Telegram: Contact @MemeCoffin\_Bot](http://t.me/MemeCoffin_Bot/coffin)
+*   **Project Telegram Channel/Chat**: @Coffin\_en /@Cemetery\_en
+*   **User Traction Document**\*  
+    \- Total Value Locked (TVL): 55k$  
+    \- DefiLlama Integration Details (include link): [https://defillama.com/protocol/coffin.meme#information](https://defillama.com/protocol/coffin.meme#information)  
+    \- Additional Metrics (e.g., active users, transaction volume, etc): 379 short positions have been created so far.
+*   **Tracking Document (the most important document)**: You can use the EVAA TL-B to track our liquidity and volume and just use our Master contract instead of EVAA: EQBozwKVDya9IL3Kw4mR5AQph4yo15EuMdyX8nLljeaUxrpM
+*   **Applicant Information**\*
+    *   Your Name: Mr.Necroman(aka Mr.Freeman)
+    *   Your Telegram Handle: [@tonnel](/u/tonnel)
+*   **Other Links or Details**
+    *   Include any other relevant links or information about your project: our Manifesto📕 in [English](https://telegra.ph/CoffinMeme---Manifesto-09-09) or in [Russian](https://telegra.ph/CoffinMeme---Manifesto-09-10)
+*   **Rules of Conduct Acknowledgment**
+    *   By submitting this application, I agree to fully abide by [The Open League Rules of Conduct](https://www.notion.so/04f4a0fedf1a401687075f5efd83de68?pvs=21). I understand that any violation of these rules will result in immediate and indefinite exclusion from the competition.
+*   **Data Accuracy Confirmation**\*
+    *   By submitting this form, I confirm that all provided information is accurate. I understand that any false information will lead to my project’s permanent disqualification from The Open League.
+*   **Methodology Acknowledgment**
+    *   We confirm that we understand the exact methodology for tracking our protocol’s on-chain metrics (TVL/Volume) that is/will be available [on this GitHub page](https://github.com/ton-society/the-open-league/blob/main/seasons/S6_defi_scores.md#s6-defi-users-scores) by the time of adding the protocol to the leaderboard. We also state that we studied the General Rules of the competition [OLD: App & DeFi Leagues New Year Edition (S7): Rules for Teams](https://www.notion.so/OLD-App-DeFi-Leagues-New-Year-Edition-S7-Rules-for-Teams-1375274bd2cf8040b3b1c666dca57fee?pvs=21) and [Playbook for App League projects](https://www.notion.so/1375274bd2cf807ba442d1ba5ac2d7c9?pvs=21) and understand that the rank of my project in the leaderboard will depend on its contribution to the total TVL/Volume generated during the season.
+
+  3 Likes
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) November 27, 2024, 5:37am  2
+
+Congrats! You are now part of The Open League! We’re excited to have you on board. Stay tuned for more updates as the season kicks off!
+
+ 
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) December 4, 2024, 2:55am  3
+
+Hey team, congratulations on being approved for The Open League Season 7!
+
+We’re excited to invite you to join a dedicated chat for all participants. Please fill out this form: [https://forms.gle/WHzLpT9EcK79KPUB9](https://forms.gle/WHzLpT9EcK79KPUB9) , mentioning your project name and the Telegram handles of those who will be joining the chat (up to 2 people per team). Once submitted, join the chat via this link: [Telegram: Join Group Chat](https://t.me/+TbKriSZt35BiNmUy) .
+
+We’ll validate your handles and grant you access shortly. Looking forward to seeing you there!
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 39890
+
+[TON Research](/)
+
+# [Torch Finance - Stable Swap on TON](/t/torch-finance-stable-swap-on-ton/39890)
+
+[The Open League](/c/the-open-league/defi-battle/63)  [DeFi League](/c/the-open-league/defi-battle/63) 
+
+    
+
+[ipromise2324](https://tonresear.ch/u/ipromise2324)  November 20, 2024, 10:06am  1
+
+*   **Project Name:** Torch Finance
+*   **Product Web App:** [https://torch.finance/](https://torch.finance/)
+*   **Product Mini App:** [Telegram: Contact @torch\_finance\_bot](https://t.me/torch_finance_bot)
+*   **Project Twitter:** [x.com](https://x.com/TorchTon)
+*   **Project Telegram Channel/Chat:** [Telegram: Contact @oxcurdle](https://t.me/oxcurdle)
+*   **User Traction Document:**
+    *   TVL: $461,958
+    *   Integration Status with Defillama: Done
+    *   DefiLlama Link: [https://defillama.com/protocol/torch-stable-swap](https://defillama.com/protocol/torch-stable-swap)
+    *   Additional Metrics: 20323 MAU in our mini app
+*   **Tracking Document (the most important document):** [https://docs.google.com/document/d/1gC0hjnPnLlS6GqVQ1-QjmubhkV9Lo-Sl\_Vo7F4YKu-Q/edit?usp=sharing](https://docs.google.com/document/d/1gC0hjnPnLlS6GqVQ1-QjmubhkV9Lo-Sl_Vo7F4YKu-Q/edit?usp=sharing)
+*   **Description of The Open League New Year Airdrop Mention:** We will guide users to mint the DeFi Badge in our user onboarding app and place The Open League’s advertisement banners.
+*   **Plan to Provide Additional Rewards/Incentives for Users:** Our user onboarding app features a points system that rewards users based on difficulty levels, and we will offer special rewards to users participating in The Open League.
+*   **Applicant Information**
+    *   Your Name: 0xton
+    *   Your Telegram Handle: [Telegram: Contact @n0xton](https://t.me/n0xton)
+
+*   **Rules of Conduct Acknowledgment**
+    *   By submitting this application, I agree to fully abide by [The Open League Rules of Conduct](https://www.notion.so/04f4a0fedf1a401687075f5efd83de68?pvs=21). I understand that any violation of these rules will result in immediate and indefinite exclusion from the competition.
+*   **Data Accuracy Confirmation**
+    *   By submitting this form, I confirm that all provided information is accurate. I understand that any false information will lead to my project’s permanent disqualification from The Open League.
+*   **Methodology Acknowledgment**
+    *   We confirm that we understand the exact methodology for tracking our protocol’s on-chain metrics (TVL/Volume) that is/will be available [on this GitHub page](https://github.com/ton-society/the-open-league/blob/main/seasons/S6_defi_scores.md#s6-defi-users-scores) by the time of adding the protocol to the leaderboard. We also state that we studied the General Rules of the competition [OLD: App & DeFi Leagues New Year Edition (S7): Rules for Teams](https://www.notion.so/OLD-App-DeFi-Leagues-New-Year-Edition-S7-Rules-for-Teams-1375274bd2cf8040b3b1c666dca57fee?pvs=21) and [Playbook for App League projects](https://www.notion.so/1375274bd2cf807ba442d1ba5ac2d7c9?pvs=21) and understand that the rank of my project in the leaderboard will depend on its contribution to the total TVL/Volume generated during the season.
+
+  1 Like
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 39896
+
+[TON Research](/)
+
+# [Swap.coffee - Dex Aggregator](/t/swap-coffee-dex-aggregator/39896)
+
+[The Open League](/c/the-open-league/defi-battle/63)  [DeFi League](/c/the-open-league/defi-battle/63) 
+
+    
+
+[Lizard](https://tonresear.ch/u/Lizard)  November 20, 2024, 12:04pm  1
+
+*   **swap.coffee**
+    
+*   **Link to product (Mini App / Web App) - Web app:** [https://swap.coffee/](https://swap.coffee/) , Mini app: [Telegram: Contact @swapcoffee](https://t.me/swapcoffee)
+    
+*   **Project Twitter: [x.com](https://x.com/swap_coffee_ton)**
+    
+*   **Project Telegram Channel/Chat: [Telegram: Contact @swap\_coffee](https://t.me/swap_coffee)**
+    
+*   **User Traction Document: [Click](https://docs.google.com/document/d/1iyWmKYcV44relq31cHhUfOEAg2JkDUdz7Q8KbgmsQak)**
+    
+*   **Tracking Document (the most important document): [Click](https://docs.google.com/document/d/1U20X1a6ljkryS2S07iZ4OnioAB9cJZCzryesrA3MdC8/edit?tab=t.0)**
+    
+*   **Description of The Open League New Year Airdrop Mention**
+    
+    *   We plan to inform users through posts in our media. We may also add special banners and/or call-to-action button to our web application
+*   **Plan to Provide Additional Rewards/Incentives for Users**
+    
+    *   We already have good rewards for all our users - [swap.coffee](https://swap.coffee/cashback)
+*   **Applicant Information**
+    
+    *   Your Name: Aleksey
+    *   Your Telegram Handle: [Telegram: Contact @lizard\_tail](https://t.me/lizard_tail)
+*   **Other Links or Details**
+    
+    *   Include any other relevant links or information about your project.
+*   **Rules of Conduct Acknowledgment**
+    
+    *   By submitting this application, I agree to fully abide by [The Open League Rules of Conduct](https://www.notion.so/04f4a0fedf1a401687075f5efd83de68?pvs=21). I understand that any violation of these rules will result in immediate and indefinite exclusion from the competition.
+*   **Data Accuracy Confirmation**
+    
+    *   By submitting this form, I confirm that all provided information is accurate. I understand that any false information will lead to my project’s permanent disqualification from The Open League.
+*   **Methodology Acknowledgment**
+    
+    *   We confirm that we understand the exact methodology for tracking our protocol’s on-chain metrics (TVL/Volume) that is/will be available [on this GitHub page](https://github.com/ton-society/the-open-league/blob/main/seasons/S6_defi_scores.md#s6-defi-users-scores) by the time of adding the protocol to the leaderboard. We also state that we studied the General Rules of the competition [OLD: App & DeFi Leagues New Year Edition (S7): Rules for Teams](https://www.notion.so/OLD-App-DeFi-Leagues-New-Year-Edition-S7-Rules-for-Teams-1375274bd2cf8040b3b1c666dca57fee?pvs=21) and [Playbook for App League projects](https://www.notion.so/1375274bd2cf807ba442d1ba5ac2d7c9?pvs=21) and understand that the rank of my project in the leaderboard will depend on its contribution to the total TVL/Volume generated during the season.
+
+  2 Likes
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) November 27, 2024, 5:35am  2
+
+Congrats! You are now part of The Open League! We’re excited to have you on board. Stay tuned for more updates as the season kicks off!
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 39897
+
+[TON Research](/)
+
+# [Swap.coffee - Staking Protocol](/t/swap-coffee-staking-protocol/39897)
+
+[The Open League](/c/the-open-league/defi-battle/63)  [DeFi League](/c/the-open-league/defi-battle/63) 
+
+    
+
+[Lizard](https://tonresear.ch/u/Lizard)  November 20, 2024, 12:10pm  1
+
+*   **swap.coffee**
+*   **Link to product (Mini App / Web App) - Web app:** [https://swap.coffee/](https://swap.coffee/) , Mini app: [Telegram: Contact @swapcoffee](https://t.me/swapcoffee)
+*   **Project Twitter: [x.com](https://x.com/swap_coffee_ton)**
+*   **Project Telegram Channel/Chat: [Telegram: Contact @swap\_coffee](https://t.me/swap_coffee)**
+*   **User Traction Document: [Click](https://docs.google.com/document/d/1iyWmKYcV44relq31cHhUfOEAg2JkDUdz7Q8KbgmsQak)**
+*   **Tracking Document (the most important document): [Click](https://docs.google.com/document/d/1U20X1a6ljkryS2S07iZ4OnioAB9cJZCzryesrA3MdC8/edit?tab=t.0)**
+*   **Description of The Open League New Year Airdrop Mention**
+    *   We plan to inform users through posts in our media. We may also add special banners and/or call-to-action button to our web application
+*   **Plan to Provide Additional Rewards/Incentives for Users**
+    *   We already have good rewards for all our users - [swap.coffee](https://swap.coffee/cashback)
+*   **Applicant Information**
+    *   Your Name: Aleksey
+    *   Your Telegram Handle: [Telegram: Contact @lizard\_tail](https://t.me/lizard_tail)
+*   **Other Links or Details**
+    *   Include any other relevant links or information about your project.
+*   **Rules of Conduct Acknowledgment**
+    *   By submitting this application, I agree to fully abide by [The Open League Rules of Conduct](https://www.notion.so/04f4a0fedf1a401687075f5efd83de68?pvs=21). I understand that any violation of these rules will result in immediate and indefinite exclusion from the competition.
+*   **Data Accuracy Confirmation**
+    *   By submitting this form, I confirm that all provided information is accurate. I understand that any false information will lead to my project’s permanent disqualification from The Open League.
+*   **Methodology Acknowledgment**
+    *   We confirm that we understand the exact methodology for tracking our protocol’s on-chain metrics (TVL/Volume) that is/will be available [on this GitHub page](https://github.com/ton-society/the-open-league/blob/main/seasons/S6_defi_scores.md#s6-defi-users-scores) by the time of adding the protocol to the leaderboard. We also state that we studied the General Rules of the competition [OLD: App & DeFi Leagues New Year Edition (S7): Rules for Teams](https://www.notion.so/OLD-App-DeFi-Leagues-New-Year-Edition-S7-Rules-for-Teams-1375274bd2cf8040b3b1c666dca57fee?pvs=21) and [Playbook for App League projects](https://www.notion.so/1375274bd2cf807ba442d1ba5ac2d7c9?pvs=21) and understand that the rank of my project in the leaderboard will depend on its contribution to the total TVL/Volume generated during the season.
+
+  2 Likes
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) November 27, 2024, 5:35am  2
+
+Congrats! You are now part of The Open League! We’re excited to have you on board. Stay tuned for more updates as the season kicks off!
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 399
+
+[TON Research](/)
+
+# [Evolution of TON Blockchain: Exploring Technical Advancements in Global Versions](/t/evolution-of-ton-blockchain-exploring-technical-advancements-in-global-versions/399)
+
+[TON Blockchain](/c/ton-blockchain/17) 
+
+    
+
+[Zoro](https://tonresear.ch/u/Zoro)  February 19, 2024, 5:56pm  1
+
+The Open Network (TON) Blockchain has undergone significant technical advancements with the introduction of various global versions. These versions, specified in `ConfigParam 8`, bring a plethora of new features, TVM instructions, and enhancements to the blockchain’s functionality.
+
+## [](#overview-of-global-versions-1)Overview of Global Versions
+
+Global version is a critical parameter in TON Blockchain that dictates the activation of specific features. The table below summarizes the key features enabled in different global versions:
+
+Global Version
+
+Key Features
+
+Version 4
+
+New TVM instructions, Division enhancements, Extended c7 tuple, Action and Storage phase modifications
+
+Version 5
+
+Increased gas limits for special contracts, Changes in library loading, Adjustments in gas calculation
+
+Version 6
+
+Further extension of c7 tuple, New TVM instructions for fee calculation and cell operations, Optimization in gas usage
+
+## [](#detailed-analysis-of-each-version-2)Detailed Analysis of Each Version
+
+### [](#version-4-3)Version 4
+
+Version 4 introduced a range of new TVM instructions, including `PREVMCBLOCKS`, `PREVKEYBLOCK`, `GLOBALID`, `HASHEXT(A)(R)`, `ECRECOVER`, `SENDMSG`, `RUNVM`, `RUNVMX`, `GASCONSUMED`, and various `RIST255_...` and `BLS_...` instructions. The division instruction was enhanced to allow adding a number to the intermediate value before division. Stack operations saw improvements with unlimited arguments for certain operations and increased gas consumption for large arguments. The c7 tuple was extended to include additional elements such as the smart contract’s code, the incoming message’s value, fees collected in the storage phase, and information about previous blocks. Changes were also made to the action and storage phases, including requirements for failed “send message” actions and adjustments in unpaid storage fee handling.
+
+### [](#version-5-4)Version 5
+
+Version 5 focused on optimizing gas limits and library loading. Gas limits for transactions on special contracts were significantly increased, allowing for higher gas consumption without affecting block limits. Changes were made to the handling of library cells, including the prohibition of “nested libraries” and modifications to the `XLOAD` instruction. These changes aimed to improve the efficiency and reliability of library usage in smart contracts.
+
+### [](#version-6-5)Version 6
+
+The most recent update, Version 6, continued to expand the c7 tuple, now including config parameters as cell slices and the current debt for storage fees. New TVM instructions were introduced for more precise fee calculations, such as `GETGASFEE`, `GETSTORAGEFEE`, `GETFORWARDFEE`, and `GETORIGINALFWDFEE`. Additionally, cell operations were enhanced to support Merkle proofs with non-zero level cells, including instructions like `CLEVEL`, `CLEVELMASK`, `CHASHI`, `CDEPTHI`, `CHASHIX`, and `CDEPTHIX`. These improvements aimed to optimize gas usage and provide more flexibility in smart contract development.
+
+## [](#conclusion-6)Conclusion
+
+The evolution of global versions in TON Blockchain demonstrates a continuous effort to enhance the platform’s capabilities, efficiency, and security. Each version brings new features and optimizations that cater to the growing demands of blockchain technology and its applications. As TON Blockchain progresses, it is expected that future versions will continue to introduce innovative changes, further solidifying its position as a leading blockchain platform.
+
+* * *
+
+For more detailed information about TON Blockchain and its technical specifications, you can visit the [official TON documentation](https://ton.org/docs/).
+
+[github.com](https://github.com/ton-blockchain/ton/blob/master/doc/GlobalVersions.md)
+
+#### [ton-blockchain/ton/blob/master/doc/GlobalVersions.md](https://github.com/ton-blockchain/ton/blob/master/doc/GlobalVersions.md)
+
+```
+# Global versions
+Global version is a parameter specified in `ConfigParam 8` ([block.tlb](https://github.com/ton-blockchain/ton/blob/master/crypto/block/block.tlb#L595)).
+Various features are enabled depending on the global version.
+
+## Version 4
+
+### New TVM instructions
+* `PREVMCBLOCKS`, `PREVKEYBLOCK`
+* `GLOBALID`
+* `HASHEXT(A)(R)`
+* `ECRECOVER`
+* `SENDMSG`
+* `RUNVM`, `RUNVMX`
+* `GASCONSUMED`
+* `RIST255_...` instructions
+* `BLS_...` instructions
+* `P256_CHKSIGNS`, `P256_CHKSIGNU`
+
+### Division
+[Division instruction](https://ton.org/docs/learn/tvm-instructions/instructions#52-division) can add a number to the
+```
+
+This file has been truncated. [show original](https://github.com/ton-blockchain/ton/blob/master/doc/GlobalVersions.md)
+
+  1 Like
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 39915
+
+[TON Research](/)
+
+# [UTONIC - 1st Restaking protocol on TON](/t/utonic-1st-restaking-protocol-on-ton/39915)
+
+[The Open League](/c/the-open-league/defi-battle/63)  [DeFi League](/c/the-open-league/defi-battle/63) 
+
+    
+
+[UTONIC](https://tonresear.ch/u/UTONIC)  November 20, 2024, 2:51pm  1
+
+*   **Project Name**: **UTONIC**
+    
+*   **Link to product (Mini App / Web App) - please indicate which link should be added to the leaderboard**\*[Utonic](https://utonic.org/stake)
+    
+*   **Project Twitter**\* **[x.com](https://x.com/UTONIC_uTON)**
+    
+*   **Project Telegram Channel/Chat**\* **[Telegram Web](https://web.telegram.org/k/#@UTONIC_uTON)**
+    
+*   **User Traction Document**\*
+    
+    *   Please attach a link to a Google Doc that includes:
+        *   Total Value Locked (TVL) and/or Monthly Volume Metrics: $693,152 (Only retail users counted)
+        *   DefiLlama Integration Details (include link). If it is still work in progress, please mention the status. : [https://defillama.com/protocol/utonic](https://defillama.com/protocol/utonic)
+        *   Additional Metrics (e.g., active users, transaction volume, etc)
+*   **Tracking Document (the most important document)**\*  
+    [https://docs.google.com/document/d/1OKWAAAdfIfI50eveS8kvQJYmuEItm\_11i11yZMYQjG8/edit?tab=t.0](https://docs.google.com/document/d/1OKWAAAdfIfI50eveS8kvQJYmuEItm_11i11yZMYQjG8/edit?tab=t.0)
+    
+*   **Description of The Open League New Year Airdrop Mention**\*
+    
+    *   We will post the news from own channels like x(twitter), telegram and so on. Also, we will place The Open League’s advertisement banners
+*   **Plan to Provide Additional Rewards/Incentives for Users**\*
+    
+    *   We will provide UP points from UTONIC to the holders of uTON.
+*   **Applicant Information**\*
+    
+    *   Your Name: Fuji
+    *   Your Telegram Handle: @yamazaki\_fuji
+*   **Other Links or Details**
+    
+    *   UTONIC is the first TON restaking platform and revenue-sharing layer designed for mass adoption, offering triple yield (staking, restaking, and farming) for TON holders. With risk-free custody through non-custodial design and institutional-grade MPC, UTONIC ensures security and decentralization. It supports scenario-based AVS solutions for gaming, social, payments, and AI in collaboration with Web2 and Web3 partners, while offering principal-protected fund management and flexible asset acceptance (TON, tsTON, stTON) to maximize user earnings and deliver additional benefits like airdrops and loss insurance. Additionally, we have also collaborated with Binance wallet to do campaign and also win the 2nd place at TON Hacker House Bangkok
+*   **Rules of Conduct Acknowledgment**\*
+    
+    *   By submitting this application, I agree to fully abide by [The Open League Rules of Conduct](https://www.notion.so/04f4a0fedf1a401687075f5efd83de68?pvs=21). I understand that any violation of these rules will result in immediate and indefinite exclusion from the competition.
+*   **Data Accuracy Confirmation**\*
+    
+    *   By submitting this form, I confirm that all provided information is accurate. I understand that any false information will lead to my project’s permanent disqualification from The Open League.
+*   **Methodology Acknowledgment**\*
+    
+    *   We confirm that we understand the exact methodology for tracking our protocol’s on-chain metrics (TVL/Volume) that is/will be available [on this GitHub page](https://github.com/ton-society/the-open-league/blob/main/seasons/S6_defi_scores.md#s6-defi-users-scores) by the time of adding the protocol to the leaderboard. We also state that we studied the General Rules of the competition [OLD: App & DeFi Leagues New Year Edition (S7): Rules for Teams](https://www.notion.so/OLD-App-DeFi-Leagues-New-Year-Edition-S7-Rules-for-Teams-1375274bd2cf8040b3b1c666dca57fee?pvs=21) and [Playbook for App League projects](https://www.notion.so/1375274bd2cf807ba442d1ba5ac2d7c9?pvs=21) and understand that the rank of my project in the leaderboard will depend on its contribution to the total TVL/Volume generated during the season.
+
+  1 Like
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 39922
+
+[TON Research](/)
+
+# [Moon moontokenmining](/t/moon-moontokenmining/39922)
+
+[The Open League](/c/the-open-league/56) 
+
+    
+
+[Moontokenminingbot](https://tonresear.ch/u/Moontokenminingbot)  November 20, 2024, 3:38pm  1
+
+##Project Name  
+MOONTOKENMINING
+
+##Mini app
+
+![](https://telegram.org/img/website_icon.svg?4) [Telegram](https://t.me/MOON_TOKENMINING_bot/MOONTOKENMINING)
+
+![](https://cdn5.cdn-telegram.org/file/Z0f5vNjw7nxyw8cIV8WwWYDJYFEytq9-Qzob8eHDxOp8EqrzCDV48HDTKcTvdPiz9hCIrzNSIzxeOW52Td_OgYMxX7aUYbo0AsdfBOYPbOabwKfkMbv-oxKKZuyymMpnBIVu2u6SkOLENSrxyamSunDcQxQDBrstlbPyOUULYerDC4vUJea6QvaOwwGE0vNoysGmSIVq4oWNV7ynnjxOtdOb7gsKAahNS8OwSXzqJ7aNkNRY50MZbK186NT6syIeU7DQ1P43c22l4cezjafjzZaDGBeamjc2cL69x0Q9QUHtYTGHnRof6rjyx9ElrrLnqKabVtWt_eCCzqkbHOmFkQ.jpg)
+
+### [MOONTOKENMINING](https://t.me/MOON_TOKENMINING_bot/MOONTOKENMINING)
+
+MoonToken: - Revolutionizing crypto mining with accessible, efficient, and sustainable technology for all users.
+
+##Project Twitter  
+[https://x.com/MOONTOKENMINING](https://x.com/MOONTOKENMINING)
+
+##Project Telegram Channel/Chat
+
+![](https://telegram.org/img/website_icon.svg?4) [Telegram](https://t.me/moontoken11)
+
+![](https://cdn5.cdn-telegram.org/file/O6_Urs4EOARpdCuoNvVi_0KBVNdne6PjxeCchPR-hCMeV0h_THA90frW-kYQrCjNsbT7TbLVKPpuPocW-Tc1tbq_kBDhES5N0rq_JSyJM8P-cH0hn-5_Lwp5zw9eKVB3mIuvzekfkxNGE_5wTZ-8waoOmwznyyfPsW5UWiSK0DOMijSHAntH_cM76NOX7cN-BRE4PXBKqxXUhDdTMTw0ChJkWfmlxygLZ7g5OnxxmfKwAmWI7jhw5MMEVdoECwgj7uUPceP3mQTktvUbiEcSAV5jKebW79ywglwJXsBXuKWtlkc4DKuG8pQvofyl-dGb0mUc2_9xzCPxJkkkcwPXnQ.jpg)
+
+### [🌕 MOON COMMUNITY 🌕](https://t.me/moontoken11)
+
+MoonToken: - Revolutionizing crypto mining with accessible, efficient, and sustainable technology for all users. Dm for partnership and adv @Rocky8418 @sarim\_mirza\_18
+
+![](https://telegram.org/img/website_icon.svg?4) [Telegram](https://t.me/MOONTOKENMINING)
+
+![](https://cdn5.cdn-telegram.org/file/bGdlmuqR6ppQX7yvIKs-ivxVbUqF9AMHri5kHHmYt1tRd8Szs4mvSOcEmsFZf-o2LlH781COsZORZBpbTSryFkUYisZh78fD6kzq8o0bl7vhZ2hbigrr3CqNWzrBjExLi4YcesUD_g8MLa0ctqgk7lMSpvm1kvBDGgsVx9Pc5jaDFE8VrbfxB8ObeD8_W-6p9JAgFOBqDayeHb8XD1R917wIlbhZo7Gi1a4dGFEWvhiDov1-COMQXR83u8NeaCFUGPX6w8c6Ia5pqfQNomcLqqUASmyzsMtve5Y1RYzNbdNq-HmUWTVsEQISV26Y4a49-oLigAWytb16UAqerTjTxw.jpg)
+
+### [MOON TOKEN CHANNEL](https://t.me/MOONTOKENMINING)
+
+DM for adv and investment @Rocky8418 @Chiefhoppersol
+
+##Project roadmap
+
+![](https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=48,h=48,fit=crop,f=png/YBg49qGM1xI5EpwZ/photo_2024-06-30_23-07-16-fotor-20240819151326-1-mePnq4Qwg9Tk9qk8.png) [Moon Token](https://moontokenmining.com/roadmap)
+
+### [MOONTOKEN ROADMAP | Moon Token](https://moontokenmining.com/roadmap)
+
+MOONTOKEN ROADMAP
+
+##Project utility  
+Free airdrop  
+Moonswap on ton chain very soon  
+MoonAI very soon
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 39947
+
+[TON Research](/)
+
+# [HURA: Revolutionizing Mental Wellness with AI and Blockchain](/t/hura-revolutionizing-mental-wellness-with-ai-and-blockchain/39947)
+
+[Application](/c/application/20) 
+
+    
+
+[RZMorty](https://tonresear.ch/u/RZMorty)  November 21, 2024, 6:50am  1
+
+What is HURA?  
+HURA is an AI-driven mental wellness app designed to empower users by helping them understand and improve their emotional health. Launched as a mini-app on Telegram, HURA offers a simple, accessible way to log daily moods and create a personalized emotional timeline. With over 230,000 active users within its first month, HURA is already building a thriving community and redefining how we approach mental health in the digital age.
+
+How Does HURA Work?  
+HURA combines intuitive user interaction with cutting-edge AI to provide valuable insights into emotional patterns and trends. Users log their moods through a streamlined interface, and the app generates an emotional timeline unique to each individual. These insights help users identify triggers, understand patterns, and work toward emotional resilience.
+
+What Sets HURA Apart?
+
+*   Accessibility: As a Telegram mini-app, HURA is available to anyone with a Telegram account, eliminating barriers to entry.
+*   AI-Powered Insights: HURA’s AI offers tailored guidance to support emotional well-being, and we’re continuously improving its capabilities for even deeper analysis.
+*   Gamified Engagement: HURA transforms emotional health tracking into an interactive, rewarding experience, making self-care engaging and impactful.
+*   Future-Proofed with Blockchain: HURA integrates seamlessly with the broader Huralya ecosystem, including games and blockchain-driven tools, offering users additional opportunities to grow and thrive.
+
+Upcoming Features  
+We are actively developing new features to make HURA even more impactful. These include advanced AI-powered tools for deeper emotional analysis, social connection features like trusted circles for sharing progress, and gamified elements to motivate long-term engagement. HURA AI is set to launch in Q1 2025, taking the app to the next level with powerful, personalized mental wellness tools.
+
+Why HURA Matters  
+Mental health has become a pressing issue globally, yet accessible, personalized tools remain limited. HURA bridges this gap by offering a practical, tech-driven solution that prioritizes emotional well-being. Whether you’re seeking clarity in chaotic times, building emotional awareness, or simply curious about understanding yourself better, HURA is here to guide you.
+
+Join us as we reshape the mental health landscape and take wellness into the future with AI and blockchain. Start your journey with HURA today on Telegram and become part of a community dedicated to growth and well-being.
+
+Visit HURA on Telegram: [Telegram: Contact @huralyabot](https://t.me/huralyabot)
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 39955
+
+[TON Research](/)
+
+# [Moki - Swap Aggregator on TON](/t/moki-swap-aggregator-on-ton/39955)
+
+[The Open League](/c/the-open-league/defi-battle/63)  [DeFi League](/c/the-open-league/defi-battle/63) 
+
+    
+
+[Swapnil\_Agarwal](https://tonresear.ch/u/Swapnil_Agarwal)  November 21, 2024, 9:41am  1
+
+*   Project Name - Moki
+    
+*   Mini-app - [Telegram: Contact @MokiSwapBot](https://t.me/MokiSwapBot) (please use this for leaderboard)
+    
+*   Web-app - [https://moki.ag/](https://moki.ag/)
+    
+*   Twitter - [x.com](https://x.com/moki_ag)
+    
+*   Telegram Channel - [Telegram: Contact @moki\_ag](http://t.me/moki_ag)
+    
+*   User Traction
+    
+    *   Monthly Volume Metrics
+    *   Nov - 39.09K USD
+        *   DefiLlama Link - [https://defillama.com/protocol/moki](https://defillama.com/protocol/moki)
+        *   Additional Metrics: MAU on miniapp - 58996
+*   Tracking Document - [https://docs.google.com/document/d/1IRY44VQkhqFlDBNDDsZeWKe8FersU\_7sm9DgUXyZT2Y/edit?tab=t.0](https://docs.google.com/document/d/1IRY44VQkhqFlDBNDDsZeWKe8FersU_7sm9DgUXyZT2Y/edit?tab=t.0)
+    
+*   **Description of The Open League New Year Airdrop Mention**\*
+    
+    1.  We’ll add a banner in our mini-app which will mention about the TOL New year badge
+    2.  We’ll add a task to mint the badge.
+*   **Plan to Provide Additional Rewards/Incentives for Users**\*
+    
+    *   Our mini-app has a tasks section - users get Moki points as they perform tasks. We’ll double the number of points during TOL season 7 period.
+*   **Applicant Information**\*
+    
+    *   Swapnil
+    *   [Telegram: Contact @swapnil\_140](https://t.me/swapnil_140)
+*   **Other Links or Details**
+    
+    *   Include any other relevant links or information about your project.
+*   **Rules of Conduct Acknowledgment**\*
+    
+    *   By submitting this application, I agree to fully abide by [The Open League Rules of Conduct](https://www.notion.so/04f4a0fedf1a401687075f5efd83de68?pvs=21). I understand that any violation of these rules will result in immediate and indefinite exclusion from the competition.
+*   **Data Accuracy Confirmation**\*
+    
+    *   By submitting this form, I confirm that all provided information is accurate. I understand that any false information will lead to my project’s permanent disqualification from The Open League.
+*   **Methodology Acknowledgment**\*
+    
+    *   We confirm that we understand the exact methodology for tracking our protocol’s on-chain metrics (TVL/Volume) that is/will be available [on this GitHub page](https://github.com/ton-society/the-open-league/blob/main/seasons/S6_defi_scores.md#s6-defi-users-scores) by the time of adding the protocol to the leaderboard. We also state that we studied the General Rules of the competition [OLD: App & DeFi Leagues New Year Edition (S7): Rules for Teams](https://www.notion.so/OLD-App-DeFi-Leagues-New-Year-Edition-S7-Rules-for-Teams-1375274bd2cf8040b3b1c666dca57fee?pvs=21) and [Playbook for App League projects](https://www.notion.so/1375274bd2cf807ba442d1ba5ac2d7c9?pvs=21) and understand that the rank of my project in the leaderboard will depend on its contribution to the total TVL/Volume generated during the season.
+
+ 
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) November 27, 2024, 5:40am  2
+
+Thank you for your submission! Your application is still under review. Please bear with us as we finalize the decision. If approved, your app will be added to the leaderboard and the airdrop page shortly after integration is complete. We appreciate your patience!
+
+ 
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) December 4, 2024, 2:56am  3
+
+Hey team, congratulations on being approved for The Open League Season 7!
+
+We’re excited to invite you to join a dedicated chat for all participants. Please fill out this form: [https://forms.gle/WHzLpT9EcK79KPUB9](https://forms.gle/WHzLpT9EcK79KPUB9) , mentioning your project name and the Telegram handles of those who will be joining the chat (up to 2 people per team). Once submitted, join the chat via this link: [Telegram: Join Group Chat](https://t.me/+TbKriSZt35BiNmUy) .
+
+We’ll validate your handles and grant you access shortly. Looking forward to seeing you there!
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 39966
+
+[TON Research](/)
+
+# [Mr. MeMe ($MMM) | Memecoin Mountain](/t/mr-meme-mmm-memecoin-mountain/39966)
+
+[TON Memelandia](/c/ton-memelandia/memecoin-mountain/86)  [Memecoin Mountain](/c/ton-memelandia/memecoin-mountain/86) 
+
+    
+
+[LikeTheGamer](https://tonresear.ch/u/LikeTheGamer)  November 21, 2024, 11:59am  1
+
+3.  **Submission Form for Memecoin Mountain**
+    
+4.  **Your Role in the Competition:**
+    
+    1.  Memecoin Project
+5.  **Memecoin Name: Mr. MeMe ($MMM)**
+    
+6.  **Token Contract Address: EQDvLTIrlvsJzVERMDfx-64K\_iht8dejr\_OFY7Ea-Z5mGqrF**
+    
+7.  **Market Cap (at the time of application): $300k**
+    
+8.  **Daily Trading Volume (for the last 7 days): $10k-$100k**
+    
+9.  **Number of Unique Token Holders: 573**
+    
+10.  **Has your token been fairly launched?**
+    
+    1.  Yes through GasPump.tg
+11.  **Please provide a link to your CoinGecko listing: [https://www.coingecko.com/en/coins/mr-meme](https://www.coingecko.com/en/coins/mr-meme)**
+    
+12.  **Are you applying for the Major League or Minor League? - **Minor League****
+    
+13.  \*\*Briefly describe your memecoin’s strategy for growth and community engagement:  
+    The Mr. MeMe game is a competitive crypto project using the first multi-chain community token MMM that plans to become the largest meme in history.
+    
+
+Players participate in cyclical seasons where they farm points and compete for a share of the overall reward pool. To participate in farming, a player needs to log in via Telegram bot or website and activate the point farming process.
+
+The main feature of the Mr. MeMe game is tying the gameplay to the MMM meme token. Players can increase their chances of winning by leveling up their account through the purchase of MMM tokens, which increases the farming power and unlocks additional benefits such as autofarming. Interaction with other players also plays an important role: invited friends increase the power of farming, which encourages social interaction and community growth. The MMM token across all networks is launched through memcoin launch sites.\*\*  
+12\. **Do you have any partnerships with Key Opinion Leaders (KOLs) or influencers?**  
+1\. Yes, with [Scroo-G.com](http://Scroo-G.com) and working with KOLs now
+
+(General)
+
+1.  **Would you like to receive updates and announcements during the competition?**
+    1.  Yes
+2.  **Provide your Telegram username for communication and coordination:  
+    [@likethegamer](/u/likethegamer)**
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 39968
+
+[TON Research](/)
+
+# [Torch Finance - Leverage Yield Farming](/t/torch-finance-leverage-yield-farming/39968)
+
+[The Open League](/c/the-open-league/defi-battle/63)  [DeFi League](/c/the-open-league/defi-battle/63) 
+
+    
+
+[ipromise2324](https://tonresear.ch/u/ipromise2324)  November 21, 2024, 1:24pm  1
+
+*   **Project Name:** Torch Finance - Leverage Yield Farming
+*   **Link to product (Mini App / Web App):**
+    *   Web App: [Torch - Stable Swap on The Open Network](https://torch.finance/app/earn)
+    *   Mini App: [Telegram: Contact @torch\_finance\_bot](https://t.me/torch_finance_bot/app)
+*   **Project Twitter:** [x.com](https://x.com/TorchTon)
+*   **Project Telegram Channel/Chat:** [Telegram: Contact @oxcurdle](https://t.me/oxcurdle)
+
+*   **User Traction Document:**
+    *   TVL: $461,958
+    *   Integration Status with Defillama: Done
+    *   DefiLlama Link: [https://defillama.com/protocol/torch-stable-swap](https://defillama.com/protocol/torch-stable-swap)
+    *   Additional Metrics: 20323 MAU in our mini app
+*   **Tracking Document (the most important document):** [https://docs.google.com/document/d/1gC0hjnPnLlS6GqVQ1-QjmubhkV9Lo-Sl\_Vo7F4YKu-Q/edit?usp=sharing](https://docs.google.com/document/d/1gC0hjnPnLlS6GqVQ1-QjmubhkV9Lo-Sl_Vo7F4YKu-Q/edit?usp=sharing)
+*   **Description of The Open League New Year Airdrop Mention:** We will guide users to mint the DeFi Badge in our user onboarding app and place The Open League’s advertisement banners.
+*   **Plan to Provide Additional Rewards/Incentives for Users:** Our user onboarding app features a points system that rewards users based on difficulty levels, and we will offer special rewards to users participating in The Open League.
+
+*   **Applicant Information**
+    *   Your Name: 0xton
+    *   Your Telegram Handle: [Telegram: Contact @n0xton](https://t.me/n0xton)
+*   **Rules of Conduct Acknowledgment**\*
+    *   By submitting this application, I agree to fully abide by [The Open League Rules of Conduct](https://www.notion.so/04f4a0fedf1a401687075f5efd83de68?pvs=21). I understand that any violation of these rules will result in immediate and indefinite exclusion from the competition.
+*   **Data Accuracy Confirmation**
+    *   By submitting this form, I confirm that all provided information is accurate. I understand that any false information will lead to my project’s permanent disqualification from The Open League.
+*   **Methodology Acknowledgment**
+    *   We confirm that we understand the exact methodology for tracking our protocol’s on-chain metrics (TVL/Volume) that is/will be available [on this GitHub page](https://github.com/ton-society/the-open-league/blob/main/seasons/S6_defi_scores.md#s6-defi-users-scores) by the time of adding the protocol to the leaderboard. We also state that we studied the General Rules of the competition [OLD: App & DeFi Leagues New Year Edition (S7): Rules for Teams](https://www.notion.so/OLD-App-DeFi-Leagues-New-Year-Edition-S7-Rules-for-Teams-1375274bd2cf8040b3b1c666dca57fee?pvs=21) and [Playbook for App League projects](https://www.notion.so/1375274bd2cf807ba442d1ba5ac2d7c9?pvs=21) and understand that the rank of my project in the leaderboard will depend on its contribution to the total TVL/Volume generated during the season.
+
+ 
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) November 27, 2024, 5:39am  2
+
+Thank you for your submission! Your application is still under review. Please bear with us as we finalize the decision. If approved, your app will be added to the leaderboard and the airdrop page shortly after integration is complete. We appreciate your patience!
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 39975
+
+[TON Research](/)
+
+# [Farmix - leveraged yield farming](/t/farmix-leveraged-yield-farming/39975)
+
+[The Open League](/c/the-open-league/defi-battle/63)  [DeFi League](/c/the-open-league/defi-battle/63) 
+
+    
+
+[Farmix](https://tonresear.ch/u/Farmix)  November 21, 2024, 3:24pm  1
+
+*   **Project Name:** Farmix
+    
+*   **Product Web App:** [Telegram: Contact @FarmixTonbot](https://t.me/FarmixTonbot)
+    
+*   **Project Twitter:** [x.com](https://x.com/tonfarmix)
+    
+*   **Project Telegram Channel/Chat:** [Telegram: Contact @farmixton](https://t.me/farmixton)
+    
+*   **User Traction Document:**
+    
+    *   TVL: 7,383 TON
+    *   30 days volume: 3500 TON
+    *   Borrowed: 1230 TON
+    *   Integration Status with Defillama: Done
+    *   DefiLlama Link: [https://defillama.com/protocol/farmix?denomination=TON](https://defillama.com/protocol/farmix?denomination=TON)
+*   **Tracking Document (the most important document):** [Farmix Tracking doc](https://docs.google.com/document/d/1mp5r8zVeA0cA8X0L3vF32Cgf_OqZr2KYujKY31kx0CI/edit?usp=sharing)
+    
+*   **Description of The Open League New Year Airdrop Mention:** We will guide users to mint the DeFi Badge in our TG channel
+    
+*   **Plan to Provide Additional Rewards/Incentives for Users:** We plan to distribute RP points between participants in season 7
+    
+*   **Applicant Information**
+    
+    *   Your Name: @donlusofon
+    *   Your Telegram Handle: [Telegram: Contact @donlusofon](https://t.me/donlusofon)
+*   **Rules of Conduct Acknowledgment**
+    
+    *   By submitting this application, I agree to fully abide by [The Open League Rules of Conduct](https://www.notion.so/04f4a0fedf1a401687075f5efd83de68?pvs=21). I understand that any violation of these rules will result in immediate and indefinite exclusion from the competition.
+*   **Data Accuracy Confirmation**
+    
+    *   By submitting this form, I confirm that all provided information is accurate. I understand that any false information will lead to my project’s permanent disqualification from The Open League.
+*   **Methodology Acknowledgment**
+    
+    *   We confirm that we understand the exact methodology for tracking our protocol’s on-chain metrics (TVL/Volume) that is/will be available [on this GitHub page](https://github.com/ton-society/the-open-league/blob/main/seasons/S6_defi_scores.md#s6-defi-users-scores) by the time of adding the protocol to the leaderboard. We also state that we studied the General Rules of the competition [OLD: App & DeFi Leagues New Year Edition (S7): Rules for Teams](https://www.notion.so/OLD-App-DeFi-Leagues-New-Year-Edition-S7-Rules-for-Teams-1375274bd2cf8040b3b1c666dca57fee?pvs=21)and [Playbook for App League projects](https://www.notion.so/1375274bd2cf807ba442d1ba5ac2d7c9?pvs=21) and understand that the rank of my project in the leaderboard will depend on its contribution to the total TVL/Volume generated during
+
+ 
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) November 27, 2024, 5:39am  2
+
+Thank you for your submission! Your application is still under review. Please bear with us as we finalize the decision. If approved, your app will be added to the leaderboard and the airdrop page shortly after integration is complete. We appreciate your patience!
+
+ 
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) December 4, 2024, 2:55am  3
+
+Hey team, congratulations on being approved for The Open League Season 7!
+
+We’re excited to invite you to join a dedicated chat for all participants. Please fill out this form: [https://forms.gle/WHzLpT9EcK79KPUB9](https://forms.gle/WHzLpT9EcK79KPUB9) , mentioning your project name and the Telegram handles of those who will be joining the chat (up to 2 people per team). Once submitted, join the chat via this link: [Telegram: Join Group Chat](https://t.me/+TbKriSZt35BiNmUy) .
+
+We’ll validate your handles and grant you access shortly. Looking forward to seeing you there!
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 39976
+
+[TON Research](/)
+
+# [TONCO — 1st CLAMM DEX on TON](/t/tonco-1st-clamm-dex-on-ton/39976)
+
+[The Open League](/c/the-open-league/defi-battle/63)  [DeFi League](/c/the-open-league/defi-battle/63) 
+
+    
+
+[Max\_Algebra](https://tonresear.ch/u/Max_Algebra)  November 21, 2024, 4:09pm  1
+
+*   **Project Name**: TONCO
+    
+*   **Link to product (Mini App / Web App)**: [TONCO web app](https://app.tonco.io/)
+    
+*   **Project Twitter**: [@Tonco\_io](https://x.com/Tonco_io)
+    
+*   **Project Telegram Channel/Chat**: [@tonco\_io](https://t.me/tonco_io)
+    
+*   **User Traction Document**: [TONCO user traction](https://docs.google.com/document/d/1kucwpPkRDLn3IW04su3TxzJFiD6PmejXM_GupdSLdbU/edit?tab=t.0)
+    
+*   **Tracking Document (the most important document)**: [TONCO tracking document](https://docs.google.com/document/d/1huFglkCiL4G9ZUy8Gx5c1lnKIn5O6L1_z_clEqMge4U/edit?tab=t.0)
+    
+*   **Description of The Open League New Year Airdrop Mention**:  
+    We will display an informational banner within the TONCO DEX with a clear call-to-action encouraging users to participate in The Open League New Year Airdrop.
+    
+*   **Plan to Provide Additional Rewards/Incentives for Users**\*  
+    We will provide additional TONCO points to TOL SBT holders in our points program as a special incentive.
+    
+*   **Applicant Information**  
+    Max, [@msmekalov](https://t.me/msmekalov)
+    
+*   **Other Links or Details**  
+    TONCO DEX Analytics: [TONCO Dashboard](https://app.tonco.io/#/explore)
+    
+*   **Rules of Conduct Acknowledgment**\*
+    
+    *   By submitting this application, I agree to fully abide by [The Open League Rules of Conduct](https://www.notion.so/04f4a0fedf1a401687075f5efd83de68?pvs=21). I understand that any violation of these rules will result in immediate and indefinite exclusion from the competition.
+*   **Data Accuracy Confirmation**\*
+    
+    *   By submitting this form, I confirm that all provided information is accurate. I understand that any false information will lead to my project’s permanent disqualification from The Open League.
+*   **Methodology Acknowledgment**\*
+    
+    *   We confirm that we understand the exact methodology for tracking our protocol’s on-chain metrics (TVL/Volume) that is/will be available [on this GitHub page](https://github.com/ton-society/the-open-league/blob/main/seasons/S6_defi_scores.md#s6-defi-users-scores) by the time of adding the protocol to the leaderboard. We also state that we studied the General Rules of the competition [OLD: App & DeFi Leagues New Year Edition (S7): Rules for Teams](https://www.notion.so/OLD-App-DeFi-Leagues-New-Year-Edition-S7-Rules-for-Teams-1375274bd2cf8040b3b1c666dca57fee?pvs=21) and [Playbook for App League projects](https://www.notion.so/1375274bd2cf807ba442d1ba5ac2d7c9?pvs=21) and understand that the rank of my project in the leaderboard will depend on its contribution to the total TVL/Volume generated during the season.
+
+  2 Likes
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) November 27, 2024, 5:39am  2
+
+Thank you for your submission! Your application is still under review. Please bear with us as we finalize the decision. If approved, your app will be added to the leaderboard and the airdrop page shortly after integration is complete. We appreciate your patience!
+
+ 
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) December 4, 2024, 2:55am  3
+
+Hey team, congratulations on being approved for The Open League Season 7!
+
+We’re excited to invite you to join a dedicated chat for all participants. Please fill out this form: [https://forms.gle/WHzLpT9EcK79KPUB9](https://forms.gle/WHzLpT9EcK79KPUB9) , mentioning your project name and the Telegram handles of those who will be joining the chat (up to 2 people per team). Once submitted, join the chat via this link: [Telegram: Join Group Chat](https://t.me/+TbKriSZt35BiNmUy) .
+
+We’ll validate your handles and grant you access shortly. Looking forward to seeing you there!
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 39977
+
+[TON Research](/)
+
+# [BigPump by PocketFi](/t/bigpump-by-pocketfi/39977)
+
+[The Open League](/c/the-open-league/defi-battle/63)  [DeFi League](/c/the-open-league/defi-battle/63) 
+
+    
+
+[Viktor\_Vorobyov](https://tonresear.ch/u/Viktor_Vorobyov)  November 21, 2024, 4:15pm  1
+
+*   **Project Name** BigPump by PocketFi
+*   Link to product (Mini App / Web App): [Telegram: Contact @pocketfi\_bot](https://t.me/pocketfi_bot/bigpump)
+*   **Project Twitter**: [x.com](https://twitter.com/pocket_fi)
+*   **Project Telegram Channel/Chat**: [Telegram: Contact @pocketfi](https://t.me/pocketfi) ; [Telegram: Contact @bigpumphub](https://t.me/bigpumphub)
+*   **User Traction Document**:  
+    \- Monthly Trading Volume: 694 256 TON  
+    \- **DefiLlama Integration Details.** In progress  
+    \- Additional Metrics:  
+    Tokens deployed: 12776 memecoins  
+    Number of trades (tx): 101 245
+*   **Tracking Document (the most important document)**
+
+[docs.google.com](https://docs.google.com/document/d/1wqCIhLUGpc-NrVzC7y1yOTucYBw2wHLdqwPfqLNy0m8/edit?usp=sharing)
+
+[](https://docs.google.com/document/d/1wqCIhLUGpc-NrVzC7y1yOTucYBw2wHLdqwPfqLNy0m8/edit?usp=sharing)
+
+### [PocketFi Tracking](https://docs.google.com/document/d/1wqCIhLUGpc-NrVzC7y1yOTucYBw2wHLdqwPfqLNy0m8/edit?usp=sharing)
+
+We invite you to participate in the upcoming DeFi support program in the new season of The Open League. Please consider this unique opportunity to gain recognition and receive rewards from your users. We are aiming to build a transparent and...
+
+*   **Description of The Open League New Year Airdrop Mention**\*
+
+Announcements in PocketFi & BigPump Live channels + The Open League banners will be done
+
+*   **Plan to Provide Additional Rewards/Incentives for Users**\*
+
+Additional $SWITCH tasks in PocketFi bot
+
+*   **Applicant Information**
+    *   Your Name: Viktor
+    *   Your Telegram Handle: @ov3rmnk
+*   **Other Links or Details**
+    *   Include any other relevant links or information about your project.
+*   **Rules of Conduct Acknowledgment**\*
+    *   By submitting this application, I agree to fully abide by [The Open League Rules of Conduct](https://www.notion.so/04f4a0fedf1a401687075f5efd83de68?pvs=21). I understand that any violation of these rules will result in immediate and indefinite exclusion from the competition.
+*   **Data Accuracy Confirmation**
+    *   By submitting this form, I confirm that all provided information is accurate. I understand that any false information will lead to my project’s permanent disqualification from The Open League.
+*   **Methodology Acknowledgment**
+    *   We confirm that we understand the exact methodology for tracking our protocol’s on-chain metrics (TVL/Volume) that is/will be available [on this GitHub page](https://github.com/ton-society/the-open-league/blob/main/seasons/S6_defi_scores.md#s6-defi-users-scores) by the time of adding the protocol to the leaderboard. We also state that we studied the General Rules of the competition [OLD: App & DeFi Leagues New Year Edition (S7): Rules for Teams](https://www.notion.so/OLD-App-DeFi-Leagues-New-Year-Edition-S7-Rules-for-Teams-1375274bd2cf8040b3b1c666dca57fee?pvs=21) and [Playbook for App League projects](https://www.notion.so/1375274bd2cf807ba442d1ba5ac2d7c9?pvs=21) and understand that the rank of my project in the leaderboard will depend on its contribution to the total TVL/Volume generated during the season.
+
+  1 Like
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) November 27, 2024, 5:35am  2
+
+Congrats! You are now part of The Open League! We’re excited to have you on board. Stay tuned for more updates as the season kicks off!
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 39980
+
+[TON Research](/)
+
+# [Не понял, как это работает](/t/topic/39980)
+
+[Русский](/c/ru/49) 
+
+    
+
+[DVP1981DVP](https://tonresear.ch/u/DVP1981DVP)  November 21, 2024, 5:00pm  1
+
+Что от меня нужно я не понял, всем спасибо!!!
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 39984
+
+[TON Research](/)
+
+# [Crouton Finance – Stable Swap](/t/crouton-finance-stable-swap/39984)
+
+[The Open League](/c/the-open-league/defi-battle/63)  [DeFi League](/c/the-open-league/defi-battle/63) 
+
+    
+
+[affixpin](https://tonresear.ch/u/affixpin)  November 21, 2024, 5:53pm  1
+
+*   Name – Crouton Finance
+    
+*   Link to product – [@croutonfibot](https://t.me/croutonfibot)
+    
+*   X - [https://x.com/croutonfi](https://x.com/croutonfi)
+    
+*   Telegram Channel - [@croutonfi](https://t.me/croutonfi)
+    
+*   User Traction Document
+    
+    *   TVL – $83000
+    *   DefiLlama – [https://defillama.com/protocol/crouton-finance](https://defillama.com/protocol/crouton-finance)
+    *   Users – 620k MAU on Telegram
+*   Tracking Document – [https://docs.google.com/document/d/1722S83UyTh-jKJoutp8XpFKGvqs0JjmXJYxgOM2dVqE/edit?usp=sharing](https://docs.google.com/document/d/1722S83UyTh-jKJoutp8XpFKGvqs0JjmXJYxgOM2dVqE/edit?usp=sharing)
+    
+*   Description of The Open League New Year Airdrop Mention
+    
+    *   Plan to mention – post in telegram channel
+    *   Plan to Provide Additional Rewards Incentives for Users – points
+*   Applicant Information: Dmytro, [@affixpin](https://t.me/affixpin)
+    
+*   Rules of Conduct Acknowledgment
+    
+    *   By submitting this application, I agree to fully abide by [The Open League Rules of Conduct](https://www.notion.so/04f4a0fedf1a401687075f5efd83de68?pvs=21). I understand that any violation of these rules will result in immediate and indefinite exclusion from the competition.
+
+*   **Data Accuracy Confirmation**
+    
+    *   By submitting this form, I confirm that all provided information is accurate. I understand that any false information will lead to my project’s permanent disqualification from The Open League.
+*   **Methodology Acknowledgment**\*
+    
+    *   We confirm that we understand the exact methodology for tracking our protocol’s on-chain metrics (TVL/Volume) that is/will be available [on this GitHub page](https://github.com/ton-society/the-open-league/blob/main/seasons/S6_defi_scores.md#s6-defi-users-scores) by the time of adding the protocol to the leaderboard. We also state that we studied the General Rules of the competition [OLD: App & DeFi Leagues New Year Edition (S7): Rules for Teams](https://www.notion.so/OLD-App-DeFi-Leagues-New-Year-Edition-S7-Rules-for-Teams-1375274bd2cf8040b3b1c666dca57fee?pvs=21) and [Playbook for App League projects](https://www.notion.so/1375274bd2cf807ba442d1ba5ac2d7c9?pvs=21) and understand that the rank of my project in the leaderboard will depend on its contribution to the total TVL/Volume generated during the season.
+
+ 
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) November 27, 2024, 5:40am  2
+
+Thank you for your submission! Your application is still under review. Please bear with us as we finalize the decision. If approved, your app will be added to the leaderboard and the airdrop page shortly after integration is complete. We appreciate your patience!
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 39988
+
+[TON Research](/)
+
+# [Blum - Memepad on TON](/t/blum-memepad-on-ton/39988)
+
+[The Open League](/c/the-open-league/defi-battle/63)  [DeFi League](/c/the-open-league/defi-battle/63) 
+
+    
+
+[dezly](https://tonresear.ch/u/dezly)  November 21, 2024, 8:34pm  1
+
+*   **Blum**
+    
+*   **[Link to product (Mini App / Web App) - please indicate which link should be added to the leaderboard](https://t.me/blum/app?startapp=memepad)**
+    
+*   **[Project Twitter](https://x.com/blumcrypto)**
+    
+*   **[Project Telegram Channel/Chat](https://t.me/blumcrypto_memepad)**
+    
+*   **[User Traction Document](https://docs.google.com/document/d/1QbAvti4KMU-dEQFkW3NgiMejlTvZg35IuyoPVVo_2-A/edit?tab=t.0)**
+    
+    *   Please attach a link to a Google Doc that includes:
+        *   Total Value Locked (TVL) and/or Monthly Volume Metrics
+        *   DefiLlama Integration Details (include link). If it is still work in progress, please mention the status.
+        *   Additional Metrics (e.g., active users, transaction volume, etc)
+*   **[Tracking Document (the most important document)](https://docs.google.com/document/d/1SlPVtsg7LTguTZkVvYfgYbz6ZEpmF2Rv5Q82yZUX9xo/edit?tab=t.0)**
+    
+    We are aiming to build a transparent and verifiable system to track users impact. Therefore, we need your help to track all user interactions with your protocol. Final calculations will be implemented on top of the [TON Data Lake](https://github.com/re-doubt/ton-etl) project and all the data sets for your project will be available for all analytical projects like Dune, Nansen, etc.
+    
+    To make it possible, we need to have full implementation details related to your protocol, including **the overall architecture design and exact TL-B schemas,** as well as get the method’s signatures for all your contracts.
+    
+    *   Please complete this document with your details for leaderboard tracking and share it with us for a public view: [Leaderboard Tracking Form.](https://docs.google.com/document/d/1plsR_IZzIndrA1SEVGktxhp-MpajolY68SqyD6CI8qE/edit?usp=sharing)
+*   **Description of The Open League New Year Airdrop Mention**\*
+    
+    *   We are going to make a quest where we include tasks to read about campaign, mint badge and start trading memecoins that will be available to all our users.
+*   **Plan to Provide Additional Rewards/Incentives for Users**\*
+    
+    *   For completing a quest users will receive Blum Points + we will have some general campaigns for memepad.
+*   **Applicant Information**\*
+    
+    *   Anton Toroptsev
+    *   [@dezly](/u/dezly)
+*   **Other Links or Details**
+    
+    *   Include any other relevant links or information about your project.
+*   **Rules of Conduct Acknowledgment**\*
+    
+    *   By submitting this application, I agree to fully abide by [The Open League Rules of Conduct](https://www.notion.so/04f4a0fedf1a401687075f5efd83de68?pvs=21). I understand that any violation of these rules will result in immediate and indefinite exclusion from the competition.
+*   **Data Accuracy Confirmation**\*
+    
+    *   By submitting this form, I confirm that all provided information is accurate. I understand that any false information will lead to my project’s permanent disqualification from The Open League.
+*   **Methodology Acknowledgment**\*
+    
+    *   We confirm that we understand the exact methodology for tracking our protocol’s on-chain metrics (TVL/Volume) that is/will be available [on this GitHub page](https://github.com/ton-society/the-open-league/blob/main/seasons/S6_defi_scores.md#s6-defi-users-scores) by the time of adding the protocol to the leaderboard. We also state that we studied the General Rules of the competition [OLD: App & DeFi Leagues New Year Edition (S7): Rules for Teams](https://www.notion.so/OLD-App-DeFi-Leagues-New-Year-Edition-S7-Rules-for-Teams-1375274bd2cf8040b3b1c666dca57fee?pvs=21) and [Playbook for App League projects](https://www.notion.so/1375274bd2cf807ba442d1ba5ac2d7c9?pvs=21) and understand that the rank of my project in the leaderboard will depend on its contribution to the total TVL/Volume generated during the season.
+
+  1 Like
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) November 27, 2024, 5:36am  2
+
+Congrats! You are now part of The Open League! We’re excited to have you on board. Stay tuned for more updates as the season kicks off!
+
+  1 Like
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 39992
+
+[TON Research](/)
+
+# [CattonFi : the first CDP on TON](/t/cattonfi-the-first-cdp-on-ton/39992)
+
+[The Open League](/c/the-open-league/defi-battle/63)  [DeFi League](/c/the-open-league/defi-battle/63) 
+
+    
+
+[CattonAi](https://tonresear.ch/u/CattonAi)  November 21, 2024, 10:15pm  1
+
+*   **Project Name** : \[Catton\] CattonFi - the first CDP on TON
+    
+*   **Link to product (Mini App / Web App)** : [https://t.me/CattonAiBot/CattonFi](https://t.me/CattonAiBot/CattonFi)
+    
+*   **Project Twitter**\* : [https://x.com/Cattontw](https://x.com/Cattontw)
+    
+*   **Project Telegram Channel/Chat**\* : [https://t.me/cattonAnn](https://t.me/cattonAnn)
+    
+*   **User Traction Document**\* :
+    
+    *   TVL: $110k
+    *   Trading Volume : $220k
+    *   Integration Status with Defillama: Waiting for approval from the DefiLlama team: [https://github.com/DefiLlama/DefiLlama-Adapters/pull/12394](https://github.com/DefiLlama/DefiLlama-Adapters/pull/12394)
+    *   DefiLlama Link: Waiting for approval from the DefiLlama : [https://github.com/DefiLlama/DefiLlama-Adapters/pull/12394](https://github.com/DefiLlama/DefiLlama-Adapters/pull/12394)
+    *   Additional Metrics: 130,962 MAU in our mini app
+*   **Tracking Document (the most important document)**\* : [https://docs.google.com/document/d/1ElCLESl2X9KTK9mm8qtKrroUNa8FxIIdPhAngcrqUaw/edit?usp=sharing](https://docs.google.com/document/d/1ElCLESl2X9KTK9mm8qtKrroUNa8FxIIdPhAngcrqUaw/edit?usp=sharing)
+    
+*   **Description of The Open League New Year Airdrop Mention**\*
+    
+    *   Description of how you plan to mention The Open League New Year Airdrop inside your product and invite your users to mint a DeFi Badge to participate in the campaign.
+*   **Plan to Provide Additional Rewards/Incentives for Users**\*
+    
+    *   We will launch a Trading Contest event for users to participate in by completing the designated tasks, with prizes up to $30,000. Additionally, the TOP 10 participants will receive 10 exclusive NFTs inspired by BAYC and Floki IP (sponsored by Forj Animoca).
+*   **Applicant Information**\*
+    
+    *   Your Name : Daniel
+    *   Your Telegram Handle : [https://t.me/OxDane](https://t.me/OxDane)
+*   **Other Links or Details**
+    
+    *   CattonAi game : [https://t.me/CattonAiBot](https://t.me/CattonAiBot/gameapp?startapp=7071193379)
+    *   CattonFi Stats: [https://grafana.catton.tech](https://grafana.catton.tech/public-dashboards/e0c4b9f959014836948bc7fc74b515e9?orgId=1&from=now-24h&to=now)
+    *   Catton - Welcome to the Cattonverse! A groundbreaking fusion of Gaming ![:video_game:](https://tonresear.ch/images/emoji/twitter/video_game.png?v=12 ":video_game:") and CDPs protocol ![:moneybag:](https://tonresear.ch/images/emoji/twitter/moneybag.png?v=12 ":moneybag:")on Telegram. We make DeFi fun and accessible, tackling challenges in onboarding new users, liquidity sourcing, and infrastructure scaling.
+*   **Rules of Conduct Acknowledgment**\*
+    
+    *   By submitting this application, I agree to fully abide by [The Open League Rules of Conduct](https://www.notion.so/04f4a0fedf1a401687075f5efd83de68?pvs=21). I understand that any violation of these rules will result in immediate and indefinite exclusion from the competition.
+*   **Data Accuracy Confirmation**\*
+    
+    *   By submitting this form, I confirm that all provided information is accurate. I understand that any false information will lead to my project’s permanent disqualification from The Open League.
+*   **Methodology Acknowledgment**\*
+    
+    *   We confirm that we understand the exact methodology for tracking our protocol’s on-chain metrics (TVL/Volume) that is/will be available [on this GitHub page](https://github.com/ton-society/the-open-league/blob/main/seasons/S6_defi_scores.md#s6-defi-users-scores) by the time of adding the protocol to the leaderboard. We also state that we studied the General Rules of the competition [OLD: App & DeFi Leagues New Year Edition (S7): Rules for Teams](https://www.notion.so/OLD-App-DeFi-Leagues-New-Year-Edition-S7-Rules-for-Teams-1375274bd2cf8040b3b1c666dca57fee?pvs=21) and [Playbook for App League projects](https://www.notion.so/1375274bd2cf807ba442d1ba5ac2d7c9?pvs=21) and understand that the rank of my project in the leaderboard will depend on its contribution to the total TVL/Volume generated during the season.
+
+ 
+
+[CattonAi](https://tonresear.ch/u/CattonAi) November 26, 2024, 5:22am  2
+
+How can we update Defilama link ? we just get approval from them
+
+ 
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) November 26, 2024, 7:20am  3
+
+all good, we found it
+
+ 
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) November 27, 2024, 5:37am  4
+
+Thank you for your submission! Your application is still under review. Please bear with us as we finalize the decision. If approved, your app will be added to the leaderboard and the airdrop page shortly after integration is complete. We appreciate your patience!
+
+  1 Like
+
+[CattonAi](https://tonresear.ch/u/CattonAi) November 27, 2024, 7:42am  5
+
+It seems like the Open League Github pipeline not running, which is why we couldn’t pass when creating the pull request:
+
+[github.com/ton-society/the-open-league](https://github.com/ton-society/the-open-league/pull/251)
+
+#### [Add Catton Project](https://github.com/ton-society/the-open-league/pull/251)
+
+`ton-society:main` ← `Cattontech:main`
+
+opened 02:44AM - 26 Nov 24 UTC
+
+ [![Cattontech](https://avatars.githubusercontent.com/u/166699866?v=4) Cattontech](https://github.com/Cattontech)
+
+[+86 \-0](https://github.com/ton-society/the-open-league/pull/251/files)
+
+We’ve resolved the conflicts many times, but because it not is approved and the pipeline not running, then we are resolving it daily. Can you help to check it soon to approve ?
+
+ 
+
+[CattonAi](https://tonresear.ch/u/CattonAi) November 29, 2024, 4:58am  6
+
+Catton’s Defillama : [https://defillama.com/protocol/catton](https://defillama.com/protocol/catton)
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 39994
+
+[TON Research](/)
+
+# [WAGMI - next-gen memepad: true sale launch](/t/wagmi-next-gen-memepad-true-sale-launch/39994)
+
+[The Open League](/c/the-open-league/defi-battle/63)  [DeFi League](/c/the-open-league/defi-battle/63) 
+
+    
+
+[wagmi\_alexpo](https://tonresear.ch/u/wagmi_alexpo)  November 21, 2024, 11:21pm  1
+
+*   **WAGMI**\*
+    
+*   **Telegram miniapp: [Telegram: Contact @wagmi\_app\_bot](https://t.me/wagmi_app_bot/wagmi?startapp=ref_UQB-QXoAFAZHfiGBIrDhe2ESNF3OLorAQzo27jTyk5dfK6Ox) / Web: [https://app.wagmi.bot/](https://app.wagmi.bot/)**\*  
+    – **[Telegram: Contact @wagmi\_app\_bot](https://t.me/wagmi_app_bot/wagmi?startapp=ref_UQB-QXoAFAZHfiGBIrDhe2ESNF3OLorAQzo27jTyk5dfK6Ox) to the leaderboard**\*
+    
+*   **[x.com](https://x.com/wagmi_memepad)**\*
+    
+*   **Project Telegram Channel: @wagmi\_bot\_channel / Chat: [Telegram: Contact @wagmi\_bot\_chat](https://t.me/wagmi_bot_chat)**\*
+    
+*   **WAGMI ref code: UQBK1ySbGO0rzZbv5vjj0N7c3z0XZ4-Pqu4uXDBe82GFZFUj**\*
+    
+*   **User Traction Document**\*
+    
+    *   Please attach a link to a Google Doc that includes:
+        *   Total Value Locked (TVL) and/or Monthly Volume Metrics
+        *   DefiLlama Integration Details (include link). If it is still work in progress, please mention the status.
+        *   Additional Metrics (e.g., active users, transaction volume, etc): [Microsoft Power BI](https://app.powerbi.com/view?r=eyJrIjoiMWEwOTZkZTktNjI1YS00M2MyLWE3YzEtZmYxMTRkZjNjYjQ0IiwidCI6IjEwOWZhMjdkLTU5ZTEtNGY3OC1iYjExLWVlNzQ2Y2JjZGJjZCJ9)
+*   **Tracking Document (the most important document)**\*
+    
+    We are aiming to build a transparent and verifiable system to track users impact. Therefore, we need your help to track all user interactions with your protocol. Final calculations will be implemented on top of the [TON Data Lake](https://github.com/re-doubt/ton-etl) project and all the data sets for your project will be available for all analytical projects like Dune, Nansen, etc.
+    
+    To make it possible, we need to have full implementation details related to your protocol, including **the overall architecture design and exact TL-B schemas,** as well as get the method’s signatures for all your contracts.
+    
+    *   Please complete this document with your details for leaderboard tracking and share it with us for a public view: [Leaderboard Tracking Form.](https://docs.google.com/document/d/1plsR_IZzIndrA1SEVGktxhp-MpajolY68SqyD6CI8qE/edit?usp=sharing)
+*   **Description of The Open League New Year Airdrop Mention**\*
+    
+    *   Description of how you plan to mention The Open League New Year Airdrop inside your product and invite your users to mint a DeFi Badge to participate in the campaign.
+*   **Plan to Provide Additional Rewards/Incentives for Users**\*
+    
+    *   Describe any additional incentives, such as off-chain points or on-chain assets, that you plan to offer users during the season.
+*   **Applicant Information**\*
+    
+    *   Your Name: Alexei Po
+    *   Your Telegram Handle: @alekcpo
+*   **Other Links or Details**
+    
+    *   Include any other relevant links or information about your project.
+*   **Rules of Conduct Acknowledgment**\*
+    
+    *   By submitting this application, I agree to fully abide by [The Open League Rules of Conduct](https://www.notion.so/04f4a0fedf1a401687075f5efd83de68?pvs=21). I understand that any violation of these rules will result in immediate and indefinite exclusion from the competition.
+*   **Data Accuracy Confirmation**\*
+    
+    *   By submitting this form, I confirm that all provided information is accurate. I understand that any false information will lead to my project’s permanent disqualification from The Open League.
+*   **Methodology Acknowledgment**\*
+    
+    *   We confirm that we understand the exact methodology for tracking our protocol’s on-chain metrics (TVL/Volume) that is/will be available [on this GitHub page](https://github.com/ton-society/the-open-league/blob/main/seasons/S6_defi_scores.md#s6-defi-users-scores) by the time of adding the protocol to the leaderboard. We also state that we studied the General Rules of the competition [OLD: App & DeFi Leagues New Year Edition (S7): Rules for Teams](https://www.notion.so/OLD-App-DeFi-Leagues-New-Year-Edition-S7-Rules-for-Teams-1375274bd2cf8040b3b1c666dca57fee?pvs=21) and [Playbook for App League projects](https://www.notion.so/1375274bd2cf807ba442d1ba5ac2d7c9?pvs=21) and understand that the rank of my project in the leaderboard will depend on its contribution to the total TVL/Volume generated during the season.
+
+ 
+
+[wagmi\_alexpo](https://tonresear.ch/u/wagmi_alexpo) November 22, 2024, 12:51pm  2
+
+For tech stack overview please refer to [https://docs.google.com/document/d/1SlPVtsg7LTguTZkVvYfgYbz6ZEpmF2Rv5Q82yZUX9xo/edit?tab=t.0](https://docs.google.com/document/d/1SlPVtsg7LTguTZkVvYfgYbz6ZEpmF2Rv5Q82yZUX9xo/edit?tab=t.0)
+
+ 
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) November 27, 2024, 5:36am  3
+
+Congrats! You are now part of The Open League! We’re excited to have you on board. Stay tuned for more updates as the season kicks off!
+
+  1 Like
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 39996
+
+[TON Research](/)
+
+# [Tiny Verse 🌌 - grow your own galaxy (be early bird!)](/t/tiny-verse-grow-your-own-galaxy-be-early-bird/39996)
+
+[General](/c/general/4) 
+
+    
+
+[petrovxyz](https://tonresear.ch/u/petrovxyz)   November 22, 2024, 2:31am  1
+
+[**Tiny Verse**](https://t.me/TVerse?startapp=galaxy-00015bb570000129d7210003d1f05a) - new mini-app game, [mentioned](https://t.me/durov/373) by Pavel Durov, that is rapidly gaining popularity. [**Become**](https://t.me/TVerse?startapp=galaxy-00015bb570000129d7210003d1f05a) an early bird! ![:hatched_chick:](https://tonresear.ch/images/emoji/twitter/hatched_chick.png?v=12 ":hatched_chick:")
+
+[![Tiny Verse](https://tonresear.ch/uploads/default/optimized/3X/2/d/2d44e2458049b3f9d69c82b074b7c85fd72fca35_2_517x291.jpeg)
+
+Tiny Verse1920×1080 41.1 KB
+
+](https://tonresear.ch/uploads/default/original/3X/2/d/2d44e2458049b3f9d69c82b074b7c85fd72fca35.jpeg "Tiny Verse")
+
+![:milky_way:](https://tonresear.ch/images/emoji/twitter/milky_way.png?v=12 ":milky_way:") Grow your galaxy, collect stardust, create stars and move up in the rankings.
+
+[![Tiny Verse: galaxies](https://tonresear.ch/uploads/default/optimized/3X/e/5/e5ff73302872d9749f17efa58aa1afeb41c4620b_2_396x375.jpeg)
+
+Tiny Verse: galaxies1141×1080 62.6 KB
+
+](https://tonresear.ch/uploads/default/original/3X/e/5/e5ff73302872d9749f17efa58aa1afeb41c4620b.jpeg "Tiny Verse: galaxies")
+
+![:star:](https://tonresear.ch/images/emoji/twitter/star.png?v=12 ":star:") You can expand your galaxy by creating stars either for **telegram stars or for stardust**.  
+**Stardust** is free, you can to collect it **every hour**.
+
+[![Tiny Verse: create stars, collect stardust](https://tonresear.ch/uploads/default/optimized/3X/7/8/789f936180085d0e57a16d009798de5017e922a5_2_396x375.jpeg)
+
+Tiny Verse: create stars, collect stardust1141×1080 56 KB
+
+](https://tonresear.ch/uploads/default/original/3X/7/8/789f936180085d0e57a16d009798de5017e922a5.jpeg "Tiny Verse: create stars, collect stardust")
+
+![:art:](https://tonresear.ch/images/emoji/twitter/art.png?v=12 ":art:") Upgrade, customize your galaxy and rank higher ![:trophy:](https://tonresear.ch/images/emoji/twitter/trophy.png?v=12 ":trophy:").
+
+[![Tiny Verse: upgrades and rating](https://tonresear.ch/uploads/default/optimized/3X/6/6/66795947179eee9ef74232f357c2360e800fbeae_2_396x375.jpeg)
+
+Tiny Verse: upgrades and rating1141×1080 59.9 KB
+
+](https://tonresear.ch/uploads/default/original/3X/6/6/66795947179eee9ef74232f357c2360e800fbeae.jpeg "Tiny Verse: upgrades and rating")
+
+![:point_right:](https://tonresear.ch/images/emoji/twitter/point_right.png?v=12 ":point_right:") [**Become a part**](https://t.me/TVerse?startapp=galaxy-00015bb570000129d7210003d1f05a) of this exciting space journey and [stay tuned](https://t.me/tverseofficialchannel) for updates!
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 40
+
+[TON Research](/)
+
+# [Analyzing the Impact of Inscriptions on the TON Ecosystem: Challenges, Popularity, and Future Use Cases](/t/analyzing-the-impact-of-inscriptions-on-the-ton-ecosystem-challenges-popularity-and-future-use-cases/40)
+
+[Application](/c/application/20) 
+
+    
+
+[kingsman](https://tonresear.ch/u/kingsman)  January 23, 2024, 1:53pm  1
+
+The introduction of inscriptions on The Open Network (TON) has marked a significant milestone, leading to substantial increases in transaction volumes and network activity. This development raises important questions regarding the technical and economic implications for TON and the broader blockchain ecosystem. In this context, we seek to explore several key aspects of inscriptions and their impact.
+
+1.  What are inscriptions, and how do they fundamentally differ from traditional tokens on blockchains like Bitcoin and Ethereum? Discuss the technical underpinnings of inscriptions, especially their development from the Ordinals protocol and adaptation across various blockchain networks.
+2.  The launch of inscriptions on TON led to a dramatic surge in network activity, with a marked increase in transactions and new users. How did these inscriptions contribute to such a significant growth, and what does this suggest about their role in blockchain ecosystems?
+3.  Inscriptions have caused increased blockchain activity and associated challenges, such as network congestion and high transaction fees on platforms like Bitcoin and Ethereum. How has TON managed these challenges differently, especially given its unique infrastructure and fixed fee structure?
+4.  Given the rapid adoption and surging popularity of inscriptions across multiple blockchains, what factors have contributed to this trend? Analyze the aspects of novelty, lower transaction costs, ease of creation, and speculative appeal in driving the popularity of inscriptions.
+5.  Why is TON particularly suited for the adoption and success of inscriptions, considering factors such as its high transaction throughput, stable fee structure, and integration with Telegram?
+6.  Explore the primary use cases for inscriptions, focusing on their potential as a fair token launch mechanism and as collectibles or NFTs. How do these use cases compare and contrast with those of traditional smart contract-based tokens?
+7.  Finally, looking forward, what are the potential long-term impacts of inscriptions on blockchain technology and digital asset ecosystems? Discuss both the opportunities and challenges that inscriptions present for developers, users, and the broader blockchain community.
+
+This comprehensive discussion aims to provide a deep dive into the world of inscriptions, their technical intricacies, impact on network dynamics, and potential future applications within the TON Ecosystem and beyond. We encourage contributions from experts in blockchain technology, cryptography, and digital asset economics to enrich this conversation.
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 40000
+
+[TON Research](/)
+
+# [TITAN 🤖 DEX Aggregator & CLMM](/t/titan-dex-aggregator-clmm/40000)
+
+[The Open League](/c/the-open-league/defi-battle/63)  [DeFi League](/c/the-open-league/defi-battle/63) 
+
+    
+
+[Rusty](https://tonresear.ch/u/Rusty)  November 22, 2024, 7:38am  1
+
+*   **Project Name**\* = TITAN ![:robot:](https://tonresear.ch/images/emoji/twitter/robot.png?v=12 ":robot:")
+    
+*   **Link to product (**Mini App** / Web App) - please indicate which link should be added to the leaderboard**\* = @TitanTradeBot - Include on leaderboard. WebApp = Titan.tg
+    
+*   **Project Twitter**\* = [x.com/TitanAggregator](https://x.com/TitanAggregator)
+    
+*   **Project Telegram Channel/Chat**\* = @TitanTradingChat
+    
+*   **User Traction Document**\* = [Titan Traction Document](https://docs.google.com/document/d/179matsPCZvZsh_NldXshCcmO6CHo8P2PG1pLGfJVkcY/edit?tab=t.0)
+    
+*   **Tracking Document (the most important document)**\* = [Titan Tracking Form](https://docs.google.com/document/d/15dEC1brhTftYFhKin1jR0ouhO-Vqpxz98tV79wPQr9s/edit?tab=t.0)
+    
+*   **Description of The Open League New Year Airdrop Mention**\*
+    
+    *   Titan’s swap page on it’s miniapp and webapp will have a banner that mentions the open league and a call to action to mint the badge to participate in the Open League Airdrop.
+*   **Plan to Provide Additional Rewards/Incentives for Users**\*
+    
+    *   We’ll be running a XP campaign alongside the Open League so users can track their own volume and how many XP points they are earning
+*   **Applicant Information**\*
+    
+    *   Your Name = Rusty Titan
+    *   Your Telegram Handle = @Rusty\_Titan
+*   **Other Links or Details**
+    
+    *   docs.titan.tg
+*   **Rules of Conduct Acknowledgment**\*
+    
+    *   By submitting this application, I agree to fully abide by [The Open League Rules of Conduct](https://www.notion.so/04f4a0fedf1a401687075f5efd83de68?pvs=21). I understand that any violation of these rules will result in immediate and indefinite exclusion from the competition.
+*   **Data Accuracy Confirmation**\*
+    
+    *   By submitting this form, I confirm that all provided information is accurate. I understand that any false information will lead to my project’s permanent disqualification from The Open League.
+*   **Methodology Acknowledgment**\*
+    
+    *   We confirm that we understand the exact methodology for tracking our protocol’s on-chain metrics (TVL/Volume) that is/will be available [on this GitHub page](https://github.com/ton-society/the-open-league/blob/main/seasons/S6_defi_scores.md#s6-defi-users-scores) by the time of adding the protocol to the leaderboard. We also state that we studied the General Rules of the competition [OLD: App & DeFi Leagues New Year Edition (S7): Rules for Teams](https://www.notion.so/OLD-App-DeFi-Leagues-New-Year-Edition-S7-Rules-for-Teams-1375274bd2cf8040b3b1c666dca57fee?pvs=21) and [Playbook for App League projects](https://www.notion.so/1375274bd2cf807ba442d1ba5ac2d7c9?pvs=21) and understand that the rank of my project in the leaderboard will depend on its contribution to the total TVL/Volume generated during the season.
+
+ 
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) November 27, 2024, 5:47am  2
+
+Thank you for your submission! Your application is still under review. Please bear with us as we finalize the decision. If approved, your app will be added to the leaderboard and the airdrop page shortly after integration is complete. We appreciate your patience!
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 40002
+
+[TON Research](/)
+
+# [TITAN 🤖 TON DEX Aggregator & CLMM](/t/titan-ton-dex-aggregator-clmm/40002)
+
+[The Open League](/c/the-open-league/defi-battle/63)  [DeFi League](/c/the-open-league/defi-battle/63) 
+
+    
+
+[Rusty](https://tonresear.ch/u/Rusty)  November 22, 2024, 8:18am  1
+
+*   **Project Name**\* = TITAN ![:robot:](https://tonresear.ch/images/emoji/twitter/robot.png?v=12 ":robot:")
+*   **Link to product (**Mini App** / Web App) - please indicate which link should be added to the leaderboard**\* = [@TitanTradeBot](https://t.me/TitanTradeBot) - Include on leaderboard. WebApp = [Titan.tg](https://titan.tg)
+*   **Project Twitter**\* = [x.com/TitanAggregator](https://x.com/TitanAggregator)
+*   **Project Telegram Channel/Chat**\* = [@TitanTradingChat](https://t.me/TitanTradingChat)
+*   **User Traction Document**\* = [Titan Traction Document](https://docs.google.com/document/d/179matsPCZvZsh_NldXshCcmO6CHo8P2PG1pLGfJVkcY/edit?tab=t.0)
+*   **Tracking Document (the most important document)**\* = [Titan Tracking Form](https://docs.google.com/document/d/15dEC1brhTftYFhKin1jR0ouhO-Vqpxz98tV79wPQr9s/edit?tab=t.0)
+*   **Description of The Open League New Year Airdrop Mention**\*
+    *   Titan’s swap page on it’s miniapp and webapp will have a banner that mentions the open league and a call to action to mint the badge to participate in the Open League Airdrop.
+*   **Plan to Provide Additional Rewards/Incentives for Users**\*
+    *   We’ll be running a XP campaign alongside the Open League so users can track their own volume and how many XP points they are earning
+*   **Applicant Information**\*
+    *   Your Name = Rusty Titan
+    *   Your Telegram Handle = @Rusty\_Titan
+*   **Other Links or Details**
+    *   docs.titan.tg
+*   **Rules of Conduct Acknowledgment**\*
+    *   By submitting this application, I agree to fully abide by [The Open League Rules of Conduct](https://www.notion.so/04f4a0fedf1a401687075f5efd83de68?pvs=21). I understand that any violation of these rules will result in immediate and indefinite exclusion from the competition.
+*   **Data Accuracy Confirmation**\*
+    *   By submitting this form, I confirm that all provided information is accurate. I understand that any false information will lead to my project’s permanent disqualification from The Open League.
+*   **Methodology Acknowledgment**\*
+    *   We confirm that we understand the exact methodology for tracking our protocol’s on-chain metrics (TVL/Volume) that is/will be available [on this GitHub page](https://github.com/ton-society/the-open-league/blob/main/seasons/S6_defi_scores.md#s6-defi-users-scores) by the time of adding the protocol to the leaderboard. We also state that we studied the General Rules of the competition [OLD: App & DeFi Leagues New Year Edition (S7): Rules for Teams](https://www.notion.so/OLD-App-DeFi-Leagues-New-Year-Edition-S7-Rules-for-Teams-1375274bd2cf8040b3b1c666dca57fee?pvs=21) and [Playbook for App League projects](https://www.notion.so/1375274bd2cf807ba442d1ba5ac2d7c9?pvs=21) and understand that the rank of my project in the leaderboard will depend on its contribution to the total TVL/Volume generated during the season.
+
+  1 Like
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) November 26, 2024, 6:37am  2
+
+Hey team!
+
+We checked your tx example - and there is no ref code was used so it is not possible to track it. But if you can add referral address, after that we were able to add them, please add it to your document or reply here
+
+ 
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) November 27, 2024, 5:38am  3
+
+Thank you for your submission! Your application is still under review. Please bear with us as we finalize the decision. If approved, your app will be added to the leaderboard and the airdrop page shortly after integration is complete. We appreciate your patience!
+
+ 
+
+[Howard](https://tonresear.ch/u/Howard) November 28, 2024, 8:05am  4
+
+Nice work!
+
+I support you guys.
+
+ 
+
+[Rusty](https://tonresear.ch/u/Rusty) November 28, 2024, 8:21am  5
+
+Thanks Howards!
+
+[@openleaguesupport](/u/openleaguesupport) - please do let us know if anything else is needed!
+
+ 
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) December 4, 2024, 2:57am  6
+
+Hey team, congratulations on being approved for The Open League Season 7!
+
+We’re excited to invite you to join a dedicated chat for all participants. Please fill out this form: [https://forms.gle/WHzLpT9EcK79KPUB9](https://forms.gle/WHzLpT9EcK79KPUB9) , mentioning your project name and the Telegram handles of those who will be joining the chat (up to 2 people per team). Once submitted, join the chat via this link: [Telegram: Join Group Chat](https://t.me/+TbKriSZt35BiNmUy) .
+
+We’ll validate your handles and grant you access shortly. Looking forward to seeing you there!
+
+ 
+
+[Pump\_MEME](https://tonresear.ch/u/Pump_MEME) December 4, 2024, 3:14pm  7
+
+Hello, I am a member of PumpMeme. We want to apply to participate in The Open League, but we cannot create it in the DEFI category. Instead, we create it under the theme of the Open League. Can you help me solve this problem? Thank you.
+
+ 
+
+[Rusty](https://tonresear.ch/u/Rusty) December 5, 2024, 3:26am  8
+
+Hey [@Pump\_MEME](/u/pump_meme) - you probably meant to post on a different channel. You should reach out to the Open League team by making a post in the root of this forum.
+
+ 
+
+[Pump\_MEME](https://tonresear.ch/u/Pump_MEME) December 5, 2024, 5:51am  9
+
+Thanks for your reply [@Rusty](/u/rusty) . I posted a thread in The Open League section, but the official staff has not contacted me yet, so I am thinking about whether I can contact them through this method [@openleaguesupport](/u/openleaguesupport) . I originally wanted to post in the Defi League category, but that is not allowed.
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 40005
+
+[TON Research](/)
+
+# [Bagel Finance🥯 - Index DeFi & Exchange TG Stars](/t/bagel-finance-index-defi-exchange-tg-stars/40005)
+
+[The Open League](/c/the-open-league/defi-battle/63)  [DeFi League](/c/the-open-league/defi-battle/63) 
+
+    
+
+[Masashi\_Ono0611](https://tonresear.ch/u/Masashi_Ono0611)  November 22, 2024, 8:53am  1
+
+*   **Project Name**\*: Bagel Finance
+    
+*   **Link to product (Mini App / Web App)**\*: [Telegram: Contact @bagel\_fi\_bot](https://t.me/bagel_fi_bot/app)
+    
+*   **Project Twitter**\*: [Telegram: Contact @bagel\_fi\_bot](https://t.me/bagel_fi_bot/app)
+    
+*   **Project Telegram Channel/Chat**\*:
+    
+    *   Announcement Channel: [Telegram: Contact @bagel\_finance](https://t.me/bagel_finance)
+    *   Community Chat: [Telegram: Contact @bagel\_finance\_community](https://t.me/bagel_finance_community)
+*   **User Traction Document**\*
+    
+    *   TVL: ~$380
+    *   Integration Status with Defillama: Done
+    *   DefiLlama Link: [https://defillama.com/protocol/bagel-finance](https://defillama.com/protocol/bagel-finance)
+    *   Google Docs: [https://docs.google.com/document/d/13nVNHIICrBWfpR2UKv1dlWPHVj\_JuqEEHkbOe8LyNYg/edit?usp=sharing](https://docs.google.com/document/d/13nVNHIICrBWfpR2UKv1dlWPHVj_JuqEEHkbOe8LyNYg/edit?usp=sharing)
+*   **Tracking Document (the most important document)**\*: [https://docs.google.com/document/d/11L28sE9QPt3yU6fDJBuRuK5GrNKFFkev8X6v8\_8Zj\_E/edit?usp=sharing](https://docs.google.com/document/d/11L28sE9QPt3yU6fDJBuRuK5GrNKFFkev8X6v8_8Zj_E/edit?usp=sharing)
+    
+*   **Description of The Open League New Year Airdrop Mention**\*
+    
+    *   We will guide users to mint the DeFi Badge in our user onboarding app and place The Open League’s advertisement banners.
+*   **Plan to Provide Additional Rewards/Incentives for Users**\*
+    
+    *   We will offer special rewards to users participating in The Open League.
+*   **Applicant Information**\*
+    
+    *   Your Name: Masa
+    *   Your Telegram Handle: [@Masashi\_Ono0611](/u/masashi_ono0611)
+*   **Rules of Conduct Acknowledgment**\*
+    
+    *   By submitting this application, I agree to fully abide by [The Open League Rules of Conduct](https://www.notion.so/04f4a0fedf1a401687075f5efd83de68?pvs=21). I understand that any violation of these rules will result in immediate and indefinite exclusion from the competition.
+*   **Data Accuracy Confirmation**\*
+    
+    *   By submitting this form, I confirm that all provided information is accurate. I understand that any false information will lead to my project’s permanent disqualification from The Open League.
+*   **Methodology Acknowledgment**\*
+    
+    *   We confirm that we understand the exact methodology for tracking our protocol’s on-chain metrics (TVL/Volume) that is/will be available [on this GitHub page](https://github.com/ton-society/the-open-league/blob/main/seasons/S6_defi_scores.md#s6-defi-users-scores) by the time of adding the protocol to the leaderboard. We also state that we studied the General Rules of the competition [OLD: App & DeFi Leagues New Year Edition (S7): Rules for Teams](https://www.notion.so/OLD-App-DeFi-Leagues-New-Year-Edition-S7-Rules-for-Teams-1375274bd2cf8040b3b1c666dca57fee?pvs=21) and [Playbook for App League projects](https://www.notion.so/1375274bd2cf807ba442d1ba5ac2d7c9?pvs=21) and understand that the rank of my project in the leaderboard will depend on its contribution to the total TVL/Volume generated during the season.
+
+ 
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) November 27, 2024, 5:46am  2
+
+Thank you for your submission! Your application is still under review. Please bear with us as we finalize the decision. If approved, your app will be added to the leaderboard and the airdrop page shortly after integration is complete. We appreciate your patience!
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 40010
+
+[TON Research](/)
+
+# [Factorial Finance - Gateway to Yield on TON](/t/factorial-finance-gateway-to-yield-on-ton/40010)
+
+[The Open League](/c/the-open-league/defi-battle/63)  [DeFi League](/c/the-open-league/defi-battle/63) 
+
+    
+
+[Seth\_Kim](https://tonresear.ch/u/Seth_Kim)  November 22, 2024, 10:14am  1
+
+*   **Project Name** : Factorial Finance
+    
+    *   Factorial is the “Gateway to Yields” on TON, designed for Telegram users, both crypto natives and normies, by providing seamless yield opportunities offered via BTC and RWA.
+*   \*\*Link to product (Mini App / Web App) : wip
+    
+*   **Project Twitter** : [x.com](https://x.com/FactorialFi)
+    
+*   **Project Telegram Channel/Chat** : [https://t.me/FactorialFinance](https://t.me/FactorialFinance)
+    
+*   **User Traction Document**  
+    \- Total Value Locked (TVL) : n/a  
+    \- DefiLlama Integration : wip
+    
+*   \*\*[Tracking Document](https://docs.google.com/document/d/1Q43qtSmORPZjIQkFivtjNWnYsgwkw0VUCslAuURHV18/edit?tab=t.0) \*\*
+    
+*   **Description of The Open League New Year Airdrop Mention**\*
+    
+    *   Plan to mention : post in telegram channel
+*   **Plan to Provide Additional Rewards/Incentives for Users**\*
+    
+    *   Plan to Provide Additional Rewards Incentives for Users  
+        – points
+*   **Applicant Information**\*
+    
+    *   Your Name : Seth Kim
+    *   Your Telegram Handle : [Telegram: Contact @thankoon](https://t.me/thankoon)
+*   **Other Links or Details**
+    
+    *   Blog : [https://blog.factorial.finance/](https://blog.factorial.finance/)
+*   **Rules of Conduct Acknowledgment**\*
+    
+    *   By submitting this application, I agree to fully abide by [The Open League Rules of Conduct](https://www.notion.so/04f4a0fedf1a401687075f5efd83de68?pvs=21). I understand that any violation of these rules will result in immediate and indefinite exclusion from the competition.
+*   **Data Accuracy Confirmation**\*
+    
+    *   By submitting this form, I confirm that all provided information is accurate. I understand that any false information will lead to my project’s permanent disqualification from The Open League.
+*   **Methodology Acknowledgment**\*
+    
+    *   We confirm that we understand the exact methodology for tracking our protocol’s on-chain metrics (TVL/Volume) that is/will be available [on this GitHub page](https://github.com/ton-society/the-open-league/blob/main/seasons/S6_defi_scores.md#s6-defi-users-scores) by the time of adding the protocol to the leaderboard. We also state that we studied the General Rules of the competition [OLD: App & DeFi Leagues New Year Edition (S7): Rules for Teams](https://www.notion.so/OLD-App-DeFi-Leagues-New-Year-Edition-S7-Rules-for-Teams-1375274bd2cf8040b3b1c666dca57fee?pvs=21) and [Playbook for App League projects](https://www.notion.so/1375274bd2cf807ba442d1ba5ac2d7c9?pvs=21) and understand that the rank of my project in the leaderboard will depend on its contribution to the total TVL/Volume generated during the season.
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 40023
+
+[TON Research](/)
+
+# [Delea - Yield Bearing CDP](/t/delea-yield-bearing-cdp/40023)
+
+[The Open League](/c/the-open-league/defi-battle/63)  [DeFi League](/c/the-open-league/defi-battle/63) 
+
+    
+
+[julia\_b\_6](https://tonresear.ch/u/julia_b_6)  November 22, 2024, 1:19pm  1
+
+*   **Project Name**: Delea Finance
+    
+*   **Link to Web App**: [https://app.delea.finance/](https://app.delea.finance/) (should be added to the leaderboard)
+    
+*   **Link to Mini App**: [Telegram: Contact @delea\_app\_bot](https://t.me/delea_app_bot)
+    
+*   **Project Twitter**: [x.com](https://x.com/DeleaFinance)
+    
+*   **Project Telegram Channel**: [Telegram: Contact @delea\_finance](https://t.me/delea_finance)
+    
+*   **Project Telegram Chat**: [Telegram: Contact @deleafinance\_chat](https://t.me/deleafinance_chat)
+    
+*   **User Traction Document**: [https://docs.google.com/document/d/1PUXKBrFMStazm8fRMOOfzdJjIbp7LFdH4uKKptZ4Yag/edit?usp=sharing](https://docs.google.com/document/d/1PUXKBrFMStazm8fRMOOfzdJjIbp7LFdH4uKKptZ4Yag/edit?usp=sharing)
+    
+*   **Leaderboard Tracking Document**: [https://docs.google.com/document/d/1QJLWoOsifUOtuwOBsjxaaL1K1kzhyD2i\_8s53DMCKmA/edit?usp=sharing](https://docs.google.com/document/d/1QJLWoOsifUOtuwOBsjxaaL1K1kzhyD2i_8s53DMCKmA/edit?usp=sharing)
+    
+*   **Description of The Open League New Year Airdrop Mention**: Delea Finance will promote The Open League and guide users to mint the DeFi Badge from the web site (banners), miniapp (quests for LEA points), Telegram channel (referrals & giveaways), Telegram chat (advertisement & comunity motivation), X (posts). Our users will receive full informational support on The Open League New Year Airdrop inside all our communication channels with a touch of festivity.
+    
+*   **Plan to Provide Additional Rewards/Incentives for Users**:
+    
+    *   Additionally Delea users will be incentivized by Telegram miniapp, where they can earn LEA points. The volume of LEA points, they will earn by farming and completing quests, will correlate with the amount of LEA governance token they will receive in future.
+    *   Delea mini app will reward users with LEA points for their interest in ecosystem’s projects. Quests will be focused on improving ecosystem knowledge, especially DeFi knowledge and its systematic usage.
+    *   By offering a wide range of DeFi quests, helding trading contests and incentivizing users to share and to participate in trading strategies, Delea mini app will help develop web3 users and onboard new web2 users in TON ecosystem.
+*   **Applicant Information**
+    
+    *   Julia
+    *   [@julia\_b\_6](/u/julia_b_6)
+*   **Other Links or Details**:
+    
+    *   Web Site: [https://delea.finance/](https://delea.finance/)
+    *   Project Description: Delea is an innovative multi collateral yield bearing protocol ($TON, tsTON, stTON, tgBTC, etc.), offering flexibility and expanded asset support. At the core of the protocol are two key tokens:  
+        D-One Token ($DONE) - the over-collateralized stablecoin backed by other cryptocurrencies. It is designed to maintain a stable value of approximately 1 USD, offering users a reliable medium of exchange and store of value.  
+        LEA Token ($LEA) - the governance token of Delea is used among the protocol, empowering token holders with voting rights on key protocol decisions, and providing additional protocol profit to LEA holders.
+*   **Rules of Conduct Acknowledgment**
+    
+    *   By submitting this application, I agree to fully abide by [The Open League Rules of Conduct](https://www.notion.so/04f4a0fedf1a401687075f5efd83de68?pvs=21). I understand that any violation of these rules will result in immediate and indefinite exclusion from the competition.
+*   **Data Accuracy Confirmation**
+    
+    *   By submitting this form, I confirm that all provided information is accurate. I understand that any false information will lead to my project’s permanent disqualification from The Open League.
+*   **Methodology Acknowledgment**
+    
+    *   We confirm that we understand the exact methodology for tracking our protocol’s on-chain metrics (TVL/Volume) that is/will be available [on this GitHub page](https://github.com/ton-society/the-open-league/blob/main/seasons/S6_defi_scores.md#s6-defi-users-scores) by the time of adding the protocol to the leaderboard. We also state that we studied the General Rules of the competition [OLD: App & DeFi Leagues New Year Edition (S7): Rules for Teams](https://www.notion.so/OLD-App-DeFi-Leagues-New-Year-Edition-S7-Rules-for-Teams-1375274bd2cf8040b3b1c666dca57fee?pvs=21) and [Playbook for App League projects](https://www.notion.so/1375274bd2cf807ba442d1ba5ac2d7c9?pvs=21) and understand that the rank of my project in the leaderboard will depend on its contribution to the total TVL/Volume generated during the season.
+
+  2 Likes
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) December 4, 2024, 2:56am  2
+
+Hey team, congratulations on being approved for The Open League Season 7!
+
+We’re excited to invite you to join a dedicated chat for all participants. Please fill out this form: [https://forms.gle/WHzLpT9EcK79KPUB9](https://forms.gle/WHzLpT9EcK79KPUB9) , mentioning your project name and the Telegram handles of those who will be joining the chat (up to 2 people per team). Once submitted, join the chat via this link: [Telegram: Join Group Chat](https://t.me/+TbKriSZt35BiNmUy) .
+
+We’ll validate your handles and grant you access shortly. Looking forward to seeing you there!
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 40032
+
+[TON Research](/)
+
+# [MULTIX - First Social-Fi Launch Pad on TON blockchain](/t/multix-first-social-fi-launch-pad-on-ton-blockchain/40032)
+
+[The Open League](/c/the-open-league/56) 
+
+    
+
+[MULTIX](https://tonresear.ch/u/MULTIX)  November 22, 2024, 3:20pm  1
+
+Multix is a mass adoption SocialFi Launchpad platform on the TON blockchain, created to simplify DeFi interactions with a wide audience, including users without specialized technical knowledge.
+
+On the Multix platform, projects can easily conduct token sales, fair launches, airdrops, and marketing campaigns, thereby attracting a broad audience.
+
+Users benefit through multi-farming, multi-staking, a generous referral program, earn tokens and points for social activity, and also receive numerous additional bonuses completely free. Multix makes blockchain accessible and mutually beneficial for everyone!
+
+*   Telegram bot - [Telegram: Contact @multixcryptobot](https://t.me/multixcryptobot)
+*   GitBook - [RU | MULTIX](https://multix.gitbook.io/multix)
+*   GitHub - [GitHub - multixcrypto/dao-contract: Innovative contract for the TON blockchain that conducts token sales and automatically places liquidity on DEX.](https://github.com/multixcrypto/dao-contract)
+*   Telegram - [Telegram: Contact @MultixFi](https://t.me/MultixFi)
+*   Website - [https://multixplatform.io](https://multixplatform.io/)
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 40036
+
+[TON Research](/)
+
+# [Blum Joins the TON Memelandia Grant Program as the Next Grantee](/t/blum-joins-the-ton-memelandia-grant-program-as-the-next-grantee/40036)
+
+[TON Memelandia](/c/ton-memelandia/85) 
+
+    
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport)  November 22, 2024, 4:03pm  1
+
+Following our ongoing assessment of bonding curve memepads on the TON mainnet and in line with our **eligibility criteria**, we are thrilled to announce that **Blum** has been selected as the next grantee in the TON Memelandia Grant Program.
+
+Blum has finally rolled out their memepad to an impressive 87 million total users, with 35.5 million monthly active users (MAU)!
+
+Features: secure minting, token performance dashboard and marketplace trading.
+
+In just a few days since the initial app rollout, Blum has managed to meet the eligibility criteria and secure a $500,000 grant. It has thus become the fourth participant of the TON Memelandia’s grant program for memepads!
+
+**How Can Other Memepads Apply?**
+
+Any memepad that meets the eligibility criteria can apply to the Grant Program. The initiative is ongoing and accepts new submissions continuously.
+
+![:point_right:](https://tonresear.ch/images/emoji/twitter/point_right.png?v=12 ":point_right:") [**Application Form**](https://forms.gle/RtQfi5QXvJbBLycq9)
+
+  2 Likes
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 40064
+
+[TON Research](/)
+
+# [Beetroot Finance - Automated Yield Farming Aggregator](/t/beetroot-finance-automated-yield-farming-aggregator/40064)
+
+[The Open League](/c/the-open-league/defi-battle/63)  [DeFi League](/c/the-open-league/defi-battle/63) 
+
+    
+
+[Ali.ton](https://tonresear.ch/u/Ali.ton)  November 22, 2024, 8:58pm  1
+
+*   **Project Name** - Beetroot Finance
+    
+*   \*\*Link to product (Mini App / Web App) - [Telegram: Contact @BeetrootFiBot](https://t.me/BeetrootFiBot)
+    
+*   **Project Twitter** - [x.com](https://x.com/Beetroot_fi)
+    
+*   **Project Telegram Channel/Chat** - [Telegram: Contact @BeetrootFinance](https://t.me/BeetrootFinance)
+    
+*   **User Traction Document**\*
+    
+    *   Please attach a link to a Google Doc that includes:
+        *   Total Value Locked (TVL) and/or Monthly Volume Metrics - $1
+        *   DefiLlama Integration Details (include link). If it is still work in progress, please mention the status. - [https://defillama.com/protocol/beetroot-finance](https://defillama.com/protocol/beetroot-finance)
+        *   Additional Metrics (e.g., active users, transaction volume, etc) - n/a
+*   **Tracking Document (the most important document)** - [https://docs.google.com/document/d/1xnk4N83ekhw78Y3e9XhNeWXOy\_xT9LHboPNqZ7Npoyk/edit?usp=sharing](https://docs.google.com/document/d/1xnk4N83ekhw78Y3e9XhNeWXOy_xT9LHboPNqZ7Npoyk/edit?usp=sharing)
+    
+    We are aiming to build a transparent and verifiable system to track users impact. Therefore, we need your help to track all user interactions with your protocol. Final calculations will be implemented on top of the [TON Data Lake](https://github.com/re-doubt/ton-etl) project and all the data sets for your project will be available for all analytical projects like Dune, Nansen, etc.
+    
+    To make it possible, we need to have full implementation details related to your protocol, including **the overall architecture design and exact TL-B schemas,** as well as get the method’s signatures for all your contracts.
+    
+    *   Please complete this document with your details for leaderboard tracking and share it with us for a public view: [Leaderboard Tracking Form.](https://docs.google.com/document/d/1plsR_IZzIndrA1SEVGktxhp-MpajolY68SqyD6CI8qE/edit?usp=sharing)
+*   **Description of The Open League New Year Airdrop Mention**\*
+    
+    *   Posts on our social medias as well as in-app banner that will lead to the Ton Society page to mint DeFi Badge
+*   **Plan to Provide Additional Rewards/Incentives for Users**\*
+    
+    *   Airdrop of memecions
+*   **Applicant Information**\*
+    
+    *   Your Name - Ali
+    *   Your Telegram Handle - @tleubayev
+*   **Other Links or Details**
+    
+    *   Include any other relevant links or information about your project.
+*   **Rules of Conduct Acknowledgment**\*
+    
+    *   By submitting this application, I agree to fully abide by [The Open League Rules of Conduct](https://www.notion.so/04f4a0fedf1a401687075f5efd83de68?pvs=21). I understand that any violation of these rules will result in immediate and indefinite exclusion from the competition.
+*   **Data Accuracy Confirmation**\*
+    
+    *   By submitting this form, I confirm that all provided information is accurate. I understand that any false information will lead to my project’s permanent disqualification from The Open League.
+*   **Methodology Acknowledgment**\*
+    
+    *   We confirm that we understand the exact methodology for tracking our protocol’s on-chain metrics (TVL/Volume) that is/will be available [on this GitHub page](https://github.com/ton-society/the-open-league/blob/main/seasons/S6_defi_scores.md#s6-defi-users-scores) by the time of adding the protocol to the leaderboard. We also state that we studied the General Rules of the competition [OLD: App & DeFi Leagues New Year Edition (S7): Rules for Teams](https://www.notion.so/OLD-App-DeFi-Leagues-New-Year-Edition-S7-Rules-for-Teams-1375274bd2cf8040b3b1c666dca57fee?pvs=21) and [Playbook for App League projects](https://www.notion.so/1375274bd2cf807ba442d1ba5ac2d7c9?pvs=21) and understand that the rank of my project in the leaderboard will depend on its contribution to the total TVL/Volume generated during the season.
+
+ 
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) November 27, 2024, 6:26am  2
+
+Hello team,
+
+It seems the app is not functioning properly at link [Telegram: Contact @BeetrootFiBot](https://t.me/BeetrootFiBot?startapp), which prevents us from testing it. Unfortunately, due to this issue, we are unable to accept your application for The Open League Season 7.
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 40069
+
+[TON Research](/)
+
+# [Ape.Day - Memepad on TON](/t/ape-day-memepad-on-ton/40069)
+
+[The Open League](/c/the-open-league/defi-battle/63)  [DeFi League](/c/the-open-league/defi-battle/63) 
+
+    
+
+[ApeDay](https://tonresear.ch/u/ApeDay)  November 22, 2024, 9:45pm  1
+
+1.  Project Name Ape.Day
+2.  Link to product (Mini App / Web App): [Telegram:](https://t.me/pocketfi_bot/bigpump) [Telegram: Contact @apeday\_bot](http://t.me/apeday_bot/apeday)  
+    bot: @apeday\_bot
+3.  Project Twitter: [x.com](https://x.com/greatdaytoape)
+4.  Project Telegram Channel/Chat: [Telegram:](https://t.me/pocketfi) [Telegram: Contact @greatdaytoape](https://t.me/greatdaytoape)
+5.  User Traction Document:
+
+*   Monthly Trading Volume: 268.9 TON
+*   DefiLlama Integration Details. In progress
+*   Additional Metrics:  
+    Tokens deployed: 47 memecoins  
+    Number of trades (tx): 226
+
+6.  Tracking Document (the most important document)
+
+[docs.google.com](https://docs.google.com/document/d/1gAXkpnmh0XMb2BT84ztrkyHR5JoTYGmrtn4xSS19eQ8/edit?tab=t.0)
+
+[](https://docs.google.com/document/d/1gAXkpnmh0XMb2BT84ztrkyHR5JoTYGmrtn4xSS19eQ8/edit?tab=t.0)
+
+### [ApeDay](https://docs.google.com/document/d/1gAXkpnmh0XMb2BT84ztrkyHR5JoTYGmrtn4xSS19eQ8/edit?tab=t.0)
+
+We invite you to participate in the upcoming DeFi support program in the new season of The Open League. Please consider this unique opportunity to gain recognition and receive rewards from your users. We are aiming to build a transparent and...
+
+7.  Description of The Open League New Year Airdrop Mention\*  
+    Announcements in Ape.Day Live channels + The Open League banners will be done
+8.  Plan to Provide Additional Rewards/Incentives for Users\*  
+    A reward system will be implemented
+9.  Applicant Information  
+    Your Name: Roro
+10.  Your Telegram Handle: @rorogotbags
+11.  Other Links or Details  
+    Include any other relevant links or information about your project.
+
+*   **Rules of Conduct Acknowledgment**\*
+    *   By submitting this application, I agree to fully abide by [The Open League Rules of Conduct](https://www.notion.so/04f4a0fedf1a401687075f5efd83de68?pvs=21). I understand that any violation of these rules will result in immediate and indefinite exclusion from the competition.
+*   **Data Accuracy Confirmation**\*
+    *   By submitting this form, I confirm that all provided information is accurate. I understand that any false information will lead to my project’s permanent disqualification from The Open League.
+*   **Methodology Acknowledgment**\*
+    *   We confirm that we understand the exact methodology for tracking our protocol’s on-chain metrics (TVL/Volume) that is/will be available [on this GitHub page](https://github.com/ton-society/the-open-league/blob/main/seasons/S6_defi_scores.md#s6-defi-users-scores) by the time of adding the protocol to the leaderboard. We also state that we studied the General Rules of the competition [OLD: App & DeFi Leagues New Year Edition (S7): Rules for Teams](https://www.notion.so/OLD-App-DeFi-Leagues-New-Year-Edition-S7-Rules-for-Teams-1375274bd2cf8040b3b1c666dca57fee?pvs=21) and [Playbook for App League projects](https://www.notion.so/1375274bd2cf807ba442d1ba5ac2d7c9?pvs=21) and understand that the rank of my project in the leaderboard will depend on its contribution to the total TVL/Volume generated during the season.
+
+ 
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) November 25, 2024, 1:21pm  2
+
+Hello team!
+
+We are waiting for the open source code for calculation of TVL in your document
+
+ 
+
+[ApeDay](https://tonresear.ch/u/ApeDay) November 25, 2024, 6:28pm  3
+
+added by [link](https://github.com/ape-day/apeday)
+
+ 
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) November 27, 2024, 5:38am  4
+
+Thank you for your submission! Your application is still under review. Please bear with us as we finalize the decision. If approved, your app will be added to the leaderboard and the airdrop page shortly after integration is complete. We appreciate your patience!
+
+ 
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) December 2, 2024, 4:04am  5
+
+Could you please prepare instructions on how to use this script to retrieve volume data for all users for the period from November 25 to November 28? We couldn’t find any documentation for it on GitHub.
+
+Thank you!
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 40071
+
+[TON Research](/)
+
+# [Syde.fi - First Synthetic Derivatives on TON](/t/syde-fi-first-synthetic-derivatives-on-ton/40071)
+
+[The Open League](/c/the-open-league/defi-battle/63)  [DeFi League](/c/the-open-league/defi-battle/63) 
+
+    
+
+[bodyaswag](https://tonresear.ch/u/bodyaswag)  November 22, 2024, 9:59pm  1
+
+*   Project Name- [syde.fi](http://syde.fi)
+    
+*   **Link to product (Mini App / Web App) - [Telegram: Contact @sydefi\_bot](https://t.me/sydefi_bot), [https://app.syde.fi/](https://app.syde.fi/)**\*
+    
+*   **Project Twitter- [x.com](https://x.com/sydefi)**\*
+    
+*   **Project Telegram Channel/Chat- [Telegram: Contact @sydefi](https://t.me/sydefi)**\*
+    
+*   **User Traction Document**\*
+    
+    *   we just launched the mainnet, so amount of users is less than 10 and tvl is almost 0, defi lama integration is done, we are waiting for PR approval: [create syde adapter by fivestarsfi · Pull Request #12398 · DefiLlama/DefiLlama-Adapters · GitHub](https://github.com/DefiLlama/DefiLlama-Adapters/pull/12398)
+*   **Tracking Document (the most important document)**\*  
+    [https://docs.google.com/document/d/1e0CyYwnv8DcWsagTnnT9Lh6gns\_W3HqUdCt\_hhjkEso/edit?tab=t.0](https://docs.google.com/document/d/1e0CyYwnv8DcWsagTnnT9Lh6gns_W3HqUdCt_hhjkEso/edit?tab=t.0)
+    
+    We are aiming to build a transparent and verifiable system to track users impact. Therefore, we need your help to track all user interactions with your protocol. Final calculations will be implemented on top of the [TON Data Lake](https://github.com/re-doubt/ton-etl) project and all the data sets for your project will be available for all analytical projects like Dune, Nansen, etc.
+    
+    To make it possible, we need to have full implementation details related to your protocol, including **the overall architecture design and exact TL-B schemas,** as well as get the method’s signatures for all your contracts.
+    
+    *   Please complete this document with your details for leaderboard tracking and share it with us for a public view: [Leaderboard Tracking Form.](https://docs.google.com/document/d/1plsR_IZzIndrA1SEVGktxhp-MpajolY68SqyD6CI8qE/edit?usp=sharing)
+*   **Description of The Open League New Year Airdrop Mention**\*
+    
+    *   it will be posted in the channel and in the mentioned on the app itself
+*   **Plan to Provide Additional Rewards/Incentives for Users**\*
+    
+    *   syde fi points, nfts will be provided
+*   **Applicant Information**\*
+    
+    *   Bogdan Pugin
+    *   [@bodyaswag](/u/bodyaswag)
+*   **Other Links or Details**
+    
+    *   [app.syde.fi](http://app.syde.fi), [x.com](https://x.com/sydefi), [Telegram: Contact @sydefi](http://t.me/sydefi)
+*   **Rules of Conduct Acknowledgment**\*
+    
+    *   By submitting this application, I agree to fully abide by [The Open League Rules of Conduct](https://www.notion.so/04f4a0fedf1a401687075f5efd83de68?pvs=21). I understand that any violation of these rules will result in immediate and indefinite exclusion from the competition.
+*   **Data Accuracy Confirmation**\*
+    
+    *   By submitting this form, I confirm that all provided information is accurate. I understand that any false information will lead to my project’s permanent disqualification from The Open League.
+*   **Methodology Acknowledgment**\*
+    
+    *   We confirm that we understand the exact methodology for tracking our protocol’s on-chain metrics (TVL/Volume) that is/will be available [on this GitHub page](https://github.com/ton-society/the-open-league/blob/main/seasons/S6_defi_scores.md#s6-defi-users-scores) by the time of adding the protocol to the leaderboard. We also state that we studied the General Rules of the competition [OLD: App & DeFi Leagues New Year Edition (S7): Rules for Teams](https://www.notion.so/OLD-App-DeFi-Leagues-New-Year-Edition-S7-Rules-for-Teams-1375274bd2cf8040b3b1c666dca57fee?pvs=21) and [Playbook for App League projects](https://www.notion.so/1375274bd2cf807ba442d1ba5ac2d7c9?pvs=21) and understand that the rank of my project in the leaderboard will depend on its contribution to the total TVL/Volume generated during the season.
+
+  1 Like
+
+[Soran](https://tonresear.ch/u/Soran) November 24, 2024, 9:57am  2
+
+Hell yah it’s awesome
+
+ 
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) November 25, 2024, 1:22pm  3
+
+Hello team!
+
+We are waiting for the open source code for calculation of TVL in your document
+
+ 
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) November 27, 2024, 5:38am  4
+
+Thank you for your submission! Your application is still under review. Please bear with us as we finalize the decision. If approved, your app will be added to the leaderboard and the airdrop page shortly after integration is complete. We appreciate your patience!
+
+ 
+
+[openleaguesupport](https://tonresear.ch/u/openleaguesupport) November 28, 2024, 6:45am  5
+
+Hey guys! We need a script from you to get the TVL impact for each wallet for any period.
+
+ 
+
+[bodyaswag](https://tonresear.ch/u/bodyaswag) November 28, 2024, 8:14pm  6
+
+[@openleaguesupport](/u/openleaguesupport)  
+we’ve updated document with script logic and that script is implemented via defillama connector: [syde adapter - update addr and logo by fivestarsfi · Pull Request #12483 · DefiLlama/DefiLlama-Adapters · GitHub](https://github.com/DefiLlama/DefiLlama-Adapters/pull/12483)
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 40075
+
+[TON Research](/)
+
+# [TON INU $TINU #Ecosystem](/t/ton-inu-tinu-ecosystem/40075)
+
+[The Open League](/c/the-open-league/defi-battle/63)  [DeFi League](/c/the-open-league/defi-battle/63) 
+
+    
+
+[AliAkczaa](https://tonresear.ch/u/AliAkczaa)  November 22, 2024, 10:58pm  1
+
+*   \*_Project Name_ - TON INU $TINU
+    
+*   **Link to product (Mini App / Web App) - please indicate which link should be added to the leaderboard**\* [Ton Inu](https://app.toninu.tech/dashboard)
+    
+*   **Project Twitter** [x.com](https://x.com/toninutools)
+    
+*   **Project Telegram Channel/Chat**\* [Telegram: Contact @toninutools](https://t.me/toninutools)
+    
+*   **User Traction Document**\*
+    
+    *   Please attach a link to a Google Doc that includes:
+        *   Total Value Locked (TVL) and/or Monthly Volume Metrics
+        *   DefiLlama Integration Details (include link). If it is still work in progress, please mention the status.
+        *   Additional Metrics (e.g., active users, transaction volume, etc)
+*   **Tracking Document (the most important document)**\*  
+    [https://docs.google.com/document/d/1RoGUgYMCCejvXCtH-s4czy2up14rtiWzUlVbD5yn4aY/edit?usp=sharing](https://docs.google.com/document/d/1RoGUgYMCCejvXCtH-s4czy2up14rtiWzUlVbD5yn4aY/edit?usp=sharing)  
+    We are aiming to build a transparent and verifiable system to track users impact. Therefore, we need your help to track all user interactions with your protocol. Final calculations will be implemented on top of the [TON Data Lake](https://github.com/re-doubt/ton-etl) project and all the data sets for your project will be available for all analytical projects like Dune, Nansen, etc.
+    
+    To make it possible, we need to have full implementation details related to your protocol, including **the overall architecture design and exact TL-B schemas,** as well as get the method’s signatures for all your contracts.
+    
+    *   Please complete this document with your details for leaderboard tracking and share it with us for a public view: [Leaderboard Tracking Form.](https://docs.google.com/document/d/1plsR_IZzIndrA1SEVGktxhp-MpajolY68SqyD6CI8qE/edit?usp=sharing)
+*   **Description of The Open League New Year Airdrop Mention**\*
+    
+    *   Description of how you plan to mention The Open League New Year Airdrop inside your product and invite your users to mint a DeFi Badge to participate in the campaign.
+*   **Plan to Provide Additional Rewards/Incentives for Users**\*
+    
+    *   Describe any additional incentives, such as off-chain points or on-chain assets, that you plan to offer users during the season.
+*   **Applicant Information**\*
+    
+    *   Ali
+    *   @AliAkcza
+*   **Other Links or Details**
+    
+    *   Include any other relevant links or information about your project.
+*   **Rules of Conduct Acknowledgment**\*
+    
+    *   By submitting this application, I agree to fully abide by [The Open League Rules of Conduct](https://www.notion.so/04f4a0fedf1a401687075f5efd83de68?pvs=21). I understand that any violation of these rules will result in immediate and indefinite exclusion from the competition.
+*   **Data Accuracy Confirmation**\*
+    
+    *   By submitting this form, I confirm that all provided information is accurate. I understand that any false information will lead to my project’s permanent disqualification from The Open League.
+*   **Methodology Acknowledgment**\*
+    
+    *   We confirm that we understand the exact methodology for tracking our protocol’s on-chain metrics (TVL/Volume) that is/will be available [on this GitHub page](https://github.com/ton-society/the-open-league/blob/main/seasons/S6_defi_scores.md#s6-defi-users-scores) by the time of adding the protocol to the leaderboard. We also state that we studied the General Rules of the competition [OLD: App & DeFi Leagues New Year Edition (S7): Rules for Teams](https://www.notion.so/OLD-App-DeFi-Leagues-New-Year-Edition-S7-Rules-for-Teams-1375274bd2cf8040b3b1c666dca57fee?pvs=21) and [Playbook for App League projects](https://www.notion.so/1375274bd2cf807ba442d1ba5ac2d7c9?pvs=21) and understand that the rank of my project in the leaderboard will depend on its contribution to the total TVL/Volume generated during the season.
+
+  5 Likes
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 40157
+
+[TON Research](/)
+
+# [Alert Bot For TON Dexscreener Tokens Profile Updates](/t/alert-bot-for-ton-dexscreener-tokens-profile-updates/40157)
+
+[General](/c/general/4) 
+
+    
+
+[Darwin\_DC](https://tonresear.ch/u/Darwin_DC)  November 25, 2024, 9:19am  1
+
+A powerful bot that monitors DexScreener for new TON token profiles updates and sends alerts to dedicated Telegram channel - [Telegram: Contact @tondexscreenerupdates](https://t.me/tondexscreenerupdates).
+
+_This is a free tool for all degens in TON trenches._
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 40168
+
+[TON Research](/)
+
+# [Telgather Minigames Platform Bot is LIVE](/t/telgather-minigames-platform-bot-is-live/40168)
+
+[The Open League](/c/the-open-league/56) 
+
+    
+
+[ladiw1998](https://tonresear.ch/u/ladiw1998)  November 25, 2024, 10:16pm  1
+
+Telgather Minigames Platform Bot is LIVE! Earn POG, Get Ready for TOG, and More!  
+We are thrilled to officially announce the launch of the **Telgather platform bot**, your gateway to earning rewards, having fun, and preparing for the full launch of **Telgather** this November! As we gear up for the exciting debut of **TOG** tokens, here’s how you can get started earning **POG** and why you won’t want to miss out.
+
+# [](#p-66033-what-is-pog-1)What is POG?
+
+**POG** is more than just a point system — it’s the **warrant** for holders to earn **TOG tokens** when Telgather officially lists in **November**. By collecting POG now, you’re securing your future spot in Telgather’s token economy. Whether you’re playing games, inviting friends, or engaging with the platform, POG puts you ahead of the curve, giving you access to exclusive rewards.
+
+# [](#p-66033-telgather-minigames-platform-bot-is-live-earn-pog-get-ready-for-tog-and-more-2)![:video_game:](https://tonresear.ch/images/emoji/twitter/video_game.png?v=12 ":video_game:")Telgather Minigames Platform Bot is LIVE! Earn POG, Get Ready for TOG, and More! ![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:")
+
+We are thrilled to officially announce the launch of the **Telgather platform bot**, your gateway to earning rewards, having fun, and preparing for the full launch of **Telgather** this November! As we gear up for the exciting debut of **TOG** tokens, here’s how you can get started earning **POG** and why you won’t want to miss out.
+
+# [](#p-66033-what-is-pog-3)What is POG?
+
+**POG** is more than just a point system — it’s the **warrant** for holders to earn **TOG tokens** when Telgather officially lists in **November**. By collecting POG now, you’re securing your future spot in Telgather’s token economy. Whether you’re playing games, inviting friends, or engaging with the platform, POG puts you ahead of the curve, giving you access to exclusive rewards.
+
+How to get started
+
+# [](#p-66033-how-to-earn-pog-on-the-telgather-platform-bot-4)How to Earn POG on the Telgather Platform Bot
+
+Telgather offers several exciting ways to earn POG today, with even more features coming soon! Here’s what’s available now:
+
+1.  **Invite Your Friends:** Invite friends to join the Telgather bot and earn **POG** for each successful referral! For every invite to be valid, your friend needs to **log into the bot** and **link their Telegram account**. Once your friend is on board, you’ll get **15% of whatever POG they earn** — every time they earn! So the more active your friends are, the more POG you collect.
+2.  **Play Games:** Jump into our available games: **Banana** ![:banana:](https://tonresear.ch/images/emoji/twitter/banana.png?v=12 ":banana:") and **Fintastic** ![:fish:](https://tonresear.ch/images/emoji/twitter/fish.png?v=12 ":fish:")! These games are not only fun but also a great way to rack up POG as you play. Plus, with **Animal Combo** and more games on the way, there will be endless opportunities to earn even more.
+
+# [](#p-66033-what-is-tog-5)What is $TOG?
+
+As we prepare for the **Telgather** platform’s full launch in November, we’re excited to introduce the \*\*TOG token\*\*, which will be listed on exchanges. By accumulating \*\*POG\*\* now, you’re securing your spot to convert those points into **TOG tokens** during the official launch. It’s a simple equation: more POG = more TOG (not 1:1 ratio). Don’t miss your chance to get in early and be part of this growing ecosystem!
+
+# [](#p-66033-why-pog-matters-6)Why POG Matters
+
+Here’s why POG is your ticket to the future:
+
+*   **Warrant for TOG**: POG is the only way to earn **TOG tokens** when the official listing happens in **November**.
+*   **Referral Rebates**: With every successful invite, you’re not only boosting your POG balance but also setting up long-term rewards through the **15% rebate** on every POG your friend earns.
+*   **Game Rewards**: Whether it’s Banana, Fintastic, or future releases, you can continuously accumulate POG by playing the games you love.
+
+# [](#p-66033-carvs-support-in-powering-telgather-7)CARV’s Support in Powering Telgather
+
+We couldn’t have built this incredible ecosystem without the support of **CARV**. They’ve been instrumental in providing the **modular data infrastructure** that allows us to seamlessly store user data and manage rewards. With **CARV ID**, we’ve created a system where POG distribution is smooth, secure, and instant, ensuring that you get rewarded for every action you take on Telgather.
+
+# [](#p-66033-fast-paced-game-development-and-the-road-to-november-8)Fast-Paced Game Development and the Road to November
+
+Our team is working tirelessly to bring you the best possible experience. We’re moving at a rapid pace, developing top-quality games that are both engaging and rewarding. With each new release, we aim to provide more ways for you to earn POG and immerse yourself in the Telgather universe.
+
+As we approach the **November listing** of **TOG**, we’re excited about the future of Telgather and all the features we’re planning to roll out. From new games like **Animal Combo** to other highly anticipated platform features, there’s plenty to look forward to.
+
+# [](#p-66033-telgather-minigames-platform-bot-is-live-earn-pog-get-ready-for-tog-and-more-9)![:video_game:](https://tonresear.ch/images/emoji/twitter/video_game.png?v=12 ":video_game:")Telgather Minigames Platform Bot is LIVE! Earn POG, Get Ready for TOG, and More! ![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:")
+
+We are thrilled to officially announce the launch of the **Telgather platform bot**, your gateway to earning rewards, having fun, and preparing for the full launch of **Telgather** this November! As we gear up for the exciting debut of **TOG** tokens, here’s how you can get started earning **POG** and why you won’t want to miss out.
+
+# [](#p-66033-what-is-pog-10)What is POG?
+
+**POG** is more than just a point system — it’s the **warrant** for holders to earn **TOG tokens** when Telgather officially lists in **November**. By collecting POG now, you’re securing your future spot in Telgather’s token economy. Whether you’re playing games, inviting friends, or engaging with the platform, POG puts you ahead of the curve, giving you access to exclusive rewards.
+
+How to get started
+
+# [](#p-66033-how-to-earn-pog-on-the-telgather-platform-bot-11)How to Earn POG on the Telgather Platform Bot
+
+Telgather offers several exciting ways to earn POG today, with even more features coming soon! Here’s what’s available now:
+
+1.  **Invite Your Friends:** Invite friends to join the Telgather bot and earn **POG** for each successful referral! For every invite to be valid, your friend needs to **log into the bot** and **link their Telegram account**. Once your friend is on board, you’ll get **15% of whatever POG they earn** — every time they earn! So the more active your friends are, the more POG you collect.
+2.  **Play Games:** Jump into our available games: **Banana** ![:banana:](https://tonresear.ch/images/emoji/twitter/banana.png?v=12 ":banana:") and **Fintastic** ![:fish:](https://tonresear.ch/images/emoji/twitter/fish.png?v=12 ":fish:")! These games are not only fun but also a great way to rack up POG as you play. Plus, with **Animal Combo** and more games on the way, there will be endless opportunities to earn even more.
+
+# [](#p-66033-what-is-tog-12)What is $TOG?
+
+As we prepare for the **Telgather** platform’s full launch in November, we’re excited to introduce the \*\*TOG token\*\*, which will be listed on exchanges. By accumulating \*\*POG\*\* now, you’re securing your spot to convert those points into **TOG tokens** during the official launch. It’s a simple equation: more POG = more TOG (not 1:1 ratio). Don’t miss your chance to get in early and be part of this growing ecosystem!
+
+# [](#p-66033-why-pog-matters-13)Why POG Matters
+
+Here’s why POG is your ticket to the future:
+
+*   **Warrant for TOG**: POG is the only way to earn **TOG tokens** when the official listing happens in **November**.
+*   **Referral Rebates**: With every successful invite, you’re not only boosting your POG balance but also setting up long-term rewards through the **15% rebate** on every POG your friend earns.
+*   **Game Rewards**: Whether it’s Banana, Fintastic, or future releases, you can continuously accumulate POG by playing the games you love.
+
+# [](#p-66033-carvs-support-in-powering-telgather-14)CARV’s Support in Powering Telgather
+
+We couldn’t have built this incredible ecosystem without the support of **CARV**. They’ve been instrumental in providing the **modular data infrastructure** that allows us to seamlessly store user data and manage rewards. With **CARV ID**, we’ve created a system where POG distribution is smooth, secure, and instant, ensuring that you get rewarded for every action you take on Telgather.
+
+# [](#p-66033-fast-paced-game-development-and-the-road-to-november-15)Fast-Paced Game Development and the Road to November
+
+Our team is working tirelessly to bring you the best possible experience. We’re moving at a rapid pace, developing top-quality games that are both engaging and rewarding. With each new release, we aim to provide more ways for you to earn POG and immerse yourself in the Telgather universe.
+
+As we approach the **November listing** of **TOG**, we’re excited about the future of Telgather and all the features we’re planning to roll out. From new games like **Animal Combo** to other highly anticipated platform features, there’s plenty to look forward to.
+
+Game List for Oct
+
+# [](#p-66033-first-second-batch-of-pog-distribution-1000000-pog-sent-out-16)First & Second Batch of POG Distribution: 1,000,000+ POG Sent Out!
+
+In case you missed it, we’ve already distributed 1,300\*\*,000 POG\*\* already! But don’t worry if you weren’t part of that — there’s another batch coming soon, and it’s not too late to start earning your share. Get in on the action now and be ready for the next POG drop!
+
+# [](#p-66033-telgather-minigames-platform-bot-is-live-earn-pog-get-ready-for-tog-and-more-17)![:video_game:](https://tonresear.ch/images/emoji/twitter/video_game.png?v=12 ":video_game:")Telgather Minigames Platform Bot is LIVE! Earn POG, Get Ready for TOG, and More! ![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:")
+
+We are thrilled to officially announce the launch of the **Telgather platform bot**, your gateway to earning rewards, having fun, and preparing for the full launch of **Telgather** this November! As we gear up for the exciting debut of **TOG** tokens, here’s how you can get started earning **POG** and why you won’t want to miss out.
+
+# [](#p-66033-what-is-pog-18)What is POG?
+
+**POG** is more than just a point system — it’s the **warrant** for holders to earn **TOG tokens** when Telgather officially lists in **November**. By collecting POG now, you’re securing your future spot in Telgather’s token economy. Whether you’re playing games, inviting friends, or engaging with the platform, POG puts you ahead of the curve, giving you access to exclusive rewards.
+
+How to get started
+
+# [](#p-66033-how-to-earn-pog-on-the-telgather-platform-bot-19)How to Earn POG on the Telgather Platform Bot
+
+Telgather offers several exciting ways to earn POG today, with even more features coming soon! Here’s what’s available now:
+
+1.  **Invite Your Friends:** Invite friends to join the Telgather bot and earn **POG** for each successful referral! For every invite to be valid, your friend needs to **log into the bot** and **link their Telegram account**. Once your friend is on board, you’ll get **15% of whatever POG they earn** — every time they earn! So the more active your friends are, the more POG you collect.
+2.  **Play Games:** Jump into our available games: **Banana** ![:banana:](https://tonresear.ch/images/emoji/twitter/banana.png?v=12 ":banana:") and **Fintastic** ![:fish:](https://tonresear.ch/images/emoji/twitter/fish.png?v=12 ":fish:")! These games are not only fun but also a great way to rack up POG as you play. Plus, with **Animal Combo** and more games on the way, there will be endless opportunities to earn even more.
+
+# [](#p-66033-what-is-tog-20)What is $TOG?
+
+As we prepare for the **Telgather** platform’s full launch in November, we’re excited to introduce the \*\*TOG token\*\*, which will be listed on exchanges. By accumulating \*\*POG\*\* now, you’re securing your spot to convert those points into **TOG tokens** during the official launch. It’s a simple equation: more POG = more TOG (not 1:1 ratio). Don’t miss your chance to get in early and be part of this growing ecosystem!
+
+# [](#p-66033-why-pog-matters-21)Why POG Matters
+
+Here’s why POG is your ticket to the future:
+
+*   **Warrant for TOG**: POG is the only way to earn **TOG tokens** when the official listing happens in **November**.
+*   **Referral Rebates**: With every successful invite, you’re not only boosting your POG balance but also setting up long-term rewards through the **15% rebate** on every POG your friend earns.
+*   **Game Rewards**: Whether it’s Banana, Fintastic, or future releases, you can continuously accumulate POG by playing the games you love.
+
+# [](#p-66033-carvs-support-in-powering-telgather-22)CARV’s Support in Powering Telgather
+
+We couldn’t have built this incredible ecosystem without the support of **CARV**. They’ve been instrumental in providing the **modular data infrastructure** that allows us to seamlessly store user data and manage rewards. With **CARV ID**, we’ve created a system where POG distribution is smooth, secure, and instant, ensuring that you get rewarded for every action you take on Telgather.
+
+# [](#p-66033-fast-paced-game-development-and-the-road-to-november-23)Fast-Paced Game Development and the Road to November
+
+Our team is working tirelessly to bring you the best possible experience. We’re moving at a rapid pace, developing top-quality games that are both engaging and rewarding. With each new release, we aim to provide more ways for you to earn POG and immerse yourself in the Telgather universe.
+
+As we approach the **November listing** of **TOG**, we’re excited about the future of Telgather and all the features we’re planning to roll out. From new games like **Animal Combo** to other highly anticipated platform features, there’s plenty to look forward to.
+
+Game List for Oct
+
+# [](#p-66033-first-second-batch-of-pog-distribution-1000000-pog-sent-out-24)First & Second Batch of POG Distribution: 1,000,000+ POG Sent Out!
+
+In case you missed it, we’ve already distributed 1,300\*\*,000 POG\*\* already! But don’t worry if you weren’t part of that — there’s another batch coming soon, and it’s not too late to start earning your share. Get in on the action now and be ready for the next POG drop!
+
+# [](#p-66033-whats-next-25)What’s Next?
+
+The future of Telgather is bright! We’re just getting started, and with $**TOG** coming in November, now is the time to rack up as much POG as you can. Whether you’re inviting friends, playing games, or waiting for new features, every action counts toward your POG balance — and ultimately, your stake in the Telgather economy.
+
+So what are you waiting for? **Join the Telgather platform bot today**, start earning POG, and get ready for even greater things to come! ![:tada:](https://tonresear.ch/images/emoji/twitter/tada.png?v=12 ":tada:")
+
+## [](#p-66033-dive-into-the-telgather-platform-bot-nowhttpstmetelgatherminigamesbottelgatherminigamesappbotstartappcosgjwnfjyyhytd-or-copy-the-link-below-and-paste-in-your-browser-26)[Dive Into The Telgather Platform Bot NOW!](https://t.me/TelgatherMinigamesBot/TelgatherMinigamesAppBot?startapp=COSGJWNFJYYHYTD) OR Copy the Link below and Paste in your browser.
+
+# [](#p-66033-key-features-27)Key Features:
+
+*   **Play-to-Earn:** ![:gift:](https://tonresear.ch/images/emoji/twitter/gift.png?v=12 ":gift:") Play minigames, earn rewards — simple and satisfying!
+*   **Social-to-Earn:** ![:handshake:](https://tonresear.ch/images/emoji/twitter/handshake.png?v=12 ":handshake:") Engage with others, earn while you connect!
+*   **For Gamers:** ![:video_game:](https://tonresear.ch/images/emoji/twitter/video_game.png?v=12 ":video_game:") Dive into endless mini-games, level up your fun!
+*   **For Game-Makers:** ![:art:](https://tonresear.ch/images/emoji/twitter/art.png?v=12 ":art:") Create, share, and monetize your games effortlessly!
+*   **Ads Earning:** ![:moneybag:](https://tonresear.ch/images/emoji/twitter/moneybag.png?v=12 ":moneybag:") Turn in-game ads into real earnings with ease!
+*   [_Website_](https://telgather.com/) _|_ [_Twitter_](https://x.com/TelgatherGames) _|_ [_Telgather Hub_](https://t.me/Telgatherminigames/1) _|_ [_Announcement_](https://t.me/TelgatherMinigamesAnn) _|_ [_Youtube_](https://youtube.com/@telgather?si=5rGXG8KY99ohg7w3) _|_
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 40213
+
+[TON Research](/)
+
+# [Memeerkat ($MKAT) | Memecoin Mountain](/t/memeerkat-mkat-memecoin-mountain/40213)
+
+[TON Memelandia](/c/ton-memelandia/memecoin-mountain/86)  [Memecoin Mountain](/c/ton-memelandia/memecoin-mountain/86) 
+
+    
+
+[Memeerkat](https://tonresear.ch/u/Memeerkat)  November 28, 2024, 7:13pm  1
+
+**Submission Form for Memecoin Mountain**
+
+1.  **Your Role in the Competition:**
+    1.  Memecoin Project / Trader / Whale
+
+_(Only for Memecoin Projects; skip if you are a Trader/Whale)_
+
+1.  \*\*Memecoin Name:\*\*MKAT
+2.  \*\*Token Contract Address:\*\*EQDAkYL1M-JinsCns4j1ckuYL5UwtwXmW8aVu2mCNUxEyu3\_
+3.  **Market Cap (at the time of application):**$613,648
+4.  **Daily Trading Volume (for the last 7 days):**$845,000
+5.  \*\*Number of Unique Token Holders:\*\*1,868
+6.  **Has your token been fairly launched?**
+    1.  Yes
+7.  \*\*Please provide a link to your CoinGecko listing:\*\*[https://www.coingecko.com/en/coins/memeerkat](https://www.coingecko.com/en/coins/memeerkat)
+8.  \*\*Are you applying for the Major League or Minor League?\*\*Major League
+9.  \*\*Briefly describe your memecoin’s strategy for growth and community engagement:\*\*Memeerkat isn’t just a meme token; it’s a philosophy inspired by the unique traits of meerkats. ![:paw_prints:](https://tonresear.ch/images/emoji/twitter/paw_prints.png?v=12 ":paw_prints:") These small, vigilant creatures symbolize community, teamwork, and resilience—everything our holder-driven culture embodies. Together, we’ll use these qualities to innovate, collaborate, and leave an unforgettable pawprint on the MEME world. ![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:")![:gem:](https://tonresear.ch/images/emoji/twitter/gem.png?v=12 ":gem:")
+10.  **Do you have any partnerships with Key Opinion Leaders (KOLs) or influencers?**
+    1.  Yes
+    2.  Confidential
+
+_(Only for Traders/Whales; skip if you are a Memecoin Project)_
+
+1.  **Trader’s Wallet Address:**
+2.  **Which memecoins are you primarily trading in this competition?**
+3.  **How did you find out about this competition?**
+    1.  Twitter / Telegram / Other
+4.  **Have you participated in any previous memecoin trading competitions?**
+    1.  Yes / No
+5.  **What’s your trading strategy for the upcoming season?**
+
+(General)
+
+1.  **Would you like to receive updates and announcements during the competition?**
+    1.  Yes
+2.  **Provide your Telegram username for communication and coordination:** @mrmemeerkat
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 40227
+
+[TON Research](/)
+
+# [$LAMBO | Memecoin Mountain](/t/lambo-memecoin-mountain/40227)
+
+[TON Memelandia](/c/ton-memelandia/memecoin-mountain/86)  [Memecoin Mountain](/c/ton-memelandia/memecoin-mountain/86) 
+
+    
+
+[Wen\_Lambo](https://tonresear.ch/u/Wen_Lambo)  November 29, 2024, 9:44am  1
+
+**Submission Form for Memecoin Mountain**
+
+1.  **Your Role in the Competition:** Memecoin Project
+    
+2.  **Memecoin Name:** LAMBO
+    
+3.  **Token Contract Address:** EQDE1iPrP80L17RzkH3YluXsEcn5i-bPFfue259uMKKFE3h0
+    
+4.  \*\*Market Cap (at the time of application):\*\*1.8 mln
+    
+5.  **Daily Trading Volume (for the last 7 days):** 350 000
+    
+6.  **Number of Unique Token Holders:** 1019
+    
+7.  **Has your token been fairly launched?** Yes, BigPump
+    
+8.  **Please provide a link to your CoinGecko listing:** none
+    
+9.  **Are you applying for the Major League or Minor League?** Major
+    
+10.  **Briefly describe your memecoin’s strategy for growth and community engagement:** We have amazing plans and we believe our Lambo can achieve them.
+    
+11.  **Do you have any partnerships with Key Opinion Leaders (KOLs) or influencers?**
+    
+    1.  Yes we have
+
+(General)
+
+1.  **Would you like to receive updates and announcements during the competition?**
+    1.  Yes
+2.  **Provide your Telegram username for communication and coordination:** [@Kirill\_prozorov](/u/kirill_prozorov), @tonlinesmanager
+
+  1 Like
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 40228
+
+[TON Research](/)
+
+# [OinkCoin - The most adorable memecoin on TON](/t/oinkcoin-the-most-adorable-memecoin-on-ton/40228)
+
+[The Open League](/c/the-open-league/56) 
+
+    
+
+[Ivan\_Shcherbakov](https://tonresear.ch/u/Ivan_Shcherbakov)  November 29, 2024, 10:08am  1
+
+# [](#p-66177-project-name-oinkcoin-1)Project Name: OinkCoin
+
+## [](#p-66177-link-to-product-mini-app-2)Link to Product (Mini App)
+
+*   **Mini App:** [@OinkCoinBot](https://t.me/oinkcoinbot) - Include on leaderboard.
+
+## [](#p-66177-project-twitter-3)Project Twitter
+
+*   [OinkCoin on X](https://x.com/oinkcoin_)
+
+## [](#p-66177-project-telegram-channelchat-4)Project Telegram Channel/Chat
+
+*   **Channel:** [OinkCoin Channel](https://t.me/oinkcoinchannel)
+*   **Group:** [OinkCoin Group](https://t.me/OinkCoinGroup)
+
+* * *
+
+## [](#p-66177-description-of-some-functionalities-in-oinkcoin-5)Description of Some Functionalities in OinkCoin
+
+1.  **Tap-to-Earn Rewards:**
+    *   Users earn OinkCoins by tapping a virtual piggy bank in the app. Rewards increase with consistent activity.
+2.  **Daily Rewards:**
+    *   A daily login bonus system encourages users to check back daily to claim rewards.
+3.  **Task System:**
+    *   Users complete tasks such as joining channels, inviting friends, or watching ads to earn additional coins and tickets.
+4.  **In-App Shop:**
+    *   Players can use earned coins to purchase customizations such as gradients, coin designs, and emblems for their profiles.
+5.  **Leaderboard and Achievements:**
+    *   An interactive leaderboard motivates users by showcasing top performers and gamifying the experience.
+6.  **Games:**
+    *   Tic Tac Toe, BounceBlitz, Wheel of fortune, Combo Day.
+
+* * *
+
+## [](#p-66177-plan-to-provide-additional-rewardsincentives-for-users-6)Plan to Provide Additional Rewards/Incentives for Users\*
+
+*   **During the Open League:** $OINK Airdrop for users.
+*   **Seasonal Events:** Special events like badge minting and exclusive shop items will be introduced.
+
+* * *
+
+## [](#p-66177-applicant-information-7)Applicant Information\*
+
+*   **Name:** Ivan Shcherbakov
+*   **Telegram Handle:** [@heroivan](https://t.me/heroivan)
+
+* * *
+
+## [](#p-66177-rules-of-conduct-acknowledgment-8)Rules of Conduct Acknowledgment\*
+
+By submitting this application, I agree to fully abide by **[The Open League Rules of Conduct](https://ton-org.notion.site/The-Open-League-Rules-of-Conduct-04f4a0fedf1a401687075f5efd83de68)**. I understand that any violation of these rules will result in **immediate and indefinite exclusion** from the competition.
+
+* * *
+
+## [](#p-66177-data-accuracy-confirmation-9)Data Accuracy Confirmation
+
+By submitting this form, I confirm that all provided information is **accurate**. I understand that any **false information** will lead to my project’s **permanent disqualification** from The Open League.
+
+* * *
+
+## [](#p-66177-methodology-acknowledgment-10)Methodology Acknowledgment
+
+We confirm that we understand the exact methodology for tracking our protocol’s **on-chain metrics (TVL/Volume)** as outlined on the relevant GitHub page. We have reviewed the **General Rules** for the competition in the **OLD: App & DeFi Leagues New Year Edition (S7): Rules for Teams and Playbook for App League Projects**.  
+We acknowledge that the rank of our project in the leaderboard will depend on its contribution to the **total TVL/Volume** generated during the season.
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 40235
+
+[TON Research](/)
+
+# [$OR Memelandia application](/t/or-memelandia-application/40235)
+
+[TON Memelandia](/c/ton-memelandia/memecoin-mountain/86)  [Memecoin Mountain](/c/ton-memelandia/memecoin-mountain/86) 
+
+    
+
+[GigaTonWhale](https://tonresear.ch/u/GigaTonWhale)  November 30, 2024, 7:29am  1
+
+**Submission Form for Memecoin Mountain**
+
+1.  **Your Role in the Competition:**
+    1.  Memecoin Project
+
+_(Only for Memecoin Projects; skip if you are a Trader/Whale)_
+
+1.  **Project Name: $OR**
+2.  **Token Contract Address: EQCJLFpI0QR1QA\_CYQ77Zm1\_n85RDM4yLS46voZGRWbu9sbX**
+3.  **Market Cap (at the time of application): $101,500**
+4.  **Daily Trading Volume (for the last 7 days): $2,540 last 24 hrs**
+5.  **Number of Unique Token Holders: 1059**
+6.  **Has your token been fairly launched?**
+    1.  Yes
+7.  **Please provide a link to your CoinGecko listing:** N/A
+8.  **Are you applying for the Major League or Minor League?** MINOR
+9.  **Briefly describe your memecoin’s strategy for growth and community engagement:** WE’RE THE MOST MEMEABLE MEME ON TON. WE’RE THE WIF OF TON. WE WILL GROW ORGANICALLY THROUGH OUR COMMUNITY ENGAGEMENT, RAIDS AND MOST IMPORTANT OF ALL THE BEST MEMES ON TON. IF WE WIN A PRIZE THROUGH MEMELANDIA IT WILL HELP US TO DO MARKETING, PAY FOR CALLS AND KOLS
+10.  **Do you have any partnerships with Key Opinion Leaders (KOLs) or influencers?**
+    1.  Yes
+    2.  If yes, please specify. JANA IS IN OUR TEAM CHAT
+
+(General)
+
+1.  **Would you like to receive updates and announcements during the competition?**
+    1.  Yes
+2.  **Provide your Telegram username for communication and coordination:** [@GigaTonWhale](/u/gigatonwhale)
+
+  6 Likes
+
+[Bioly1337](https://tonresear.ch/u/Bioly1337) November 30, 2024, 11:23am  2
+
+It’s awesome, to see this TON hidden gem survived 7 months, and doing still great job. Love this community!
+
+Dog Or Flower is epic gem on TON and very unique, only one in this meta.
+
+  6 Likes
+
+[Sakata\_Nakamoto](https://tonresear.ch/u/Sakata_Nakamoto) November 30, 2024, 5:50pm  3
+
+OR is the best memecoin on Ton. Soon or later, it is gonna lead Ton memes.
+
+  6 Likes
+
+[FamousFortune](https://tonresear.ch/u/FamousFortune) November 30, 2024, 6:10pm  4
+
+Great community, hidden gem. Not a new launch scene the ups and downs of Ton and team still grinds. They are worth acceptance into memelandia.
+
+  6 Likes
+
+[sennel](https://tonresear.ch/u/sennel) December 1, 2024, 4:38am  5
+
+this meme is purely original and easily spreadable, is it a dog or a flower? Who knows, maybe its both?
+
+  5 Likes
+
+[sf90stradale](https://tonresear.ch/u/sf90stradale) December 1, 2024, 4:44am  6
+
+Dog meta never dies, dog OR flower is giving me the same vibe as doge, wif, and ski. Moreover, this is dog or flower, so not just a dog. People from other chains will look for the next big dog attributes meta
+
+  5 Likes
+
+[jadekeeper](https://tonresear.ch/u/jadekeeper) December 1, 2024, 4:49am  7
+
+You will notice that the top ranking meme for ETH and SOL are 2 dogs .  
+If you are careful, you will find that these two dogs exist in two styles, like cute and cool, like community and capital, and they meet the needs of mass distribution and originality.
+
+Why is this so, because such invisible hand so as to cover the vast majority of users. It constitutes a competitive relationship. This is a business model.
+
+If you pick 2 dogs in the TON, the ones who are satisfied are REDO and OR, because the other dogs are like copies of REDO.
+
+ETH market cap market cap 400B. sol market cap 90B (4-5X difference) TON market cap 17B (4-5X difference)
+
+ETH DOGE (CUTE) 20B SHIB (COOL) 10B  
+SOL WIF (CUTE) 2.5b BONK (COOL) 2b  
+TON REDO (COOL) 0.5B OR (CUTE) ?B
+
+props to Jump from the community chat member
+
+  5 Likes
+
+[edelweiss](https://tonresear.ch/u/edelweiss) December 1, 2024, 4:58am  8
+
+Ready $OR Not, here we come. ORganic community, ORiginal Posts. This meme is a pure SendooooOR. Rich $OR PoOR. Chose wisely.![:dog:](https://tonresear.ch/images/emoji/twitter/dog.png?v=12 ":dog:")![:sunflower:](https://tonresear.ch/images/emoji/twitter/sunflower.png?v=12 ":sunflower:")
+
+  5 Likes
+
+[jadekeeper](https://tonresear.ch/u/jadekeeper) December 1, 2024, 5:01am  9
+
+easy ticker $OR for sure
+
+  2 Likes
+
+[GigaTonWhale](https://tonresear.ch/u/GigaTonWhale) December 1, 2024, 5:29am  10
+
+This comment ![:ok_hand:t3:](https://tonresear.ch/images/emoji/twitter/ok_hand/3.png?v=12 ":ok_hand:t3:")![:ok_hand:t3:](https://tonresear.ch/images/emoji/twitter/ok_hand/3.png?v=12 ":ok_hand:t3:")![:ok_hand:t3:](https://tonresear.ch/images/emoji/twitter/ok_hand/3.png?v=12 ":ok_hand:t3:")![:ok_hand:t3:](https://tonresear.ch/images/emoji/twitter/ok_hand/3.png?v=12 ":ok_hand:t3:")![:ok_hand:t3:](https://tonresear.ch/images/emoji/twitter/ok_hand/3.png?v=12 ":ok_hand:t3:")
+
+  2 Likes
+
+[GigaTonWhale](https://tonresear.ch/u/GigaTonWhale) December 1, 2024, 5:30am  11
+
+You know it. Team still grinding even after this brutal TON meme winter
+
+  2 Likes
+
+[GigaTonWhale](https://tonresear.ch/u/GigaTonWhale) December 1, 2024, 5:31am  12
+
+Love this. SendooooooOR
+
+  2 Likes
+
+[jadekeeper](https://tonresear.ch/u/jadekeeper) December 1, 2024, 6:03am  13
+
+it is $OR is it  
+dog $OR flower  
+catchy af
+
+  2 Likes
+
+[knarf](https://tonresear.ch/u/knarf) December 3, 2024, 8:08pm  14
+
+Dog OR Flower is the WIF on TON
+
+Unique meme, og ton memecoin, with the potential to onboard normies to the blockchain, because the meme is not just a crypto or ton insider meme, it’s something that touches the heart of all people and all generations.
+
+Die hard community no matter what market cap.
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 40242
+
+[TON Research](/)
+
+# [TBCC MEME PAD 推出您的中国风 Meme 代币吧！](/t/tbcc-meme-pad-meme/40242)
+
+[中文 (简繁)](/c/zh/48) 
+
+    
+
+[Cryptoma4o](https://tonresear.ch/u/Cryptoma4o)  November 30, 2024, 2:39pm  1
+
+![:tada:](https://tonresear.ch/images/emoji/twitter/tada.png?v=12 ":tada:") 加入 TBCC Meme Pad！![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:")  
+创建您独特的 Meme 代币，征服加密市场！
+
+![:pushpin:](https://tonresear.ch/images/emoji/twitter/pushpin.png?v=12 ":pushpin:") 我们提供的服务：
+
+*   全周期代币开发
+*   高效的营销和推广
+*   全程支持  
+    ![:speech_balloon:](https://tonresear.ch/images/emoji/twitter/speech_balloon.png?v=12 ":speech_balloon:") 和我们一起将您的创意变成趋势！  
+    ![:sparkles:](https://tonresear.ch/images/emoji/twitter/sparkles.png?v=12 ":sparkles:") 今天就开启您的成功之旅吧！  
+    BOT @tbccmeme\_bot  
+    CHAT @tbcc\_ex\_chat
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 40247
+
+[TON Research](/)
+
+# [GUS Form for Memecoin Mountain](/t/gus-form-for-memecoin-mountain/40247)
+
+[TON Memelandia](/c/ton-memelandia/memecoin-mountain/86)  [Memecoin Mountain](/c/ton-memelandia/memecoin-mountain/86) 
+
+    
+
+[user2697](https://tonresear.ch/u/user2697)  November 30, 2024, 6:28pm  1
+
+**Submission Form for Memecoin Mountain**
+
+1.  **Your Role in the Competition:**
+2.  Memecoin Project
+
+_(Only for Memecoin Projects; skip if you are a Trader/Whale)_
+
+1.  **Memecoin Name:** GUS
+    
+2.  **Token Contract Address:** EQBMYbJS\_hA4TdiQLh5j41WGGCxV1jW-jB3WaUQkcHxNLPwq
+    
+3.  **Market Cap (at the time of application):**~$130k
+    
+4.  \*\*Daily Trading Volume (for the last 7 days):\*\*Average $5500
+    
+5.  **Number of Unique Token Holders:** 1100
+    
+6.  **Has your token been fairly launched?** Yes
+    
+7.  **Please provide a link to your CoinGecko listing:**
+    
+8.  **Are you applying for the Major League or Minor League?** Minor League
+    
+9.  **Briefly describe your memecoin’s strategy for growth and community engagement:** Our meme coin was created by the Hot wallet community, our strategy is to carry out activities among the community using Hot wallet tools on the ton and crosschain networks, to make collaborations with projects on other networks and to attract the community from other networks
+    
+10.  **Do you have any partnerships with Key Opinion Leaders (KOLs) or influencers?** Yes
+    
+
+(General)
+
+1.  **Would you like to receive updates and announcements during the competition?** Yes
+2.  **Provide your Telegram username for communication and coordination:** @mars1anin @exDDex
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 40268
+
+[TON Research](/)
+
+# [Join the latest puzzle-based mini-app game that has recently become a hit on TON for earning rewards!](/t/join-the-latest-puzzle-based-mini-app-game-that-has-recently-become-a-hit-on-ton-for-earning-rewards/40268)
+
+[General](/c/general/4) 
+
+    
+
+[Charles\_Jones](https://tonresear.ch/u/Charles_Jones)  December 2, 2024, 2:20am  1
+
+An incredibly entertaining mini-app game, featuring abundant gameplay and a novel profit model, has already joined the TON ecosystem. It is expected to soon launch an airdrop event and provide opportunities to earn rewards. Instead of being another tapping game, it is a refreshing puzzle game that promises to be an extremely popular online money-making game. Join now and experience it for yourself!
+
+![](https://telegram.org/img/website_icon.svg?4) [Telegram](https://t.me/HatchNCatchGroup)
+
+![](https://cdn1.cdn-telegram.org/file/QlPBxDBTndYXIvtEcF6tesos-0FaAEPlNhFvLJtcC4Z358zFD9L25re5MDF5WCWwSYFWV3bthyUjhTmenj-8zDeah368Goczf__GmzOziGWCnz_mvv0Q0BDM9VRa2njxOagEqAc72Wya9FjWIkxQJa6cn7Zvukjuno6sn4KaHQ15lKPh6GyXZg7ZnHFTLapNCuvH-q2TS9UBzNqLe4YJ8TdtwgqbDTruFBF7zh4ggZHHLjBSMHVqAvbBMer1IbZ82JN8MMEHlhBaCtEnPRm-xVDAm4_btTZcONjDX5lUaXSOVOk_UJ4RabGsXATKTolzS7NrXnIHtSe5GuomX2F2NA.jpg)
+
+### [HatchNCatchGroup](https://t.me/HatchNCatchGroup)
+
+You can view and join @HatchNCatchGroup right away.
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 40269
+
+[TON Research](/)
+
+# [Присоединяйтесь к последней мини-приложенной игре-головоломку, которая недавно стала популярна на TON, для заработка наград!](/t/ton/40269)
+
+[Русский](/c/ru/49) 
+
+    
+
+[Charles\_Jones](https://tonresear.ch/u/Charles_Jones)  December 2, 2024, 2:21am  1
+
+Невероятно увлекательная мини-приложениеная игра, с богатым игровым процессом и необычной моделью прибыли, уже присоединилась к экосистеме TON. Ожидается, что в ближайшее время она запустит событие аэродропа и предоставит возможности заработать награды. В отличие от других натисковых игр, это обновленная логическая игра, которая обещает стать чрезвычайно популярной онлайн-игрой для заработка денег. Присоединяйтесь сейчас и испытайте ее сами!
+
+![](https://telegram.org/img/website_icon.svg?4) [Telegram](https://t.me/HatchNCatchGroup)
+
+![](https://cdn1.cdn-telegram.org/file/QlPBxDBTndYXIvtEcF6tesos-0FaAEPlNhFvLJtcC4Z358zFD9L25re5MDF5WCWwSYFWV3bthyUjhTmenj-8zDeah368Goczf__GmzOziGWCnz_mvv0Q0BDM9VRa2njxOagEqAc72Wya9FjWIkxQJa6cn7Zvukjuno6sn4KaHQ15lKPh6GyXZg7ZnHFTLapNCuvH-q2TS9UBzNqLe4YJ8TdtwgqbDTruFBF7zh4ggZHHLjBSMHVqAvbBMer1IbZ82JN8MMEHlhBaCtEnPRm-xVDAm4_btTZcONjDX5lUaXSOVOk_UJ4RabGsXATKTolzS7NrXnIHtSe5GuomX2F2NA.jpg)
+
+### [HatchNCatchGroup](https://t.me/HatchNCatchGroup)
+
+You can view and join @HatchNCatchGroup right away.
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 40274
+
+[TON Research](/)
+
+# [SuperWonton Application Form for Memelandia](/t/superwonton-application-form-for-memelandia/40274)
+
+[TON Memelandia](/c/ton-memelandia/memecoin-mountain/86)  [Memecoin Mountain](/c/ton-memelandia/memecoin-mountain/86) 
+
+    
+
+[SuperWonton](https://tonresear.ch/u/SuperWonton)  December 2, 2024, 12:24pm  1
+
+SuperWonton Application Form for Memelandia
+
+1.  Memecoin Project
+2.  Memecoin Name: SuperWonton
+3.  Token Contract Address: EQBgI-rl6SzhJp5Rtoqg0JlWsgPH4rnVkU6EAnD1yvOuzMPG
+4.  Market Cap (at the time of application): 207K
+5.  Daily Trading Volume : $743.6
+6.  Number of Unique Token Holders: 1023  
+    6Has your token been fairly launched?
+    1.  Yes fairly launched on Blum Launch pad
+7.  Please provide a link to your CoinGecko listing: N/A
+8.  Are you applying for the Major League or Minor League? Minor League
+9.  Briefly describe your memecoin’s strategy for growth and community engagement: As a CTO we are fully community driven and building or community through Telegram and X. We as a team engage with all our community memebers on all platforms and as a strong community we work together to grow $SW
+10.  Do you have any partnerships with Key Opinion Leaders (KOLs) or influencers?
+    1.  Yes, due to the fact that we are our own KOLs.
+
+  2 Likes
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 40290
+
+[TON Research](/)
+
+# [$DARK Memelandia application](/t/dark-memelandia-application/40290)
+
+[TON Memelandia](/c/ton-memelandia/85) 
+
+    
+
+[user2699](https://tonresear.ch/u/user2699)  December 2, 2024, 6:59pm  1
+
+Submission Form for Memecoin Mountain 1.Your Role in the Competition: 1.Memecoin Project (Only for Memecoin Projects; skip if you are a Trader/Whale) 1.Project Name: $DARK 2.Token Contract Address: EQB\_E-xD4RvHqHB-bqCfBuWhnj8lgYEFN9eymZrC2YMxUUA3 [3.Market](https://3.market/) Cap (at the time of application): $400.000 4.Daily Trading Volume (for the last 7 days): $800.000 5.Number of Unique Token Holders: 7500 6.Has your token been fairly launched? 1.Yes 7.Please provide a link to your CoinGecko listing: [https://www.coingecko.com/ru/Криптовалюты/dark-2](https://www.coingecko.com/ru/%D0%9A%D1%80%D0%B8%D0%BF%D1%82%D0%BE%D0%B2%D0%B0%D0%BB%D1%8E%D1%82%D1%8B/dark-2) 8.Are you applying for the Major League or Minor League? MINOR 9.Briefly describe your memecoin’s strategy for growth and community engagement: Create a Dark token growth strategy by focussing on active interaction with the community, introducing innovative features, partnerships with other projects and regularly reporting on achievements through social networks and marketing. 10. Do you have any partnerships with Key Opinion Leaders (KOLs) or influencers? [1.No](https://1.no/) (General) 1.Would you like to receive updates and announcements during the competition? 1.Yes 2.Provide your Telegram username for communication and coordination: @dddddd\_d\_ddddd
+
+  1 Like
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 40291
+
+[TON Research](/)
+
+# [Submission Form for Memecoin Mountain](/t/submission-form-for-memecoin-mountain/40291)
+
+[TON Memelandia](/c/ton-memelandia/85) 
+
+    
+
+[Don\_Jonson](https://tonresear.ch/u/Don_Jonson)  December 2, 2024, 8:27pm  1
+
+Memecoin Project
+
+Project Name: VILARSO
+
+Token Contract Address: EQBJEVOot-Jcz6bj45hUVNRHhHZDtuF7ts5ZJIgjW\_tlBq7d
+
+Market Cap (at the time of application): 3 mln
+
+Daily Trading Volume (for the last 7 days): 3 mln
+
+Number of Unique Token Holders: 2750
+
+Has your token been fairly launched?  
+Yes, that’s launched via BLUM memepad.
+
+Please provide a link to your CoinGecko listing:
+
+*   none
+
+Are you applying for the Major League or Minor League?
+
+*   Major
+
+Briefly describe your memecoin’s strategy for growth and community engagement:
+
+VILARSO is a Memcoin for traders. That memecoin represents the figure of icon trader Vladimir Vilarso in a funny and meme way. Our plans are to provide active users to trading tools in the narrative form to show them ”how to make money on trading, invest and supply of DEX liquidity with the opportunity to earn through the VILARSO meme among the crypto community…
+
+Do you have any partnerships with Key Opinion Leaders (KOLs) or influencers?
+
+Yes we have
+
+Would you like to receive updates and announcements during the competition?
+
+Yes
+
+Provide your Telegram username for communication and coordination: [@Vilarso](/u/vilarso)
+
+  128 Likes
+
+[Aleksandr\_Divak](https://tonresear.ch/u/Aleksandr_Divak) December 2, 2024, 8:37pm  2
+
+I Live this Token and Founder! First real trader in my life!![:innocent:](https://tonresear.ch/images/emoji/twitter/innocent.png?v=12 ":innocent:")
+
+  38 Likes
+
+[user2700](https://tonresear.ch/u/user2700) December 2, 2024, 8:44pm  3
+
+5000% on two weeks its amazing
+
+  30 Likes
+
+[The\_Snek](https://tonresear.ch/u/The_Snek) December 2, 2024, 8:51pm  4
+
+10000% next day  
+Very good, very hight
+
+  26 Likes
+
+[PurpleLabel2211](https://tonresear.ch/u/PurpleLabel2211) December 2, 2024, 8:53pm  5
+
+Started to watch crypto analytics by Vilarso (Vladimir) for crypto trading, later found out about the token launch and made 800% in 1 week and it’s just the beginning ![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:")![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:")![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:")
+
+  25 Likes
+
+[serg\_savin](https://tonresear.ch/u/serg_savin) December 2, 2024, 8:56pm  6
+
+Its PERFECT ?i have 10x from low prise.
+
+  25 Likes
+
+[serg\_savin](https://tonresear.ch/u/serg_savin) December 2, 2024, 8:58pm  7
+
+Its PERFECT ?i have 10x from low price.
+
+  24 Likes
+
+[hsnbxk](https://tonresear.ch/u/hsnbxk) December 2, 2024, 9:01pm  8
+
+I Live this Token and Founder! 1000% next week🚀
+
+  22 Likes
+
+[1009nov](https://tonresear.ch/u/1009nov) December 2, 2024, 9:08pm  9
+
+Its PERFECT !!! i have 12x from low price.
+
+  21 Likes
+
+[Evgently](https://tonresear.ch/u/Evgently) December 2, 2024, 9:26pm  10
+
+Vilarso lts a then mem.  
+Vilarso best of the best!!!
+
+  23 Likes
+
+[Vladimir\_Pogodaev](https://tonresear.ch/u/Vladimir_Pogodaev) December 3, 2024, 4:51am  11
+
+Vilarso Vilarso Vilarso  
+![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:")![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:")![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:")![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:")![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:")![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:")![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:")
+
+  21 Likes
+
+[Vova\_196](https://tonresear.ch/u/Vova_196) December 3, 2024, 8:30am  12
+
+Vilarso best of the best!!! ![:100:](https://tonresear.ch/images/emoji/twitter/100.png?v=12 ":100:") ![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:") ![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:") ![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:")
+
+  22 Likes
+
+[me\_is\_gb](https://tonresear.ch/u/me_is_gb) December 3, 2024, 8:30am  13
+
+In Vilarso we trust ![:innocent:](https://tonresear.ch/images/emoji/twitter/innocent.png?v=12 ":innocent:") ![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:") Only to the moon ![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:")
+
+  20 Likes
+
+[unheilig](https://tonresear.ch/u/unheilig) December 3, 2024, 8:55am  14
+
+that rare case when you follow the person. vilarso its lifechange
+
+  18 Likes
+
+[user2705](https://tonresear.ch/u/user2705) December 3, 2024, 9:14am  15
+
+Vilarso is the only token that has a person behind it that you can trust.![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:")
+
+  18 Likes
+
+[Oleg\_Tsoy](https://tonresear.ch/u/Oleg_Tsoy) December 3, 2024, 9:26am  16
+
+One of the most promising profit project with a very respective driver Vladimir Vilarso
+
+  20 Likes
+
+[user2707](https://tonresear.ch/u/user2707) December 3, 2024, 10:00am  17
+
+My favorite token on blum
+
+  20 Likes
+
+[callme1ngin](https://tonresear.ch/u/callme1ngin) December 3, 2024, 10:54am  18
+
+waiting 10x. To the moon ![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:") ![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:") ![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:")
+
+  19 Likes
+
+[TV\_Katya](https://tonresear.ch/u/TV_Katya) December 3, 2024, 10:58am  19
+
+Vilarso ![:top:](https://tonresear.ch/images/emoji/twitter/top.png?v=12 ":top:") токен.  
+Ждем ![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:")
+
+  19 Likes
+
+[user2708](https://tonresear.ch/u/user2708) December 3, 2024, 10:59am  20
+
+In the distant world of cryptocurrencies, where tokens were born and disappeared with lightning speed, a unique project appeared — the $Vilarso token. Its logo, depicting a majestic Phoenix bird, symbolized rebirth, hope, and the desire for new heights. This bird, flying upward, became the personification of the ambitions and dreams of those who believed in the future of crypto investments.
+
+  20 Likes
+
+**[next page →](/t/submission-form-for-memecoin-mountain/40291?page=2)**
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 40354
+
+[TON Research](/)
+
+# [PumpMeme - Memepad on TON](/t/pumpmeme-memepad-on-ton/40354)
+
+[The Open League](/c/the-open-league/56) 
+
+    
+
+[Pump\_MEME](https://tonresear.ch/u/Pump_MEME)  December 3, 2024, 11:57am  1
+
+Project Name: PumpMeme
+
+Link to Product (Mini App)
+
+Mini App:[https://t.me/pumpmeme\_bot](https://t.me/edward11111)
+
+Project Twitter:
+
+[https://x.com/PumpMemeClub](https://x.com/PumpMemeClub)
+
+Project Telegram Channel/Chat
+
+Channel: [Telegram: Contact @PumpMemeNews](https://t.me/PumpMemeNews)
+
+Group: [Telegram: Contact @PumpMeme\_Club](https://t.me/PumpMeme_Club)
+
+PumpMeme Functional Description:
+
+Memepads:
+
+PumpMeme platform aims to create a safer, fairer, more convenient, and smarter launch platform for MEME coin enthusiasts worldwide.Users can quickly and securely create their favorite meme tokens on the PumpMeme platform.
+
+Reward system:
+
+Users can obtain relevant rewards by completing daily APP check-ins and creating and trading meme tokens on the PumpMeme platform.
+
+Blind box system:
+
+Users can get blind box rewards after completing specific behaviors. When users open blind boxes, they have the probability of getting blind boxes of different qualities, so they can get different amounts of airdrop rewards when airdrops are distributed in the future.
+
+Ranking system:
+
+Interactive rankings motivate users by showing the number of blind boxes of different qualities held by users.
+
+Plan to Provide Additional Rewards/Incentives for Users\*
+
+During the Open League: Blind box Airdrop for users.
+
+Other Events: Meme token creation and trading competitions with different themes are held from time to time.
+
+Applicant Information\*
+
+Name: Edward
+
+Telegram Handle: [Telegram: Contact @edward11111](https://t.me/edward11111)
+
+Rules of Conduct Acknowledgment\*
+
+By submitting this application, I agree to fully abide by The Open League Rules of Conduct. I understand that any violation of these rules will result in immediate and indefinite exclusion from the competition.
+
+Data Accuracy Confirmation
+
+By submitting this form, I confirm that all provided information is accurate. I understand that any false information will lead to my project’s permanent disqualification from The Open League.
+
+Methodology Acknowledgment
+
+We confirm that we understand the exact methodology for tracking our protocol’s on-chain metrics (TVL/Volume) as outlined on the relevant GitHub page. We have reviewed the General Rules for the competition in the OLD: App & DeFi Leagues New Year Edition (S7): Rules for Teams and Playbook for App League Projects.
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 40447
+
+[TON Research](/)
+
+# [VILARSO Token join and enjoy](/t/vilarso-token-join-and-enjoy/40447)
+
+[Русский](/c/ru/49) 
+
+    
+
+[Alla](https://tonresear.ch/u/Alla)  December 3, 2024, 12:55pm  1
+
+I’m so happy that I had an opportunity to join this amazing project VILARSO Token! Guys, let’s do it together! Together we are a strong traders community.
+
+Я так счастлива, что мне выпала возможность присоединиться к этому замечательному проекту VILARSO Token! Ребята, давайте сделаем это вместе! Вместе мы — сильное сообщество трейдеров.
+
+  15 Likes
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 40496
+
+[TON Research](/)
+
+# [Mem token Vilarso](/t/mem-token-vilarso/40496)
+
+[General](/c/general/4) 
+
+    
+
+[SelezneVArtem](https://tonresear.ch/u/SelezneVArtem)  December 3, 2024, 3:51pm  1
+
+I have been following the Vilarso trader for a long time. I took part in his Crypto hangout. Vilarso is a man who values his reputation! Honor is more important to him than money. He recently created a token. After the news about it came out, I immediately bought it and did not regret it for a second. I am glad to be a part of the team! Peace, health and profit to all!
+
+Давно слежу за трейдером Vilarso. Принимал участие в его Крипто тусовке. Vilarso- человек, который дорожит своей репутацией! Для него честь дороже денег. Недавно он создал токен. После выхода новости об этом, я сразу его купил и ни секунды не пожалел об этом. Рад быть частью команды! Всем мира, здоровья и профита!
+
+  1 Like
+
+[Sterh](https://tonresear.ch/u/Sterh) December 3, 2024, 4:41pm  2
+
+Присоединяюсь. Проект и автор крутые. Дай Бог и дальше развития проекту и Владимиру. Всем Добра!
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 40547
+
+[TON Research](/)
+
+# [如何选择 ton 的合约编程语言？](/t/ton/40547)
+
+[中文 (简繁)](/c/zh/ton-blockchain/52)  [TON 区块链](/c/zh/ton-blockchain/52) 
+
+    
+
+[andrew](https://tonresear.ch/u/andrew)  December 4, 2024, 9:45am  1
+
+# [](#p-66828-h-1)一、简介
+
+TON 提供了多个合约编程语言，分别从虚拟机底层到高级业务抽象的角度提供合约编写能力，然而多个合约编程语言会给新加入的开发者带来选择困难，本文将分析其中的区别，帮助大家选择合适的编程语言。
+
+![](https://miro.medium.com/v2/resize:fit:700/1*npeXw1Nvoe6-7Fqe-A8vpg.png)
+
+如上面图表所示，从左到右，分别是从简单到复杂，从高层业务抽象到底层指令集进行排序。每个编程语言都有它的产生的背景和作用，如果用自然语言的进化来类比，类似从旁边部首到甲骨文，再到繁体简体汉字，以及辅助学习的拼音。
+
+![](https://miro.medium.com/v2/resize:fit:700/1*7zSD8mPCoJzroml-vbP0Vw.png)
+
+有一个明确的趋势是，Tolk 虽然是 24 年 10 月刚发布，但是 Tolk 的目标是作为 FunC 的继任者，不久的将来会变成 TON 最主流的合约编程语言，但是当前 Tolk 的文档和代码案例还在抓紧编写中，需要一个过渡时间。
+
+# [](#p-66828-h-2)二、选择哪个？
+
+如下图所示，根据你的目的来选择合适的语言，如果是初学者，建议从 Tact 入门，然后过渡到 FunC 和 Tolk。如果需要在 TON 上快速发行资产，当前有丰富的 FunC 代码模版，直接使用或者学一点 FunC 就可以快速完成项目需求。 如果是新项目并且链上逻辑比较复杂，比如是新的 DeFi 项目，则推荐使用 Tolk 进行构建。
+
+![](https://miro.medium.com/v2/resize:fit:700/1*aGFlEiotlOT0YnYrKjugTw.jpeg)
+
+> 2025 年我会更新这个指南，到时候应该可以去掉 FunC，直接推荐使用 Tolk。
+
+参考：
+
+1.  [https://tongateway.org/](https://tongateway.org/)
+2.  [https://docs.tact-lang.org/](https://docs.tact-lang.org/)
+3.  [TVM Overview | The Open Network](https://docs.ton.org/v3/documentation/tvm/tvm-overview)
+4.  [Overview | The Open Network](https://docs.ton.org/v3/documentation/smart-contracts/fift/overview)
+
+  1 Like
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 40549
+
+[TON Research](/)
+
+# [Tepe memecoin mountain application](/t/tepe-memecoin-mountain-application/40549)
+
+[TON Memelandia](/c/ton-memelandia/memecoin-mountain/86)  [Memecoin Mountain](/c/ton-memelandia/memecoin-mountain/86) 
+
+    
+
+[TEPE](https://tonresear.ch/u/TEPE)  December 4, 2024, 10:25am  1
+
+Submission Form for Memecoin Mountain
+
+Your Role in the Competition:  
+Memecoin Project
+
+Project Name: TEPE
+
+Token Contract Address: EQDN11TTPTxw\_xSPJs\_zyrzIRml4JXDlppAmYzJq–tmpA6V
+
+Market Cap (at the time of application): $70.02K
+
+Daily Trading Volume (for the last 7 days): $201.55 last 24 hrs
+
+Number of Unique Token Holders: 1474
+
+Has your token been fairly launched?  
+Yes
+
+Please provide a link to your CoinGecko listing: [https://www.coingecko.com/en/coins/tepe](https://www.coingecko.com/en/coins/tepe)
+
+Are you applying for the Major League or Minor League? MINOR
+
+LINK FOR FORBE’S: [Tepe (TEPE) Price Today, News & Live Chart | Forbes Crypto Market Data](https://www.forbes.com/digital-assets/assets/tepe-tepe/)
+
+Briefly describe your memecoin’s strategy for growth and community engagement: WE’RE THE ONLY MATT FURIE PEPE ON TON JUST MEMEMING OUT. WE WILL GROW ORGANICALLY THROUGH OUR COMMUNITY ENGAGEMENT, RAIDS AND MOST IMPORTANT OF ALL THE BEST MEMES ON TON. ANY additional REWARDS RECIVED FROM MEMELANDIA WILL BE USED THE HELP THIS PROJECT’S GROWTH
+
+Do you have any partnerships with Key Opinion Leaders (KOLs) or influencers?  
+N/A
+
+Would you like to receive updates and announcements during the competition?  
+Yes
+
+Provide your Telegram username for communication and coordination:  
+@monkey\_boomer
+
+TELEGRAM- [Telegram: Contact @TonTepe](https://t.me/TonTepe)
+
+TWITTER- [x.com](https://x.com/ton_tepe)
+
+  5 Likes
+
+[Tomruge111](https://tonresear.ch/u/Tomruge111) December 4, 2024, 12:21pm  2
+
+This will be the one this year ![:grin:](https://tonresear.ch/images/emoji/twitter/grin.png?v=12 ":grin:")
+
+  1 Like
+
+[Su\_No](https://tonresear.ch/u/Su_No) December 4, 2024, 5:41pm  3
+
+The community stayed hype thru the bear!!
+
+  1 Like
+
+[Psy](https://tonresear.ch/u/Psy) December 4, 2024, 5:42pm  4
+
+Looks pretty good it will go off soon
+
+ 
+
+[DrT12](https://tonresear.ch/u/DrT12) December 4, 2024, 8:51pm  5
+
+Looking forward to seeing all the Tepe progress!
+
+ 
+
+[GigaTonWhale](https://tonresear.ch/u/GigaTonWhale) December 4, 2024, 9:36pm  6
+
+OG TON meme. Was one of my first when I arrived due to the familiarity and thinking a blue Ton Pepe was a smart idea and low MC with high upside. Others will do the same!
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 40576
+
+[TON Research](/)
+
+# [Memcoin SKLAD ASTAHOVA](/t/memcoin-sklad-astahova/40576)
+
+[TON Memelandia](/c/ton-memelandia/memecoin-mountain/86)  [Memecoin Mountain](/c/ton-memelandia/memecoin-mountain/86) 
+
+    
+
+[elsewenhear](https://tonresear.ch/u/elsewenhear)  December 4, 2024, 8:40pm  1
+
+**Submission Form for Memecoin Mountain**
+
+1.  **Your Role in the Competition:**
+    1.  Memecoin Project
+
+_(Only for Memecoin Projects; skip if you are a Trader/Whale)_
+
+1.  \*\*Memecoin Name: SKLAD ASTAHOVA
+2.  \*\*Token Contract Address: EQBQTF\_AFEN5PM8rYg3rcNbAH86zNbIXKhZjMw3jq8yj-QT6
+3.  \*\*Market Cap (at the time of application): 248000
+4.  \*\*Daily Trading Volume (for the last 7 days): 17000
+5.  \*\*Number of Unique Token Holders: 1583
+6.  **Has your token been fairly launched?**
+    1.  Yes
+7.  \*\*Please provide a link to your CoinGecko listing: n/a
+8.  \*\*Are you applying for the Major League or Minor League? MINOR
+9.  \*\*Briefly describe your memecoin’s strategy for growth and community engagement: $ASTAHOV (SKLAD ASTAHOVA) is a meme token created by the community for the community, combining reputation and utility within the SKLAD ASTAHOVA ecosystem. The token offers users the ability to burn coins through interactions with the WEB 3 application, helping regulate supply and support token value. Additionally, an NFT system will be integrated into the ecosystem, expanding opportunities for users and providing unique digital assets. $ASTAHOV plays a key role in the Web3 space, granting access to various utility functions and opportunities.
+10.  **Do you have any partnerships with Key Opinion Leaders (KOLs) or influencers?**
+    1.  Yes
+    2.  If yes, please specify. @APSgg and partnership BitGet
+
+(General)
+
+1.  **Would you like to receive updates and announcements during the competition?**
+    1.  Yes
+2.  \*\*Provide your Telegram username for communication and coordination: @elsewenhear
+
+  2 Likes
+
+[elsewenhear](https://tonresear.ch/u/elsewenhear) December 4, 2024, 10:57pm  2
+
+Best token and community
+
+  1 Like
+
+[Dima\_Demin](https://tonresear.ch/u/Dima_Demin) December 4, 2024, 10:57pm  3
+
+based dev, lfg to the moon
+
+  1 Like
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 40591
+
+[TON Research](/)
+
+# [Calling All TON Developers: Share Your Insights!](/t/calling-all-ton-developers-share-your-insights/40591)
+
+[General](/c/general/4) 
+
+    
+
+[doge](https://tonresear.ch/u/doge)   December 5, 2024, 12:08pm  1
+
+[![image](https://tonresear.ch/uploads/default/optimized/3X/3/b/3b45d0a59480b31e1f392137291f68ded2c46e63_2_666x500.jpeg)
+
+image1280×960 88.8 KB
+
+](https://tonresear.ch/uploads/default/original/3X/3/b/3b45d0a59480b31e1f392137291f68ded2c46e63.jpeg "image")
+
+Attention TON Developers,
+
+The TON Dev Community values your expertise and invites you to help advance the TON ecosystem. Your insights and experiences in development are crucial for making TON more robust, innovative, and user-friendly.
+
+We encourage you to share your experiences by participating in our brief survey. Your feedback will help shape the future of TON development.
+
+![:clipboard:](https://tonresear.ch/images/emoji/twitter/clipboard.png?v=12 ":clipboard:") **Survey Highlights:**
+
+*   Covers four key topics.
+*   Takes just **5-10 minutes** of your time.
+
+![:point_right:](https://tonresear.ch/images/emoji/twitter/point_right.png?v=12 ":point_right:") [Take the Survey Now](https://eoolk3ab.paperform.co/)
+
+Your input matters—let’s build a stronger TON ecosystem together!
+
+  1 Like
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 40592
+
+[TON Research](/)
+
+# [Заголовок: Присоединяйтесь к развитию экосистемы TON: Ваше мнение важно!](/t/ton/40592)
+
+[Русский](/c/ru/49) 
+
+    
+
+[doge](https://tonresear.ch/u/doge)   December 5, 2024, 12:14pm  1
+
+[![image](https://tonresear.ch/uploads/default/optimized/3X/3/b/3b45d0a59480b31e1f392137291f68ded2c46e63_2_666x500.jpeg)
+
+image1280×960 88.8 KB
+
+](https://tonresear.ch/uploads/default/original/3X/3/b/3b45d0a59480b31e1f392137291f68ded2c46e63.jpeg "image")
+
+Привет, сообщество разработчиков TON!
+
+TON Studio приглашает вас поделиться своим опытом разработки, чтобы помочь нам в планировании улучшений документации и инструментов в экосистеме TON.
+
+Ваш вклад поможет сделать TON более удобной и мощной платформой для всех разработчиков.
+
+![:clipboard:](https://tonresear.ch/images/emoji/twitter/clipboard.png?v=12 ":clipboard:") **Что нужно знать об опросе:**
+
+*   Охватывает четыре ключевые темы.
+*   Займет всего **5-10 минут** вашего времени.
+
+Мы внимательно изучим каждый отзыв. Мы поддерживаем разработчиков любого уровня, поэтому оставляйте свой отзыв независимо от вашего опыта или бэкграунда.
+
+![:point_right:](https://tonresear.ch/images/emoji/twitter/point_right.png?v=12 ":point_right:") [Пройти опрос](https://eoolk3ab.paperform.co/)
+
+Давайте вместе делать экосистему TON лучше!
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 406
+
+[TON Research](/)
+
+# [Ton区块链全局版本的技术进展](/t/ton/406)
+
+[中文 (简繁)](/c/zh/application/55)  [应用](/c/zh/application/55) 
+
+    
+
+[QianXuesen](https://tonresear.ch/u/QianXuesen)  February 19, 2024, 6:04pm  1
+
+TON区块链（The Open Network）随着不同的全局版本的推出，引入了一系列技术进步和新功能。这些版本通过`ConfigParam 8`中指定的参数来启用各种特性。
+
+## [](#h-1)全局版本概览
+
+全局版本是TON区块链中的一个关键参数，决定了哪些功能被激活。下表总结了不同全局版本中启用的主要特性：
+
+全局版本
+
+主要特性
+
+版本 4
+
+新的TVM指令、除法增强、c7元组扩展、动作和存储阶段修改
+
+版本 5
+
+特殊合约的高 gas 限制、库加载变化、 gas 计算调整
+
+版本 6
+
+c7元组进一步扩展、新的TVM指令用于费用计算和单元操作、 gas 使用优化
+
+## [](#h-2)各版本详细分析
+
+### [](#h-4-3)版本 4
+
+版本4引入了一系列新的TVM指令，包括`PREVMCBLOCKS`、`PREVKEYBLOCK`、`GLOBALID`、`HASHEXT(A)(R)`、`ECRECOVER`、`SENDMSG`、`RUNVM`、`RUNVMX`、`GASCONSUMED`以及各种`RIST255_...`和`BLS_...`指令。除法指令得到增强，允许在除法前向中间值添加数字。堆栈操作有所改进，某些操作的参数现在无限制，并且当参数较大时，`ROLL`、`ROLLREV`、`BLKSWX`、`REVX`、`ONLYTOPX`的 gas 消耗增加。c7元组扩展到包括额外的元素，如智能合约的代码、传入消息的值、存储阶段收集的费用以及关于前几个区块的信息。动作和存储阶段也进行了更改，包括对失败的“发送消息”动作的要求和未付存储费用的处理调整。
+
+### [](#h-5-4)版本 5
+
+版本5专注于优化 gas 限制和库加载。特殊合约的交易 gas 限制显著增加，允许更高的 gas 消耗而不影响区块限制。对库单元的处理进行了更改，包括禁止“嵌套库”和修改`XLOAD`指令。这些更改旨在提高库在智能合约中使用的效率和可靠性。
+
+### [](#h-6-5)版本 6
+
+最新更新的版本6继续扩展c7元组，现在包括作为单元切片的一些配置参数和当前存储费用的债务。引入了新的TVM指令，用于更精确的费用计算，如`GETGASFEE`、`GETSTORAGEFEE`、`GETFORWARDFEE`和`GETORIGINALFWDFEE`。此外，单元操作得到增强，以支持具有非零级别和多个哈希的单元的Merkle证明，包括`CLEVEL`、`CLEVELMASK`、`CHASHI`、`CDEPTHI`、`CHASHIX`和`CDEPTHIX`指令。这些改进旨在优化 gas 使用并为智能合约开发提供更多灵活性。
+
+## [](#h-6)结论
+
+TON区块链全局版本的演变展示了对提高平台能力、效率和安全性的持续
+
+努力。每个版本都带来了新的特性和优化，满足了区块链技术及其应用不断增长的需求。随着TON区块链的发展，预计未来的版本将继续引入创新变化，进一步巩固其作为领先区块链平台的地位。
+
+* * *
+
+有关TON区块链及其技术规范的更多详细信息，您可以访问[官方TON文档](https://ton.org/docs/)。
+
+[github.com](https://github.com/ton-blockchain/ton/blob/master/doc/GlobalVersions.md)
+
+#### [ton-blockchain/ton/blob/master/doc/GlobalVersions.md](https://github.com/ton-blockchain/ton/blob/master/doc/GlobalVersions.md)
+
+```
+# Global versions
+Global version is a parameter specified in `ConfigParam 8` ([block.tlb](https://github.com/ton-blockchain/ton/blob/master/crypto/block/block.tlb#L595)).
+Various features are enabled depending on the global version.
+
+## Version 4
+
+### New TVM instructions
+* `PREVMCBLOCKS`, `PREVKEYBLOCK`
+* `GLOBALID`
+* `HASHEXT(A)(R)`
+* `ECRECOVER`
+* `SENDMSG`
+* `RUNVM`, `RUNVMX`
+* `GASCONSUMED`
+* `RIST255_...` instructions
+* `BLS_...` instructions
+* `P256_CHKSIGNS`, `P256_CHKSIGNU`
+
+### Division
+[Division instruction](https://ton.org/docs/learn/tvm-instructions/instructions#52-division) can add a number to the
+```
+
+This file has been truncated. [show original](https://github.com/ton-blockchain/ton/blob/master/doc/GlobalVersions.md)
+
+  1 Like
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 40602
+
+[TON Research](/)
+
+# [$BALD Memelandia Application](/t/bald-memelandia-application/40602)
+
+[TON Memelandia](/c/ton-memelandia/memecoin-mountain/86)  [Memecoin Mountain](/c/ton-memelandia/memecoin-mountain/86) 
+
+    
+
+[baldtardio](https://tonresear.ch/u/baldtardio)  December 5, 2024, 3:17pm  1
+
+**Submission Form for Memecoin Mountain**
+
+1.  **Your Role in the Competition:**
+    1.  Memecoin Project
+
+_(Only for Memecoin Projects; skip if you are a Trader/Whale)_
+
+1.  **Memecoin Name:** $BALD
+2.  **Token Contract Address:** EQDmw0xG9mF1l0KLgcjsDnnu79SkM0I4o09tAmRnkUBJuol5
+3.  **Market Cap (at the time of application):** $519,000
+4.  **Daily Trading Volume (for the last 7 days):** $559,000
+5.  **Number of Unique Token Holders:** 535
+6.  **Has your token been fairly launched?**
+    1.  Yes
+7.  **Please provide a link to your CoinGecko listing:** -
+8.  **Are you applying for the Major League or Minor League?** Minor League
+9.  **Briefly describe your memecoin’s strategy for growth and community engagement:** Bringing Culture on TON, Shaving Hairy Normies, Bald World Order.
+10.  **Do you have any partnerships with Key Opinion Leaders (KOLs) or influencers?**
+    1.  Yes
+
+(General)
+
+1.  **Would you like to receive updates and announcements during the competition?**
+    1.  Yes
+2.  **Provide your Telegram username for communication and coordination:** [@CoreyWilton](/u/coreywilton)
+
+  1 Like
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 40612
+
+[TON Research](/)
+
+# [Unable to create topic under Defi tag](/t/unable-to-create-topic-under-defi-tag/40612)
+
+[General](/c/general/4) 
+
+    
+
+[Mina1](https://tonresear.ch/u/Mina1)  December 6, 2024, 1:37pm  1
+
+My project wants to apply to participate in The Open League, but it cannot be created under the DEFI category, only under the Open League theme. Does anyone know what’s going on? Help…
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 40614
+
+[TON Research](/)
+
+# [$DUPLO Submission Form for Memecoin Mountain](/t/duplo-submission-form-for-memecoin-mountain/40614)
+
+[TON Memelandia](/c/ton-memelandia/memecoin-mountain/86)  [Memecoin Mountain](/c/ton-memelandia/memecoin-mountain/86) 
+
+    
+
+[user2697](https://tonresear.ch/u/user2697)  December 6, 2024, 2:49pm  1
+
+**$DUPLO Submission Form for Memecoin Mountain**
+
+1.  **Your Role in the Competition: Memecoin Project**
+    
+2.  **Memecoin Name: DUPLO YUPLAND**
+    
+3.  **Token Contract Address: EQDrJeE6raclsJK62rPKAx3eP7TE8RMBOnQLtnl9T7Iz\_Lx9**
+    
+4.  **Market Cap (at the time of application): 550k**
+    
+5.  **Daily Trading Volume (for the last 7 days): 120k**
+    
+6.  **Number of Unique Token Holders: 1050**
+    
+7.  **Has your token been fairly launched?**  
+    YES Grafun Ton
+    
+8.  **Please provide a link to your CoinGecko listing: There is no application**
+    
+9.  Minor
+    
+10.  \*\*Briefly describe your memecoin’s strategy for growth and community engagement: Duplo is a popular blockchain game in the YupLand ecosystem. Yupik explore the worlds of AI - actively playing Duplo.
+    
+
+YupLand is a strong community in the crypto world.
+
+A huge universe - clans, kingdoms, developers, researchers.\*\*  
+11\. **Do you have any partnerships with Key Opinion Leaders (KOLs) or influencers?**  
+1\. Yes  
+2\. Confidential
+
+(General)
+
+1.  **Would you like to receive updates and announcements during the competition?**
+    1.  Yes
+2.  **Provide your Telegram username for communication and coordination: @yarsib**
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 40616
+
+[TON Research](/)
+
+# [PUMPCORN / Major League - Memecoin Mountain](/t/pumpcorn-major-league-memecoin-mountain/40616)
+
+[TON Memelandia](/c/ton-memelandia/memecoin-mountain/86)  [Memecoin Mountain](/c/ton-memelandia/memecoin-mountain/86) 
+
+    
+
+[Popcorn\_Today](https://tonresear.ch/u/Popcorn_Today)  December 6, 2024, 3:24pm  1
+
+**Submission Form for Memecoin Mountain**
+
+1.  **Your Role in the Competition:** Memecoin Project
+    
+2.  **Memecoin Name:** PUMPCORN
+    
+3.  **Token Contract Address:** EQBsTwY-0y5e1i6eVLklvkLwS2QJMllwWP7c4uq0ni6qxAvE
+    
+4.  **Market Cap (at the time of application):** $3.8M
+    
+5.  **Daily Trading Volume (for the last 7 days):** $813K
+    
+6.  **Number of Unique Token Holders:** 1086
+    
+7.  **Has your token been fairly launched?**
+    
+    1.  Yes - Blum Memepad
+8.  **Please provide a link to your CoinGecko listing:** [https://www.coingecko.com/en/coins/pumpcorn](https://www.coingecko.com/en/coins/pumpcorn)
+    
+9.  **Are you applying for the Major League or Minor League?** Major League
+    
+10.  **Briefly describe your memecoin’s strategy for growth and community engagement:**
+    
+
+Sit back with a basket of popcorn and stack your bags with $PUMPCORN  
+![:green_circle:](https://tonresear.ch/images/emoji/twitter/green_circle.png?v=12 ":green_circle:")$PUMPCORN is growing to become a bluechip memecoin on TON supported by biggest telegram media - 6 MILLIONS USERS Popcorn Today [Telegram: Contact @popcorn\_today](https://t.me/popcorn_today)  
+![:green_circle:](https://tonresear.ch/images/emoji/twitter/green_circle.png?v=12 ":green_circle:")6 Million people have asked us to launch something huge in TON Ecosystem
+
+11.  **Do you have any partnerships with Key Opinion Leaders (KOLs) or influencers?**
+    1.  Yes - We have 100+ supporters worldwide!
+
+![](https://telegram.org/img/website_icon.svg?4) [Telegram](https://t.me/WINDAOFriends/174200)
+
+![](https://cdn1.cdn-telegram.org/file/bptC_8Offg_c_M9gwGYRUcq5oC7urpka3U_C699EttYrWDL6uE0SvdYntSYMBGB56oYr9-fYzafkU8pbREFFz8atxyKJhOy-LWQwISRrhfpNrxxnkmsQQ8tspgA7O4rJA0pCbcUQwKWtS0nrnssQr1oKV0XX20Hp7iuBwQUi7_0M9a1ZoleH2cOCm0s2nnce10N2Xb4pEC-9F2jJayB2-jekYw9C9In7-bDkibzdj8NLH85Rokf1DnpLz2tdzCSXrGp8hWfZQxwhqytBQagUTteYte6uNmKGkJP45QJSDnbbilaIinJDJf2BmmAPXFEWWqxiEazB8fTv0aEZSTK20g.jpg)
+
+### [WIN DAO | 威道频道 in WIN DAO | 威道社区](https://t.me/WINDAOFriends/174200)
+
+🔹我买入了数百枚 $Ton的 $PUMPCORN 代币 ➡️ $PUMPCORN 购买链接 https://t.me/blum/app?startapp=memepadjetton\_PUMPCORN\_v782V-ref\_33CM9LDvXF ➡️ $PUMPCORN 合约（点击可复制） EQBsTwY-0y5e1i6eVLklvkLwS2QJMllwWP7c4uq0ni6qxAvE ➡️$PUMPCORN K线图...
+
+[x.com](https://x.com/DogukanLive_/status/1864972195589493090)
+
+![](https://pbs.twimg.com/profile_images/1615341329663365120/220Yjquw_normal.jpg)
+
+#### [Dogukan DOGAN](https://x.com/DogukanLive_/status/1864972195589493090)
+
+[@DogukanLive\_](https://x.com/DogukanLive_/status/1864972195589493090)
+
+Ton Meme'e büyük isimler de giriyor telegram'ın en büyük medya kanalı olan Popcorn $PUMPCORN adında bir coin çıkardı bu heyecana ben de katılıcam bakalım pumpfun kadar hareketli olacak mı ? NOT : bunlar çok risklidir ufak ufak risklerle heyecan yaşamak isteyenlere özel :D 👇… [x.com/i/web/status/1…](https://x.com/i/web/status/1864972195589493090) [pic.x.com/3x0R8wAIgj](https://x.com/DogukanLive_/status/1864972195589493090/photo/1)
+
+![](https://pbs.twimg.com/media/GeG2IkTWoAAOJoN.jpg)
+
+[9:56 AM - 6 Dec 2024](https://x.com/DogukanLive_/status/1864972195589493090) 24 4
+
+![](https://telegram.org/img/website_icon.svg?4) [Telegram](https://t.me/bitshinne/722)
+
+![](https://cdn4.cdn-telegram.org/file/In4l9a6bFBgZluOs3WK1ubSF1-m3sirESQwd1BS_5Cj3kd7Y3-Ur-HIAIrvfwLsseeVrQM3Pb71De--jZJq8eOCh7K8h5YCjcH3ELN2RFXqG6Dw8N_Sw4k4VIhpCqGDTlUldBytupWF8QSyvWQgrG8N0cmxbrq5h75Xagonu0IouMW76hZbjocevT7bd6SFzLqmVqhGOTCD-oSgl1a8XII50iY3k9J8jU0wO8-PuKQOsGdz-Ujjl4LVmCHsqUnEF855ott_PAYc_puscqzK6PLZjAM8rLUIi_uIcBUPZpZRu50xGcfbOqTlACFHIKg3_jkejU6M7qhOWY1X0HzRo0A.jpg)
+
+### [bitshine](https://t.me/bitshinne/722)
+
+میم اصلی تا به الان این میم هست چون فاد منفی دادن دوستان حمایت نکردن زودتر معرفی نکردم همین الانم مطمعن باشید ۱۰ برابر میشه تصمیم با شماس به هیچ وجه توصیه نیست سود و زیان در نهایت متعلق به شماس مستندات گذاشتم که ببینید دو روز پیش معرفیش کردم و ازش...
+
+[https://x.com/bitshinne/status/1864976578620588233](https://x.com/bitshinne/status/1864976578620588233)
+
+![](https://telegram.org/img/website_icon.svg?4) [Telegram](https://t.me/xrocket_iran/3969)
+
+![](https://cdn4.cdn-telegram.org/file/Wqhp7BwFhBFXX_0u7iWs8wNwaCjx1v673oyMF8Qmk0WUgcg_4dFcubMUvZDbIGnUz7I_vHLHppLCwvUtvKuS0fONlax3iNJZLdWk0yiUqPU2uUJyskT0jKJjaRPyLtLCwc-ZSeyTybnceN4NgQHiMGa6sVUaNM1pY3nZTVFJzP98atKnMn4xKNrVEuG831N3qw4pfSe7GJ0JPDE9IhPQL1z2fANrihDwqFOhPzi2wWIt3OKU2iDk9KsCOiXgDRtGfhVGZQI2UzHhVMj7yJv8FkkxOjoWhiN4Tq852w2rlwJl4HrGyPlwYNBEtiXOUVx2mypPSARKYcXl3m8Hi_hyEA.jpg)
+
+### [ایردراپ xRocket iran](https://t.me/xrocket_iran/3969)
+
+موشک جدید در میم پد بلوم! هدف این ارز رسیدن به مارکت کپ ۵۰ میلیونی و شکستن همه رکورد های شبکه تون هست من به هیچ عنوان پیشنهاد به خرید یا فروش چیزی نمیکنم، با آگاهی و تحقیق خودتون وارد معامله بشید. وسلام این میم توسط کانال https://t.me/popcorn\_today...
+
+(General)
+
+1.  **Would you like to receive updates and announcements during the competition?**
+    1.  Yes
+2.  **Provide your Telegram username for communication and coordination:** @Popcorn\_ST
+
+  1 Like
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 40618
+
+[TON Research](/)
+
+# [YieldFort is a decentralized marketplace for structured investment products](/t/yieldfort-is-a-decentralized-marketplace-for-structured-investment-products/40618)
+
+[Application](/c/application/20) 
+
+    
+
+[danil\_yieldfort](https://tonresear.ch/u/danil_yieldfort)  December 6, 2024, 4:13pm  1
+
+**What is YieldFort?**  
+YieldFort is a decentralized marketplace for structured investment products, designed to empower users with transparent and efficient tools for managing risk and earning yield. Built on the TON blockchain, YieldFort combines TradFi strategies with DeFi technology, offering a revolutionary approach to wealth building. With the launch of its alpha version, YieldFort is paving the way for decentralized finance to become accessible to a broader audience.
+
+* * *
+
+**How Does YieldFort Work?**  
+YieldFort leverages blockchain technology to provide users with structured products based on options strategies like vertical spreads. These strategies allow investors to define their risk and potential returns upfront, ensuring complete transparency and security. Users choose a price range where they believe the asset (e.g., BTC, ETH) will remain until the next expiration (weekly). If the prediction is accurate, investors earn up to **6% in just one week**.
+
+* * *
+
+**What Sets YieldFort Apart?**
+
+![:small_blue_diamond:](https://tonresear.ch/images/emoji/twitter/small_blue_diamond.png?v=12 ":small_blue_diamond:") **Accessibility**: YieldFort makes it easy for anyone to invest in structured products via a user-friendly interface built on Telegram.  
+![:small_blue_diamond:](https://tonresear.ch/images/emoji/twitter/small_blue_diamond.png?v=12 ":small_blue_diamond:") **Blockchain-Driven Security**: All funds are stored and managed on-chain, ensuring maximum security and transparency.  
+![:small_blue_diamond:](https://tonresear.ch/images/emoji/twitter/small_blue_diamond.png?v=12 ":small_blue_diamond:") **TradFi Strategies in DeFi**: YieldFort introduces delta-neutral options strategies, bringing proven risk management tools from traditional finance into decentralized ecosystems.  
+![:small_blue_diamond:](https://tonresear.ch/images/emoji/twitter/small_blue_diamond.png?v=12 ":small_blue_diamond:") **Predictable Outcomes**: Users know their maximum potential returns and losses before investing.
+
+* * *
+
+**Upcoming Features**  
+YieldFort is constantly evolving to enhance the user experience:  
+![:small_blue_diamond:](https://tonresear.ch/images/emoji/twitter/small_blue_diamond.png?v=12 ":small_blue_diamond:") **Trade Registry**: A feature enabling users to track and analyze all transactions will be live within a week.  
+![:small_blue_diamond:](https://tonresear.ch/images/emoji/twitter/small_blue_diamond.png?v=12 ":small_blue_diamond:") **Expanded Strategies**: More investment products and strategies are planned for early 2025, offering flexibility and increased earning potential.
+
+* * *
+
+**Why YieldFort Matters**  
+Navigating volatile markets can be overwhelming for many investors. YieldFort bridges the gap by providing simple yet powerful tools to generate predictable returns in a transparent and secure environment. Whether you’re a seasoned trader or a newcomer exploring DeFi, YieldFort equips you with structured products that balance risk and reward.
+
+By combining the best of TradFi strategies and DeFi technology, YieldFort is redefining what’s possible in decentralized investing.
+
+* * *
+
+**Join the YieldFort Community**  
+Start earning smarter with YieldFort today on Telegram. Be part of a growing community that’s shaping the future of decentralized investing on the TON blockchain.
+
+![:speech_balloon:](https://tonresear.ch/images/emoji/twitter/speech_balloon.png?v=12 ":speech_balloon:") Try the app → [Telegram: Contact @ton\_yieldfortbot](https://t.me/ton_yieldfortbot/ton)  
+![:loudspeaker:](https://tonresear.ch/images/emoji/twitter/loudspeaker.png?v=12 ":loudspeaker:") Telegram ENG → [Telegram: Contact @yieldfortnews](https://t.me/yieldfortnews)  
+![:loudspeaker:](https://tonresear.ch/images/emoji/twitter/loudspeaker.png?v=12 ":loudspeaker:") Telegram RU → [Telegram: Contact @yieldfort](https://t.me/yieldfort)
+
+ 
+
+[danil\_yieldfort](https://tonresear.ch/u/danil_yieldfort) December 21, 2024, 1:19pm  2
+
+**Hello everyone!**
+
+Here’s an example of how easy it is to earn with YieldFort Mini App!
+
+![:small_blue_diamond:](https://tonresear.ch/images/emoji/twitter/small_blue_diamond.png?v=12 ":small_blue_diamond:")**Address UQAwUAFty-8DJwhSgzOhVdf7tl-6jn2fJtaRuji19-8lH4rO** opened a position on December 13, 2024, betting Bitcoin stays between 90,000 and 112,000 until December 20 using a low-risk strategy.
+
+![:small_blue_diamond:](https://tonresear.ch/images/emoji/twitter/small_blue_diamond.png?v=12 ":small_blue_diamond:")The trader deposited 10 TON, and by December 20, the price reached 97,836, earning 0.41599883 TON — a 4.1% return for the week or over 200% annualized.
+
+![:small_blue_diamond:](https://tonresear.ch/images/emoji/twitter/small_blue_diamond.png?v=12 ":small_blue_diamond:")So simple, anyone could do this! We’ll be rewarding such traders with special **Soulbound Tokens (SBTs)** each week and building a leaderboard. When auto-following features launch, everyone will be able to join the best traders’ strategies.
+
+Join now with YieldFort Mini App → [Telegram: Contact @ton\_yieldfortbot](https://t.me/ton_yieldfortbot/ton)  
+Check the transaction → [https://tonviewer.com/transaction/e6f59432f33eeba02e0b89fa97c011e388caa700fa21670d6e2096e0013682d8](https://tonviewer.com/transaction/e6f59432f33eeba02e0b89fa97c011e388caa700fa21670d6e2096e0013682d8)
+
+ 
+
+[danil\_yieldfort](https://tonresear.ch/u/danil_yieldfort) January 10, 2025, 7:19pm  3
+
+Welcome to YieldFort Mini App!
+
+![:tada:](https://tonresear.ch/images/emoji/twitter/tada.png?v=12 ":tada:") Top Performers of the Week ![:tada:](https://tonresear.ch/images/emoji/twitter/tada.png?v=12 ":tada:")
+
+Here are the top 3 addresses, their impressive results, and annualized returns:
+
+![:small_blue_diamond:](https://tonresear.ch/images/emoji/twitter/small_blue_diamond.png?v=12 ":small_blue_diamond:") 1st Place: UQCj-3H-qGN-SDgH2KZiteYmfJxSNdY6EFmk7oSiu4vhImUR
+
+![](https://tonscan.org/favicon.svg) [Tonscan](https://tonscan.org/tx/5a59f8dc3cc2e7b9de30872d33dfaf0a5fb8b4d82a85d0752459b30d2e867d04)
+
+### [Tonscan — Explore TON blockchain ecosystem](https://tonscan.org/tx/5a59f8dc3cc2e7b9de30872d33dfaf0a5fb8b4d82a85d0752459b30d2e867d04)
+
+Discover The Open Network ecosystem with tonscan.org — the simplest way to track transaction history, whales addresses, DApps, network stats, staking pools and more.
+
+Result: +6.8% or +300% APY
+
+![:small_blue_diamond:](https://tonresear.ch/images/emoji/twitter/small_blue_diamond.png?v=12 ":small_blue_diamond:") 2nd Place: UQAcGc\_0jQyTae7THcBwsOAh1f8w3VKzznIlqolLODeuI4Kq
+
+![](https://tonscan.org/favicon.svg) [Tonscan](https://tonscan.org/tx/44e42636b2ff2a460ec0b8b7f933a9e0db4bf02838ac0b4369cc9ab2796f33d7)
+
+### [Tonscan — Explore TON blockchain ecosystem](https://tonscan.org/tx/44e42636b2ff2a460ec0b8b7f933a9e0db4bf02838ac0b4369cc9ab2796f33d7)
+
+Discover The Open Network ecosystem with tonscan.org — the simplest way to track transaction history, whales addresses, DApps, network stats, staking pools and more.
+
+Result: +6.4% or or +300% APY
+
+![:small_blue_diamond:](https://tonresear.ch/images/emoji/twitter/small_blue_diamond.png?v=12 ":small_blue_diamond:") 3rd Place: UQAcGc\_0jQyTae7THcBwsOAh1f8w3VKzznIlqolLODeuI4Kq
+
+![](https://tonscan.org/favicon.svg) [Tonscan](https://tonscan.org/tx/36767e39b62cea6321b09031c1fb46a1a7885797c49efe042c64889cededa92f)
+
+### [Tonscan — Explore TON blockchain ecosystem](https://tonscan.org/tx/36767e39b62cea6321b09031c1fb46a1a7885797c49efe042c64889cededa92f)
+
+Discover The Open Network ecosystem with tonscan.org — the simplest way to track transaction history, whales addresses, DApps, network stats, staking pools and more.
+
+Result: +6.0% or +300% APY
+
+How did the 1st place achieve such success?
+
+On January 06, the trader deposited 10 TON into the protocol. The smart contract built a position with a range of 94,000 to 104,000, expiring on January 10.
+
+When BTC expired at 94,576, the trader earned +0.68 TON, achieving +300% APY over the period.
+
+![:fire:](https://tonresear.ch/images/emoji/twitter/fire.png?v=12 ":fire:") Want similar results? Start now with YieldFort Mini App and explore effortless crypto income strategies!
+
+![:point_right:](https://tonresear.ch/images/emoji/twitter/point_right.png?v=12 ":point_right:") Join the app here [Telegram: Contact @ton\_yieldfortbot](https://t.me/ton_yieldfortbot/ton)
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 40628
+
+[TON Research](/)
+
+# [NEW Submission Form for Memecoin Mountain](/t/new-submission-form-for-memecoin-mountain/40628)
+
+[TON Memelandia](/c/ton-memelandia/memecoin-mountain/86)  [Memecoin Mountain](/c/ton-memelandia/memecoin-mountain/86) 
+
+    
+
+[Funny\_People](https://tonresear.ch/u/Funny_People)  December 8, 2024, 9:10am  1
+
+$NEW Submission Form for Memecoin Mountain
+
+1.  Your Role in the Competition: Memecoin Project
+    
+2.  Memecoin Name: NEWJET
+    
+3.  Token Contract Address: EQAsnG\_grsT12Y6cFR2egvDhFcZLTVOLQE\_sqMk5wWqKzw6z
+    
+4.  Market Cap (at the time of application): 329k$
+    
+5.  Daily Trading Volume (for the last 7 days): 20-50k$
+    
+6.  Number of Unique Token Holders: 379
+    
+7.  Has your token been fairly launched?  
+    BigPump
+    
+8.  Please provide a link to your CoinGecko listing: There is no application. But here links on DexScreener & GeckoTerminal: [https://dexscreener.com/ton/eqdg6napyt6kja\_ro7e9knsezhxjchgji0xplypiwnbugn0i](https://dexscreener.com/ton/eqdg6napyt6kja_ro7e9knsezhxjchgji0xplypiwnbugn0i) [NEW/TON - цена NEWJET на бирже Ston.fi (V2) | GeckoTerminal](https://www.geckoterminal.com/ru/ton/pools/EQDg6napYT6kjA_RO7E9knSEZhxjChgJi0xPlypiwNBugN0I)
+    
+9.  Minor
+    
+10.  Briefly describe your memecoin’s strategy for growth and community engagement: The $NEW token was created by one of the oldest influencers in the TON ecosystem, the author of the @TonNewbie channel, and aims to unite the community as one and instill faith in each other.
+    
+11.  Do you have any partnerships with Key Opinion Leaders (KOLs) or influencers?  
+    Yes, of course.
+    
+12.  Would you like to receive updates and announcements during the competition?
+    
+13.  Yes
+    
+14.  Provide your Telegram username for communication and coordination: @FunnyPeople22
+    
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 40641
+
+[TON Research](/)
+
+# [Fragment.com,Telegram and API](/t/fragment-com-telegram-and-api/40641)
+
+[General](/c/general/4) 
+
+    
+
+[erdchem](https://tonresear.ch/u/erdchem)  December 9, 2024, 9:50pm  1
+
+hello first of all  
+I’m thinking of developing a project, but I have questions that I can’t solve.
+
+1.  How does [fragment.com](http://fragment.com) get stars?
+2.  Do we have the opportunity to get stars like [fragment.com](http://fragment.com)?  
+    Even though we cannot buy it as cheaply as fragments, is there a way to get stars, even if it is expensive, through an API from Telegram?
+
+Best regards to community.
+
+  3 Likes
+
+[apiTON](https://tonresear.ch/u/apiTON) December 10, 2024, 9:23am  3
+
+1.  Fragment doesn’t get stars; it simply sells. This means you’re making a Web 3.0 transaction to purchase a Web 2.0 digital asset.
+    
+2.  There is no legal way to obtain stars directly. However, you can verify your own account on [Fragment.com](http://fragment.com/) and buy stars for your friends. Some services are now parsing Ref\_IDs from Fragment and conducting transactions from verified wallets that resemble typical user transactions on Fragment. But be cautious when doing this.
+    
+
+  4 Likes
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 40647
+
+[TON Research](/)
+
+# [10 Best TON API Providers In-Depth Review: Ton Center, TONX API, Ton Console, & More](/t/10-best-ton-api-providers-in-depth-review-ton-center-tonx-api-ton-console-more/40647)
+
+[Application](/c/application/20) 
+
+    
+
+[victorton](https://tonresear.ch/u/victorton)  December 10, 2024, 10:36am  1
+
+TON APIs are essential tools for developing dApps on the TON blockchain, enabling developers to easily access blockchain data and build applications quickly. This guide provides an in-depth comparison of the top TON API providers, based on pricing, reliability, and features.
+
+> Check the **[original post here](https://medium.com/tonxapi/10-best-ton-apis-in-depth-review-2024-ton-center-tonx-api-ton-console-more-d13728bdf4d4).**
+
+# [](#p-66992-why-ton-apis-are-crucial-for-dapp-development-1)Why TON APIs Are Crucial for DApp Development?
+
+As TON’s ecosystem matures, sophisticated infrastructure becomes crucial for handling complex blockchain operations at scale. Modern TON applications need comprehensive transaction processing capabilities beyond basic transfers.
+
+Developers require robust APIs that deliver consistent performance across high-traffic periods while maintaining security and reliability. This demand has driven significant advancements in blockchain infrastructure services.
+
+# [](#p-66992-key-features-developers-need-from-ton-api-providers-2)Key Features Developers Need from TON API Providers
+
+Modern TON API providers must deliver several critical features to meet enterprise requirements:
+
+*   **Advanced Message Processing**: TON’s [asynchronous system](https://docs.ton.org/v3/concepts/dive-into-ton/go-from-ethereum/difference-of-blockchains) enables parallel transaction processing and high throughput, crucial for scaling dApps. Developers need providers that can manage message queues, track transaction states across shards, and ensure reliable monitoring to handle growing transaction volumes seamlessly.
+*   **Developer Integration Tools**: Comprehensive development resources, including TON API migration toolkits and SDK support, significantly impact project success. Technical teams benefit from providers offering extensive documentation, debugging capabilities, and seamless migration paths from existing blockchain solutions.
+*   **Scalable Infrastructure Access**: With the rise of casual mini-games on TON in 2024, dApps are poised for sudden user surges. Developers need APIs that can scale instantly to handle spikes in activity without requiring a significant upfront investment, making it easier to launch and grow projects.
+
+# [](#p-66992-comparing-top-ton-api-providers-in-2024-3)Comparing Top TON API Providers in 2024 ![:bar_chart:](https://tonresear.ch/images/emoji/twitter/bar_chart.png?v=12 ":bar_chart:")
+
+Here’s our comprehensive analysis of the leading TON infrastructure providers, focusing on verified performance metrics and enterprise capabilities:
+
+# [](#p-66992-ton-api-provider-analysis-features-pricing-and-performance-4)TON API Provider Analysis: Features, Pricing, and Performance ![:mag_right:](https://tonresear.ch/images/emoji/twitter/mag_right.png?v=12 ":mag_right:")
+
+## [](#p-66992-h-1-tonx-api-enterprise-grade-ton-infrastructure-5)1\. TONX API: Enterprise-Grade TON Infrastructure
+
+[TONX API](https://tonxapi.com/) provides a robust TON blockchain infrastructure powered by the TONX Supernode. As a leading TON API & RPC provider, TONX API offers exceptional capabilities for enterprise-level blockchain development:
+
+**(a) Advanced TON Integration Framework**: TONX API’s infrastructure processes complex TON blockchain transactions with ultra-low latency, enabling institutional-grade operations across multiple signature requirements and high-volume batch processing scenarios. The platform’s integration toolkit simplifies migration from existing TON infrastructure providers.
+
+**(b)** [**TONX Lab**](https://docs.tonxapi.com/docs/how-to-use-tonx-lab-api) **Development Suite**: A specialized toolkit for TON blockchain developers, featuring:
+
+*   [**BOC Parser**](https://docs.tonxapi.com/reference/verifyboc): Sophisticated validation and debugging tools for Bag of Cells messages, ensuring transaction integrity before network broadcast
+*   [**Fee Estimation**](https://docs.tonxapi.com/reference/estimate-fee): Precise transaction cost prediction through real-time network analysis, optimizing gas usage and improving success rates
+*   [**Binary Conversion Tools**](https://docs.tonxapi.com/reference/binary-conversion): Streamlined utilities for handling various TON data formats, supporting cross-platform development requirements
+*   [**Address Detection**](https://docs.tonxapi.com/reference/detect-address): Advanced validation system supporting multiple TON address representations for enhanced security
+
+**(c) Infrastructure Excellence**: Global distribution through TONX Supernode ensures consistent performance and reliability, maintaining 99.99% uptime across all regions. This enterprise-grade infrastructure supports immediate scaling for high-traffic TON applications.
+
+**(d) Development Resources**: Comprehensive [documentation](https://docs.tonxapi.com/) and integration support through [TONX.js SDK](https://www.npmjs.com/package/@tonx/core) enable rapid deployment of TON blockchain applications. The platform provides seamless migration paths for teams transitioning from other TON infrastructure providers.
+
+### [](#p-66992-pricing-6)Pricing
+
+*   Free Plan: 10 RPS capability for development and testing
+*   Growth Plan: 100 RPS with premium tools at 3 TON/month
+*   Scale Plan: 1,000 RPS for high-performance needs at 30 TON/month
+*   Enterprise: Custom solutions with dedicated support
+
+> _Quick Review:_ [_TONX API_](https://tonxapi.com/) _offers unmatched value with the_ _**lowest pricing**_ _and_ _**top-tier performance**_ _. With 99.99% uptime and a wide range of APIs, it’s the go-to choice for reliable TON blockchain development._
+
+## [](#p-66992-h-2-ton-center-fast-and-reliable-http-api-7)2\. TON Center: Fast and Reliable HTTP API
+
+[TON Center](https://toncenter.com/) stands as one of the pioneering infrastructure providers in the TON ecosystem, offering comprehensive blockchain access through their HTTP API platform:
+
+*   **Query Management System**: Advanced query capabilities with adjustable rate limiting, enabling developers to optimize their TON API usage based on specific application requirements. The system supports efficient data retrieval across various blockchain operations.
+*   [**TonWeb SDK**](https://github.com/toncenter/tonweb) **Framework**: Comprehensive development toolkit enabling seamless TON blockchain integration, with built-in security features and multi-language support. The SDK provides standardized methods for common blockchain operations.
+*   **Network Architecture**: Private Liteserver deployment maintains 99.85% uptime through distributed network infrastructure, supporting both mainnet and testnet environments with consistent performance.
+
+### [](#p-66992-pricing-8)Pricing
+
+*   Free Tier: 10 RPS with basic support features
+*   Plus: 25 RPS at 2.5 TON/month
+*   Advanced: 100 RPS at 25 TON/month
+*   Enterprise: Custom solutions available
+
+## [](#p-66992-h-3-tonapi-ton-console-advanced-blockchain-access-9)3\. Tonapi (Ton Console): Advanced Blockchain Access
+
+[Tonapi](https://tonapi.io/) (Ton Console) provides sophisticated blockchain access with comprehensive development tools and flexible pricing options:
+
+*   **Real-time Data Framework**: Event streaming capabilities and WebSocket support enable immediate access to TON blockchain updates, crucial for applications requiring real-time data synchronization.
+*   **Integration Infrastructure**: Standardized REST endpoints and methods provide familiar access patterns for developers transitioning to TON blockchain development.
+*   **Network Performance**: Maintains 99.39% uptime with support for core blockchain operations and advanced data access requirements.
+
+### [](#p-66992-pricing-10)Pricing
+
+*   Free: 1 RPS with basic monitoring
+*   Lite: $9.9/month (1.55 TON) with 10 RPS
+*   Standard: $95/month (14.85 TON) with 100 RPS
+*   Plus: $290/month (45.33 TON) with 300 RPS
+*   Heavy: $890/month (139.11 TON) with 1000 RPS
+*   Custom: Unlimited requests with enterprise features
+
+## [](#p-66992-h-4-quicknode-global-ton-rpc-infrastructure-11)4\. QuickNode: Global TON RPC Infrastructure
+
+[QuickNode](https://www.quicknode.com/) provides TON blockchain access through their global network infrastructure, offering developers standardized API access with optimized performance:
+
+*   **Global Request Routing**: Routes API requests to the nearest available location, ensuring low latency and optimal speeds across their network infrastructure. The platform processes hundreds of billions of requests monthly through their distributed system.
+*   **Multi-Language Support**: Comprehensive integration support for multiple programming languages including cURL, JavaScript, Python, and Ruby, facilitating development across different tech stacks.
+*   **TON HTTP API (v2)**: Standardized access to blockchain functionality through familiar REST endpoints, currently in Beta with continuous updates and improvements.
+
+### [](#p-66992-pricing-12)Pricing
+
+*   Free: 15 RPS with 10M API credits
+*   Starter: $10/month, 40 RPS, 25M API credits
+*   Growth: $39/month, 125 RPS, 75M API credits
+*   Business: $199/month, 400 RPS, 300M API credits
+*   Enterprise: Custom solutions available
+
+## [](#p-66992-h-5-chainstack-enterprise-blockchain-infrastructure-13)5\. Chainstack: Enterprise Blockchain Infrastructure
+
+[Chainstack](https://chainstack.com/) delivers enterprise-focused infrastructure solutions for TON blockchain development:
+
+*   **Dedicated Node Solutions**: Enterprise-grade infrastructure with both shared and dedicated node options, supporting high-volume blockchain operations.
+*   **Archive Data Access**: Comprehensive historical data accessibility through dedicated archive nodes.
+*   **Multi-region Support**: Distributed infrastructure ensuring consistent performance across global regions.
+
+### [](#p-66992-pricing-14)Pricing
+
+*   Developer: Free tier with 25 RPS
+*   Growth: $49/month with 250 RPS
+*   Business: $349/month with 500 RPS
+*   Enterprise: Custom solutions with dedicated support
+
+## [](#p-66992-h-6-getblock-streamlined-node-access-15)6\. GetBlock: Streamlined Node Access
+
+[GetBlock](https://getblock.io/) delivers reliable blockchain access through several key features:
+
+*   **Node Architecture**: Flexible infrastructure offering both shared and dedicated node options, allowing developers to choose optimal configuration based on their specific needs.
+*   **Request Management System**: Advanced rate limiting and request distribution ensure stable performance across all service tiers, supporting various application requirements.
+*   **Standard API Access**: Comprehensive support for core TON blockchain operations through standardized API endpoints, simplifying integration processes.
+*   **Resource Optimization**: Automated node maintenance and updates reduce operational overhead, allowing development teams to focus on application logic.
+
+## [](#p-66992-pricing-16)_Pricing_
+
+*   Shared Nodes: Starting from $29/month with basic features
+*   Dedicated Nodes: From $600/node with custom configuration
+*   Enterprise: Tailored solutions for high-volume requirements
+
+## [](#p-66992-h-7-chainbase-data-access-solutions-17)7\. Chainbase: Data Access Solutions
+
+[Chainbase](https://chainbase.com/) delivers a comprehensive Web3 data infrastructure platform with advanced TON blockchain support:
+
+*   **Web3 API Integration**: REST and Stream endpoints provide sub-second latency access to blockchain data, with advanced real-time indexing capabilities across 300+ datasets.
+*   **Data Platform Features**: Sophisticated data synchronization through webhook and Kafka integration, enabling real-time monitoring and analytics for blockchain applications.
+*   **Enterprise Architecture**: Multi-chain node infrastructure supports high-throughput operations with custom SQL endpoint access based on cloud service architecture.
+
+### [](#p-66992-pricing-18)Pricing
+
+*   Free: 1 request/minute, 3 projects, community support
+*   Developer: $99/month, 2 requests/second, 15 projects
+*   Enterprise: Custom pricing with unlimited access and VIP support
+
+## [](#p-66992-h-8-bitquery-19)8\. Bitquery
+
+[Bitquery](https://bitquery.io/) focuses on providing comprehensive blockchain data access and analytics capabilities:
+
+*   **Historical Data Access**: Advanced indexing services enable access to detailed historical blockchain data, including token transactions, account balances, and smart contract interactions.
+*   **Real-time Streaming**: Cutting-edge data streaming capabilities support immediate access to blockchain state changes through WebSocket connections and Kafka integration.
+*   **GraphQL Integration**: Flexible query interface enables precise data retrieval and efficient resource utilization through GraphQL APIs.
+*   **Cloud Integration**: Native support for major cloud platforms facilitates seamless integration with existing cloud infrastructure.
+
+### [](#p-66992-pricing-20)Pricing
+
+*   Developer: Free tier with 10 req/min and basic API access
+*   Commercial: Custom pricing with unlimited data access and dedicated support
+*   Enterprise: Custom solutions with full feature access
+
+## [](#p-66992-h-9-nownodes-scalable-blockchain-infrastructure-21)9\. NowNodes: Scalable Blockchain Infrastructure
+
+[NowNodes](https://nownodes.io/) delivers high-performance blockchain infrastructure with comprehensive TON support:
+
+*   **Full Node Access**: Provides instant access to 65+ RPC nodes with advanced WebSocket connections, enabling reliable blockchain data access and real-time transaction monitoring.
+*   **Infrastructure Reliability**: Maintains 99.95% API uptime with sub-second response times, supporting over 250,000 transactions per second through their distributed network.
+*   **Development Tools**: Advanced integration support for wallets, exchanges, and Web3 analytics applications, with comprehensive documentation and testing environments.
+
+### [](#p-66992-pricing-22)Pricing
+
+*   Start (Free): 100,000 requests/month, 15 RPS limit
+*   Pro: €20/month, 1M requests/month
+*   Business: €200/month, 30M requests/month
+*   Enterprise: €500/month, 100M requests/month
+*   Dedicated: €400/month for unlimited requests
+
+## [](#p-66992-h-10-tatum-23)10\. Tatum
+
+[Tatum](https://tatum.io/) offers a comprehensive blockchain development platform with extensive TON support through its unified infrastructure:
+
+*   **Advanced API Framework**: Complete TON operation support through unified RPC gateway, enabling seamless access to both mainnet and testnet environments with multi-language SDK integration.
+*   **Development Tools**: Sophisticated toolkit including virtual account management, fee estimation system, and comprehensive transaction monitoring capabilities.
+*   **Enterprise Features**: Multi-token standard support with advanced security features and dedicated technical support for enterprise deployments.
+
+### [](#p-66992-pricing-24)Pricing
+
+*   Free Plan: Development essentials with limited API access
+*   Pay As You Go: $39/month with advanced features
+    *   4M Credits/month
+    *   200 Requests/sec
+    *   Archive Nodes access
+*   Enterprise: Custom solutions with unlimited features
+
+# [](#p-66992-how-to-select-the-best-ton-api-for-your-project-25)How to Select the Best TON API for Your Project?
+
+Choosing the right TON API provider is a crucial decision that can greatly influence the success of a project. We have pinpointed several important evaluation factors that development teams should take into account:
+
+*    **![:white_check_mark:](https://tonresear.ch/images/emoji/twitter/white_check_mark.png?v=12 ":white_check_mark:") Performance Requirements**: valuate your needs for latency and data processing. Trading apps need ultra-low latency, while NFT platforms require reliable metadata handling.
+*    **![:white_check_mark:](https://tonresear.ch/images/emoji/twitter/white_check_mark.png?v=12 ":white_check_mark:") Development Resources**: Look for strong documentation, SDKs, and debugging tools that simplify development and reduce build time.
+*    **![:white_check_mark:](https://tonresear.ch/images/emoji/twitter/white_check_mark.png?v=12 ":white_check_mark:") Infrastructure Scalability**: Choose providers with seamless scaling capabilities, automated resource management, and enterprise-grade infrastructure that can handle traffic spikes and maintain consistent performance.
+*    **![:white_check_mark:](https://tonresear.ch/images/emoji/twitter/white_check_mark.png?v=12 ":white_check_mark:") Technical Integration**: Evaluate the depth of available integration options and their alignment with your development stack. Focus on SDK options and advanced features like webhooks that ensure smooth implementation.
+*    **![:white_check_mark:](https://tonresear.ch/images/emoji/twitter/white_check_mark.png?v=12 ":white_check_mark:") Cost Efficiency**: Compare pricing tiers and features across providers, prioritizing flexible plans that scale with your growth.
+
+# [](#p-66992-best-ton-api-provider-2024-tonx-api-26)Best TON API Provider 2024: TONX API
+
+As the TON ecosystem grows rapidly, selecting the right infrastructure is crucial. [**TONX API**](https://tonxapi.com/) stands out with its enterprise-grade features, cost-effectiveness, and ease of use. With 99.99% uptime powered by the **TONX Supernode**, it eliminates the need for node management while offering advanced tools like **BoC Parser** through **TONX Lab**.
+
+(TONX API consistently ranks among the highest scores for uptime on [TONStat.us](https://tonstat.us/))
+
+Compared to other API providers like Ton Center, backed by the TON Foundation and popular before 2023, TONX API has emerged as a faster-updating, more versatile, and high-performance alternative. With its shared JSON architecture and the launch of the [**TONX.js Adapter**](https://www.npmjs.com/package/@tonx/adapter) migration kit, more developers are now seamlessly transitioning to TONX API.
+
+Recently, TONX API [announced partnerships](https://cointelegraph.com/press-releases/tonx-api-the-ultimate-web3-developer-and-ton-apis-platform-partnering-with-20-industry-leaders) with 20 leading TON projects, including **Blum, Catizen, Coingecko, and Google Cloud**. With a staggering **362x** increase in usage, TONX API demonstrates its ability to support projects of all scales.
+
+One of the most compelling aspects of TONX API is its [pricing](https://tonxapi.com/pricing). The **Growth Plan**, offering **100 RPS**, is priced at just **3 $TON/month**, while the **Scale Plan**, supporting **1,000 RPS**, is available for **30 $TON/month**, making it one of the most competitive options in the market.
+
+(TONX API has the lowest pricing in 2024.)
+
+With a powerful free tier, developers can [**get started with TONX API**](https://tonxapi.com/) risk-free. Begin your journey today and unlock the full potential of TON blockchain development.
+
+Links:
+
+*   [https://docs.tonxapi.com/](https://docs.tonxapi.com/)
+*   [TONX API Quickstart Guide](https://docs.tonxapi.com/docs/ton-api-quickstart-guide)
+*   [TON APIs Reference Overview | Full List of Methods by TONX API](https://docs.tonxapi.com/reference/ton-api-overview)
+*   [TONX API Pricing: Free Plan with 10 RPS](https://docs.tonxapi.com/docs/ton-api-free-pricing)
+*   [How to Build a DeFi on TON](https://docs.tonxapi.com/reference/build-a-defi)
+*   [How to Build a GemeFi on TON](https://docs.tonxapi.com/reference/build-a-gamefi)
+*   [TONX.js SDK | NPM](https://www.npmjs.com/package/@tonx/core)
+*   [TONX.js Adapter | NPM](https://www.npmjs.com/package/@tonx/adapter)
+
+  1 Like
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 40654
+
+[TON Research](/)
+
+# [Tact-101 Module 1 Orientation](/t/tact-101-module-1-orientation/40654)
+
+[Technical Support](/c/technical-support/tact-ts/83)  [Tact](/c/technical-support/tact-ts/83) 
+
+[tact](https://tonresear.ch/tag/tact), [tact101](https://tonresear.ch/tag/tact101), [learn](https://tonresear.ch/tag/learn)
+
+    
+
+[Fuzzy-Dev](https://tonresear.ch/u/Fuzzy-Dev)  December 10, 2024, 10:59am  1
+
+# [](#p-67001-hey-yoooo-folks-1)Hey yoooo!!! Folks …
+
+### [](#p-67001-this-is-fuzzy-dev-back-again-with-a-action-packed-end-to-end-course-on-getting-into-ton-technicals-and-development-2)This is Fuzzy-Dev… Back again with a action packed end to end course on getting into TON technicals and development
+
+# [](#p-67001-here-we-go-module-1-of-tact-101-3)Here we go :- Module 1 of Tact 101
+
+## [](#p-67001-the-first-course-in-your-pathway-to-be-a-ton-dev-4)The first course in your pathway to be a TON Dev…
+
+## [](#p-67001-our-journey-and-plan-ahead-5)Our Journey and Plan Ahead…
+
+We will be diving into technical realm of TON blockchain development now or sooner. But before that its nescessary to have the technical knowledge of blockchain basics and ecosystem itself. So, in module 1 of this awesome journey, we will be learning :-
+
+*   Blockchain Basics
+    
+*   Know the TON
+    
+*   Role and History of Tact - The TON’s programming language
+    
+
+# [](#p-67001-topic-overview-6)Topic Overview:-
+
+## [](#p-67001-h-1-blockchain-basics-7)1\. Blockchain Basics
+
+In this topic we will cover our whole way through concepts like :-
+
+1.  What is ledger Concept ???
+    
+2.  Transactions, Blocks and hash chaining… and how really this things work
+    
+3.  What do we mean when we use gigantic terms like Deeeeeecentralisation and Trustlessnesssss ???
+    
+
+You will also go through a live stream videos having some fun packed activities and session with fun examples to ensure you get the essence of this beautiful technology what we all call “**Blockchain**”…
+
+## [](#p-67001-h-2-know-the-ton-8)2\. Know the TON
+
+Introducing you guys to the fascinating journey of TON technology , we will learn about : -  
+1\. TON’s unique features like multi-chain , sharding, TVM and more some exciting tech…  
+2\. We will be also having a comparison battle between TON and ETH, and will get to know why to Use TON…  
+3\. Vision of TON ecosystem  
+4\. Speeds, Scalability and Protocols…  
+5\. Supported Language and familiarity with Social Communication Channels.
+
+Here we will be also having some action packed videos and live streams where we will understand the Deep Tech working behind TON ecosystem and will be meeting lead researchers from TON research programs over meet and will have some chit chat with them.
+
+### [](#p-67001-there-we-go-guys-wrapping-up-this-orientation-doc-making-you-familiar-with-upcoming-course-module-lessss-go-ton-9)There WE Go guys, wrapping up this orientation doc , making you familiar with upcoming course module… , lessss go TON…
+
+Connect with me for any queries or assistance on my telegram community here :
+
+[TON-Learners-JAM](https://t.me/+wfBAW0D8kX5jZGI1)
+
+And subscribe to Our Youtube Channel for upcoming course videos…
+
+[TON-Research](https://www.youtube.com/@TONResearch)  
+[Fuzzy-Dev…](https://www.youtube.com/@Jenu_1235)
+
+  5 Likes
+
+[Sauhard\_Gupta](https://tonresear.ch/u/Sauhard_Gupta) December 10, 2024, 6:29pm  2
+
+Would Love to Collaborate with you …  
+It was a brief introduction and I am waiting for the next one
+
+  1 Like
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 40679
+
+[TON Research](/)
+
+# [$BBQCoin Submission Form for Memecoin Mountain](/t/bbqcoin-submission-form-for-memecoin-mountain/40679)
+
+[TON Memelandia](/c/ton-memelandia/memecoin-mountain/86)  [Memecoin Mountain](/c/ton-memelandia/memecoin-mountain/86) 
+
+    
+
+[BBQCoin](https://tonresear.ch/u/BBQCoin)  December 13, 2024, 4:11am  1
+
+$BBQCoin Submission Form for Memecoin Mountain
+
+Your Role in the Competition: Memecoin Project
+
+Memecoin Name: BBQCoin
+
+Token Contract Address: EQD2ERclkQ5n6lv3Kthdbq3CaOOSmlY7zQcwYGa9rTIK7CNZ
+
+Market Cap (at the time of application): $15,569,835
+
+Daily Trading Volume (for the last 7 days): $6,753,609
+
+Number of Unique Token Holders: 2922705
+
+Has your token been fairly launched?  
+YES Bybit Gate
+
+![](https://www.bybit.com/favicon.ico) [bybit.com](https://www.bybit.com/zh-MY/trade/spot/BBQ/USDT)
+
+![](https://fh-static.bycsi.com/images/home/official-image.png)
+
+### [Bybit | Spot Trading Platform](https://www.bybit.com/zh-MY/trade/spot/BBQ/USDT)
+
+Buy and Sell BTC. ETH and more on the spot.
+
+[Gate.io](https://www.gate.io/zh/trade/BBQ_USDT)
+
+![](https://www.gate.io/images/gate.io_logo.png)
+
+### [0.0311 BBQ USDT 现货交易 | 价格走势图 | Gate.io](https://www.gate.io/zh/trade/BBQ_USDT)
+
+BBQ USDT 现货交易、图表及订单簿。24小时最高 0.037、最低 0.03085。BBQ 兑换 USDT。即刻使用 Gate.io 进行BBQ/USDT 交易吧！
+
+Please provide a link to your CoinGecko listing:  
+[https://www.coingecko.com/en/coins/bbqcoin](https://www.coingecko.com/en/coins/bbqcoin)
+
+Briefly describe your memecoin’s strategy for growth and community engagement: BBQCoin is an innovative project built on the TON blockchain, blending GameFi, blockchain, and AI technology. It integrates elements of GameFi, Tokenomics, SocialFi, and DAO. The BBQCoin team comprises blockchain and game development enthusiasts dedicated to onboarding Web2 users into a new Web3-based game ecosystem.
+
+11.  Do you have any partnerships with Key Opinion Leaders (KOLs) or influencers?
+12.  Yes
+13.  Confidential
+
+Would you like to receive updates and announcements during the competition?  
+Yes  
+Provide your Telegram username for communication and coordination: @TGAppPark
+
+ 
+
+[user2740](https://tonresear.ch/u/user2740) December 14, 2024, 7:17am  2
+
+بله میشه۱ رهبرا رو بذاریم کنار برای آخر کار  
+از فکرشون استفاده کنن هم تیمی هاشون ابشن بزاریم قدرت بکیرن
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 40691
+
+[TON Research](/)
+
+# [Обзор StarHash. Дроп ~февраль 2025? реклама в Notpixel на StarHash?](/t/starhash-2025-notpixel-starhash/40691)
+
+[Русский](/c/ru/49) 
+
+    
+
+[FizHowe](https://tonresear.ch/u/FizHowe)  December 15, 2024, 3:57pm  1
+
+В многоуважаемом приложении **Notpixel** засветился новый проект **StarsHash**. Давайте разберем основные моменты
+
+«**Вы используете мощность своего устройства для решения какой-то капчи, получая за это токены**»
+
+Так заявляют в официальном телеграм канале
+
+Самое интересное - Майнинг продолжится до тех пор, пока не будут сгенерированы все 1 000 000 блоков (~**февраль 2025 г**.)
+
+Если судить по опыту **#Memhash**, самую высокую прибыль получили первые участники, на данный момент сильно уменьшилась прибыль, но и вход стоит дешевле, всего 100 звезд, сейчас memhash находится топ 1 по кассовым приложениям
+
+В StarsHash сейчас вход стоит 490 звезд, в Memhash стоило **400-600-800** на старте, поэтому лучше не томить в случае интереса
+
+Если уж в Notpixel рекламирует, деньги на развитие явно есть у проекта, на фомо можно залететь
+
+[StarsHash перейти](https://api.vc.ru/v2.8/redirect?to=https%3A%2F%2Ft.me%2Fstarshash_bot%3Fstart%3D_tgr_idCCMlk4ODMy&postId=1710457)
+
+Данный проект обладает потенциалом, посмотрим что из этого выйдет
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 40695
+
+[TON Research](/)
+
+# [PandaCoin This is something new](/t/pandacoin-this-is-something-new/40695)
+
+[General](/c/general/mining/47)  [Mining](/c/general/mining/47) 
+
+    
+
+[Erpal](https://tonresear.ch/u/Erpal)  December 16, 2024, 6:51am  1
+
+What kind of project came out, they created a smart contract on a tone that no one did. When you mine NFT, you get this NFT on getgems and you can sell it @CryptoPandaCoinBot/game
+
+  1 Like
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 40733
+
+[TON Research](/)
+
+# [Запустился Sticker Store! Магазин стикеров NFT, Дуров, Telegram](/t/sticker-store-nft-telegram/40733)
+
+[Русский](/c/ru/49) 
+
+    
+
+[FizHowe](https://tonresear.ch/u/FizHowe)  December 20, 2024, 10:29pm  1
+
+На презентации Token2049 Дуров поведал о NFT стикерах, пользователи смогут использовать стикеры в ограниченном доступе и держать их как NFT
+
+Эту идею подхватили разработчики Dogs и вместе с Open Builders сделали Sticker Store
+
+Сейчас состоялся запуск Sticker Store. Доступны: Pudgy Penguins, Bored Apes, Flappy Birds, DOGS, Notcoin и Blum. Можно купить за Telegram Stars
+
+Успеваем пока не раскупили, лимит ограничен, советую обезьян их мало осталось  
+Через время можно будет продать как nft на гетгемс
+
+[Перейти Sticker Store , run run run](https://t.me/sticker_bot?start=_tgr_t8wlY_RlM2Ni)
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 40745
+
+[TON Research](/)
+
+# [Ta-da launch on TON & Partnerships](/t/ta-da-launch-on-ton-partnerships/40745)
+
+[TON Blockchain](/c/ton-blockchain/17) 
+
+    
+
+[MarceloSama-Tada](https://tonresear.ch/u/MarceloSama-Tada)  December 23, 2024, 4:51pm  1
+
+Hey guys I’m Marceau, I’m working at Ta-da, a platform that collects data for AI. The purpose is simple, we create tasks for companies that need data to train their AI in our app, and the community is rewarded for providing and checking the data quality to ensure it matches the requirements. This can be voice, pictures, videos, annotation, anything that can be done through a smartphone basically.
+
+We’d love to add tasks for projects in need for data and list partners within our app!
+
+We are about to launch on TON very soon, and we have grants and micro-grants programs going on, who could help us move forward with that and create synergies between projects ?
+
+All the best,  
+Marceau
+
+  1 Like
+
+[apiTON](https://tonresear.ch/u/apiTON) December 23, 2024, 6:19pm  2
+
+If you have any questions about development on TON, please write [Telegram: Contact @apitonDev](https://t.me/apitonDev)
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 40758
+
+[TON Research](/)
+
+# [Information for scammers](/t/information-for-scammers/40758)
+
+[General](/c/general/4) 
+
+    
+
+[User2333](https://tonresear.ch/u/User2333)  December 27, 2024, 8:44am  1
+
+Dear scammers! After completing your vile actions, please turn off the bots that have been worked on, because you will not take anything from these players and they are wasting their time, you better create a new bot and invite them there. Have at least a little respect for people, you still have a lot of work to do with them…
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 40768
+
+[TON Research](/)
+
+# [Referrals for crypto projects for free](/t/referrals-for-crypto-projects-for-free/40768)
+
+[Application](/c/application/20) 
+
+    
+
+[user2748](https://tonresear.ch/u/user2748)  December 29, 2024, 3:28am  1
+
+With our bot, you can automatically attract lots of referrals to your project on Telegram, and most importantly, people will be interested in the actions on your referral link.![:sunglasses:](https://tonresear.ch/images/emoji/twitter/sunglasses.png?v=12 ":sunglasses:")  
+@autoreferrals\_bot
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 40816
+
+[TON Research](/)
+
+# [10+ Contributions by TON Core Team 'NEWTON' Changed Everything](/t/10-contributions-by-ton-core-team-newton-changed-everything/40816)
+
+[General](/c/general/4) 
+
+    
+
+[doge](https://tonresear.ch/u/doge)   January 8, 2025, 11:33am  1
+
+[![image](https://tonresear.ch/uploads/default/original/3X/1/7/17c04c1101f5ed5e5f1ec79592ee20fb4d5f475f.jpeg)
+
+image1024×590 121 KB
+
+](https://tonresear.ch/uploads/default/original/3X/1/7/17c04c1101f5ed5e5f1ec79592ee20fb4d5f475f.jpeg "image")
+
+While TON Foundation is a more familiar name, few know the story of its early contributors—the **NEWTON team (TON Core Team).**
+
+> Through voluntary technical contributions, NEWTON earned recognition from  
+> [@Telegram](https://x.com/@Telegram)’s official team in 2021, leading to the technical handover that marked the greatest “Community Takeover” in blockchain history.
+
+As an early member of NEWTON, let me share this story. ![:writing_hand:t2:](https://tonresear.ch/images/emoji/twitter/writing_hand/2.png?v=12 ":writing_hand:t2:")  
+— [@drawesomedoge](https://x.com/@drawesomedoge)
+
+* * *
+
+## [](#p-67291-introduction-joining-the-newton-team-and-its-mission-1)Introduction: Joining the NEWTON Team and Its Mission
+
+When I joined the NEWTON team, our primary mission was clear: maintain the stability of the TON testnet2 code while enhancing developer tools.
+
+Since we didn’t have direct control over the [ton-blockchain GitHub repository](https://github.com/ton-blockchain), we created a new organization called [NEWTON](https://github.com/newton-blockchain).  
+To ensure smooth network updates, we encouraged the community to use NEWTON-developed validators as the standard version.
+
+Between our founding and June 2021, the NEWTON Team accomplished several groundbreaking developments and infrastructure projects. Let’s dive into **10 critical contributions** that shaped TON’s early days.
+
+* * *
+
+## [](#p-67291-h-1-mytonctrl-automated-node-management-tool-2)1\. mytonctrl: Automated Node Management Tool
+
+Our first major contribution was **mytonctrl**, a powerful automation tool for node installation and validator setup.
+
+Features included:
+
+*   Wallet creation
+*   Contract deployment
+*   Transaction history retrieval
+*   DNS registration system (distinct from the modern NFT-packaged DNS)
+
+Additionally, **mytonctrl** could configure validators, liteservers, and liteclients, simplifying node data access and parsing.
+
+By 2021, we added CPU-based mining scripts and automated power tests to facilitate [$TON](https://x.com/search?q=%24TON&src=cashtag_click) mining.
+
+[![Image](https://pbs.twimg.com/media/GdeXK1yaIAAsCHO?format=png&name=900x900)](https://x.com/drawesomedoge/article/1862377110381502883/media/1862123183433981952)
+
+* * *
+
+## [](#p-67291-h-2-tonmon-visualizing-blockchain-health-3)2\. tonmon: Visualizing Blockchain Health
+
+We created [tonmon](https://tonmon.xyz/) to monitor blockchain health.  
+Key metrics included:
+
+*   Block creation times
+*   Shard statuses
+*   dPoS election schedules
+*   Validator counts and weights
+
+> In the early days, the network had only ~80 validators globally.
+
+[![Image](https://pbs.twimg.com/media/GdeXWtIXoAArNQr?format=jpg&name=medium)](https://x.com/drawesomedoge/article/1862377110381502883/media/1862123387268603904)
+
+* * *
+
+## [](#p-67291-h-3-tonmine-monitoring-giver-contracts-4)3\. tonmine: Monitoring Giver Contracts
+
+[tonmine](https://tonmine.xyz/) tracked TON mining activity.  
+By 2021, only ten small givers remained, distributing ~200,000 [$TON](https://x.com/search?q=%24TON&src=cashtag_click) daily across all contracts.
+
+> Mining difficulty varied significantly depending on the giver.
+
+[![Image](https://pbs.twimg.com/media/GdeXoOfX0AAmL6E?format=jpg&name=medium)](https://x.com/drawesomedoge/article/1862377110381502883/media/1862123688281231360)
+
+* * *
+
+## [](#p-67291-h-4-cross-chain-bridge-5)4\. Cross-Chain Bridge
+
+Before jetton or NFT standards, we developed a **native [$TON](https://x.com/search?q=%24TON&src=cashtag_click) bridge** for ERC-20 tokens on EVM-compatible chains.  
+This enabled seamless transfers between TON, Ethereum, and BSC via [bridge.ton.org](https://bridge.ton.org/).
+
+[![Image](https://pbs.twimg.com/media/GdeXtcGXUAEOxfR?format=jpg&name=medium)](https://x.com/drawesomedoge/article/1862377110381502883/media/1862123777833783297)
+
+* * *
+
+## [](#p-67291-h-5-cryptobothttpsxcomcryptobot-telegram-bot-wallet-6)5\. [@cryptobot](https://x.com/@cryptobot): Telegram Bot Wallet
+
+In 2021, we developed [@cryptobot](https://x.com/@cryptobot), a Telegram wallet supporting:
+
+*   [$BTC](https://x.com/search?q=%24BTC&src=cashtag_click)
+*   [$TON](https://x.com/search?q=%24TON&src=cashtag_click)
+*   [$BNB](https://x.com/search?q=%24BNB&src=cashtag_click)
+*   [$USDT](https://x.com/search?q=%24USDT&src=cashtag_click)
+
+[![Image](https://pbs.twimg.com/media/GdeXyv9akAA2DNR?format=jpg&name=4096x4096)](https://x.com/drawesomedoge/article/1862377110381502883/media/1862123869064302592)
+
+* * *
+
+## [](#p-67291-h-6-toncenter-simplifying-blockchain-data-access-7)6\. toncenter: Simplifying Blockchain Data Access
+
+[toncenter](https://toncenter.com/) provided public APIs for developers, removing the need to set up full nodes or worry about serialized data formats.
+
+> toncenter paved the way for modern APIs like [tonxapi.com](https://tonxapi.com/).
+
+[![Image](https://pbs.twimg.com/media/GdeX7cuWEAAXKXY?format=jpg&name=medium)](https://x.com/drawesomedoge/article/1862377110381502883/media/1862124018519642112)
+
+* * *
+
+## [](#p-67291-h-7-explorertoncoinorg-tons-first-blockchain-explorer-8)7\. [explorer.toncoin.org](http://explorer.toncoin.org): TON’s First Blockchain Explorer
+
+The first blockchain explorer built into TON’s core codebase was incredibly fast but too technical for most users.
+
+[![Image](https://pbs.twimg.com/media/GdeYVPNXcAAwvOC?format=jpg&name=medium)](https://x.com/drawesomedoge/article/1862377110381502883/media/1862124461568258048)
+
+* * *
+
+## [](#p-67291-h-8-tonsh-a-new-generation-explorer-9)8\. ton.sh: A New Generation Explorer
+
+We created [ton.sh](http://ton.sh/) to address usability challenges. Key features included wallet balances, transactions, and memos.
+
+[![Image](https://pbs.twimg.com/media/GdeYaGSbYAE1N4P?format=jpg&name=medium)](https://x.com/drawesomedoge/article/1862377110381502883/media/1862124545072914433)
+
+* * *
+
+## [](#p-67291-h-9-tonweb-the-essential-javascript-sdk-10)9\. TonWeb: The Essential JavaScript SDK
+
+We developed **TonWeb**, a JavaScript SDK simplifying wallet creation, deployment, and transactions.
+
+[![Image](https://pbs.twimg.com/media/GdeYx-OagAA_VUY?format=png&name=medium)](https://x.com/drawesomedoge/article/1862377110381502883/media/1862124955225456640)
+
+* * *
+
+## [](#p-67291-h-10-ton-wallet-my-first-ton-wallet-11)10\. ton wallet: My First TON Wallet
+
+This was my first TON wallet, and it’s still functional today.
+
+[![Image](https://pbs.twimg.com/media/GdeY7IxbkAAUmG8?format=jpg&name=large)](https://x.com/drawesomedoge/article/1862377110381502883/media/1862125112675504128)
+
+* * *
+
+## [](#p-67291-recognition-newtons-open-letter-to-telegram-12)Recognition: NEWTON’s Open Letter to Telegram
+
+By June 2021, the NEWTON team documented its contributions in an open letter ([TIP-33](https://github.com/ton-blockchain/TIPs/issues/33)).  
+To our surprise, [@Telegram](https://x.com/@Telegram)’s official team replied on June 30, 2021, marking the start of a new era.
+
+* * *
+
+## [](#p-67291-looking-back-and-forward-a-builders-note-13)Looking Back, and Forward: A Builder’s Note
+
+The spirit of NEWTON lives on. Through my team [@TONX\_Studio](https://x.com/@TONX_Studio), we’re building essential infrastructure, including:
+
+*   [@TONXAPI](https://tonxapi.com/)
+*   [@TonkeyApp](https://x.com/@TonkeyApp)
+*   [@tonstakecom](https://x.com/@tonstakecom)
+*   [@ton\_research](https://x.com/@ton_research)
+
+Let’s build TON together. ![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:")  
+Follow [@drawesomedoge](https://x.com/@drawesomedoge) for more.
+
+* * *
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 40817
+
+[TON Research](/)
+
+# [From $200 to $100K: Memoirs of a 2013 Bitcoiner](/t/from-200-to-100k-memoirs-of-a-2013-bitcoiner/40817)
+
+[General](/c/general/4) 
+
+    
+
+[doge](https://tonresear.ch/u/doge)   January 8, 2025, 11:36am  1
+
+[![image](https://tonresear.ch/uploads/default/original/3X/b/c/bcfd834acad9239797b7425a823659e6e336c819.jpeg)
+
+image1024×410 68.3 KB
+
+](https://tonresear.ch/uploads/default/original/3X/b/c/bcfd834acad9239797b7425a823659e6e336c819.jpeg "image")
+
+### [](#p-67292-since-2013-ive-been-a-bitcoin-researcher-and-translator-of-mastering-bitcoin-chinese-editionhttpsmastering-bitcoindogetg-1)Since 2013, I’ve been a Bitcoin researcher and translator of _Mastering Bitcoin_ ([Chinese Edition](https://mastering-bitcoin.doge.tg/)).
+
+I’ve witnessed every milestone - from early Bitcoin communities to exchange evolution, from Ethereum’s birth to TON & Telegram ecosystem growth, and now Bitcoin ETF approval.
+
+With BTC reaching $100,000, I’m both grateful and amazed by how far we’ve come. Let me share this remarkable decade in Bitcoin. ![:writing_hand:t2:](https://tonresear.ch/images/emoji/twitter/writing_hand/2.png?v=12 ":writing_hand:t2:")
+
+* * *
+
+## [](#p-67292-i-introduction-my-bitcoin-journey-2)I. Introduction: My Bitcoin Journey
+
+In 2013, as a 20-year-old student, I was captivated by the emerging blockchain technology when I first encountered Bitcoin.
+
+Many have asked why I haven’t achieved so-called financial freedom. Indeed, I met peers who took bold risks, even selling their homes to purchase Bitcoin at just $200. However, I lacked sufficient savings to invest and couldn’t fully grasp Bitcoin’s potential at the time. In 2014, I tried borrowing $3,000 from my parents to buy Bitcoin, but they refused.
+
+Looking back, their decision might have been the right one—no one could foresee Bitcoin’s future. Perhaps it is this very uncertainty that makes Bitcoin such a challenging and fascinating asset.
+
+![圖片](https://pbs.twimg.com/media/GfzATf2acAAwrbC?format=jpg&name=medium)
+
+* * *
+
+## [](#p-67292-ii-exploring-bitcoin-from-academia-to-practice-3)II. Exploring Bitcoin: From Academia to Practice
+
+In 2014, Bitcoin made headlines across Taiwan when its price surpassed $1,000 for the first time. My curiosity deepened after discussing this with my roommate. Though I initially understood the basics from Wikipedia, encouragement from my professor led me to explore Bitcoin’s technical aspects more deeply.
+
+Beyond my studies, I joined Bitcoin communities on Facebook, where enthusiasts shared insights. I analyzed cryptocurrency exchanges like BTC-e, Poloniex, OKCoin, and Huobi, studying their operational logic. I also experimented with trading bots and arbitrage strategies, gaining firsthand experience of crypto market risks and challenges.
+
+![圖片](https://pbs.twimg.com/media/GfysmK_bcAA3YeK?format=jpg&name=medium)
+
+* * *
+
+## [](#p-67292-iii-technological-breakthroughs-and-community-building-4)III. Technological Breakthroughs and Community Building
+
+In 2014, I began serious academic research into Bitcoin’s technologies: decentralized networks, cryptographic hashing, and the Hashcash algorithm. This interdisciplinary exploration led me to Academia Sinica in 2015, where I studied the Tor network alongside Bitcoin.
+
+Tor’s privacy mechanisms helped me understand Bitcoin’s pseudonymity and inspired new research questions about network security.
+
+Simultaneously, I built the largest Chinese Bitcoin Community on Facebook, connected with industry pioneers, and attended early Bitcoin meetups. These gatherings provided invaluable insights and strengthened the community’s commitment to blockchain innovation.
+
+![圖片](https://pbs.twimg.com/media/Gfyu1LvaYAArnqJ?format=jpg&name=900x900)
+
+* * *
+
+## [](#p-67292-iv-bitcoins-original-intent-and-global-vision-5)IV. Bitcoin’s Original Intent and Global Vision
+
+In 2014, the global Bitcoin community explored practical applications of Bitcoin as a universal payment tool. Despite challenges like slow transactions and high fees, the community innovated relentlessly. The Lightning Network emerged as a solution, enabling faster and cheaper transactions.
+
+![圖片](https://pbs.twimg.com/media/GfyvjfCaUAAYGjr?format=jpg&name=medium)
+
+* * *
+
+## [](#p-67292-v-blockchain-evolution-ethereum-and-decentralization-6)V. Blockchain Evolution: Ethereum and Decentralization
+
+Ethereum’s introduction of smart contracts transformed blockchain, expanding applications to DeFi and DApps. Innovations like Cosmos’ Proof of Stake (PoS) reduced energy consumption, while technologies like ZK-SNARKs advanced privacy and scalability.
+
+![圖片](https://pbs.twimg.com/media/Gfyv54dbIAAA61j?format=jpg&name=medium)
+
+* * *
+
+## [](#p-67292-vi-ton-blockchain-advancing-the-payment-ecosystem-7)VI. TON Blockchain: Advancing the Payment Ecosystem
+
+As an early Bitcoiner, my focus has always been on crypto’s payment potential. In 2021, I joined the TON Core Team to advance TON Blockchain, which integrates decentralized storage, Lightning Network, dPoS consensus, and sharding.
+
+With 1.4 billion registered Telegram users, TON offers unparalleled payment solutions. I founded [@TONX\_Studio](https://x.com/@TONX_Studio) and launched [@TONXAPI](https://x.com/@TONXAPI) to provide robust infrastructure for developers.
+
+![圖片](https://pbs.twimg.com/media/GfywC4pbgAAyUdj?format=jpg&name=medium)
+
+* * *
+
+## [](#p-67292-vii-10-years-of-bitcoin-reflections-and-prospects-8)VII. 10 Years of Bitcoin: Reflections and Prospects
+
+This decade-long journey has witnessed Bitcoin’s rise from $200 to $100,000 and growing institutional acceptance. By 2025, all pieces will align: USDT stability, Telegram’s vast network, and TON’s advanced infrastructure.
+
+The payment revolution envisioned by Bitcoin pioneers is becoming reality. If you want to build on TON, join [@TONX\_Studio](https://x.com/@TONX_Studio) and [tonxapi.com](https://tonxapi.com/) to shape the future of blockchain together. ![:muscle:](https://tonresear.ch/images/emoji/twitter/muscle.png?v=12 ":muscle:")
+
+> ![:gem:](https://tonresear.ch/images/emoji/twitter/gem.png?v=12 ":gem:") Follow  
+> [@drawesomedoge](https://x.com/@drawesomedoge)  
+> for more insights into TON’s past, present, and future.
+
+#bitcoin #BTC #TON [@ton\_blockchain](https://x.com/@ton_blockchain)
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 40877
+
+[TON Research](/)
+
+# [Trustless bridge with contract issue](/t/trustless-bridge-with-contract-issue/40877)
+
+[General](/c/general/4) 
+
+    
+
+[toots\_monkey](https://tonresear.ch/u/toots_monkey)  January 21, 2025, 10:23am  1
+
+I was working on the recent TON context and encountered a roadblock. I synchronized the key blocks every 4 hours, but to confirm a block, I need to validate its signatures. I compiled the node IDs of the validators using their public keys and a predefined prefix, retrieved their weights, and attempted to validate the signatures to calculate the total weight to compare it with 2/3 total weight of all validators. However, I was surprised to discover that the verify\_signature function in FunC only supports 256-bit hashes, whereas the message I need to validate is 544 bits.
+
+  4 Likes
+
+[Howard](https://tonresear.ch/u/Howard) February 24, 2025, 6:41am  2
+
+The problem is that I am not that quite understand your question tbh, but maybe you can check this: [ton/crypto/smartcont/stdlib.fc at 2a68c8610bf28b43b2019a479a70d0606c2a0aa1 · ton-blockchain/ton · GitHub](https://github.com/ton-blockchain/ton/blob/2a68c8610bf28b43b2019a479a70d0606c2a0aa1/crypto/smartcont/stdlib.fc#L173)
+
+* * *
+
+I tried to decode your idea here with ChatGPT but:
+
+To solve this problem, I need to clarify a few things:
+
+1.  **What is the exact structure of the 544-bit message that needs to be validated?**
+    
+    *   Is it a single block of data, or does it contain multiple parts that can be hashed separately?
+2.  **What is the expected signature verification process in the TON blockchain for such messages?**
+    
+    *   Are there alternative methods in TON that handle signatures for messages longer than 256 bits?
+3.  **Would hashing the 544-bit message down to 256 bits before verification be acceptable?**
+    
+    *   For example, using SHA-256 or another hashing method to generate a 256-bit digest and then verifying the signature against that.
+4.  **Are there existing implementations or best practices in the TON ecosystem for verifying messages longer than 256 bits?**
+    
+    *   If so, should I focus on finding an existing approach or designing a new workaround?
+
+Let me know these details, and I can provide a precise solution.
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 40910
+
+[TON Research](/)
+
+# [Вебхук для payment invoice](/t/payment-invoice/40910)
+
+[Русский](/c/ru/application/54)  [приложение](/c/ru/application/54) 
+
+    
+
+[D24](https://tonresear.ch/u/D24)  January 31, 2025, 9:41pm  1
+
+Ребят, работал кто с payment invoice от tonconsole?
+
+Не могу понять где регестрировать вебхук. Спасибо большое
+
+  1 Like
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 40945
+
+[TON Research](/)
+
+# [Why Understanding Web3 Will Always Be a Struggle as a Newbie - (Reflection)](/t/why-understanding-web3-will-always-be-a-struggle-as-a-newbie-reflection/40945)
+
+[General](/c/general/4) 
+
+    
+
+[Esteemedhuman](https://tonresear.ch/u/Esteemedhuman)   February 11, 2025, 12:12am  1
+
+Have you ever felt embarrassed, cheated, or outsmarted? ![:sob:](https://tonresear.ch/images/emoji/twitter/sob.png?v=12 ":sob:")![:sob:](https://tonresear.ch/images/emoji/twitter/sob.png?v=12 ":sob:")![:sob:](https://tonresear.ch/images/emoji/twitter/sob.png?v=12 ":sob:")
+
+I know we’ve all experienced one or more of this as a fresher in a university or a newcomer in an unfamiliar environment.
+
+As a university fresher, I got lost in my school building twice, relying on Google Maps as my lifesaver. I was also cheated by a bike man… If I continued sharing my struggles, this thread wouldn’t contain struggle I faced as a fresher.
+
+[![Picsart_25-02-11_01-01-54-742](https://tonresear.ch/uploads/default/optimized/3X/5/b/5b3a31e47bf448c725671aca5a81890ba59e8ade_2_600x500.jpeg)
+
+Picsart\_25-02-11\_01-01-54-742864×720 118 KB
+
+](https://tonresear.ch/uploads/default/original/3X/5/b/5b3a31e47bf448c725671aca5a81890ba59e8ade.jpeg "Picsart_25-02-11_01-01-54-742")
+
+However, I never realized how quickly I became familiar with my school until I encountered similar challenges in Web3. The struggles were the same, just disguised differently.
+
+As I reflect on my experiences, I identify patterns of common challenges we all faced in an unfamiliar place, and also how I’ve solved them.
+
+**1\. Lack of a Mentor or Guardian:**  
+If I had a guardian who could have told me that the bike ride would cost 100 naira, I wouldn’t have lost an extra 400 naira to the bike man. Similarly, if I had a mentor when I first came into contact with Web3, I wouldn’t have lost $300 by holding onto a token when I should have taken profits.
+
+**2\. Lack of Experience:**  
+If you already have a guardian or mentor, gaining experience becomes much easier. Without one, you’re left to figure things out on your own, which often means getting lost, scammed, or wasting time before you can become smarter and more experienced.
+
+**3\. Lack of Access to Relevant Information:**  
+Another major problem is the difficulty in finding reliable information. This is where engagement and interaction come into play. By connecting with like-minded individuals, joining communities, and participating in Twitter Spaces, you can fast-track your learning and develop better techniques for gathering information.
+
+This are the major problems I faced as a university freshman and a newbie in Web3
+
+You can also add to the discussion by adding the problem in an unfamiliar place and how you’ve solved them
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 40953
+
+[TON Research](/)
+
+# [TON X Layer Zero](/t/ton-x-layer-zero/40953)
+
+[한국어](/c/ko/69) 
+
+    
+
+[Sean\_Kim](https://tonresear.ch/u/Sean_Kim)  February 12, 2025, 4:37pm  1
+
+![:coin:](https://tonresear.ch/images/emoji/twitter/coin.png?v=12 ":coin:") **TON 블록체인, LayerZero와 통합하여 크로스체인 확장 가속화**
+
+TON 재단이 **LayerZero**, 즉 크로스체인 자산 전송을 위한 상호 운용성 프로토콜과의 공식적인 통합을 발표했습니다. 이번 통합을 통해 TON은 **100개 이상의 블록체인과 연결**되며, 초기 단계에서는 **Ethereum, Tron, Solana** 등 12개 주요 체인과의 연동이 시작됩니다. 이를 통해 TON 생태계의 **블록체인 간 유동성**과 **확장성**이 한층 강화될 전망입니다.  
+![:link:](https://tonresear.ch/images/emoji/twitter/link.png?v=12 ":link:") **\[공식 발표 링크\]  
+([TON integrates with LayerZero, bringing greater blockchain interoperability](https://blog.ton.org/ton-layer-zero))**
+
+### [](#p-67544-h-1)![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:") **사용자에게 주는 혜택**
+
+![:small_blue_diamond:](https://tonresear.ch/images/emoji/twitter/small_blue_diamond.png?v=12 ":small_blue_diamond:") TON은 이제 **Stargate 브릿지**를 통해 **스테이블코인 전송이 가능**해졌습니다.  
+![:link:](https://tonresear.ch/images/emoji/twitter/link.png?v=12 ":link:") **[Stargate Bridge](https://defillama.com/bridge/stargate)**  
+![:small_blue_diamond:](https://tonresear.ch/images/emoji/twitter/small_blue_diamond.png?v=12 ":small_blue_diamond:") **멀티체인 유동성 지원** – LayerZero를 활용하여 여러 체인의 유동성을 통합, 슬리피지 위험을 줄이고 거래 실패율을 낮출 수 있습니다.
+
+### [](#p-67544-h-2)![:computer:](https://tonresear.ch/images/emoji/twitter/computer.png?v=12 ":computer:") **개발자를 위한 주요 기능**
+
+![:one:](https://tonresear.ch/images/emoji/twitter/one.png?v=12 ":one:") **크로스체인 메시징** – TON 스마트 컨트랙트가 LayerZero 연결 체인의 컨트랙트와 상호 작용 가능  
+![:two:](https://tonresear.ch/images/emoji/twitter/two.png?v=12 ":two:") **토큰 확장** – TON에서 발행한 토큰을 LayerZero 지원 100개 이상의 체인에서 유통 가능  
+![:three:](https://tonresear.ch/images/emoji/twitter/three.png?v=12 ":three:") **FunC++ 지원** – TON의 기존 스마트 컨트랙트 언어 FunC를 확장한 언어로, 개발 속도를 높이고 크로스체인 접근성을 강화  
+![:small_blue_diamond:](https://tonresear.ch/images/emoji/twitter/small_blue_diamond.png?v=12 ":small_blue_diamond:") 앞으로 TON의 새로운 언어인 **Tolk**에 FunC++의 추상화 및 인터페이스가 포함될 예정
+
+### [](#p-67544-h-3)![:repeat:](https://tonresear.ch/images/emoji/twitter/repeat.png?v=12 ":repeat:") **주요 파트너 및 활용 사례**
+
+![:white_check_mark:](https://tonresear.ch/images/emoji/twitter/white_check_mark.png?v=12 ":white_check_mark:") **Tether (USDT0)** – LayerZero의 OFT 표준을 활용하여 **TON, Tron, Ethereum, Arbitrum** 간 USDT 크로스체인 전송 가능  
+![:white_check_mark:](https://tonresear.ch/images/emoji/twitter/white_check_mark.png?v=12 ":white_check_mark:") **Ethena (USDe)** – **5억 달러 규모**의 자산을 가진 Ethena가 LayerZero를 통해 TON 생태계로 확장 예정  
+![:white_check_mark:](https://tonresear.ch/images/emoji/twitter/white_check_mark.png?v=12 ":white_check_mark:") **Stargate** – TON과 Tron, Ethereum 및 기타 OFT 네트워크 간 **USDT 및 다양한 자산 전송을 지원하는 대형 브릿지**
+
+### [](#p-67544-layerzero-4)![:earth_africa:](https://tonresear.ch/images/emoji/twitter/earth_africa.png?v=12 ":earth_africa:") **LayerZero란?**
+
+LayerZero는 **100개 이상의 블록체인을 연결하는 상호 운용성 프로토콜**로, 온체인 대출, 스테이블코인, 디지털 ID 솔루션 등 다양한 활용 사례를 지원합니다. PayPal, Ethena, Pudgy Penguins 등 유명 프로젝트에서 사용하고 있으며, **140M+ 이상의 크로스체인 메시지**를 처리한 가장 널리 사용되는 크로스체인 솔루션 중 하나입니다.
+
+독립형 Layer 1 블록체인인 TON은 기존에 크로스체인 유동성 부족 문제를 겪어왔으나, **LayerZero 통합을 통해 TON 생태계가 더욱 개방되고 확장될 수 있는 기반이 마련**되었습니다. 이제 TON 사용자는 더 넓은 블록체인 네트워크에서 유동성을 활용할 수 있으며, 개발자 또한 TON을 기반으로 다중 체인 애플리케이션을 구축할 수 있습니다.
+
+TON이 꿈꾸는 **“Crypto in every pocket”** 에 한 걸음 더 가까워지고 있습니다! ![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:")![:fire:](https://tonresear.ch/images/emoji/twitter/fire.png?v=12 ":fire:")
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 40954
+
+[TON Research](/)
+
+# [𝙉𝙞𝙜𝙚𝙧𝙞𝙖 𝙋𝙤𝙨𝙚 𝙏𝙤 𝙀𝙢𝙚𝙧𝙜𝙚 𝘼𝙨 𝘼𝙛𝙧𝙞𝙘𝙖 𝙁𝙞𝙧𝙨𝙩 𝙂𝙡𝙤𝙗𝙖𝙡 𝘾𝙧𝙮𝙥𝙩𝙤 𝙇𝙚𝙖𝙙𝙚𝙧 ( Based on On-chain user Data)](/t/based-on-on-chain-user-data/40954)
+
+[General](/c/general/4) 
+
+    
+
+[Esteemedhuman](https://tonresear.ch/u/Esteemedhuman)   February 12, 2025, 5:46pm  1
+
+In the 2024 Global Crypto Adoption Ranking. Nigeria the Giant of Africa has snatch the 2nd Position from rest of the world!  
+
+[![Picsart_25-02-12_15-05-09-805](https://tonresear.ch/uploads/default/optimized/3X/d/3/d3ff5e3b3366a73fd01b5c7838e0422d4e36d155_2_690x436.jpeg)
+
+Picsart\_25-02-12\_15-05-09-8051139×720 164 KB
+
+](https://tonresear.ch/uploads/default/original/3X/d/3/d3ff5e3b3366a73fd01b5c7838e0422d4e36d155.jpeg "Picsart_25-02-12_15-05-09-805")
+
+[![fve0ut](https://tonresear.ch/uploads/default/original/3X/1/8/181e526939539e6d6b55bcffa2b336bb731b0ec9.jpeg)
+
+fve0ut664×373 38.7 KB
+
+](https://tonresear.ch/uploads/default/original/3X/1/8/181e526939539e6d6b55bcffa2b336bb731b0ec9.jpeg "fve0ut")
+
+In recent years, Nigeria has solidified its position as a global leader in cryptocurrency adoption, fueled by innovative solutions to tackle economic challenges. Ranking 2nd on the global adoption index, the country saw nearly $59 billion in cryptocurrency transactions 2023-2024
+
+[![Screenshot_20250212-152855](https://tonresear.ch/uploads/default/optimized/3X/d/5/d5c42c48d9d014c88686b34f37423be7c6a79fcf_2_690x322.jpeg)
+
+Screenshot\_20250212-152855720×336 45.8 KB
+
+](https://tonresear.ch/uploads/default/original/3X/d/5/d5c42c48d9d014c88686b34f37423be7c6a79fcf.jpeg "Screenshot_20250212-152855")
+
+Nigeria’s crypto activity is largely driven by smaller retail and professional sized transactions.  
+Transaction exceeding $1m account for 15% of the total value of cryptocurrency received in Nigeria, while the transaction under $1m account for the remainder 85%  
+
+[![vim1fn](https://tonresear.ch/uploads/default/original/3X/3/0/307a54bc6b1e889b5d3006753ca33a029e0f0474.jpeg)
+
+vim1fn720×405 13.8 KB
+
+](https://tonresear.ch/uploads/default/original/3X/3/0/307a54bc6b1e889b5d3006753ca33a029e0f0474.jpeg "vim1fn")
+
+𝐌𝐚𝐣𝐨𝐫 𝐑𝐞𝐚𝐬𝐨𝐧:
+
+1.  Remittance fee: Many Nigerians rely on stablecoins to send money across borders due to the inefficiencies and high costs associated with traditional remittance channels. “Cross-border remittances are a major use case for stablecoins in Nigeria
+
+As shown below, the average cost of sending a $200 remittance from Nigeria is approximately 60% lower when using stablecoins compared to traditional remittance methods facilitated by fiat currency.  
+
+[![hazcc4](https://tonresear.ch/uploads/default/original/3X/6/c/6c9886cd881a6eac30e499756c6c78b0634472bc.jpeg)
+
+hazcc4694×422 15.6 KB
+
+](https://tonresear.ch/uploads/default/original/3X/6/c/6c9886cd881a6eac30e499756c6c78b0634472bc.jpeg "hazcc4")
+
+2.  Inflation: As in other African countries, a major driver of stablecoin adoption in Nigeria is inflation and the depreciation of the naira — which plummeted to a record low in February 2024. We can see the impact of this trend by looking at transfer sizes under $1 million.
+
+In Q1 2024, stablecoin value approached almost $3billion, making stablecoins the largest portion of sub-$1M transactions in Nigeria.  
+Although bitcoin and altcoins remain relevant, representing billions in value received, stablecoins is clearly the favorite medium for transactions  
+
+[![20250212_170139](https://tonresear.ch/uploads/default/original/3X/3/3/33db192234d760b8952501b030a067f241e10332.jpeg)
+
+20250212\_170139610×343 16.4 KB
+
+](https://tonresear.ch/uploads/default/original/3X/3/3/33db192234d760b8952501b030a067f241e10332.jpeg "20250212_170139")
+
+3.  Influx of Youths Adoption: With the attraction of DeFi, Jobs offer, Airdrops. providing Nigerians with new opportunities to earn, receive incentives, and engage in decentralized trading, in addition to the traditional financial systems.
+
+DeFi is experiencing a major moment in Nigeria, echoing  
+the broader trend of Sub-Saharan Africa as the global leader in DeFi adoption. Nigeria stands at the  
+forefront of this trend, with over $30 billion in value received in DeFi services last year.
+
+[![20250212_170359](https://tonresear.ch/uploads/default/original/3X/8/5/85c552c263cd432b70cdd3b253aaa45995d7f0a8.jpeg)
+
+20250212\_170359597×336 14.8 KB
+
+](https://tonresear.ch/uploads/default/original/3X/8/5/85c552c263cd432b70cdd3b253aaa45995d7f0a8.jpeg "20250212_170359")
+
+𝐒𝐞𝐧𝐭𝐢𝐦𝐞𝐧𝐭𝐬:
+
+*   𝐆𝐨𝐯𝐞𝐫𝐧𝐦𝐞𝐧𝐭 𝐎𝐩𝐢𝐧𝐢𝐨𝐧: While Nigeria is making progress with initiatives like ARIP, many FIs remain hesitant to fully engage with the crypto sector due to lingering regulatory ambiguities.
+    
+*   𝐏𝐫𝐢𝐯𝐚𝐭𝐞 𝐒𝐞𝐜𝐭𝐨𝐫: With the government ambiguity, Private Sectors are still cautious, waiting for clear signals from the central bank and SEC before fully entering the market.
+    
+*   𝙋𝙚𝙤𝙥𝙡𝙚: Some smaller part of Nigerian are Very Optimistic and are the root and also the vanguard, with some of them among top Influencers in the Web3 Space,
+    
+*   Some smaller part of Nigerian are continuing to have distrust in web3, due to loss of money and unmet expectations.
+    
+
+While Most are still potential future Crypto adopter
+
+𝘾𝙤𝙣𝙘𝙡𝙪𝙨𝙞𝙤𝙣:  
+Nigeria’s crypto market continues to flourish. With a vibrant fintech  
+landscape,Youth Adoption, and potential for collaboration between regulators, TradFi, and crypto companies.  
+The Nation is well-positioned to emerge as a global crypto leader.
+
+If you read to this stage I will encourage you to Give a like and repost, to support me ![:orange_heart:](https://tonresear.ch/images/emoji/twitter/orange_heart.png?v=12 ":orange_heart:")
+
+And also follow me on Twitter ![:point_down:](https://tonresear.ch/images/emoji/twitter/point_down.png?v=12 ":point_down:")![:point_down:](https://tonresear.ch/images/emoji/twitter/point_down.png?v=12 ":point_down:")![:point_down:](https://tonresear.ch/images/emoji/twitter/point_down.png?v=12 ":point_down:") [x.com](http://x.com/eniori_sada)
+
+ℑ𝔫𝔣ographics 𝔞𝔫𝔡 𝔡𝔞t𝔞 𝔤𝔬𝔱𝔱𝔢𝔫 𝔣𝔯𝔬𝔪 [chainalysis.com](http://chainalysis.com)
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 40963
+
+[TON Research](/)
+
+# [Race condition in FunC](/t/race-condition-in-func/40963)
+
+[Application](/c/application/20) 
+
+    
+
+[BitByNIK](https://tonresear.ch/u/BitByNIK)  February 13, 2025, 4:54pm  1
+
+Hi everyone,
+
+I am new to TON Blockchain and FunC smart contract language.
+
+I am trying to manifest a race condition using FunC as a part of my project. Below is the code →
+
+```
+#include "imports/stdlib.fc";
+
+
+(int) load_data() inline {
+    var ds = get_data().begin_parse();
+    return (ds~load_uint(64));
+}
+
+() save_data(int counter) impure inline {
+    set_data(begin_cell()
+    .store_uint(counter, 64)
+    .end_cell());
+}
+
+() recv_internal(int msg_value, cell in_msg, slice in_slice) impure {
+    if(in_slice.slice_empty?()) {
+        return ();
+    } else {
+        var counter = load_data();
+
+        int i = 0;
+        while(i < 5) {
+            i += 1;
+        }
+        ;; send_raw_message(begin_cell().end_cell(), 64);
+
+        counter += 1;
+        save_data(counter);
+    }
+}
+
+(int) get_counter() method_id {
+    return load_data();
+}
+```
+
+When writing tests, I am sending two internal messages. The final value of counter should be 1 after execution of both messages due to the race but it is actually 0. Can anyone tell me what I am doing wrong and is race condition even possible in TON?
+
+  1 Like
+
+[BitByNIK](https://tonresear.ch/u/BitByNIK) February 13, 2025, 4:58pm  2
+
+I have even tried to loop for more than 100000 times.
+
+  1 Like
+
+[Esteemedhuman](https://tonresear.ch/u/Esteemedhuman) February 14, 2025, 12:02pm  3
+
+You can consider asking the question here ![:point_down:](https://tonresear.ch/images/emoji/twitter/point_down.png?v=12 ":point_down:")![:point_down:](https://tonresear.ch/images/emoji/twitter/point_down.png?v=12 ":point_down:")![:point_down:](https://tonresear.ch/images/emoji/twitter/point_down.png?v=12 ":point_down:")
+
+![](https://telegram.org/img/website_icon.svg?4) [Telegram](https://t.me/addlist/1r5Vcb8eljk5Yzcy)
+
+![](https://telegram.org/img/t_logo_2x.png)
+
+### [Telegram Chats: TON Devs](https://t.me/addlist/1r5Vcb8eljk5Yzcy)
+
+Opening this link will add chats to your Telegram app.
+
+  1 Like
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 41
+
+[TON Research](/)
+
+# [Exploring the Integration and Functionality of the TVM Solidity Compiler for Everscale and TON Blockchain Ecosystems](/t/exploring-the-integration-and-functionality-of-the-tvm-solidity-compiler-for-everscale-and-ton-blockchain-ecosystems/41)
+
+[TON Blockchain](/c/ton-blockchain/tvm/16)  [TVM](/c/ton-blockchain/tvm/16) 
+
+    
+
+[kingsman](https://tonresear.ch/u/kingsman)   January 23, 2024, 1:53pm  1
+
+The development of the TVM Solidity compiler by Everscale represents a significant advancement in enabling the execution of Solidity smart contracts on TVM (TON Virtual Machine) compatible blockchains like Everscale, Venom, Gosh, and potentially TON. This project, hosted on GitHub, allows for the compilation of Solidity smart contracts into TVM bytecode, which could potentially bridge the gap between Ethereum’s programming environment and TON’s blockchain architecture. Given the potential implications of this development, a thorough exploration and technical analysis are necessary to understand its capabilities, limitations, and compatibility with the current TON Blockchain.
+
+This inquiry seeks to investigate the TVM Solidity compiler, focusing on several key aspects:
+
+1.  **Compiler Functionality and Integration**: How does the TVM Solidity compiler convert Solidity smart contracts into TVM bytecode, and what are the technical mechanisms behind this process?
+2.  **Compatibility with TON Blockchain**: Given that the compiler is designed for TVM compatible blockchains like Everscale, what are the possibilities and challenges of integrating and executing these compiled smart contracts on the current TON Blockchain?
+3.  **Development and Building Process**: What are the specific steps and requirements for developers to build and install the TVM Solidity compiler on different operating systems, such as Ubuntu Linux and Windows 10?
+4.  **API and Development Tools**: Can you detail the available API documentation and development tools provided for the TVM Solidity compiler, and how do these tools facilitate the development and deployment of smart contracts on TVM compatible blockchains?
+5.  **Examples and Practical Applications**: Are there existing code samples or practical applications that demonstrate the use of the TVM Solidity compiler, particularly in terms of deploying and interacting with smart contracts on TVM compatible blockchains?
+6.  **Licensing and Open Source Contributions**: What is the licensing model of the TVM Solidity compiler, and how does it impact the ability of the open-source community to contribute to and utilize this tool?
+7.  **Future Developments and Enhancements**: Looking forward, what are the planned or anticipated developments and enhancements for the TVM Solidity compiler, particularly in terms of improving compatibility, functionality, and developer experience?
+
+This analysis aims to provide a comprehensive understanding of the TVM Solidity compiler’s role in bridging Solidity smart contracts with TVM compatible blockchains, exploring its potential impact on the TON Blockchain ecosystem and the broader blockchain development community.
+
+![](https://github.githubassets.com/favicons/favicon.svg) [GitHub](https://github.com/tonlabs/TVM-Solidity-Compiler)
+
+![](https://tonresear.ch/uploads/default/original/1X/3748070dea2b35abbfae80e02d315f33c1e97f56.png)
+
+### [GitHub - tonlabs/TVM-Solidity-Compiler: Solidity compiler for TVM](https://github.com/tonlabs/TVM-Solidity-Compiler)
+
+Solidity compiler for TVM. Contribute to tonlabs/TVM-Solidity-Compiler development by creating an account on GitHub.
+
+  1 Like
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 41018
+
+[TON Research](/)
+
+# [Запрос актуальных адресов pTON и Router для mainnet STON.fi](/t/pton-router-mainnet-ston-fi/41018)
+
+[Русский](/c/ru/application/54)  [приложение](/c/ru/application/54) 
+
+    
+
+[Kyoresuas](https://tonresear.ch/u/Kyoresuas)  February 26, 2025, 12:02pm  1
+
+Здравствуйте!
+
+Я разрабатываю биржу на базе TON и пытаюсь интегрировать обмен TON в актив FPIBANK с использованием SDK [STON.fi](http://STON.fi) (версии v2\_1). Я пробовал использовать адреса, указанные в документации, но при их использовании транзакции завершаются с ошибкой.
+
+Подскажите, пожалуйста:
+
+1.  Каковы актуальные адреса для pTON и Router для основной сети (mainnet)?
+2.  Есть ли рекомендации по самостоятельному поиску этих адресов через TON-эксплореры или другие инструменты?
+
+Заранее спасибо за помощь!
+
+  2 Likes
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 41048
+
+[TON Research](/)
+
+# [Unleashing the Potential of Your .ton Domain: Introducing dotTON!](/t/unleashing-the-potential-of-your-ton-domain-introducing-dotton/41048)
+
+[TON Blockchain](/c/ton-blockchain/ton-dns/12)  [TON DNS](/c/ton-blockchain/ton-dns/12) 
+
+    
+
+[mhbdev](https://tonresear.ch/u/mhbdev)  March 4, 2025, 7:50pm  1
+
+Hey TON Community!
+
+Are you a proud owner of a .ton domain and looking to maximize its potential? Or are you simply curious about the exciting possibilities within the TON ecosystem? Then you’re in the right place!
+
+Today, I want to introduce you to **dotTON**, a revolutionary platform built on the TON blockchain that’s designed to empower .ton domain owners like never before.
+
+**What exactly is dotTON?**
+
+Imagine turning your static .ton domain into a dynamic hub for content, services, and community. That’s precisely what dotTON does. It provides a suite of tools and services to:
+
+*   **Effortlessly Create and Manage Subdomains:** Generate and configure subdomains (like `blog.yourdomain.ton`) with ease, offering a structured and versatile approach to your online presence and digital asset management. Think of it as building a digital real estate empire right on the TON blockchain! (For reference on how subdomains work within the TON DNS framework, check out the [Notion Wiki](https://www.notion.so/dotton/1a6f5e910fdb801581adfbdfa28eb49e?v=1a6f5e910fdb807ca6e1000c8af00ea7&pvs=4)
+*   **Monetize Your Domains Through Subscriptions:** Implement subscription models to grant access to your subdomains, creating a sustainable income stream in TON.
+*   **Offer Decentralized Services:** Leverage the security and transparency of the TON blockchain to provide reliable and trustworthy services to your users.
+
+**Key Concepts to Understand:**
+
+*   **.ton Domains:** These are your gateway to the decentralized web on TON. They’re human-readable, censorship-resistant, and managed directly on the blockchain, as detailed on [dns.ton.org](https://dns.ton.org).
+*   **.ton Subdomains:** These are the building blocks within your domain, allowing you to create a hierarchical structure. They inherit the properties of your parent domain and operate seamlessly within the TON DNS framework.
+*   **TON Blockchain:** The bedrock of dotTON, ensuring secure transactions, decentralized data storage, and the execution of smart contracts that power the platform’s features.
+
+**Why dotTON Matters:**
+
+In a rapidly evolving digital landscape, dotTON addresses the growing need for flexible and monetizable domain management within the TON ecosystem. It empowers you to:
+
+*   **Enhance Domain Utility:** Transform your domain from a simple address to a dynamic platform for content, services, and community engagement.
+*   **Generate Revenue:** Create sustainable income streams through subscription-based access to your subdomains.
+*   **Foster Decentralization:** Contribute to the growth of the decentralized web by leveraging the power of the TON blockchain.
+
+**What’s Next?**
+
+In the upcoming discussions, we’ll dive deeper into:
+
+*   The specific features and benefits of dotTON.
+*   The intricacies of .ton domains and subdomains.
+*   Practical use cases of dotTON.
+
+I’m excited to explore the potential of dotTON with all of you. Let’s discuss how we can collectively build a more vibrant and decentralized TON ecosystem!
+
+What are your thoughts on dotTON? Have you already started exploring the possibilities of subdomains? Let’s hear your questions and ideas in the comments below!
+
+  2 Likes
+
+[Esteemedhuman](https://tonresear.ch/u/Esteemedhuman) March 17, 2025, 11:46pm  2
+
+That’s Cool, keep it up
+
+  1 Like
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 41076
+
+[TON Research](/)
+
+# [How and why does the community not accept new coins?](/t/how-and-why-does-the-community-not-accept-new-coins/41076)
+
+[General](/c/general/4) 
+
+    
+
+[rrtv-podcast](https://tonresear.ch/u/rrtv-podcast)  March 13, 2025, 2:38am  1
+
+How and why does the community not accept new coins? I created coins for monetization of content, independent media, and music, cinema, made a description, but there is none,
+
+ 
+
+[Esteemedhuman](https://tonresear.ch/u/Esteemedhuman) March 17, 2025, 11:55pm  2
+
+To create a startup is not an easy thing, you need time as much as you need money, you might have a good vision, buh without knowledge, experience, patience, money  
+ITS BOUND TO BE A FAILED VISION
+
+ 
+
+[Muhammadreza\_Haghiri](https://tonresear.ch/u/Muhammadreza_Haghiri) April 25, 2025, 4:26pm  3
+
+A new member here. I personally tried to make some coins only for fun, which worked. It was like putting $50 for fun (like watching a movie, maybe?) and it is great.  
+In order to make money by making coins or any other chain related project, you have to have a clean roadmap and business plan.
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 41084
+
+[TON Research](/)
+
+# [TBCC WEB3 Messenger](/t/tbcc-web3-messenger/41084)
+
+[中文 (简繁)](/c/zh/48) 
+
+    
+
+[Cryptoma4o](https://tonresear.ch/u/Cryptoma4o)  March 15, 2025, 8:32am  1
+
+![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:") 招募测试团队！ ![:rocket:](https://tonresear.ch/images/emoji/twitter/rocket.png?v=12 ":rocket:")
+
+我们正在推出拥有独特功能的Telegram定制版本，专为加密社区打造，现寻找积极用户参与封闭测试。
+
+![:green_circle:](https://tonresear.ch/images/emoji/twitter/green_circle.png?v=12 ":green_circle:") 已实现并等待您测试的功能包括：
+
+![:white_check_mark:](https://tonresear.ch/images/emoji/twitter/white_check_mark.png?v=12 ":white_check_mark:") 内置DEX终端 — 在Telegram内轻松交易和交换代币。
+
+![:white_check_mark:](https://tonresear.ch/images/emoji/twitter/white_check_mark.png?v=12 ":white_check_mark:") 推荐及盈利系统 — 邀请好友，通过活跃度赚取加密奖励。
+
+![:white_check_mark:](https://tonresear.ch/images/emoji/twitter/white_check_mark.png?v=12 ":white_check_mark:") 内部Launchpad (TBCC PAD) — 参与全新代币和项目的早期启动。
+
+![:white_check_mark:](https://tonresear.ch/images/emoji/twitter/white_check_mark.png?v=12 ":white_check_mark:") 集成机器人与服务 — 更便捷地使用TON生态的Meme币与代币。
+
+![:white_check_mark:](https://tonresear.ch/images/emoji/twitter/white_check_mark.png?v=12 ":white_check_mark:") 市场分析与监控 — 随时掌握市场动态，追踪您的资产表现。
+
+![:star2:](https://tonresear.ch/images/emoji/twitter/star2.png?v=12 ":star2:") 加入首批测试用户团队，积极参与即可获得专属奖励！
+
+![:point_right:](https://tonresear.ch/images/emoji/twitter/point_right.png?v=12 ":point_right:") 报名加入团队： [Telegram: Join Group Chat](https://t.me/+oj5xM_Js6Wc0NjNi)
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 41113
+
+[TON Research](/)
+
+# [Telegram Stickers、Gifts 和 NFT](/t/telegram-stickers-gifts-nft/41113)
+
+[中文 (简繁)](/c/zh/general/51)  [General](/c/zh/general/51) 
+
+    
+
+[andrew](https://tonresear.ch/u/andrew)   March 20, 2025, 12:24pm  1
+
+# [](#p-67831-stickers-1)一、 关于 Stickers
+
+在日常聊天中，我们经常使用表情符号(Emoji)和贴图(Stickers), 其中 Emojo 本身是一个字符而不是图片，它可以嵌入到文字中间。比如这个**![:grinning:](https://tonresear.ch/images/emoji/twitter/grinning.png?v=12 ":grinning:")**笑脸，它的 Emoji 字符是 `U+1F600`，不同的软件可以选择展示不同的小图片，在 Telegram 里面，你甚至可以自定义 Emoji 字符对应的小图片。
+
+那贴图(Stickers)和我们直接在聊天框发送一个图片有什么区别和联系呢？可以理解为，贴图(Stickers)是对图片进行了标准化，比如要求 PNG 或 WEBP 格式，像素 512px 等等，从而给用户比较一致的体验，并且一组贴图可以打成一个包(pack)，Telegram 存储并生成唯一的链接方便传播和使用。更进一步，除了图片文件，Telegram 还支持将一些动画类型的文件制作成 贴图(Stickers)。
+
+另外在创建贴图(Stickers)的时候，Telegram 会让你将 Emoji 和具体的贴图进行关联，从而可以输入 Emoji 的时候，自动关联一系列对应的贴图，方便快速输入贴图丰富聊天内容。
+
+而 Gifts 是继贴图(Stickers)后 Telegram 对图片的一个新玩法，是在探索图片和社交功能上的又一次创新尝试。
+
+*   ![:open_book:](https://tonresear.ch/images/emoji/twitter/open_book.png?v=12 ":open_book:") 延伸阅读  
+    其实不仅仅是 Emoji ，你在电脑上看到的字母、汉字和标点符号本身，也都是 Unicode，操作系统决定了怎么展示这些符号。
+    
+*   ![:books:](https://tonresear.ch/images/emoji/twitter/books.png?v=12 ":books:") 参考资料
+    
+    *   [**Telegram Stickers**](https://core.telegram.org/stickers#static-stickers-and-emoji)
+
+# [](#p-67831-gifts-2)二、关于 Gifts 的各个版本
+
+Telegram 的 Gifts 功能最早于 [2024年10月5日 正式推出](https://telegram.org/blog/gifts-verification-platform)。用户可以通过 Telegram Stars购买动画礼物（animated gifts），并将其发送给好友。收到礼物的用户可以选择在个人资料的“Gifts”标签页上展示，或者将其兑换成 Stars。
+
+ **![:gift:](https://tonresear.ch/images/emoji/twitter/gift.png?v=12 ":gift:") Gifts 的几个入口**
+
+*   在 Settings 下面，有一个 Send a Gift 的标签页
+*   在个人的 Profile 页面，有一个 Gifts 的 Tab，其中可以查看持有的礼物或者发送礼物
+*   在与非 Premium 的用户聊天框的左下角，点击回形针📎，可以看到 Gift Premium 入口
+*   在 Channel 的右下角，有一个 Giift 图表，点击可以给 Channel 送礼物，Channel 管理员可以将礼物兑换为 Stars，用来买广告或者兑换 TON
+

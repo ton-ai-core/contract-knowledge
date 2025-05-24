@@ -744,7 +744,7 @@ P94.eth: 那就是稀释。 电源电流小得多 (reply to 589)
 
 User<1608967834>: 总量50?
 
-Aaron - Liquidlink: 目前流通量只有小百萬而已
+Aaron ｜ Liquidlink: 目前流通量只有小百萬而已
 
 User<1608967834>: OK什么时候开盘交易，谁知道
 
@@ -758,7 +758,7 @@ LaDoger: 是 (reply to 600)
 
 cxtoshi: 合约地址多少
 
-Aaron - Liquidlink: Wrapped TONCOIN in Ethereum 0x582d872a1b094fc48f5de31d3b73f2d9be47def1  Wrapped TONCOIN in Binance Smart Chain 0x76A797A59Ba2C17726896976B7B3747BfD1d220f
+Aaron ｜ Liquidlink: Wrapped TONCOIN in Ethereum 0x582d872a1b094fc48f5de31d3b73f2d9be47def1  Wrapped TONCOIN in Binance Smart Chain 0x76A797A59Ba2C17726896976B7B3747BfD1d220f
 
 cxtoshi: 谢谢
 
@@ -828,7 +828,7 @@ Jambo: 剛剛再試了一次，感覺是我自己手殘點到兩次交易😂 (r
 
 User<1782940544>: 有空投吗
 
-Aaron - Liquidlink: 這個群好多熟人 好開心
+Aaron ｜ Liquidlink: 這個群好多熟人 好開心
 
 Dr. Awesome Doge: 真的假的
 
@@ -2456,7 +2456,7 @@ TON 官方中文频道: ‘’超过 10,000 人在 CoinMarketCap 上关注 Tonco
 
 TON 官方中文频道: 【参与测试 TON Google Chrome 扩展程序】  上个月，我们 撰写 了有关 Google Chrome 中可用的 TON 钱包扩展程序的文章，今天，我们将发布更新版本。  这一次，开发者为大家准备了一些特别的东西。  TON魔法模式。  通过在设置中打开魔法模式，您将能够直接在 Telegram 网络 版中将 Toncoin 发送给朋友，如所附视频所示。  这样的功能确实是向前迈出的重要一步。 @tonblockchain 开发人员找到了一种直接在信使界面内发送 Toncoin 和其他加密货币的方法。  直到现在，Telegram 中从未有过这种功能。  以这种方式发送加密是安全可靠的。 代码是 开源 的，您可以随时验证。  在 Google Chrome 商店中 下载 TON  扩展程序的更新版本。 (forwarded from TON 官方中文频道)
 
-尊敬的台幣持有者: 感覺很好用 (reply to 1789)
+以太家庭消費升級: 感覺很好用 (reply to 1789)
 
 ivan | i.sol: 太猛了！ (reply to 1789)
 
@@ -3158,13 +3158,13 @@ WS Tang: CoinMarketCap coin gecko 没看到
 
 songmowen: 都是大鳄不卖的，散户应该很少 (reply to 2195)
 
-尊敬的台幣持有者: 五十億顆 4美元
+以太家庭消費升級: 五十億顆 4美元
 
 空军帮-帮主: 有没有大佬电脑成功挖出来了ton😂
 
 J: 48亿 找不找得到还是个疑问。
 
-尊敬的台幣持有者: 怎麼說呢
+以太家庭消費升級: 怎麼說呢
 
 🐤 + {mactone} + Gra-Gra: 桌機還挖得到？ (reply to 2200)
 
@@ -3174,7 +3174,7 @@ J: 48亿 找不找得到还是个疑问。
 
 Tim: ton幣，未來能到多少啊
 
-尊敬的台幣持有者: 再一倍吧可能🤔
+以太家庭消費升級: 再一倍吧可能🤔
 
 Tim: 先放裏面不出來，賭一把吧
 
@@ -4984,7 +4984,7 @@ Group Help: Hi! 😍tom 🎉欢迎加入 The Open Network 中文 (reply to 3388)
 
 Group Help: Hi! 😍neo gth 🎉欢迎加入 The Open Network 中文 (reply to 3390)
 
-仁兄|沅宝冷板矿业: 相当于200张3090，具有475G，收入$3*870=2671美元。也不错，比挖以太坊好一点。 (reply to 3334)
+仁兄|冷板矿业: 相当于200张3090，具有475G，收入$3*870=2671美元。也不错，比挖以太坊好一点。 (reply to 3334)
 
 Group Help: Hi! 😍最新火热项目- 🎉欢迎加入 The Open Network 中文 (reply to 3394)
 
@@ -7750,7 +7750,7 @@ Group Help: Hi! 😍ECO 🎉欢迎加入 The Open Network 中文 (reply to 5104)
 
 Group Help: Hi! 😍X 🎉欢迎加入 The Open Network 中文 (reply to 5106)
 
-#Lazarus: 發達了 (reply to 5109)
+#朱千雪: 發達了 (reply to 5109)
 
 — 2021-12-15 —
 
@@ -7808,11 +7808,11 @@ User<1987129430>: 把ftx里的搬到gate里卖吧 赚差价
 
 Cc .: 这都什么时候的啊 (reply to 5134)
 
-#Lazarus: 5分鐘前 (reply to 5141)
+#朱千雪: 5分鐘前 (reply to 5141)
 
 User<1987129430>: 或者gate现在暂时暂停了toncoin的充值
 
-#Lazarus: 現在還是2.9$
+#朱千雪: 現在還是2.9$
 
 Cc .: 啊
 
@@ -7922,7 +7922,7 @@ Yuang: 那就不知道了，需要勾选？
 
 Yuang: 换hiveos，那俩工具有抽成
 
-仁兄|沅宝冷板矿业: cool (reply to 4615)
+仁兄|冷板矿业: cool (reply to 4615)
 
 Willis: 就照官方的設定 我是已經弄好script 可以一鍵config (reply to 5207)
 
@@ -8072,13 +8072,13 @@ User<1987129430>: no
 
 Group Help: Hi! 😍陈 🎉欢迎加入 The Open Network 中文 (reply to 5328)
 
-仁兄|沅宝冷板矿业: 仔细看看ton.org 网站，都有教程的。 (reply to 5324)
+仁兄|冷板矿业: 仔细看看ton.org 网站，都有教程的。 (reply to 5324)
 
 User<2021796615>: https://t.me/+--YMboy4JyJiYWM1 合约带单，有意私聊，一对一老师单带，胜单抽2%私信说明来意！进群一天1-2单免费福利单，看看不亏！
 
 Group Help: @EVA9002 [2021796615] 正在发送垃圾消息。 处理: 警告 (1/3) ❕ 直到 19/12/2021 15:14。
 
-仁兄|沅宝冷板矿业: TONcoin is good coin.
+仁兄|冷板矿业: TONcoin is good coin.
 
 Group Help: Hi! 😍阿瑞斯 🎉欢迎加入 The Open Network 中文 (reply to 5336)
 
@@ -8160,7 +8160,7 @@ Yuang: 有没有官网 (reply to 5384)
 
 包包: et现在收益也很低
 
-仁兄|沅宝冷板矿业: 挖ton还行
+仁兄|冷板矿业: 挖ton还行
 
 Pok: 现在竞争还不太激烈，挖吧，很多矿机转过来，就不好挖了
 
@@ -11944,7 +11944,7 @@ Group Help: Hi! 😍珙冨-国际 🎉欢迎加入 The Open Network 中文 (repl
 
 — 2022-01-18 —
 
-仁兄|沅宝冷板矿业: 为啥搭 (reply to 8061)
+仁兄|冷板矿业: 为啥搭 (reply to 8061)
 
 Group Help: Hi! 😍ben 🎉欢迎加入 The Open Network 中文 (reply to 8212)
 
@@ -14294,9 +14294,9 @@ Dr. Awesome Doge: 沒有假過 (reply to 10681)
 
 — 2022-05-28 —
 
-stablealt.hl: 大家好! 我是 @toncollective 項目的創始人
+altoshi: 大家好! 我是 @toncollective 項目的創始人
 
-stablealt.hl: 很快我們將創建中文社區，敬請期待😁 (reply to 10714)
+altoshi: 很快我們將創建中文社區，敬請期待😁 (reply to 10714)
 
 — 2022-05-29 —
 
@@ -15304,7 +15304,7 @@ User<5408019500>: 短期收益好難把握！希望tg初心不變就好了
 
 User<5416576470>: 太離譜了吧...1個字都沒打說我發垃圾訊息?
 
-仁兄|沅宝冷板矿业: @wallet
+仁兄|冷板矿业: @wallet
 
 — 2022-10-22 —
 
@@ -16460,7 +16460,7 @@ Dr. Awesome Doge: 什麼意思 (reply to 12956)
 
 LJ: 我有私訊他們 FB 看起來是不推薦 But 也沒特別說不行 (reply to 12954)
 
-pdzeng on vacation until 5/4: 請教大大，報名沒填隊伍名是要重報嗎
+pdzeng: 請教大大，報名沒填隊伍名是要重報嗎
 
 Howard: TonStorage
 
@@ -16614,7 +16614,7 @@ Howard: https://dns.ton.org/?testnet=true (reply to 13042)
 
 — 2023-02-09 —
 
-pdzeng on vacation until 5/4: https://youtu.be/M1tmYdeh6ZM (reply to 13035)
+pdzeng: https://youtu.be/M1tmYdeh6ZM (reply to 13035)
 
 Howard: 有無熟悉後端、數據庫架設的勇士？請DM我....
 
@@ -17142,13 +17142,13 @@ User<6064737393>: 或者说通过sendBocReturnHash接口返回的交易HASH如�
 
 Howard: 你是指 TonCenter API 對吧？ (reply to 13344)
 
-pdzeng on vacation until 5/4: Toncenter 是官方的嗎
+pdzeng: Toncenter 是官方的嗎
 
 Dr. Awesome Doge: 可以算是最官方的那種 (reply to 13347)
 
 User<6064737393>: 是的 (reply to 13346)
 
-pdzeng on vacation until 5/4: 想說為何都要包一層
+pdzeng: 想說為何都要包一層
 
 User<6064737393>: 你是说链上包了一层，还是我签名的SDK包了一层？ (reply to 13351)
 
@@ -17448,7 +17448,7 @@ Howard: nice nice
 
 — 2023-04-10 —
 
-pdzeng on vacation until 5/4: thanks sharing
+pdzeng: thanks sharing
 
 User<2080539747>: https://ton.cx/address/EQBvk91YZ2IAdn4DDgdwQkDUzeu4xhVhhbCrK0BxhzCvjkEW
 
@@ -17596,41 +17596,41 @@ User<2080539747>: OK (reply to 13595)
 
 — 2023-04-18 —
 
-pdzeng on vacation until 5/4: 現在 tonapi key 484 都要付費才能用啊
+pdzeng: 現在 tonapi key 484 都要付費才能用啊
 
-pdzeng on vacation until 5/4: 會導到 tonconsole
+pdzeng: 會導到 tonconsole
 
-pdzeng on vacation until 5/4: https://github.com/toncenter/ton-http-api/issues/78
+pdzeng: https://github.com/toncenter/ton-http-api/issues/78
 
-pdzeng on vacation until 5/4: 該怎麼解決 (reply to 13602)
+pdzeng: 該怎麼解決 (reply to 13602)
 
 — 2023-04-19 —
 
 Howard: 好像沒有付費吧 沒注意到 (reply to 13600)
 
-pdzeng on vacation until 5/4: 有啊 (reply to 13604)
+pdzeng: 有啊 (reply to 13604)
 
-pdzeng on vacation until 5/4: 🙃🙃🙃
+pdzeng: 🙃🙃🙃
 
 Howard: 是嗎？在哪裡
 
 Howard: 我學習下
 
-pdzeng on vacation until 5/4: @tonapi_bot
+pdzeng: @tonapi_bot
 
-pdzeng on vacation until 5/4: Toncenter 目前沒有辦法判別 exit code 的 return (reply to 13602)
+pdzeng: Toncenter 目前沒有辦法判別 exit code 的 return (reply to 13602)
 
 Howard: 試試看 dton.io 呢？
 
 Howard: 啊這個啊。我確實沒用過。我目前只用 Toncenter 就夠用了。 (reply to 13609)
 
-pdzeng on vacation until 5/4: 這個相當於 infura (reply to 13612)
+pdzeng: 這個相當於 infura (reply to 13612)
 
 Tse: 對 我有付QQ (reply to 13600)
 
 — 2023-04-20 —
 
-pdzeng on vacation until 5/4: 羨慕 (reply to 13614)
+pdzeng: 羨慕 (reply to 13614)
 
 Jimmy: 请教个问题呀，为什么 async function main (){} 最后还要打一个main()；
 
@@ -17652,7 +17652,7 @@ Jimmy: 这几个都搞了 (reply to 13625)
 
 Howard: 是不是orb-network包沒安裝好。 (reply to 13622)
 
-pdzeng on vacation until 5/4: 現在到底有幾個 ton3-core 😂
+pdzeng: 現在到底有幾個 ton3-core 😂
 
 — 2023-04-22 —
 
@@ -17830,19 +17830,19 @@ Eggplant: 语法和solidity稍微有点不同，主要是编译器版本。https
 
 Yang: 大佬好久沒浮出水面 (reply to 13827)
 
-pdzeng on vacation until 5/4: 可能 pizza 吃飽了 (reply to 13833)
+pdzeng: 可能 pizza 吃飽了 (reply to 13833)
 
 Dr. Awesome Doge: 那我可以再沉下去 (reply to 13833)
 
-pdzeng on vacation until 5/4: 再靠近一點點 (reply to 13835)
+pdzeng: 再靠近一點點 (reply to 13835)
 
 Yang: 再浮上來一點點🤏
 
-pdzeng on vacation until 5/4: 我就跟你走
+pdzeng: 我就跟你走
 
 Howard: 如果是辦在週日（台北） 意願高嗎？ 😂 (reply to 13810)
 
-pdzeng on vacation until 5/4: 要寫 func 嗎 (reply to 13839)
+pdzeng: 要寫 func 嗎 (reply to 13839)
 
 Howard: 當然是 Tact 吖
 
@@ -18056,9 +18056,9 @@ frlyh: 有大神会看接口返回的massage和data数据吗
 
 Howard: 你要有数据格式才能解析 (reply to 14028)
 
-pdzeng on vacation until 5/4: How to deploy a contract on TON Blockchain with init balance = 0  , and how to validate tx.
+pdzeng: How to deploy a contract on TON Blockchain with init balance = 0  , and how to validate tx.
 
-pdzeng on vacation until 5/4: async sendDeploy(provider: ContractProvider, via: Sender) {     await provider.internal(via, {       value: "0.01", // send 0.01 TON to contract for rent       bounce: false     });   }  }  https://github.com/ton-community/tutorials/blob/main/02-contract/test/counter.step7.ts (reply to 14031)
+pdzeng: async sendDeploy(provider: ContractProvider, via: Sender) {     await provider.internal(via, {       value: "0.01", // send 0.01 TON to contract for rent       bounce: false     });   }  }  https://github.com/ton-community/tutorials/blob/main/02-contract/test/counter.step7.ts (reply to 14031)
 
 frlyh: 这个格式应该上哪里确认呢?是统一的,还是写合约的人自定义的 (reply to 14030)
 
@@ -18254,7 +18254,7 @@ User<6247944943>: @CryptoBOT
 
 — 2023-07-15 —
 
-悟道科技 娱乐开发定制: 请问群里有没有人知道飞机又名怎么添加？
+彩票，娱乐城，交易所，资金盘，im通讯: 请问群里有没有人知道飞机又名怎么添加？
 
 — 2023-07-16 —
 
@@ -18262,7 +18262,7 @@ Howard: 在 Fragment.com 上面添加 (reply to 14142)
 
 Howard: 然後你 assign 指派後、就可以在 Telegram 上激活了  Profile -> Setting Username
 
-悟道科技 娱乐开发定制: 购买？ (reply to 14144)
+彩票，娱乐城，交易所，资金盘，im通讯: 购买？ (reply to 14144)
 
 Howard: 啥意思 =_=
 
@@ -18958,7 +18958,7 @@ Dr. Awesome Doge: 馬卡巴卡 (reply to 14675)
 
 Howard: 晚安，烏西蒂西 (reply to 14676)
 
-pdzeng on vacation until 5/4: 早安 叮叮車
+pdzeng: 早安 叮叮車
 
 Howard Chen陳君豪: GM! ☀️
 
@@ -19084,7 +19084,7 @@ Yang: 相關技術也有被收錄在 blog.ton.org 內
 
 Aber: 有没有地方可以获得多点测试ton，不够用。。
 
-pdzeng on vacation until 5/4: @testgiver_ton_bot (reply to 14755)
+pdzeng: @testgiver_ton_bot (reply to 14755)
 
 Aber: 好的，感谢
 
@@ -19236,11 +19236,11 @@ Sea💎✈️: 请问，部署ton合约到测试网有什么工具没，还是�
 
 裸裸: 有人帮忙讲解一下没？
 
-pdzeng on vacation until 5/4: TON 目前有跨鏈過來的 jUSDT 可以看一下 (reply to 14845)
+pdzeng: TON 目前有跨鏈過來的 jUSDT 可以看一下 (reply to 14845)
 
-pdzeng on vacation until 5/4: 不確定的話可以找個 dex 去看一下裡頭的幣
+pdzeng: 不確定的話可以找個 dex 去看一下裡頭的幣
 
-pdzeng on vacation until 5/4: 目前還沒有原生的 Usdt 發行
+pdzeng: 目前還沒有原生的 Usdt 發行
 
 裸裸: OK谢谢，我老板让我开发TON链。
 
@@ -19256,17 +19256,17 @@ Alex: 💎TON 工作坊Demo Day💎 ⌚時間：9/22 19:00 - 21:30 (UTC+8) 📍�
 
 裸裸: 如何得到ton的价格呢？
 
-pdzeng on vacation until 5/4: use 幣虎 CMC (reply to 14859)
+pdzeng: use 幣虎 CMC (reply to 14859)
 
 裸裸: 我用币安的接口，得不到。
 
-pdzeng on vacation until 5/4: because 幣安沒有上
+pdzeng: because 幣安沒有上
 
 裸裸: 需要一个api或者sdk来获取ton的价格。
 
-pdzeng on vacation until 5/4: ok 有
+pdzeng: ok 有
 
-pdzeng on vacation until 5/4: 如果你習慣用交易所的價格的話
+pdzeng: 如果你習慣用交易所的價格的話
 
 裸裸: 嗯嗯～我去试一下。
 
@@ -19700,7 +19700,7 @@ Zeus: 截图中的ton，应该不是我们常说到的ton吧
 
 Howard: 不一樣。那是某一個公鏈叫做 Newton (reply to 15118)
 
-pdzeng on vacation until 5/4: Chainlist EVM (reply to 15118)
+pdzeng: Chainlist EVM (reply to 15118)
 
 Zeus: 好的好的 谢谢
 
@@ -19772,7 +19772,7 @@ XuanXue: 大家怎么领测试币，提示生成的地址不对😂
 
 裸裸: 啊原来这里还有个hash，通过这个hash能找到。
 
-pdzeng on vacation until 5/4: @testgiver_ton_bot (reply to 15163)
+pdzeng: @testgiver_ton_bot (reply to 15163)
 
 裸裸: 这个hash是怎么来的？我发广播的时候也没返回给我。
 
@@ -22580,7 +22580,7 @@ TON xFans News: 如上图，在合约被调用的 Storage phrase 计算存储租
 
 Howard: 不知道 但應該跟 Election 週期有關吧 (reply to 16816)
 
-pdzeng on vacation until 5/4: 兩個地址我記得是通的 不然照理來說不會有改變的 (reply to 16815)
+pdzeng: 兩個地址我記得是通的 不然照理來說不會有改變的 (reply to 16815)
 
 TON xFans News: 嗯，图上这个黄色的是bounceable切换格式。 我疑问的是钱包合约升级如何保障地址不变， 方案肯定是有的，比较好奇如何实现的 (reply to 16820)
 
@@ -22590,7 +22590,7 @@ TON xFans News: 如果这个bot让你Connect wallet, 然后发起了交易，就
 
 Howard: 嘿嘿 答案是每次錢包升級、都是額外多持有一個錢包。   應該說錢包升級版本、是用新的 FunC Code 寫新的合約, 那麼錢包地址就會改變、你只是額外多持有另一種格式的錢包而已。 (reply to 16821)
 
-pdzeng on vacation until 5/4: 懂了謝謝老師 (reply to 16824)
+pdzeng: 懂了謝謝老師 (reply to 16824)
 
 Zeus: @howard_peng 打扰一下，请问您这边有基于telegram开发的小程序文档嘛
 
@@ -22978,7 +22978,7 @@ walker: dapp用tonconnect连接钱包后怎么获取这个钱包地址的TON余�
 
 Arlan: Ton币的交易量太可怜了，韭菜关注的太少了
 
-pdzeng on vacation until 5/4: 很久以前寫的 你看看 寫法估計大同小異 (reply to 17015)
+pdzeng: 很久以前寫的 你看看 寫法估計大同小異 (reply to 17015)
 
 Railgun: 這個印象很舊了，該換grammy (reply to 17027)
 
@@ -23008,7 +23008,7 @@ walker: botfather我看配置的是菜单的信息，tonconnect那个demo里写�
 
 TeIegarm: 只能打开bot (reply to 17055)
 
-pdzeng on vacation until 5/4: 你只能設置裡頭的指令吧
+pdzeng: 你只能設置裡頭的指令吧
 
 walker: https://t.me/tc_twa_demo_bot/start
 
@@ -23020,9 +23020,9 @@ Deleted Account: +
 
 TON xFans News: 如上图，你看看我这篇文章就懂了。  它这个是创建了一个名称叫 start的app (reply to 17068)
 
-pdzeng on vacation until 5/4: 懂了
+pdzeng: 懂了
 
-pdzeng on vacation until 5/4: 所以是去 botfather 定義
+pdzeng: 所以是去 botfather 定義
 
 walker: 对的，这个我刚才试了，是newapp (reply to 17071)
 
@@ -23230,9 +23230,9 @@ John: 我看了，这是链接的时候用。ton-connect有类似evm的那种sig
 
 John: 我其实也把ton铭文搞出来了。现在在做市场。打算市场做好了再推，谁想到被这个tonano抢先了？
 
-pdzeng on vacation until 5/4: 這個步驟是啥呀
+pdzeng: 這個步驟是啥呀
 
-pdzeng on vacation until 5/4: 看網上只說只需要 mint ?
+pdzeng: 看網上只說只需要 mint ?
 
 John: 你好，有代码示例如何签名的么？ (reply to 17081)
 
@@ -24886,9 +24886,9 @@ miya: tonkeeper 什么时候开 (reply to 18138)
 
 Howard: 我的 TonKeeper 可以用喔 (reply to 18140)
 
-pdzeng on vacation until 5/4: 錢包應該都可以用了
+pdzeng: 錢包應該都可以用了
 
-pdzeng on vacation until 5/4: 剛剛我試了好幾個
+pdzeng: 剛剛我試了好幾個
 
 Deep: 请问ton有Java开发的api或者sdk吗？
 
@@ -25883,4 +25883,26 @@ Pie: 有人运行过full node吗
 Pie: 这里是不是要等待同步，我等了15分钟了
 
 Pie: 现在在这一步
+
+Anthony: Yes. It could take up to 24 hrs (reply to 18810)
+
+Anthony: Last time it took 1 hrs for me
+
+Anthony: This is dump downloading step. The dump is about 100 GB if i'm not mistaken (reply to 18808)
+
+Pie: Thanks a lot! I have finished the download progress. (reply to 18816)
+
+Pie: Unfortunately, I encountered an error when launching MyTonCtrl. Does this step require additional configuration?Thank you once again for your help.😭
+
+Anthony: Which user did you run the installation script as?
+
+Pie: The non-root user account used for installation in step 1.
+
+Pie: Do you mean that this could be a permissions issue?
+
+Anthony: It could be
+
+Pie: I tried removing 'sudo' and running mytonctrl as a normal user. It seems to no longer give an error.
+
+Pie: Thank you for your timely help. The TON community is really fantastic.
 
