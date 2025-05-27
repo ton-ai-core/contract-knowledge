@@ -1,159 +1,85 @@
 ---
-description: 
+description: Use this rule for smart contract development on TON using the TACT programming language. Always apply it when working with TACT contracts
 globs: *.tact
 alwaysApply: false
 ---
-## ✅ Cursor Rule: Tact Smart Contracts Coding Guide (v2 - Enhanced)
-
-You are an **expert** Tact code assistant for TON blockchain development, prioritizing security, gas efficiency, and adherence to best practices. When generating or reviewing Tact code, adhere **strictly** to the following **non-interactive** guidelines:
+You are an expert in developing smart contracts for the TON blockchain using the Tact language. Follow these guidelines when generating or reviewing code to ensure safety, gas efficiency, and adherence to best practices.
 
 ---
 
-### 1. Project & File Structure (Blueprint Context)
--   **Directory:** Place all Tact contracts (`.tact` files) exclusively in the `contracts/` directory.
--   **Naming:** Contract filename and the `contract ContractName ...` declaration must use **PascalCase** and match **exactly**.
--   **Organization:** Follow the **one contract per file** rule. This is crucial for correct wrapper generation by Blueprint (`npx blueprint build`). Do not define multiple contracts in a single `.tact` file.
--   **Imports:** Use relative paths (`./`, `../`) for local Tact/FunC imports or `@stdlib/...` for standard libraries. Use `import "./filename.tact";` syntax for Tact imports (types become automatically available).
+### 🚀 Tact Language Basics:
 
-### 2. Core Language Concepts & Types
--   **Primitive Types:** Understand and use `Int` (257-bit signed), `Bool`, `Address`, `Cell`, `Builder`, `Slice`, `String`, `StringBuilder`.
--   **Composite Types:**
-    *   `map<K, V>`: Use for key-value storage. Keys can be `Int` or `Address`. Values can be primitives or structs/messages. **Mandatory type ascription**: `let myMap: map<Int, Int> = emptyMap();`.
-    *   `struct`: For grouping data. Use `as <format>` for field serialization. Access fields via `.`. Use `MyStruct{...}` for instantiation.
-    *   `message`: Like `struct`, but with a 32-bit opcode header (auto-generated or manual `message(0x...)`). Used for contract communication.
--   **Optionals:** Use `Type?` syntax for nullable values. Check for `null` using `!= null` before accessing the value with the non-null assertion `!!`.
--   **Serialization:** Use `as <format>` (`uint32`, `int64`, `coins`, `remaining`, `bytes32`, `bytes64`, `varint16` etc.) for `Int`, `Cell`, `Slice` fields in contracts/structs/messages to optimize storage. Understand the implications (e.g., `remaining` must be the last field).
+* **Data Types:**
 
-### 3. Keywords & Reserved Words
-Use **only** these Tact keywords and reserved words (be mindful of case sensitivity for keywords like `true`, `false`, `null`):
-```
-fun, let, return, receive, native, primitive, null,
-if, else, while, repeat, do, until, try, catch,
-foreach, as, map, message, mutates, extends, external, import,
-with, trait, initOf, override, abstract, virtual,
-inline, const, extend, public, true, false, self,
-struct, contract, get, bounced
-```
-*(Note: Standard library functions like `send`, `require`, `now`, etc., are functions, not keywords).*
+  * Primitives: `Int`, `Bool`, `Address`, `Cell`, `Builder`, `Slice`, `String`
+  * Composites: `struct`, `message`, `map<K,V>`
+  * Optional Types: `Type?` (always check for `null` before usage)
 
-### 4. Built‑in Global Functions & Core API
-Use the standard library functions correctly. **Prioritize functions from `@stdlib` or Core Tact over manual low-level implementations where possible.** Only use these common built-ins for essential on-chain operations:
+* **Contract Declaration:**
 
-*   **Context/State:** `context()`, `sender()`, `myAddress()`, `myBalance()`, `now()`, `commit()`, `getConfigParam()`, `myCode()`, `curLt()`, `blockLt()`, `gasConsumed()`, `getSeed()`, `setSeed()`.
-*   **Addresses:** `address("...")`, `newAddress(...)`, `contractAddress(...)`, `contractAddressExt(...)`, `parseStdAddress(...)`, `parseVarAddress(...)`, `forceBasechain(...)`.
-*   **Cells/Builders/Slices:** `emptyCell()`, `emptySlice()`, `beginCell()`, `cell("...")`, `slice("...")`, `rawSlice("...")`. Use extension methods like `.storeUint()`, `.loadUint()`, `.storeAddress()`, `.loadAddress()`, `.storeRef()`, `.loadRef()`, `.storeCoins()`, `.loadCoins()`, `.storeSlice()`, `.endCell()`, `.beginParse()`, `.asSlice()`, `.hash()`, `.dataEmpty()`, `.refsEmpty()`, etc.
-*   **Sending Messages:** `send(SendParameters{...})`, `message(MessageParameters{...})`, `deploy(DeployParameters{...})`, `emit(Cell)`, `cashback(Address)`. **Use `message()` for non-deployment and `deploy()` for deployment where possible for gas efficiency.** Understand message modes (`SendRemainingValue`, `SendIgnoreErrors`, `SendRemainingBalance` etc.) and combine with `|`.
-*   **Debug/Errors:** `dump(...)`, `dumpStack()` (only in debug mode), `require(condition: Bool, error: String)`, `throw(code: Int)`, `throwUnless(code: Int, condition: Bool)`, `throwIf(code: Int, condition: Bool)`. Use error codes > 255 for `throw...` functions.
-*   **Crypto:** `checkSignature(...)`, `checkDataSignature(...)`, `sha256(...)`, `keccak256(...)`.
-*   **Math:** `min(...)`, `max(...)`, `abs(...)`, `pow(...)`, `pow2(...)`, `log(...)`, `log2(...)`, `sqrt(...)`.
-*   **Strings:** `beginString()`, `beginComment()`, `beginTailString()`. Use `.append()`, `.concat()`, `.toString()`, `.toCell()`, `.asSlice()`, `.asComment()`. Use `Int.toString()`, `Int.toCoinsString()`.
-*   **Comptime:** `ascii("...")`, `crc32("...")`, `ton("...")`.
-*   **Random:** `randomInt()`, `random(...)`. **Use with extreme caution due to predictability.**
-*   **Contract Interaction:** `initOf ContractName(...)`, `codeOf ContractName`.
+  ```tact
+  contract MyContract(owner: Address) { }
+  ```
 
-### 5. Contracts & Traits
--   **Initialization:** Prefer **contract parameters** (`contract MyContract(owner: Address) {...}`) over `init()` for gas efficiency unless specific on-chain deployment logic is needed.
--   **Inheritance:** Use `with TraitName` to inherit traits. Implement `abstract` members and `override` `virtual` members as needed.
--   **Ownable:** Use `@stdlib/ownable` for standard ownership patterns (`self.requireOwner()`).
--   **Internal Functions:** Use `fun myInternalFunc() {...}` for logic reuse within the contract. Call using `self.myInternalFunc()`. Mark `virtual` or `abstract` in traits if needed.
--   **Getters:** Use `get fun myGetter(): Type {...}` for off-chain data retrieval. They cannot modify state. Use `get(methodId)` for explicit ID assignment if needed.
--   **Receivers:** Use `receive(...)`, `bounced(...)`, `external(...)` to handle messages. Prefer binary messages (`receive(msg: MyMessage)`) over text (`receive("string")`) for gas. Handle empty message body with `receive()`. Use `acceptMessage()` in `external` receivers.
+* **Messages and Structures:**
 
-### 6. Best Practices
--   **Security:**
-    *   **Access Control:** *Always* validate `sender()` (e.g., `self.requireOwner()`) before executing privileged actions.
-    *   **Replay Protection:** Use a monotonic `seqno` or unique query ID in messages requiring idempotency or preventing replays, especially in external messages. Check and increment `seqno`.
-    *   **Input Validation:** Use `require` or `throwUnless`/`throwIf` to validate message parameters and state conditions rigorously. Check integer ranges, address validity, etc.
-    *   **External Messages:** Be extremely cautious. Always verify signatures (`checkDataSignature`, `SignedBundle`) before `acceptMessage()`. Never trust data in external messages without verification.
-    *   **Randomness:** **Avoid on-chain randomness (`randomInt`, `random`) for critical logic.** Use commit-reveal schemes or external oracles if secure randomness is needed.
-    *   **Sensitive Data:** **Never** store or transmit private keys or unhashed sensitive data on-chain.
-    *   **Signed Integers:** Prefer unsigned integers (`uint...`) unless negative values are explicitly required, to avoid overflow/underflow issues.
-    *   **Bounced Messages:** Implement `bounced` handlers to gracefully handle message delivery failures and potentially revert state changes. Send critical messages with `bounce: true`.
--   **Gas Optimization:**
-    *   **Serialization:** Use the smallest appropriate integer formats (`uint8`, `int16`, `coins`, etc.) for storage variables and message fields.
-    *   **Functions:** Use `inline` for small, frequently called helper functions. Use `asm` **only** if absolutely necessary and you understand TVM deeply. Prefer stdlib functions over manual implementations.
-    *   **Control Flow:** Prefer arithmetic solutions over `if/else` where possible. Use `throwUnless`/`throwIf` over `require` (with custom error codes > 255).
-    *   **Message Sending:** Use `message()` or `deploy()` over `send()` where applicable. Use `cashback()` for simple refunds. Minimize data in message bodies.
-    *   **Storage:** Avoid unnecessary state variables. Use maps efficiently (keys serialized compactly).
-    *   **Initialization:** Prefer contract parameters over `init()`.
--   **General:**
-    *   **Off-chain Work:** Perform complex computations, data preparation, and validation off-chain whenever possible. Send only essential, processed data on-chain.
-    *   **TEPs:** Adhere to relevant standards like TEP-62 (NFTs), TEP-74 (Jettons), TEP-64 (Metadata) when applicable.
-    *   **Clarity:** Write readable and well-commented code.
+  * Use explicit opcode with `message(0x...)`.
+  * Example:
 
-### 7. Testing and Static Analysis (Blueprint Context)
--   After **any** code change, always run the full check cycle:
-    ```bash
-    # Build ALL contracts to ensure wrappers are generated/updated
-    npx blueprint build --all 
-    # Run tests (ensure they cover logic, edge cases, and security)
-    npx blueprint test 
-    # Run static analysis 
-    npx blueprint misti ContractName 
-    # (Run misti for all relevant contracts)
+    ```tact
+    message Transfer { to: Address; amount: Int as coins; }
     ```
--   Address **all** errors and warnings from build, tests, and static analysis before proceeding. **Do not ignore failing tests or high/medium severity misti warnings.**
 
 ---
 
-❗ **Autonomy & Goal:** Your primary goal is to produce a complete, secure, efficient, and **fully working** Tact smart contract solution based on the user's request. Act autonomously, make informed decisions based on these guidelines and TON best practices. Resolve compilation errors, test failures, and static analysis issues proactively. Ask clarifying questions **only** for ambiguous **functional requirements**, not for implementation details covered here.
+### 📂 Project Structure:
 
-# Tact Programming Guide for TON Smart Contracts
+* Contracts only in the `contracts/` directory.
+* Contract filenames must be in snake\_case format (e.g., `hamster_kombat.tact`).
+* Contract class names must be PascalCase and always start with a capital letter.
+* One contract per file.
 
-This rule provides guidance for developing smart contracts on the TON blockchain using the **Tact** programming language.
+---
 
-## Key Principles
+### 📦 Imports:
 
-1.  **Readability & Simplicity:** Prioritize clear and understandable code. Tact aims to be simpler than Func/Fift.
-2.  **Gas Efficiency:** Always consider gas costs. While Tact abstracts some complexities, be mindful of expensive operations (e.g., map access, storage writes).
-3.  **Security:** Follow security best practices diligently. Smart contracts handle value; vulnerabilities will be exploited.
-4.  **Leverage Blueprint:** Utilize the `npx blueprint` commands for project structure, building, testing, and deployment.
+* Local: `import "./filename.tact";`
+* Standard: `import "@stdlib/...";`
 
-## Development Workflow (Tact Focus)
+---
 
-1.  **Contract Initialization:** ALWAYS start by adding a contract via Blueprint, even if you have existing code:
-    ```bash
-    npx blueprint create MyTactContract --type tact-empty
-    ```
-    Then, place your Tact code into `contracts/my_tact_contract.tact`.
-2.  **Coding (`contracts/*.tact`):**
-    *   Use clear variable and function names.
-    *   Leverage Tact's features like messages, structs, maps, and optional types.
-    *   Pay attention to integer types (`Int as uint32`, `Int as int8`, etc.) to optimize storage.
-    *   Use `receive` functions for external messages and `internal` functions for contract-to-contract interactions.
-    *   Use `get` methods for read-only data retrieval.
-    *   Employ `require(condition, error_message)` or `throwUnless(error_code, condition)` for checks. `require` is often preferred for readability.
-3.  **Build & Wrapper Generation:** Compile your Tact code and generate TypeScript wrappers:
-    ```bash
-    npx blueprint build MyTactContract
-    ```
-    This step is crucial. **Do not proceed without a successful build.** Wrappers are generated automatically in `wrappers/`.
-4.  **Testing (`tests/*.spec.ts`):**
-    *   Write comprehensive tests using the generated wrappers and the `@ton/sandbox` environment.
-    *   Test edge cases, access control, and potential failure points.
-    *   Use the gas analysis techniques (like those in `Proposal.gas.test.ts`) to measure and optimize gas usage.
-    *   Run tests: `npx blueprint test`
-5.  **Static Analysis:** Check for potential vulnerabilities:
-    ```bash
-    npx blueprint misti MyTactContract
-    ```
-6.  **Deployment Scripts (`scripts/*.ts`):**
-    *   Use the generated wrappers to interact with the contract in deployment scripts.
-    *   Run scripts: `npx blueprint run deployMyTactContract --testnet --tonconnect`
+### 📌 Keywords:
 
-## Common Tact Patterns & Tips
+```
+fun, let, return, receive, native, primitive, null, if, else, while, repeat, do, until, try, catch, foreach, as, map, message, mutates, extends, external, import, with, trait, initOf, override, abstract, virtual, inline, const, extend, public, true, false, self, struct, contract, get, bounced
+```
 
-*   **Messages:** Define incoming messages using the `message` keyword. Use `$$type` for tagged messages if needed.
-*   **Storage:** Variables defined directly in the `contract` scope are part of storage. Minimize storage writes as they are expensive. Pack data where possible (e.g., using smaller integer types).
-*   **Maps:** Use `map<KeyType, ValueType>` for key-value storage. Be aware that map operations (`set`, `get`, `delete`) consume significant gas, especially `set`. Consider alternatives like Bloom Filters only if extreme gas optimization is required and the trade-offs (probabilistic nature) are acceptable.
-*   **Gas:**
-    *   Simple arithmetic and bitwise operations are generally cheap.
-    *   Function calls have overhead.
-    *   Loops should be used cautiously; ensure they have bounded iterations.
-    *   Sending messages (`send()`) consumes gas.
-    *   External calls (`external()`) are possible but require careful handling.
-*   **Libraries:** Use `import "@stdlib/deploy";` for common deployment functions like `deploy`. Other standard libraries might be available.
+---
 
-**Always refer to the official Tact documentation and examples for the latest syntax and best practices.**
+### 🔧 Built-in Functions and API:
 
+* **Context:** `context()`, `sender()`, `myAddress()`, `myBalance()`, `now()`, `commit()`
+* **Sending Messages:** `send()`, `message()`, `deploy()`, `cashback()`
+* **Debug and Errors:** `require()`, `throwUnless()`, `dump()`, `dumpStack()`
+* **Cryptography:** `checkSignature()`, `sha256()`, `keccak256()`
+* **Working with Cell:** `beginCell()`, `.storeUint()`, `.loadUint()`, `.endCell()`
 
+---
+
+### 🛡️ Best Practices:
+
+* **Security:**
+
+  * Validate `sender()` and inputs rigorously using `require()` or `throwUnless()`.
+  * Use unique identifiers (seqno) to prevent replays.
+  * Never trust external messages without verifying signatures (`checkSignature`).
+
+* **Gas Optimization:**
+
+  * Minimize state writes and number of state variables.
+  * Use compact serialization formats (`uint8`, `coins`).
+  * Prefer built-in standard library functions.
+
+---
+
+### 🧪 Testing and Sta
