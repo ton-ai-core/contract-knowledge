@@ -1,0 +1,8 @@
+{
+    "name": "blueprint",
+    "version": "1.0.0",
+    "bin": {
+        "blueprint": ".vscode/override.js"
+    },
+    "description": ""
+}
