@@ -23,7 +23,7 @@ npm create ton-ai@latest MyProject -- --type tact-empty --contractName MyContrac
 ```bash
 npx blueprint create MyContract --type tact-empty
 # Edit contract in contracts/MyContract.tact
-npx blueprint build MyContract --all
+npx blueprint build --all
 ```
 - Proceed only if exit code == 0.
 

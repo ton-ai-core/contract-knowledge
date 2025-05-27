@@ -1,5 +1,5 @@
 ---
-description: 
+description: Use this rule for smart contract development on TON using the Tolk programming language. Always apply it when working with Tolk contracts
 globs: *.tolk
 alwaysApply: false
 ---

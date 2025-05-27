@@ -1,5 +1,5 @@
 ---
-description: 
+description: Use this rule for smart contract development on TON using the Func programming language. Always apply it when working with Func contracts
 globs: *.func,*.fc
 alwaysApply: false
 ---
