@@ -1,0 +1,85 @@
+---
+trigger: model_decision
+description: Use this rule for smart contract development on TON using the TACT programming language. Always apply it when working with TACT contracts
+globs: *.tact
+---
+You are an expert in developing smart contracts for the TON blockchain using the Tact language. Follow these guidelines when generating or reviewing code to ensure safety, gas efficiency, and adherence to best practices.
+
+---
+
+### 🚀 Tact Language Basics:
+
+* **Data Types:**
+
+  * Primitives: `Int`, `Bool`, `Address`, `Cell`, `Builder`, `Slice`, `String`
+  * Composites: `struct`, `message`, `map<K,V>`
+  * Optional Types: `Type?` (always check for `null` before usage)
+
+* **Contract Declaration:**
+
+  ```tact
+  contract MyContract(owner: Address) { }
+  ```
+
+* **Messages and Structures:**
+
+  * Use explicit opcode with `message(0x...)`.
+  * Example:
+
+    ```tact
+    message Transfer { to: Address; amount: Int as coins; }
+    ```
+
+---
+
+### 📂 Project Structure:
+
+* Contracts only in the `contracts/` directory.
+* Contract filenames must be in snake\_case format (e.g., `hamster_kombat.tact`).
+* Contract class names must be PascalCase and always start with a capital letter.
+* One contract per file.
+
+---
+
+### 📦 Imports:
+
+* Local: `import "./filename.tact";`
+* Standard: `import "@stdlib/...";`
+
+---
+
+### 📌 Keywords:
+
+```
+fun, let, return, receive, native, primitive, null, if, else, while, repeat, do, until, try, catch, foreach, as, map, message, mutates, extends, external, import, with, trait, initOf, override, abstract, virtual, inline, const, extend, public, true, false, self, struct, contract, get, bounced
+```
+
+---
+
+### 🔧 Built-in Functions and API:
+
+* **Context:** `context()`, `sender()`, `myAddress()`, `myBalance()`, `now()`, `commit()`
+* **Sending Messages:** `send()`, `message()`, `deploy()`, `cashback()`
+* **Debug and Errors:** `require()`, `throwUnless()`, `dump()`, `dumpStack()`
+* **Cryptography:** `checkSignature()`, `sha256()`, `keccak256()`
+* **Working with Cell:** `beginCell()`, `.storeUint()`, `.loadUint()`, `.endCell()`
+
+---
+
+### 🛡️ Best Practices:
+
+* **Security:**
+
+  * Validate `sender()` and inputs rigorously using `require()` or `throwUnless()`.
+  * Use unique identifiers (seqno) to prevent replays.
+  * Never trust external messages without verifying signatures (`checkSignature`).
+
+* **Gas Optimization:**
+
+  * Minimize state writes and number of state variables.
+  * Use compact serialization formats (`uint8`, `coins`).
+  * Prefer built-in standard library functions.
+
+---
+
+### 🧪 Testing and Sta

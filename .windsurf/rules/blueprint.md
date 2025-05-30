@@ -1,7 +1,7 @@
 ---
+trigger: always_on
 description: 
 globs: 
-alwaysApply: true
 ---
 You are working with the extended CLI framework **@ton-ai-core/blueprint**.  
 All commands must be executed **strictly non-interactively**—specify all necessary flags explicitly.

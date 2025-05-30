@@ -1,2 +1,4 @@
 **/package.json
 .vscode/
+.windsurf/   
+.windsurfrules
