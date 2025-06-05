@@ -3,83 +3,63 @@ description: Use this rule for smart contract development on TON using the TACT 
 globs: *.tact
 alwaysApply: false
 ---
-You are an expert in developing smart contracts for the TON blockchain using the Tact language. Follow these guidelines when generating or reviewing code to ensure safety, gas efficiency, and adherence to best practices.
+## 🚀 Core Tact Guidelines
 
----
+### 1. Contract Declaration
+```tact
+contract MyContract(owner: Address) { … }
+````
 
-### 🚀 Tact Language Basics:
+* **Header parameters** auto-generate `init`—do not write a separate `init` with the same fields.
+* Filenames in snake\_case (e.g., `my_contract.tact`); contract names in PascalCase.
 
-* **Data Types:**
+### 2. Imports
 
-  * Primitives: `Int`, `Bool`, `Address`, `Cell`, `Builder`, `Slice`, `String`
-  * Composites: `struct`, `message`, `map<K,V>`
-  * Optional Types: `Type?` (always check for `null` before usage)
-
-* **Contract Declaration:**
-
-  ```tact
-  contract MyContract(owner: Address) { }
-  ```
-
-* **Messages and Structures:**
-
-  * Use explicit opcode with `message(0x...)`.
-  * Example:
-
-    ```tact
-    message Transfer { to: Address; amount: Int as coins; }
-    ```
-
----
-
-### 📂 Project Structure:
-
-* Contracts only in the `contracts/` directory.
-* Contract filenames must be in snake\_case format (e.g., `hamster_kombat.tact`).
-* Contract class names must be PascalCase and always start with a capital letter.
-* One contract per file.
-
----
-
-### 📦 Imports:
-
-* Local: `import "./filename.tact";`
-* Standard: `import "@stdlib/...";`
-
----
-
-### 📌 Keywords:
-
-```
-fun, let, return, receive, native, primitive, null, if, else, while, repeat, do, until, try, catch, foreach, as, map, message, mutates, extends, external, import, with, trait, initOf, override, abstract, virtual, inline, const, extend, public, true, false, self, struct, contract, get, bounced
+```tact
+import "./other_contract.tact";
+import "@stdlib/stdlib.tact";
 ```
 
+* Use relative paths for local contracts.
+* Use `@stdlib` for standard libraries.
+
+### 3. Messages & Structs
+
+```tact
+message(0x01) Transfer { to: Address; amount: Int as coins; }
+struct User { id: Address; balance: Int; }
+```
+
+* Always specify explicit opcode (`message(0x…)`) to avoid collisions.
+* Use `as coins` for currency fields.
+
+### 4. Built-in Functions
+
+* **Context & System**
+  `context()`, `sender()`, `myAddress()`, `myBalance()`, `now()`, `commit()`
+* **Messaging**
+  `send()`, `message()`, `deploy()`, `cashback()`
+* **Errors & Debug**
+  `require(cond)`, `throwUnless(cond)`, `dump()`, `dumpStack()`
+* **Crypto & Hash**
+  `checkSignature(pubkey, sig)`, `sha256(data)`, `keccak256(data)`
+* **Cell Ops**
+  `beginCell()`, `.storeUint()`, `.loadUint()`, `.endCell()`
+
+### 5. Security Patterns
+
+* Validate `sender()` and all input via `require()` or `throwUnless()`.
+* Use a unique `seqno` for each critical action to prevent replay.
+* Always verify any external signature before processing.
+
+### 6. Gas Efficiency
+
+* Minimize state writes and variables—store only essential fields.
+* Use compact types (`uint8`, `coins`) for counters and amounts.
+* Favor standard library functions over custom cell manipulation.
+
 ---
 
-### 🔧 Built-in Functions and API:
+## ⛔️ Error Handling & Rollback
 
-* **Context:** `context()`, `sender()`, `myAddress()`, `myBalance()`, `now()`, `commit()`
-* **Sending Messages:** `send()`, `message()`, `deploy()`, `cashback()`
-* **Debug and Errors:** `require()`, `throwUnless()`, `dump()`, `dumpStack()`
-* **Cryptography:** `checkSignature()`, `sha256()`, `keccak256()`
-* **Working with Cell:** `beginCell()`, `.storeUint()`, `.loadUint()`, `.endCell()`
-
----
-
-### 🛡️ Best Practices:
-
-* **Security:**
-
-  * Validate `sender()` and inputs rigorously using `require()` or `throwUnless()`.
-  * Use unique identifiers (seqno) to prevent replays.
-  * Never trust external messages without verifying signatures (`checkSignature`).
-
-* **Gas Optimization:**
-
-  * Minimize state writes and number of state variables.
-  * Use compact serialization formats (`uint8`, `coins`).
-  * Prefer built-in standard library functions.
-
----
-
-### 🧪 Testing and Sta
+* On any Tact compile or runtime error, immediately fix the same file (do not duplicate or create new files), rebuild, and retest until no errors remain.
