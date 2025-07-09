@@ -634,6 +634,88 @@ Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript e
 
 
 
+## Topic: 41550
+
+[TON Research](/)
+
+# [Notbitcoin – One Year of Building a Free Payment Solution on Telegram Mini App for the Community](/t/notbitcoin-one-year-of-building-a-free-payment-solution-on-telegram-mini-app-for-the-community/41550)
+
+[Application](/c/application/20) 
+
+    
+
+[notbitco\_in](https://tonresear.ch/u/notbitco_in)   May 27, 2025, 4:16pm  1
+
+[![image](https://tonresear.ch/uploads/default/optimized/3X/9/d/9d5a32612ab039e82ad808d7f185a8cdd2fb0513_2_690x388.jpeg)
+
+image1600×900 56.1 KB
+
+](https://tonresear.ch/uploads/default/original/3X/9/d/9d5a32612ab039e82ad808d7f185a8cdd2fb0513.jpeg "image")
+
+# [](#p-68654-notbitcoin-one-year-of-building-a-free-payment-solution-on-telegram-mini-app-for-the-community-1)Notbitcoin – One Year of Building a Free Payment Solution on Telegram Mini App for the Community
+
+Today, May 27, 2025, we at **Notbitcoin** proudly celebrate our first anniversary on the TON Blockchain. With a vision to build a simple and efficient peer-to-peer (P2P) payment ecosystem, as outlined in our whitepaper (notbitco.in/notbitcoin\_whitepaper\_v2.pdf), we have achieved significant milestones in our inaugural year. Through our **NBITPAY** application, detailed in our case study (notbitco.in/learn/casestudy), we have created a payment solution that serves the community, encourages idea contributions, and maintains transparency. Below are our key achievements in this journey.
+
+## [](#p-68654-h-1-a-community-of-over-200000-users-on-telegram-mini-app-2)1\. A Community of Over 200,000 Users on Telegram Mini App
+
+We have built a robust community with **over 200,000 miners** participating in the mining of our **$NBIT** token on the TON Blockchain. Our simple and accessible mining mechanism, integrated into the Telegram Mini App, enables everyone—from crypto enthusiasts to everyday users—to join the Notbitcoin ecosystem effortlessly. This milestone reflects our commitment to creating an open platform where the community is at the core and grows together.
+
+## [](#p-68654-h-2-nbitpay-a-fee-free-high-speed-payment-application-3)2\. NBITPAY: A Fee-Free, High-Speed Payment Application
+
+Our **NBITPAY** application, showcased in our case study (notbitco.in/learn/casestudy), exemplifies our efforts to simplify decentralized payments. With just a Telegram account and our **@nbitpaybot**, users can make transactions without creating a wallet, verifying bank accounts, or remembering complex passwords. To date, NBITPAY has processed **39,000 fee-free transactions**, each completed in just **0.01 seconds**, delivering a fast and cost-free payment experience. Many users have adopted NBITPAY QR codes in their stores to facilitate payments for goods and services, helping us build a growing payment community. We welcome ideas from the community to enhance NBITPAY, ensuring it meets real-world needs.
+
+## [](#p-68654-h-3-developing-real-world-applications-for-nbit-through-partnerships-4)3\. Developing Real-World Applications for $NBIT Through Partnerships
+
+We have developed **$NBIT** as a practical payment method, not only within the Notbitcoin ecosystem but also through partner projects. A prime example is **ClickHub**, a Telegram Mini App for affiliate marketing, where users can post affiliate links and offer $NBIT rewards for each click. This integration positions $NBIT as a tool for decentralized e-commerce and digital marketing, creating value for the community. We encourage our community to propose new use cases for $NBIT, from digital service payments to everyday transactions, to expand the token’s utility and deliver benefits to users.
+
+## [](#p-68654-h-4-transparency-and-building-with-the-community-5)4\. Transparency and Building with the Community
+
+At Notbitcoin, we place the community at the heart of every decision. Despite challenges such as delays in rolling out new features or updates, we remain transparent with our users about our progress and plans. We actively invite the community to contribute ideas, feedback, and suggestions to shape Notbitcoin’s future. Our vision, as outlined in our whitepaper, is to build a sustainable decentralized payment ecosystem where everyone can participate, contribute, use, and benefit. This transparency and collaborative spirit form the foundation of every product we develop, from NBITPAY to future features.
+
+## [](#p-68654-conclusion-6)Conclusion
+
+In our first year, we at **Notbitcoin** have achieved remarkable results: attracting **over 200,000 miners**, processing **39,000 fee-free transactions** on **NBITPAY** with a speed of **0.01 seconds**, and integrating **$NBIT** into practical applications like ClickHub. With a focus on building products for the community, we welcome ideas and feedback to improve our ecosystem while maintaining transparency at every step. Supported by the Telegram Mini App and TON Blockchain, along with the vision outlined in our whitepaper, we will continue to grow alongside our community, striving for a future of efficient and accessible decentralized payments worldwide.
+
+While we have made significant strides, we recognize that becoming a globally adopted decentralized payment network is a long and challenging journey. With limited financial resources due to our decision not to raise external funding, we still have many areas to improve and refine over time. We sincerely hope for the community’s continued support, understanding, and contributions as we work to overcome these limitations and build a stronger, more sustainable Notbitcoin ecosystem.
+
+  1 Like
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
+## Topic: 41576
+
+[TON Research](/)
+
+# [$Telegrok The new Leading Meme on Ton](/t/telegrok-the-new-leading-meme-on-ton/41576)
+
+[General](/c/general/4) 
+
+    
+
+[Seal](https://tonresear.ch/u/Seal)  May 29, 2025, 8:05pm  1
+
+TeleGrok is the new Meme on chain symbolizing the partnership between X (Elon) and Telegram (Pavel) it has unique mechanics like 3% tax on buys and sells wich is equally airdropped to holders. As Ton season starts the New Ceo is Intrested in Memes and showing commitment. He’s interacting with community and showing attention to requests.
+
+Ca:
+
+EQCuL6Wsat0pVnKKTUYrCUZ2-AqAvpQAMYeF-OC\_oCN6A5IX
+
+ 
+
+*   [Home](/)
+*   [Categories](/categories)
+*   [Guidelines](/guidelines)
+
+Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript enabled
+
+
+
 ## Topic: 416
 
 [TON Research](/)
@@ -22744,118 +22826,4 @@ Powered by [Discourse](https://www.discourse.org), best viewed with JavaScript e
 [IvanKriptov](https://tonresear.ch/u/IvanKriptov)  February 21, 2024, 8:56pm  1
 
 # [](#adnl-intro-1)ADNL Intro
-
-При создании Web3/блокчейн приложений возникает задача получения данных из блокчейна, например посмотреть последние транзакции аккаунта или дернуть в Гет метод контракта.
-
-Для этой задачи можно пользоваться сервисами посредниками, которые либо индексируют блокчейн и отдают вам агрегированную информацию, либо представляют собой прокси сервис прокидывающий ваши запросы через себя. Но использование посредника может нести риски, ошибки или намеренное искажение фактов, может привести к фроду.
-
-В TON есть сетевые протоколы, через которые можно получать информацию грубо говоря без посредника. Одним из таких протоколов является ADNL. В данном туториале, мы подключимся к Лайтсерверам и получим информацию об аккаунте через ANDL.
-
-ADNL — это оверлейный, одноранговый, ненадежный (небольшой) протокол дейтаграмм, работающий поверх UDP в IPv4 (в будущем — IPv6), с необязательным запасным вариантом TCP, если UDP недоступен.
-
-С помощью ANDL вы можете получать данные из блокчейна TON без посредников
-
-## [](#h-2)Вступление
-
-У каждого участника есть 256-битный адрес ADNL. Протокол ADNL позволяет отправлять (ненадежно) и получать дейтаграммы, используя только адреса ADNL. IP-адреса и порты скрыты протоколом ADNL.
-
-Для установления соединения используется механизм рукопожатия. Клиент подключается к серверу с помощью TCP и отправляет пакет подтверждения ADNL, который содержит абстрактный адрес сервера, открытый ключ клиента и зашифрованные параметры сеанса AES-CTR, которые определяются клиентом.
-
-Для подключения к Lightclients нам нужен их список:
-
-*   Основная сеть: [https://ton.org/global.config.json](https://ton.org/global.config.json)
-*   Тестовая сеть: [https://ton.org/testnet-global.config.json](https://ton.org/testnet-global.config.json)
-
-\[Подробнее\] ([Low-Level ADNL | The Open Network](https://docs.ton.org/learn/networking/low-level-adnl)) о протоколе.
-
-### [](#h-3)Устанавливаем библиотеки
-
-Для запросов в TON нам понадобиться `typescript` и модулями для работы с TON.  
-Для работы с Typescript нам понадобятся:
-
-*   Node.js — среда, в которой вы будете запускать компилятор TypeScript.
-*   Компилятор TypeScript — модуль Node.js, который компилирует TypeScript в JavaScript.
-
-> Глубоко погружаться в Node.js мы не будем, инструкции по его установке есть [здесь](https://nodejs.org/en/download/):
-
-Для удобства работы с модулями создадим файл `package.json` c помощью пакетного менеджера `npm`:
-
-1.  В консоли перейдите в папку вашего проекта (где будем писать скрипты)
-    
-2.  Введите в консоли
-    
-    npm init
-    
-3.  Ответьте на вопросы в консоли и убедитесь, что файл `package.json` создан
-    
-
-Теперь установим `typescript`. В командной строке вводим следующую команду:
-
-```
-npm install typescript
-```
-
-После установки вы можете ввести следующую команду, чтобы проверить текущую версию компилятора TypeScript:
-
-```
-tsc --v
-```
-
-Также установим пакет ts-node для выполнения TypeScript в консоли и REPL для node.js.
-
-```
-npm install  ts-node
-```
-
-Установим модуль для работы c TON:
-
-```
-npm install ton ton-core ton-crypto
-```
-
-И конечно же
-
-```
-npm install ton-lite-client
-```
-
-## [](#h-4)Подключаемся
-
-`ton-lite-client` мы будем использовать для подключения по ADNL к лайт серверам. Создадим файл `example.ts`, сделаем импорт библиотек и зададим функцию `main`:
-
-```
-import { LiteClient, LiteRoundRobinEngine, LiteSingleEngine, LiteEngine } from "ton-lite-client";
-import { Address} from "ton-core";
-
-async function main() {
-
-}
-
-main()
-```
-
-Библиотека использует механизм [Round-robin](https://en.wikipedia.org/wiki/Round-robin_scheduling) для распределния задач/запросов между лайтсерверами. Соответственно мы можем закинуть несколько лайтсеров к которым будем подключатся, но для простоты примера возьмем один и добавим его в массив `engines`.
-
-Зайдем в [https://ton.org/global.config.json](https://ton.org/global.config.json) и возьмем данные по лайтсерверу.
-
-```
-import { LiteClient, LiteRoundRobinEngine, LiteSingleEngine, LiteEngine } from "ton-lite-client";
-import { Address} from "ton-core";
-
-let server = {
-	"ip": -2018145068,
-	"port": 13206,
-	"id": {
-		"@type": "pub.ed25519",
-		"key": "K0t3+IWLOXHYMvMcrGZDPs+pn58a17LFbnXoQkKc2xw="
-	}
-}
-
-async function main() {
-	const engines: LiteEngine[] = [];
-
-}
-
-main()
-```
 

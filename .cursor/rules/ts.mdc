@@ -3,7 +3,7 @@ description: Use this rule for smart contract testing, scripting, and interactio
 globs: *.ts
 alwaysApply: false
 ---
-# 🚀 TypeScript — Blueprint — Sandbox (o3 Strict Protocol)
+# 🚀 TypeScript — Blueprint — Sandbox (AGI Strict Protocol)
 
 ## 🎯 Core Principles (Mandatory)
 
@@ -136,4 +136,4 @@ No temporary suppressions; solve permanently.
 
 ---
 
-**This document is mandatory under o3 strict protocol. No deviations permitted.**
+**This document is mandatory under AGI strict protocol. No deviations permitted.**
