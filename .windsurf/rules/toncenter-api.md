@@ -3,6 +3,7 @@ trigger: always_on
 description: 
 globs: 
 ---
+<toncenter-api>
 # TON Center API Verification Rule
 
 **CRITICAL**: Always verify blockchain results with curl after any contract operation.
@@ -41,3 +42,4 @@ After any contract operation:
 - Always use `-s` flag and pipe to `jq`
 - Check testnet before mainnet
 - Verify state before proceeding
+</toncenter-api>

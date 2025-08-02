@@ -11,7 +11,7 @@ contract MyContract(owner: Address) { … }
 ````
 
 * **Header parameters** auto-generate `init`—do not write a separate `init` with the same fields.
-* Filenames in snake\_case (e.g., `my_contract.tact`); contract names in PascalCase.
+* Filenames in snake_case (e.g., `my_contract.tact`); contract names in PascalCase.
 
 ### 2. Imports
 
@@ -35,6 +35,15 @@ struct User { id: Address; balance: Int; }
 
 ### 4. Built-in Functions
 
+Key reserved keywords in Tact:
+```plaintext
+fun, let, return, receive, native, primitive, null, 
+if, else, while, repeat, do, until, try, catch, 
+foreach, as, map, message, mutates, extends, external, import,
+with, trait, initOf, override, abstract, virtual, 
+inline, const, extend, public, true, false, null
+```
+
 * **Context & System**
   `context()`, `sender()`, `myAddress()`, `myBalance()`, `now()`, `commit()`
 * **Messaging**
@@ -45,6 +54,7 @@ struct User { id: Address; balance: Int; }
   `checkSignature(pubkey, sig)`, `sha256(data)`, `keccak256(data)`
 * **Cell Ops**
   `beginCell()`, `.storeUint()`, `.loadUint()`, `.endCell()`
+
 
 ### 5. Security Patterns
 

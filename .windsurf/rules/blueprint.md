@@ -3,6 +3,7 @@ trigger: always_on
 description: 
 globs: 
 ---
+<blueprint>
 You are working with the extended CLI framework **@ton-ai-core/blueprint**.  
 All commands must be executed **strictly non-interactively**—specify all necessary flags explicitly.
 
@@ -73,3 +74,4 @@ npx blueprint misti ContractName
 * In `run` — at minimum, the network (`--testnet`/`--mainnet`) and deployer method (`--tonconnect`/`--deeplink`/`--mnemonic`),
 * For tests/build — all required arguments.
   Interactive prompts must be disabled.
+</blueprint>

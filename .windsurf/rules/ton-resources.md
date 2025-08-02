@@ -3,6 +3,7 @@ trigger: always_on
 description: 
 globs: 
 ---
+<ton-resources>
 # TON Resources
 
 This document lists key official and community resources for TON development. Use these links to find additional information, examples, and documentation.
@@ -35,3 +36,4 @@ These repositories are maintained by active community members and organizations,
 *   [@tonkeeper](mdc:https:/github.com/tonkeeper) - Tonkeeper Wallet
 *   [@xssnick](mdc:https:/github.com/xssnick)
 *   [@ton-ai-core](mdc:https:/github.com/ton-ai-core) - AI-related TON tools
+</ton-resources>

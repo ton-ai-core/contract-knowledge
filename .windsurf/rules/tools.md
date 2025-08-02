@@ -3,6 +3,7 @@ trigger: always_on
 description: 
 globs: 
 ---
+<tools>
 # 🚀 Allowed Tools & Usage Policy
 
 | Tool                 | Purpose                                             | Key Usage Rules |
@@ -19,3 +20,5 @@ globs:
 3. After cloning, rename scriptable files to their `*.txt` equivalents so build tools ignore them.
 4. Recommended search flow:  
    `search_codebase` → refine with `grepped_codebase` → fall back to `search_web` if needed.
+
+</tools>

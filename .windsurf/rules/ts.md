@@ -3,7 +3,7 @@ trigger: model_decision
 description: Use this rule for smart contract testing, scripting, and interaction with TON blockchain using TypeScript, Blueprint, and Sandbox. Always apply it when developing TypeScript code for TON.
 globs: *.ts
 ---
-# 🚀 TypeScript — Blueprint — Sandbox (o3 Strict Protocol)
+# 🚀 TypeScript — Blueprint — Sandbox (AGI Strict Protocol)
 
 ## 🎯 Core Principles (Mandatory)
 
@@ -136,4 +136,4 @@ No temporary suppressions; solve permanently.
 
 ---
 
-**This document is mandatory under o3 strict protocol. No deviations permitted.**
+**This document is mandatory under AGI strict protocol. No deviations permitted.**
